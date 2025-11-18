@@ -1,0 +1,79 @@
+The Pomodoro Technique V 
+ 
+ 
+© Francesco Cirillo 19/10/2006 Preface 
+The basic idea for the Pomodoro Technique came to me in the late ‘80s, during my first years at 
+university. 
+Once the elation from completing my first-y ear exams had subsided , I found myself in 
+a slump, a time of low productivity and high confusion. Every day I went to school, attended 
+classes, studied and went back home with the disheartened feeling that I didn’t really know 
+what I’d been doing, that I’d been wasting my time. The exam dates came up so fast, and it 
+seemed like I had no way to defend myself against time.  
+One day in the classroom on campus where I used to study, I watched my classmates 
+with a critical eye, and then looked even more critically at myself: how I got myself organized, 
+how I interacted with others, how I studied. It was clear to me that the high number of 
+distractions and interruptions and the low level of concentration and motivation were at the root 
+of the confusion I was feeling. 
+So I made a bet with myself, as helpful as it was humiliating: “Can you study – really 
+study - for 10 minutes?” I needed objective validation, a Time Tutor, and I found one in a 
+kitchen timer shaped like a pomodoro (the Italian for tomato) – in other words, I found my 
+“Pomodoro”. 
+I didn’t win the bet straight off. In fact, it took time and a great deal of effort, but in the 
+end I succeeded. 
+In that first small step, I found something intriguing in the Pomodoro mechanism. With 
+this new tool, I devoted myself to improving my study process and later my work process. I 
+tried to understand and solve more and more complex problems, to the point of considering the 
+dynamics of team work. Gradually I put together the Pomodoro Technique, which I describe in 
+this document.   
+After years of teaching the Pomodoro Technique in classes open to the public and in 
+team mentoring, general interest has grown. More and more people are asking what it is and 
+how to apply it, so there’s a need for me to explain the Technique as I conceived it. My hope is 
+that it can help others reach th eir goals for personal improvement , and that I can further develop 
+my original idea.  
+ 
+ 
+Acknowledgements 
+First and foremost, I want to thank my friend and mentor, Giovanni Caputo, for having 
+accompanied  me yet again in this adventure. 
+Thanks also go to everyone who applied the Pomodoro Technique, either individually 
+or as a group, helping disseminate the concept and encouraging me to write this paper: 
+Piergiuliano Bossi, Claudia Sandu, Meihua Su, Federico De Felici, Alessandra del Vecchio and 
+Jill Connelly, to name a few. 
+Thanks to all those who learned the Pomodoro Technique through my workshops; their 
+feedback enabled me to observe it and improve it.  In particular: Andrea Narduzzi, Bruno 
+Bossola, Giannandrea Castaldi, Roberto Crivelli, Ernesto Di Blasio, Alberto Quario, Loris 
+Ugolini, Silvano Trea, Alberico Gualfetti, Marco Dani, Luigi Mengoni, Leonardo Marinangeli, 
+Nicola Canalini. 
+Lastly, thanks to the second generation of Pomodoro users, those who learned it 
+indirectly through my notes or by working in teams where the Technique has been consolidated. 
+I’ve written this paper especially for them:  Ma tteo Vaccari (and the people at ESSAP), Simone 
+Genini, Carlo Bottiglieri, Gabriele Lana (and the people at Milano XPUG), Alejandro 
+Barrionuevo, and Stefano Castelvetri (among others). 
+The Pomodoro Technique VI 
+ 
+ 
+© Francesco Cirillo 19/10/2006  
+ 
+The Pomodoro Technique 1 
+ 
+ 
+© Francesco Cirillo 19/10/2006 Introduction 
+For many people, time is an enemy. The anxiety triggered by “the ticking clock”, in particular 
+when a deadline is involved, leads to ineffective work and study behaviour which in turn elicits 
+the tendency to procrastinate. The Pomodoro Technique was created with the aim of using time 
+as a valuable ally to accomplish what we want to do the way we want to do it, and to empower 
+us to continually improve our work or study processes. This paper presents the Pomodoro 
+Technique as defined in 1992 by the author, and as taught to individuals since 1998 and to 
+teams since 1999. 
+The Context section delineates the problem linked to time, the goals of the Pomodoro 
+Technique and its basic assumptions. Material and Method describes the Pomodoro Technique, 
+and shows how to apply it by r eaching incremental objectives. Th e Results section provides a 
+series of observations based on the experience of people who have tried the Technique. The 
+Conclusions section identifies a number of fact ors that explain how the Technique achieves its 
+goals. This document presents a general versio n of the Pomodoro Technique. The text entitled 
+Applying the Pomodoro Technique in Teams  details how the Technique can be used in work 
+groups. 
+The Pomodoro Technique 2 
+ 
+ 
+© Francesco Cirillo 19/10/2006

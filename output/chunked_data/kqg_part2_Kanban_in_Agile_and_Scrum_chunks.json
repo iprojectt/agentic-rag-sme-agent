@@ -1,0 +1,627 @@
+[
+  {
+    "chunk_id": "f5160fb178b9_L0_0000",
+    "text": "4/23/2019 Kanban Quick Guide\nhttps://www .tutorialspoint.com/cgi-bin/printpage.cgi 5/17Focus on the tasks is ensured with a limit on work-in-progress .\nThe Pull approach enables resources to complete the tasks at hand before a new task is taken up.\nOptimizing lead-time  results in faster delivery.\nVisualization of the workflow with Kanban board draws immediate attention to any bottlenecks that\ncan be resolved immediately.\nEmpowerment of the team makes the team accountable for the success.\nKANBAN - PROJECT MANAGEMENTKANBAN - PROJECT MANAGEMENT\nKanban is adapted to software development as a project management approach. Kanban in software\ndevelopment supports a continuous workflow, termed as Value Stream.\nValue Stream\nThe Value Stream consists of all actions required to bring a project from creation to completion.\nThe actions can −\nAdd Value to the project\nAdd no Value, but unavoidable\nAdd no Value, avoidable \nElimination of Waste\nAnything that does not add any value to the project is known as Waste. Kanban facilitates elimination of\nwaste.\nIn software development, there are three types of waste −\nWaste in code development\nWaste in project management\nWaste in team potential\nWaste in Code Development\nWaste in code development is due to the following reasons −\nPartially completed work  − The partially completed work can become outdated and unusable. It\ncan be eliminated with iterative cycles and with modular code that completes within the iteration.\nDefects  − In developing a code, correction and retesting requires time and resources. It can be\neliminated with up-to-date test suite, completing testing within the iteration and continuous\ncustomer feedback.\nWaste in Project Management\nWaste in project management is due to the following reasons −\nExtra Processes  − Unnecessary documentation that requires time and resources. It can be\neliminated with −\nPre-planning of what processes are relevant and necessary.\nDocumentation review, that ensures relevant and necessary processes are followed.\nCode Handoffs  − means passing the work from one person or team to another, after the first\nperson’s work is complete. It may give rise to lack of knowledge. It can be eliminated by keeping the\nflowcharts and wireframes visible and clear.WIP\ncycletime\ntermedaswaste\n4/23/2019 Kanban Quick Guide\nhttps://www .tutorialspoint.com/cgi-bin/printpage.cgi 6/17Extra Functions  − These are features that are not required by the customer. Effort and time are\nwasted in developing the functions required to implement the features that the customer does not\nwant. It can be eliminated with continuous interaction with customer and testers involving in the\nrequirements gathering as they can better visualize the scenarios and expected behavior of the\nsystem.\nWaste in Team Potential\nWaste in team potential is due to the following reasons −\nTask Switching  − It leads to the danger of multi-tasking, which is a waste. It can be eliminated\nwith focus on a task with every release. Large process steps are segmented into tasks to −\nImprove visibility\nReduce dependencies\nEnable easy flow of work\nFocus on the cycle-time of delivered work\nGive a way to detect and resolve bottlenecks\nWaiting  − Time for getting instructions or information – Team is subjected to sit idle if the\ndecisions are not made by the team, or if the information provided to the team \n are expensive resources. It can be eliminated by allowing the team\nmembers  to −\nTake decisions so that they do not have to wait for instructions\nHave access to information so that it can be used as and when required\nKANBAN - AGILEKANBAN - AGILE\nAgile Kanban is Agile Software Development with Kanban approach. In Agile Kanban, the Kanban board is\nused to visualize the workflow. The Kanban board is normally put up on a wall in the project room. The\nstatus and progress of the story development tasks is tracked visually on the Kanban board with flowing\nKanban cards.\nKanban Board\nKanban board is used to depict the flow of tasks across the value stream. The Kanban board −\nProvides easy access to everyone involved in the project.\nFacilitates communication as and when necessary.\nProgress of the tasks are visually displayed.\nBottlenecks are visible as soon as they occur.\nAdvantages of Kanban board\nThe major advantages of using a Kanban board are −\nEmpowerment of Team  − This means −\nTeam is allowed to take decisions as and when required.\nTeam collaboratively resolves the bottlenecks.\nTeam has access to the relevant information.\nTeam continually communicates with customer.\nContinuous Delivery  − This means −developers,testers,etc.\ndevelopers,testers,etc.\n4/23/2019 Kanban Quick Guide\nhttps://www .tutorialspoint.com/cgi-bin/printpage",
+    "level": 0,
+    "parent_id": null,
+    "metadata": {
+      "author": "Unknown",
+      "source": "Unknown",
+      "subject": "Uncategorized",
+      "context": "General",
+      "source_document": "kqg_part2_Kanban_in_Agile_and_Scrum.txt",
+      "document_id": "f5160fb178b9",
+      "created_at": "2025-10-26T02:54:48.657814",
+      "level": 0
+    }
+  },
+  {
+    "chunk_id": "f5160fb178b9_L0_0000_L1_0000",
+    "text": "4/23/2019 Kanban Quick Guide\nhttps://www .tutorialspoint.com/cgi-bin/printpage.cgi 5/17Focus on the tasks is ensured with a limit on work-in-progress .\nThe Pull approach enables resources to complete the tasks at hand before a new task is taken up.\nOptimizing lead-time  results in faster delivery.\nVisualization of the workflow with Kanban board draws immediate attention to any bottlenecks that\ncan be resolved immediately.\nEmpowerment of the team makes the team accountable for the success.\nKANBAN - PROJECT MANAGEMENTKANBAN - PROJECT MANAGEMENT\nKanban is adapted to software development as a project management approach. Kanban in software\ndevelopment supports a continuous workflow, termed as Value Stream.\nValue Stream\nThe Value Stream consists of all actions required to bring a project from creation to completion.\nThe actions can −\nAdd Value to the project\nAdd no Value, but unavoidable\nAdd no Value, avoidable \nElimination of Waste\nAnything that does not add any value to the project is known as Waste. Kanban facilitates elimination of\nwaste.\nIn software development, there are three types of waste −\nWaste in code development\nWaste in project management\nWaste in team potential\nWaste in Code Development\nWaste in code development is due to the following reasons −\nPartially completed work  − The partially completed work can become outdated and unusable. It\ncan be eliminated with iterative cycles and with modular code that completes within the iteration.\nDefects  − In developing a code, correction and retesting requires time and resources. It can be\neliminated with up-to-date test suite, completing testing within the iteration and continuous\ncustomer feedback.\nWaste in Project Management\nWaste in project management is due to the following reasons −\nExtra Processes  − Unnecessary documentation that requires time and resources. It can be\neliminated with −\nPre-planning of what processes are relevant and necessary.\nDocumentation review, that ensures relevant and necessary processes are followed.\nCode Handoffs  − means passing the work from one person or team to another, after the first\nperson’s work is complete. It may give rise to lack of knowledge. It can be eliminated by keeping the\nflowcharts and wireframes visible and clear.WIP\ncycletime\ntermedaswaste\n4/23/2019 Kanban Quick Guide\nhttps://www .tutorialspoint.com/cgi-bin/printpage.cgi 6/",
+    "level": 1,
+    "parent_id": "f5160fb178b9_L0_0000",
+    "metadata": {
+      "author": "Unknown",
+      "source": "Unknown",
+      "subject": "Uncategorized",
+      "context": "General",
+      "source_document": "kqg_part2_Kanban_in_Agile_and_Scrum.txt",
+      "document_id": "f5160fb178b9",
+      "created_at": "2025-10-26T02:54:48.657814",
+      "level": 1,
+      "parent_chunk_id": "f5160fb178b9_L0_0000"
+    }
+  },
+  {
+    "chunk_id": "f5160fb178b9_L0_0000_L1_0000_L2_0000",
+    "text": "4/23/2019 Kanban Quick Guide\nhttps://www .tutorialspoint.com/cgi-bin/printpage.cgi 5/17Focus on the tasks is ensured with a limit on work-in-progress .\nThe Pull approach enables resources to complete the tasks at hand before a new task is taken up.\nOptimizing lead-time  results in faster delivery.\nVisualization of the workflow with Kanban board draws immediate attention to any bottlenecks that\ncan be resolved immediately.\nEmpowerment of the team makes the team accountable for the success.\nKANBAN - PROJECT MANAGEMENTKANBAN - PROJECT MANAGEMENT\nKanban is adapted to software development as a project management approach. Kanban in software\ndevelopment supports a continuous workflow, termed as Value Stream.\nValue Stream\nThe Value Stream consists of all actions required to bring a project from creation to completion.\nThe actions can −\nAdd Value to the project\nAdd no Value, but unavoidable\nAdd no Value, avoidable \nElimination of Waste\nAnything that does not add any value to the project is known as Waste. Kanban facilitates elimination of\nwaste.\nIn software development, there are three types of waste −\nWaste in code development\nWaste in project management\nWaste in team",
+    "level": 2,
+    "parent_id": "f5160fb178b9_L0_0000_L1_0000",
+    "metadata": {
+      "author": "Unknown",
+      "source": "Unknown",
+      "subject": "Uncategorized",
+      "context": "General",
+      "source_document": "kqg_part2_Kanban_in_Agile_and_Scrum.txt",
+      "document_id": "f5160fb178b9",
+      "created_at": "2025-10-26T02:54:48.657814",
+      "level": 2,
+      "parent_chunk_id": "f5160fb178b9_L0_0000_L1_0000"
+    }
+  },
+  {
+    "chunk_id": "f5160fb178b9_L0_0000_L1_0000_L2_0001",
+    "text": " does not add any value to the project is known as Waste. Kanban facilitates elimination of\nwaste.\nIn software development, there are three types of waste −\nWaste in code development\nWaste in project management\nWaste in team potential\nWaste in Code Development\nWaste in code development is due to the following reasons −\nPartially completed work  − The partially completed work can become outdated and unusable. It\ncan be eliminated with iterative cycles and with modular code that completes within the iteration.\nDefects  − In developing a code, correction and retesting requires time and resources. It can be\neliminated with up-to-date test suite, completing testing within the iteration and continuous\ncustomer feedback.\nWaste in Project Management\nWaste in project management is due to the following reasons −\nExtra Processes  − Unnecessary documentation that requires time and resources. It can be\neliminated with −\nPre-planning of what processes are relevant and necessary.\nDocumentation review, that ensures relevant and necessary processes are followed.\nCode Handoffs  − means passing the work from one person or team to another, after the first\nperson’s work is complete. It may give rise to lack of knowledge. It can be eliminated by keeping the",
+    "level": 2,
+    "parent_id": "f5160fb178b9_L0_0000_L1_0000",
+    "metadata": {
+      "author": "Unknown",
+      "source": "Unknown",
+      "subject": "Uncategorized",
+      "context": "General",
+      "source_document": "kqg_part2_Kanban_in_Agile_and_Scrum.txt",
+      "document_id": "f5160fb178b9",
+      "created_at": "2025-10-26T02:54:48.657814",
+      "level": 2,
+      "parent_chunk_id": "f5160fb178b9_L0_0000_L1_0000"
+    }
+  },
+  {
+    "chunk_id": "f5160fb178b9_L0_0000_L1_0000_L2_0002",
+    "text": " relevant and necessary processes are followed.\nCode Handoffs  − means passing the work from one person or team to another, after the first\nperson’s work is complete. It may give rise to lack of knowledge. It can be eliminated by keeping the\nflowcharts and wireframes visible and clear.WIP\ncycletime\ntermedaswaste\n4/23/2019 Kanban Quick Guide\nhttps://www .tutorialspoint.com/cgi-bin/printpage.cgi 6/",
+    "level": 2,
+    "parent_id": "f5160fb178b9_L0_0000_L1_0000",
+    "metadata": {
+      "author": "Unknown",
+      "source": "Unknown",
+      "subject": "Uncategorized",
+      "context": "General",
+      "source_document": "kqg_part2_Kanban_in_Agile_and_Scrum.txt",
+      "document_id": "f5160fb178b9",
+      "created_at": "2025-10-26T02:54:48.657814",
+      "level": 2,
+      "parent_chunk_id": "f5160fb178b9_L0_0000_L1_0000"
+    }
+  },
+  {
+    "chunk_id": "f5160fb178b9_L0_0000_L1_0001",
+    "text": "\nflowcharts and wireframes visible and clear.WIP\ncycletime\ntermedaswaste\n4/23/2019 Kanban Quick Guide\nhttps://www .tutorialspoint.com/cgi-bin/printpage.cgi 6/17Extra Functions  − These are features that are not required by the customer. Effort and time are\nwasted in developing the functions required to implement the features that the customer does not\nwant. It can be eliminated with continuous interaction with customer and testers involving in the\nrequirements gathering as they can better visualize the scenarios and expected behavior of the\nsystem.\nWaste in Team Potential\nWaste in team potential is due to the following reasons −\nTask Switching  − It leads to the danger of multi-tasking, which is a waste. It can be eliminated\nwith focus on a task with every release. Large process steps are segmented into tasks to −\nImprove visibility\nReduce dependencies\nEnable easy flow of work\nFocus on the cycle-time of delivered work\nGive a way to detect and resolve bottlenecks\nWaiting  − Time for getting instructions or information – Team is subjected to sit idle if the\ndecisions are not made by the team, or if the information provided to the team \n are expensive resources. It can be eliminated by allowing the team\nmembers  to −\nTake decisions so that they do not have to wait for instructions\nHave access to information so that it can be used as and when required\nKANBAN - AGILEKANBAN - AGILE\nAgile Kanban is Agile Software Development with Kanban approach. In Agile Kanban, the Kanban board is\nused to visualize the workflow. The Kanban board is normally put up on a wall in the project room. The\nstatus and progress of the story development tasks is tracked visually on the Kanban board with flowing\nKanban cards.\nKanban Board\nKanban board is used to depict the flow of tasks across the value stream. The Kanban board −\nProvides easy access to everyone involved in the project.\nFacilitates communication as and when necessary.\nProgress of the tasks are visually displayed.\nBottlenecks are visible as soon as they occur.\nAdvantages of Kanban board\nThe major advantages of using a Kanban board are −\nEmpowerment of Team  − This means −\nTeam is allowed to take decisions as and when required.\nTeam collaboratively resolves the bottlenecks.\nTeam has access to the relevant",
+    "level": 1,
+    "parent_id": "f5160fb178b9_L0_0000",
+    "metadata": {
+      "author": "Unknown",
+      "source": "Unknown",
+      "subject": "Uncategorized",
+      "context": "General",
+      "source_document": "kqg_part2_Kanban_in_Agile_and_Scrum.txt",
+      "document_id": "f5160fb178b9",
+      "created_at": "2025-10-26T02:54:48.657814",
+      "level": 1,
+      "parent_chunk_id": "f5160fb178b9_L0_0000"
+    }
+  },
+  {
+    "chunk_id": "f5160fb178b9_L0_0000_L1_0001_L2_0000",
+    "text": "\nflowcharts and wireframes visible and clear.WIP\ncycletime\ntermedaswaste\n4/23/2019 Kanban Quick Guide\nhttps://www .tutorialspoint.com/cgi-bin/printpage.cgi 6/17Extra Functions  − These are features that are not required by the customer. Effort and time are\nwasted in developing the functions required to implement the features that the customer does not\nwant. It can be eliminated with continuous interaction with customer and testers involving in the\nrequirements gathering as they can better visualize the scenarios and expected behavior of the\nsystem.\nWaste in Team Potential\nWaste in team potential is due to the following reasons −\nTask Switching  − It leads to the danger of multi-tasking, which is a waste. It can be eliminated\nwith focus on a task with every release. Large process steps are segmented into tasks to −\nImprove visibility\nReduce dependencies\nEnable easy flow of work\nFocus on the cycle-time of delivered work\nGive a way to detect and resolve bottlenecks\nWaiting  − Time for getting instructions or information – Team is subjected to sit idle if the\ndecisions are not made by the team, or if the information provided to the team \n",
+    "level": 2,
+    "parent_id": "f5160fb178b9_L0_0000_L1_0001",
+    "metadata": {
+      "author": "Unknown",
+      "source": "Unknown",
+      "subject": "Uncategorized",
+      "context": "General",
+      "source_document": "kqg_part2_Kanban_in_Agile_and_Scrum.txt",
+      "document_id": "f5160fb178b9",
+      "created_at": "2025-10-26T02:54:48.657814",
+      "level": 2,
+      "parent_chunk_id": "f5160fb178b9_L0_0000_L1_0001"
+    }
+  },
+  {
+    "chunk_id": "f5160fb178b9_L0_0000_L1_0001_L2_0001",
+    "text": " work\nGive a way to detect and resolve bottlenecks\nWaiting  − Time for getting instructions or information – Team is subjected to sit idle if the\ndecisions are not made by the team, or if the information provided to the team \n are expensive resources. It can be eliminated by allowing the team\nmembers  to −\nTake decisions so that they do not have to wait for instructions\nHave access to information so that it can be used as and when required\nKANBAN - AGILEKANBAN - AGILE\nAgile Kanban is Agile Software Development with Kanban approach. In Agile Kanban, the Kanban board is\nused to visualize the workflow. The Kanban board is normally put up on a wall in the project room. The\nstatus and progress of the story development tasks is tracked visually on the Kanban board with flowing\nKanban cards.\nKanban Board\nKanban board is used to depict the flow of tasks across the value stream. The Kanban board −\nProvides easy access to everyone involved in the project.\nFacilitates communication as and when necessary.\nProgress of the tasks are visually displayed.\nBottlenecks are visible as soon as they occur.\nAdvantages of Kanban board",
+    "level": 2,
+    "parent_id": "f5160fb178b9_L0_0000_L1_0001",
+    "metadata": {
+      "author": "Unknown",
+      "source": "Unknown",
+      "subject": "Uncategorized",
+      "context": "General",
+      "source_document": "kqg_part2_Kanban_in_Agile_and_Scrum.txt",
+      "document_id": "f5160fb178b9",
+      "created_at": "2025-10-26T02:54:48.657814",
+      "level": 2,
+      "parent_chunk_id": "f5160fb178b9_L0_0000_L1_0001"
+    }
+  },
+  {
+    "chunk_id": "f5160fb178b9_L0_0000_L1_0001_L2_0002",
+    "text": " Kanban board −\nProvides easy access to everyone involved in the project.\nFacilitates communication as and when necessary.\nProgress of the tasks are visually displayed.\nBottlenecks are visible as soon as they occur.\nAdvantages of Kanban board\nThe major advantages of using a Kanban board are −\nEmpowerment of Team  − This means −\nTeam is allowed to take decisions as and when required.\nTeam collaboratively resolves the bottlenecks.\nTeam has access to the relevant",
+    "level": 2,
+    "parent_id": "f5160fb178b9_L0_0000_L1_0001",
+    "metadata": {
+      "author": "Unknown",
+      "source": "Unknown",
+      "subject": "Uncategorized",
+      "context": "General",
+      "source_document": "kqg_part2_Kanban_in_Agile_and_Scrum.txt",
+      "document_id": "f5160fb178b9",
+      "created_at": "2025-10-26T02:54:48.657814",
+      "level": 2,
+      "parent_chunk_id": "f5160fb178b9_L0_0000_L1_0001"
+    }
+  },
+  {
+    "chunk_id": "f5160fb178b9_L0_0000_L1_0002",
+    "text": "\nThe major advantages of using a Kanban board are −\nEmpowerment of Team  − This means −\nTeam is allowed to take decisions as and when required.\nTeam collaboratively resolves the bottlenecks.\nTeam has access to the relevant information.\nTeam continually communicates with customer.\nContinuous Delivery  − This means −developers,testers,etc.\ndevelopers,testers,etc.\n4/23/2019 Kanban Quick Guide\nhttps://www .tutorialspoint.com/cgi-bin/printpage",
+    "level": 1,
+    "parent_id": "f5160fb178b9_L0_0000",
+    "metadata": {
+      "author": "Unknown",
+      "source": "Unknown",
+      "subject": "Uncategorized",
+      "context": "General",
+      "source_document": "kqg_part2_Kanban_in_Agile_and_Scrum.txt",
+      "document_id": "f5160fb178b9",
+      "created_at": "2025-10-26T02:54:48.657814",
+      "level": 1,
+      "parent_chunk_id": "f5160fb178b9_L0_0000"
+    }
+  },
+  {
+    "chunk_id": "f5160fb178b9_L0_0000_L1_0002_L2_0000",
+    "text": "\nThe major advantages of using a Kanban board are −\nEmpowerment of Team  − This means −\nTeam is allowed to take decisions as and when required.\nTeam collaboratively resolves the bottlenecks.\nTeam has access to the relevant information.\nTeam continually communicates with customer.\nContinuous Delivery  − This means −developers,testers,etc.\ndevelopers,testers,etc.\n4/23/2019 Kanban Quick Guide\nhttps://www .tutorialspoint.com/cgi-bin/printpage",
+    "level": 2,
+    "parent_id": "f5160fb178b9_L0_0000_L1_0002",
+    "metadata": {
+      "author": "Unknown",
+      "source": "Unknown",
+      "subject": "Uncategorized",
+      "context": "General",
+      "source_document": "kqg_part2_Kanban_in_Agile_and_Scrum.txt",
+      "document_id": "f5160fb178b9",
+      "created_at": "2025-10-26T02:54:48.657814",
+      "level": 2,
+      "parent_chunk_id": "f5160fb178b9_L0_0000_L1_0002"
+    }
+  },
+  {
+    "chunk_id": "f5160fb178b9_L0_0001",
+    "text": " information.\nTeam continually communicates with customer.\nContinuous Delivery  − This means −developers,testers,etc.\ndevelopers,testers,etc.\n4/23/2019 Kanban Quick Guide\nhttps://www .tutorialspoint.com/cgi-bin/printpage.cgi 7/17Focus on work completion.\nLimited requirements at any point of time.\nFocus on delivering value to the customer.\nEmphasis on whole project.\nThe tasks and stories are represented by Kanban cards. The current status of each task is known by\ndisplaying the cards in separate columns on the board. The columns are labeled as To Do, Doing , and\nDone . Each task moves from To Do  to Doing  and then to Done .\nKanban Board is updated on a daily basis as the team progresses through the development.\nWIP Limit\nThe label in the Doing column also contains a number, which represents the maximum number of tasks\nthat can be in that column at any point of time. i.e., the number associated with the Doing  column is the\nWIP  Limit.\nPull Approach\nPull approach is used as and when a task is completed in the Doing column. Another card is pulled from the\nTo Do column.\nSelf-directing\nIn Agile Development, the team is responsible for planning, tracking, reporting and communicating in the\nproject. Team is allowed to make decisions and is accountable for the completion of the development and\nproduct quality. This is aligned to the characteristic of empowerment of the team in Kanban.\nContinuous Flow\nIn Agile development, there is no gate approach and the work flows across the different functions without\nwait-time. This contributes in minimizing the cycle time characteristic of Kanban.\nVisual Metrics\nIn Agile Kanban, the metrics are tracked visually using −\nKanban Board\nBurndown Chart\nUse s of Kanban board\nKanban Board is used to −\nMeasure the cycle times, that can be used to optimize average cycle time.\nTrack WIP limit to eliminate waste.\nTrack resource utilization to eliminate waste.\nUse s of Burndown chart\nBurndown chart is used to capture −\nThe current status of the tasks and stories.\nThe rate of progress of completing the remaining tasks.\nAs Kanban Board is updated daily, it contains all the information that is required by the Burndown charts.\nKANBAN - LEAN AND AGILEKANBAN - LEAN AND AGILEWork−In−Progress\n4/23/2019 Kanban Quick Guide\nhttps://www .tutorialspoint.com/cgi-bin/printpage.cgi 8/17In Agile Kanban, the user stories are broken into tasks and Kanban cards are used to track the tasks on the\nKanban board. Agile Kanban has a concept of iteration that is not present in Kanban. Further, no processes\nare considered.\nKanban in Value Stream\nKanban is defined to be executed in value stream with focus on delivery of value. Kanban in software\ndevelopment can be visualized as the features flowing across the value stream. All the Kanban\ncharacteristics  are met in the\nKanban approach for software development.\nFeature Kanban Board\nFeature Kanban Board is used to track the Feature Driven Development with Kanban Approach. Each\nFeature is assigned to a particular release. The columns in the Kanban board represent releases. Hence,\neach column contains all the features assigned to the release represented by it.\nEach feature is broken into stories. Each release is broken into iterations. The iteration is executed in an\nAgile Development approach. This can be treated as a sub-stream in the value stream, with the stories to be\ncompleted within that iteration assigned to it.\nAgile Kanban in Sub-stream\nAgile Kanban approach is followed within each sub-stream that is implemented as an iteration. Each story\nis broken into tasks in the iteration. Task Kanban board is used to track the status and progress of the story\ndevelopment tasks. The current status of each task is known by displaying the cards in separate columns on\nthe board. The columns are labeled as To Do, Doing, and Done. Each task moves from To Do to Doing and\nthen to Done.\nContinuous Delivery\nContinuous delivery to the customer is ensured with features tracked on feature Kanban board and stories\nrepresenting features tracked on task Kanban board.\nDelivery through a release is accomplished by −\nContinuous tracking\nConstant communication with the customer\nAdjusting development plan as required\nFocusing on delivery of value to the customer\nAgile development as well as Kanban maintain team collaboration. This, in turn helps in identifying and\nresolving Bottlenecks immediately as required by Kanban. This results in accomplishment of all the needed\ntasks within the iteration to deliver quality product, which meets customer expectations.\nContinuous Process Improvement\nKanban supports process improvements to enhance the delivery approach continuously.\nConsider a requirement that is a change or addition to the product. In such a case, Kanban cards can be",
+    "level": 0,
+    "parent_id": null,
+    "metadata": {
+      "author": "Unknown",
+      "source": "Unknown",
+      "subject": "Uncategorized",
+      "context": "General",
+      "source_document": "kqg_part2_Kanban_in_Agile_and_Scrum.txt",
+      "document_id": "f5160fb178b9",
+      "created_at": "2025-10-26T02:54:48.657814",
+      "level": 0
+    }
+  },
+  {
+    "chunk_id": "f5160fb178b9_L0_0001_L1_0000",
+    "text": " information.\nTeam continually communicates with customer.\nContinuous Delivery  − This means −developers,testers,etc.\ndevelopers,testers,etc.\n4/23/2019 Kanban Quick Guide\nhttps://www .tutorialspoint.com/cgi-bin/printpage.cgi 7/17Focus on work completion.\nLimited requirements at any point of time.\nFocus on delivering value to the customer.\nEmphasis on whole project.\nThe tasks and stories are represented by Kanban cards. The current status of each task is known by\ndisplaying the cards in separate columns on the board. The columns are labeled as To Do, Doing , and\nDone . Each task moves from To Do  to Doing  and then to Done .\nKanban Board is updated on a daily basis as the team progresses through the development.\nWIP Limit\nThe label in the Doing column also contains a number, which represents the maximum number of tasks\nthat can be in that column at any point of time. i.e., the number associated with the Doing  column is the\nWIP  Limit.\nPull Approach\nPull approach is used as and when a task is completed in the Doing column. Another card is pulled from the\nTo Do column.\nSelf-directing\nIn Agile Development, the team is responsible for planning, tracking, reporting and communicating in the\nproject. Team is allowed to make decisions and is accountable for the completion of the development and\nproduct quality. This is aligned to the characteristic of empowerment of the team in Kanban.\nContinuous Flow\nIn Agile development, there is no gate approach and the work flows across the different functions without\nwait-time. This contributes in minimizing the cycle time characteristic of Kanban.\nVisual Metrics\nIn Agile Kanban, the metrics are tracked visually using −\nKanban Board\nBurndown Chart\nUse s of Kanban board\nKanban Board is used to −\nMeasure the cycle times, that can be used to optimize average cycle time.\nTrack WIP limit to eliminate waste.\nTrack resource utilization to eliminate waste.\nUse s of Burndown chart\nBurndown chart is used to capture −\nThe current status of the tasks and stories.\nThe rate of progress of completing the remaining tasks.\nAs Kanban Board is updated daily, it contains all the information that is required by the Burndown charts.\nKANBAN - LEAN AND AGILEKANBAN - LEAN AND AGILEWork−In−Progress\n4/23/2019 Kanban Quick Guide\nhttps",
+    "level": 1,
+    "parent_id": "f5160fb178b9_L0_0001",
+    "metadata": {
+      "author": "Unknown",
+      "source": "Unknown",
+      "subject": "Uncategorized",
+      "context": "General",
+      "source_document": "kqg_part2_Kanban_in_Agile_and_Scrum.txt",
+      "document_id": "f5160fb178b9",
+      "created_at": "2025-10-26T02:54:48.657814",
+      "level": 1,
+      "parent_chunk_id": "f5160fb178b9_L0_0001"
+    }
+  },
+  {
+    "chunk_id": "f5160fb178b9_L0_0001_L1_0000_L2_0000",
+    "text": " information.\nTeam continually communicates with customer.\nContinuous Delivery  − This means −developers,testers,etc.\ndevelopers,testers,etc.\n4/23/2019 Kanban Quick Guide\nhttps://www .tutorialspoint.com/cgi-bin/printpage.cgi 7/17Focus on work completion.\nLimited requirements at any point of time.\nFocus on delivering value to the customer.\nEmphasis on whole project.\nThe tasks and stories are represented by Kanban cards. The current status of each task is known by\ndisplaying the cards in separate columns on the board. The columns are labeled as To Do, Doing , and\nDone . Each task moves from To Do  to Doing  and then to Done .\nKanban Board is updated on a daily basis as the team progresses through the development.\nWIP Limit\nThe label in the Doing column also contains a number, which represents the maximum number of tasks\nthat can be in that column at any point of time. i.e., the number associated with the Doing  column is the\nWIP  Limit.\nPull Approach\nPull approach is used as and when a task is completed in the Doing column. Another card is pulled from the\nTo Do column.\nSelf-directing\nIn Agile Development, the team is",
+    "level": 2,
+    "parent_id": "f5160fb178b9_L0_0001_L1_0000",
+    "metadata": {
+      "author": "Unknown",
+      "source": "Unknown",
+      "subject": "Uncategorized",
+      "context": "General",
+      "source_document": "kqg_part2_Kanban_in_Agile_and_Scrum.txt",
+      "document_id": "f5160fb178b9",
+      "created_at": "2025-10-26T02:54:48.657814",
+      "level": 2,
+      "parent_chunk_id": "f5160fb178b9_L0_0001_L1_0000"
+    }
+  },
+  {
+    "chunk_id": "f5160fb178b9_L0_0001_L1_0000_L2_0001",
+    "text": " column is the\nWIP  Limit.\nPull Approach\nPull approach is used as and when a task is completed in the Doing column. Another card is pulled from the\nTo Do column.\nSelf-directing\nIn Agile Development, the team is responsible for planning, tracking, reporting and communicating in the\nproject. Team is allowed to make decisions and is accountable for the completion of the development and\nproduct quality. This is aligned to the characteristic of empowerment of the team in Kanban.\nContinuous Flow\nIn Agile development, there is no gate approach and the work flows across the different functions without\nwait-time. This contributes in minimizing the cycle time characteristic of Kanban.\nVisual Metrics\nIn Agile Kanban, the metrics are tracked visually using −\nKanban Board\nBurndown Chart\nUse s of Kanban board\nKanban Board is used to −\nMeasure the cycle times, that can be used to optimize average cycle time.\nTrack WIP limit to eliminate waste.\nTrack resource utilization to eliminate waste.\nUse s of Burndown chart\nBurndown chart is used to capture −\nThe current status of the tasks and stories.\nThe rate of progress of completing the remaining tasks.\nAs Kanban Board is updated daily, it contains all",
+    "level": 2,
+    "parent_id": "f5160fb178b9_L0_0001_L1_0000",
+    "metadata": {
+      "author": "Unknown",
+      "source": "Unknown",
+      "subject": "Uncategorized",
+      "context": "General",
+      "source_document": "kqg_part2_Kanban_in_Agile_and_Scrum.txt",
+      "document_id": "f5160fb178b9",
+      "created_at": "2025-10-26T02:54:48.657814",
+      "level": 2,
+      "parent_chunk_id": "f5160fb178b9_L0_0001_L1_0000"
+    }
+  },
+  {
+    "chunk_id": "f5160fb178b9_L0_0001_L1_0000_L2_0002",
+    "text": " waste.\nUse s of Burndown chart\nBurndown chart is used to capture −\nThe current status of the tasks and stories.\nThe rate of progress of completing the remaining tasks.\nAs Kanban Board is updated daily, it contains all the information that is required by the Burndown charts.\nKANBAN - LEAN AND AGILEKANBAN - LEAN AND AGILEWork−In−Progress\n4/23/2019 Kanban Quick Guide\nhttps",
+    "level": 2,
+    "parent_id": "f5160fb178b9_L0_0001_L1_0000",
+    "metadata": {
+      "author": "Unknown",
+      "source": "Unknown",
+      "subject": "Uncategorized",
+      "context": "General",
+      "source_document": "kqg_part2_Kanban_in_Agile_and_Scrum.txt",
+      "document_id": "f5160fb178b9",
+      "created_at": "2025-10-26T02:54:48.657814",
+      "level": 2,
+      "parent_chunk_id": "f5160fb178b9_L0_0001_L1_0000"
+    }
+  },
+  {
+    "chunk_id": "f5160fb178b9_L0_0001_L1_0001",
+    "text": " the information that is required by the Burndown charts.\nKANBAN - LEAN AND AGILEKANBAN - LEAN AND AGILEWork−In−Progress\n4/23/2019 Kanban Quick Guide\nhttps://www .tutorialspoint.com/cgi-bin/printpage.cgi 8/17In Agile Kanban, the user stories are broken into tasks and Kanban cards are used to track the tasks on the\nKanban board. Agile Kanban has a concept of iteration that is not present in Kanban. Further, no processes\nare considered.\nKanban in Value Stream\nKanban is defined to be executed in value stream with focus on delivery of value. Kanban in software\ndevelopment can be visualized as the features flowing across the value stream. All the Kanban\ncharacteristics  are met in the\nKanban approach for software development.\nFeature Kanban Board\nFeature Kanban Board is used to track the Feature Driven Development with Kanban Approach. Each\nFeature is assigned to a particular release. The columns in the Kanban board represent releases. Hence,\neach column contains all the features assigned to the release represented by it.\nEach feature is broken into stories. Each release is broken into iterations. The iteration is executed in an\nAgile Development approach. This can be treated as a sub-stream in the value stream, with the stories to be\ncompleted within that iteration assigned to it.\nAgile Kanban in Sub-stream\nAgile Kanban approach is followed within each sub-stream that is implemented as an iteration. Each story\nis broken into tasks in the iteration. Task Kanban board is used to track the status and progress of the story\ndevelopment tasks. The current status of each task is known by displaying the cards in separate columns on\nthe board. The columns are labeled as To Do, Doing, and Done. Each task moves from To Do to Doing and\nthen to Done.\nContinuous Delivery\nContinuous delivery to the customer is ensured with features tracked on feature Kanban board and stories\nrepresenting features tracked on task Kanban board.\nDelivery through a release is accomplished by −\nContinuous tracking\nConstant communication with the customer\nAdjusting development plan as required\nFocusing on delivery of value to the customer\nAgile development as well as Kanban maintain team collaboration. This, in turn helps in identifying and\nresolving Bottlenecks immediately as required by Kanban. This results in accomplishment of all the needed\ntasks within the iteration",
+    "level": 1,
+    "parent_id": "f5160fb178b9_L0_0001",
+    "metadata": {
+      "author": "Unknown",
+      "source": "Unknown",
+      "subject": "Uncategorized",
+      "context": "General",
+      "source_document": "kqg_part2_Kanban_in_Agile_and_Scrum.txt",
+      "document_id": "f5160fb178b9",
+      "created_at": "2025-10-26T02:54:48.657814",
+      "level": 1,
+      "parent_chunk_id": "f5160fb178b9_L0_0001"
+    }
+  },
+  {
+    "chunk_id": "f5160fb178b9_L0_0001_L1_0001_L2_0000",
+    "text": " the information that is required by the Burndown charts.\nKANBAN - LEAN AND AGILEKANBAN - LEAN AND AGILEWork−In−Progress\n4/23/2019 Kanban Quick Guide\nhttps://www .tutorialspoint.com/cgi-bin/printpage.cgi 8/17In Agile Kanban, the user stories are broken into tasks and Kanban cards are used to track the tasks on the\nKanban board. Agile Kanban has a concept of iteration that is not present in Kanban. Further, no processes\nare considered.\nKanban in Value Stream\nKanban is defined to be executed in value stream with focus on delivery of value. Kanban in software\ndevelopment can be visualized as the features flowing across the value stream. All the Kanban\ncharacteristics  are met in the\nKanban approach for software development.\nFeature Kanban Board\nFeature Kanban Board is used to track the Feature Driven Development with Kanban Approach. Each\nFeature is assigned to a particular release. The columns in the Kanban board represent releases. Hence,\neach column contains all the features assigned to the release represented by it.\nEach feature is broken into stories. Each release is broken into",
+    "level": 2,
+    "parent_id": "f5160fb178b9_L0_0001_L1_0001",
+    "metadata": {
+      "author": "Unknown",
+      "source": "Unknown",
+      "subject": "Uncategorized",
+      "context": "General",
+      "source_document": "kqg_part2_Kanban_in_Agile_and_Scrum.txt",
+      "document_id": "f5160fb178b9",
+      "created_at": "2025-10-26T02:54:48.657814",
+      "level": 2,
+      "parent_chunk_id": "f5160fb178b9_L0_0001_L1_0001"
+    }
+  },
+  {
+    "chunk_id": "f5160fb178b9_L0_0001_L1_0001_L2_0001",
+    "text": " Approach. Each\nFeature is assigned to a particular release. The columns in the Kanban board represent releases. Hence,\neach column contains all the features assigned to the release represented by it.\nEach feature is broken into stories. Each release is broken into iterations. The iteration is executed in an\nAgile Development approach. This can be treated as a sub-stream in the value stream, with the stories to be\ncompleted within that iteration assigned to it.\nAgile Kanban in Sub-stream\nAgile Kanban approach is followed within each sub-stream that is implemented as an iteration. Each story\nis broken into tasks in the iteration. Task Kanban board is used to track the status and progress of the story\ndevelopment tasks. The current status of each task is known by displaying the cards in separate columns on\nthe board. The columns are labeled as To Do, Doing, and Done. Each task moves from To Do to Doing and\nthen to Done.\nContinuous Delivery\nContinuous delivery to the customer is ensured with features tracked on feature Kanban board and stories\nrepresenting features tracked on task Kanban board.\nDelivery through a release is accomplished by −\nContinuous tracking\nConstant communication with the customer\nAdjusting development plan as required\nFocusing on delivery of value",
+    "level": 2,
+    "parent_id": "f5160fb178b9_L0_0001_L1_0001",
+    "metadata": {
+      "author": "Unknown",
+      "source": "Unknown",
+      "subject": "Uncategorized",
+      "context": "General",
+      "source_document": "kqg_part2_Kanban_in_Agile_and_Scrum.txt",
+      "document_id": "f5160fb178b9",
+      "created_at": "2025-10-26T02:54:48.657814",
+      "level": 2,
+      "parent_chunk_id": "f5160fb178b9_L0_0001_L1_0001"
+    }
+  },
+  {
+    "chunk_id": "f5160fb178b9_L0_0001_L1_0001_L2_0002",
+    "text": " tracked on feature Kanban board and stories\nrepresenting features tracked on task Kanban board.\nDelivery through a release is accomplished by −\nContinuous tracking\nConstant communication with the customer\nAdjusting development plan as required\nFocusing on delivery of value to the customer\nAgile development as well as Kanban maintain team collaboration. This, in turn helps in identifying and\nresolving Bottlenecks immediately as required by Kanban. This results in accomplishment of all the needed\ntasks within the iteration",
+    "level": 2,
+    "parent_id": "f5160fb178b9_L0_0001_L1_0001",
+    "metadata": {
+      "author": "Unknown",
+      "source": "Unknown",
+      "subject": "Uncategorized",
+      "context": "General",
+      "source_document": "kqg_part2_Kanban_in_Agile_and_Scrum.txt",
+      "document_id": "f5160fb178b9",
+      "created_at": "2025-10-26T02:54:48.657814",
+      "level": 2,
+      "parent_chunk_id": "f5160fb178b9_L0_0001_L1_0001"
+    }
+  },
+  {
+    "chunk_id": "f5160fb178b9_L0_0001_L1_0002",
+    "text": " to the customer\nAgile development as well as Kanban maintain team collaboration. This, in turn helps in identifying and\nresolving Bottlenecks immediately as required by Kanban. This results in accomplishment of all the needed\ntasks within the iteration to deliver quality product, which meets customer expectations.\nContinuous Process Improvement\nKanban supports process improvements to enhance the delivery approach continuously.\nConsider a requirement that is a change or addition to the product. In such a case, Kanban cards can be",
+    "level": 1,
+    "parent_id": "f5160fb178b9_L0_0001",
+    "metadata": {
+      "author": "Unknown",
+      "source": "Unknown",
+      "subject": "Uncategorized",
+      "context": "General",
+      "source_document": "kqg_part2_Kanban_in_Agile_and_Scrum.txt",
+      "document_id": "f5160fb178b9",
+      "created_at": "2025-10-26T02:54:48.657814",
+      "level": 1,
+      "parent_chunk_id": "f5160fb178b9_L0_0001"
+    }
+  },
+  {
+    "chunk_id": "f5160fb178b9_L0_0001_L1_0002_L2_0000",
+    "text": " to the customer\nAgile development as well as Kanban maintain team collaboration. This, in turn helps in identifying and\nresolving Bottlenecks immediately as required by Kanban. This results in accomplishment of all the needed\ntasks within the iteration to deliver quality product, which meets customer expectations.\nContinuous Process Improvement\nKanban supports process improvements to enhance the delivery approach continuously.\nConsider a requirement that is a change or addition to the product. In such a case, Kanban cards can be",
+    "level": 2,
+    "parent_id": "f5160fb178b9_L0_0001_L1_0002",
+    "metadata": {
+      "author": "Unknown",
+      "source": "Unknown",
+      "subject": "Uncategorized",
+      "context": "General",
+      "source_document": "kqg_part2_Kanban_in_Agile_and_Scrum.txt",
+      "document_id": "f5160fb178b9",
+      "created_at": "2025-10-26T02:54:48.657814",
+      "level": 2,
+      "parent_chunk_id": "f5160fb178b9_L0_0001_L1_0002"
+    }
+  },
+  {
+    "chunk_id": "f5160fb178b9_L0_0002",
+    "text": " to deliver quality product, which meets customer expectations.\nContinuous Process Improvement\nKanban supports process improvements to enhance the delivery approach continuously.\nConsider a requirement that is a change or addition to the product. In such a case, Kanban cards can be\nused to visualize the requirement passing through the processes of analysis, design, development, product\nintegration and testing. This is different from the Waterfall approach in the sense that it does not require\ncompletion of one process for all the requirements to flow to the next process in the sequence.\nSuch an implementation of Kanban in product maintenance allows maintainability, reliability and integrity\nof the product. The required process improvements are gathered at regular intervals and implemented on a\ncontinuous basis.\nKANBAN - SCRUMKANBAN - SCRUMReferChapter−CharacteristicsofKanbaninthisTutorial\n4/23/2019 Kanban Quick Guide\nhttps://www .tutorialspoint.com/cgi-bin/printpage.cgi 9/17In this chapter, we will learn the similarities and differences between Kanban and Scrum. These similarities\nand differences will help you in choosing the correct method for your project.\nKanban and Scrum - Similarities\nSimilarities between Kanban and Scrum are −\nBoth are Agile.\nBoth use pull scheduling.\nBoth limit WIP, Kanban at task level and Scrum at sprint level.\nBoth use transparency across the development.\nBoth focus on delivering releasable software early.\nBoth are based on self-organizing teams.\nBoth require breaking the work into pieces.\nIn both the methods, the release plan is continuously optimized based on empirical data \n.\nKanban and Scrum - Differences\nThe differences between Kanban and Scrum are as follows −\nS.No Scrum Kanban\n1 Scrum prescribes roles. In Kanban, roles are optional.\n2 Product backlog is to be prioritized. Prioritization is optional.\n3Sprints are to be time-boxed. You can choose\nthe length of the sprint, but once chosen, the\nsame length is to be maintained for all the\nsprints.Time-boxed iterations are optional.\n4 Scrum team needs to commit to a particular\namount of work for the sprint.Commitment is optional.\n5 Cross-functional teams are prescribed. Cross-functional teams are optional.\nSpecialist teams are allowed.\n6 Uses velocity as default metric for planning\nand process improvement.Uses lead time  as default metric\nfor planning and process improvement.\n7 Items such as stories, tests must be broken\ndown so that they can be completed within\none sprint.No particular item size is prescribed.\n8Sprint backlog shows what tasks are to be\nexecuted during the current sprint. These\ntasks are displayed on Scrum board.\nScope of the sprint is fixed. WIP is limited\nper unit of time .Tasks are defined at workflow level. WIP is\nlimited per workflow state.Scrum–Velocity,Kanban−LeadTime/CycleTime\ncycletime\nWIPlimitisthevelocity\n4/23/2019 Kanban Quick Guide\nhttps://www .tutorialspoint.com/cgi-bin/printpage.cgi 10/179 Additions/Changes cannot be done within a\nsprint.Additions /changes can be done if WIP limit\nis not crossed.\n10 New Scrum board is set at the beginning of\nevery sprint.Kanban board is persistent.\n11 Daily meetings need to be conducted. Daily meetings are optional.\n12 Burn-down charts are prescribed. No particular chart is prescribed.\nKanban vs. Scrum\nThe following advantages can help you choose between Kanban and Scrum −\nYou need to choose Kanban if you already have working processes and you want to improve without\ndisturbing the whole system whereas you need to choose Scrum if you want to introduce a new\nprocess in the organization.\nYou can use Kanban in the product development with Feature Driven Development to track the\nworkflows in the value stream whereas you can use Scrum for the development in each iteration.\nYou need to define the WIP Limits in Kanban explicitly whereas you need to define the sprint length\nin scrum that imposes WIP limits implicitly.\nBoth Kanban and Scrum are adaptive but Scrum is more prescriptive than Kanban.\nKanban imposes only two Rules: Visualize workflow and limit WIP whereas Scrum imposes more\nconstraints such as time-boxed Sprints.\nKanban leads to organizational process improvements, both in management and development.\nKanban also supports maintenance activities. Scrum leads to high throughput in small development\nteams. It does not contribute to product development and maintenance workflows that are longer in\nduration with unpredictability on the size of work units and changes. Scrum does not emphasize on\noptimizing management activities.\nIn Kanban, you can choose when to do planning, process improvement, and release. You can choose\nto do these activities on a regular basis or on-demand. Scrum iteration is",
+    "level": 0,
+    "parent_id": null,
+    "metadata": {
+      "author": "Unknown",
+      "source": "Unknown",
+      "subject": "Uncategorized",
+      "context": "General",
+      "source_document": "kqg_part2_Kanban_in_Agile_and_Scrum.txt",
+      "document_id": "f5160fb178b9",
+      "created_at": "2025-10-26T02:54:48.657814",
+      "level": 0
+    }
+  },
+  {
+    "chunk_id": "f5160fb178b9_L0_0002_L1_0000",
+    "text": " to deliver quality product, which meets customer expectations.\nContinuous Process Improvement\nKanban supports process improvements to enhance the delivery approach continuously.\nConsider a requirement that is a change or addition to the product. In such a case, Kanban cards can be\nused to visualize the requirement passing through the processes of analysis, design, development, product\nintegration and testing. This is different from the Waterfall approach in the sense that it does not require\ncompletion of one process for all the requirements to flow to the next process in the sequence.\nSuch an implementation of Kanban in product maintenance allows maintainability, reliability and integrity\nof the product. The required process improvements are gathered at regular intervals and implemented on a\ncontinuous basis.\nKANBAN - SCRUMKANBAN - SCRUMReferChapter−CharacteristicsofKanbaninthisTutorial\n4/23/2019 Kanban Quick Guide\nhttps://www .tutorialspoint.com/cgi-bin/printpage.cgi 9/17In this chapter, we will learn the similarities and differences between Kanban and Scrum. These similarities\nand differences will help you in choosing the correct method for your project.\nKanban and Scrum - Similarities\nSimilarities between Kanban and Scrum are −\nBoth are Agile.\nBoth use pull scheduling.\nBoth limit WIP, Kanban at task level and Scrum at sprint level.\nBoth use transparency across the development.\nBoth focus on delivering releasable software early.\nBoth are based on self-organizing teams.\nBoth require breaking the work into pieces.\nIn both the methods, the release plan is continuously optimized based on empirical data \n.\nKanban and Scrum - Differences\nThe differences between Kanban and Scrum are as follows −\nS.No Scrum Kanban\n1 Scrum prescribes roles. In Kanban, roles are optional.\n2 Product backlog is to be prioritized. Prioritization is optional.\n3Sprints are to be time-boxed. You can choose\nthe length of the sprint, but once chosen, the\nsame length is to be maintained for all the\nsprints.Time-boxed iterations are optional.\n4 Scrum team needs to commit to a particular\namount of work for the sprint.Commitment is optional.\n5 Cross-functional teams are prescribed. Cross-functional teams are optional.\nSpecialist teams are allowed.\n6 Uses velocity as default metric for planning\nand process improvement.Uses lead time  as default metric\nfor planning and process improvement.\n7 Items such as stories",
+    "level": 1,
+    "parent_id": "f5160fb178b9_L0_0002",
+    "metadata": {
+      "author": "Unknown",
+      "source": "Unknown",
+      "subject": "Uncategorized",
+      "context": "General",
+      "source_document": "kqg_part2_Kanban_in_Agile_and_Scrum.txt",
+      "document_id": "f5160fb178b9",
+      "created_at": "2025-10-26T02:54:48.657814",
+      "level": 1,
+      "parent_chunk_id": "f5160fb178b9_L0_0002"
+    }
+  },
+  {
+    "chunk_id": "f5160fb178b9_L0_0002_L1_0000_L2_0000",
+    "text": " to deliver quality product, which meets customer expectations.\nContinuous Process Improvement\nKanban supports process improvements to enhance the delivery approach continuously.\nConsider a requirement that is a change or addition to the product. In such a case, Kanban cards can be\nused to visualize the requirement passing through the processes of analysis, design, development, product\nintegration and testing. This is different from the Waterfall approach in the sense that it does not require\ncompletion of one process for all the requirements to flow to the next process in the sequence.\nSuch an implementation of Kanban in product maintenance allows maintainability, reliability and integrity\nof the product. The required process improvements are gathered at regular intervals and implemented on a\ncontinuous basis.\nKANBAN - SCRUMKANBAN - SCRUMReferChapter−CharacteristicsofKanbaninthisTutorial\n4/23/2019 Kanban Quick Guide\nhttps://www .tutorialspoint.com/cgi-bin/printpage.cgi 9/17In this chapter, we will learn the similarities and differences between Kanban and Scrum. These similarities\nand differences will help you in choosing the correct method for your project.\nKanban and Scrum - Similarities\nSimilarities between Kanban and Scrum are −",
+    "level": 2,
+    "parent_id": "f5160fb178b9_L0_0002_L1_0000",
+    "metadata": {
+      "author": "Unknown",
+      "source": "Unknown",
+      "subject": "Uncategorized",
+      "context": "General",
+      "source_document": "kqg_part2_Kanban_in_Agile_and_Scrum.txt",
+      "document_id": "f5160fb178b9",
+      "created_at": "2025-10-26T02:54:48.657814",
+      "level": 2,
+      "parent_chunk_id": "f5160fb178b9_L0_0002_L1_0000"
+    }
+  },
+  {
+    "chunk_id": "f5160fb178b9_L0_0002_L1_0000_L2_0001",
+    "text": " will learn the similarities and differences between Kanban and Scrum. These similarities\nand differences will help you in choosing the correct method for your project.\nKanban and Scrum - Similarities\nSimilarities between Kanban and Scrum are −\nBoth are Agile.\nBoth use pull scheduling.\nBoth limit WIP, Kanban at task level and Scrum at sprint level.\nBoth use transparency across the development.\nBoth focus on delivering releasable software early.\nBoth are based on self-organizing teams.\nBoth require breaking the work into pieces.\nIn both the methods, the release plan is continuously optimized based on empirical data \n.\nKanban and Scrum - Differences\nThe differences between Kanban and Scrum are as follows −\nS.No Scrum Kanban\n1 Scrum prescribes roles. In Kanban, roles are optional.\n2 Product backlog is to be prioritized. Prioritization is optional.\n3Sprints are to be time-boxed. You can choose\nthe length of the sprint, but once chosen, the\nsame length is to be maintained for all the\nsprints.Time-boxed iterations are optional.\n4 Scrum team needs to commit to a particular\namount of work for the sprint.Commitment is optional.\n5",
+    "level": 2,
+    "parent_id": "f5160fb178b9_L0_0002_L1_0000",
+    "metadata": {
+      "author": "Unknown",
+      "source": "Unknown",
+      "subject": "Uncategorized",
+      "context": "General",
+      "source_document": "kqg_part2_Kanban_in_Agile_and_Scrum.txt",
+      "document_id": "f5160fb178b9",
+      "created_at": "2025-10-26T02:54:48.657814",
+      "level": 2,
+      "parent_chunk_id": "f5160fb178b9_L0_0002_L1_0000"
+    }
+  },
+  {
+    "chunk_id": "f5160fb178b9_L0_0002_L1_0000_L2_0002",
+    "text": " sprint, but once chosen, the\nsame length is to be maintained for all the\nsprints.Time-boxed iterations are optional.\n4 Scrum team needs to commit to a particular\namount of work for the sprint.Commitment is optional.\n5 Cross-functional teams are prescribed. Cross-functional teams are optional.\nSpecialist teams are allowed.\n6 Uses velocity as default metric for planning\nand process improvement.Uses lead time  as default metric\nfor planning and process improvement.\n7 Items such as stories",
+    "level": 2,
+    "parent_id": "f5160fb178b9_L0_0002_L1_0000",
+    "metadata": {
+      "author": "Unknown",
+      "source": "Unknown",
+      "subject": "Uncategorized",
+      "context": "General",
+      "source_document": "kqg_part2_Kanban_in_Agile_and_Scrum.txt",
+      "document_id": "f5160fb178b9",
+      "created_at": "2025-10-26T02:54:48.657814",
+      "level": 2,
+      "parent_chunk_id": "f5160fb178b9_L0_0002_L1_0000"
+    }
+  },
+  {
+    "chunk_id": "f5160fb178b9_L0_0002_L1_0001",
+    "text": " Cross-functional teams are prescribed. Cross-functional teams are optional.\nSpecialist teams are allowed.\n6 Uses velocity as default metric for planning\nand process improvement.Uses lead time  as default metric\nfor planning and process improvement.\n7 Items such as stories, tests must be broken\ndown so that they can be completed within\none sprint.No particular item size is prescribed.\n8Sprint backlog shows what tasks are to be\nexecuted during the current sprint. These\ntasks are displayed on Scrum board.\nScope of the sprint is fixed. WIP is limited\nper unit of time .Tasks are defined at workflow level. WIP is\nlimited per workflow state.Scrum–Velocity,Kanban−LeadTime/CycleTime\ncycletime\nWIPlimitisthevelocity\n4/23/2019 Kanban Quick Guide\nhttps://www .tutorialspoint.com/cgi-bin/printpage.cgi 10/179 Additions/Changes cannot be done within a\nsprint.Additions /changes can be done if WIP limit\nis not crossed.\n10 New Scrum board is set at the beginning of\nevery sprint.Kanban board is persistent.\n11 Daily meetings need to be conducted. Daily meetings are optional.\n12 Burn-down charts are prescribed. No particular chart is prescribed.\nKanban vs. Scrum\nThe following advantages can help you choose between Kanban and Scrum −\nYou need to choose Kanban if you already have working processes and you want to improve without\ndisturbing the whole system whereas you need to choose Scrum if you want to introduce a new\nprocess in the organization.\nYou can use Kanban in the product development with Feature Driven Development to track the\nworkflows in the value stream whereas you can use Scrum for the development in each iteration.\nYou need to define the WIP Limits in Kanban explicitly whereas you need to define the sprint length\nin scrum that imposes WIP limits implicitly.\nBoth Kanban and Scrum are adaptive but Scrum is more prescriptive than Kanban.\nKanban imposes only two Rules: Visualize workflow and limit WIP whereas Scrum imposes more\nconstraints such as time-boxed Sprints.\nKanban leads to organizational process improvements, both in management and development.\nKanban also supports maintenance activities. Scrum leads to high throughput in small development\nteams. It does not contribute to product development and maintenance workflows that are longer in\nduration with unpredictability on the size of work units and changes.",
+    "level": 1,
+    "parent_id": "f5160fb178b9_L0_0002",
+    "metadata": {
+      "author": "Unknown",
+      "source": "Unknown",
+      "subject": "Uncategorized",
+      "context": "General",
+      "source_document": "kqg_part2_Kanban_in_Agile_and_Scrum.txt",
+      "document_id": "f5160fb178b9",
+      "created_at": "2025-10-26T02:54:48.657814",
+      "level": 1,
+      "parent_chunk_id": "f5160fb178b9_L0_0002"
+    }
+  },
+  {
+    "chunk_id": "f5160fb178b9_L0_0002_L1_0001_L2_0000",
+    "text": " Cross-functional teams are prescribed. Cross-functional teams are optional.\nSpecialist teams are allowed.\n6 Uses velocity as default metric for planning\nand process improvement.Uses lead time  as default metric\nfor planning and process improvement.\n7 Items such as stories, tests must be broken\ndown so that they can be completed within\none sprint.No particular item size is prescribed.\n8Sprint backlog shows what tasks are to be\nexecuted during the current sprint. These\ntasks are displayed on Scrum board.\nScope of the sprint is fixed. WIP is limited\nper unit of time .Tasks are defined at workflow level. WIP is\nlimited per workflow state.Scrum–Velocity,Kanban−LeadTime/CycleTime\ncycletime\nWIPlimitisthevelocity\n4/23/2019 Kanban Quick Guide\nhttps://www .tutorialspoint.com/cgi-bin/printpage.cgi 10/179 Additions/Changes cannot be done within a\nsprint.Additions /changes can be done if WIP limit\nis not crossed.\n10 New Scrum board is set at the beginning of\nevery sprint.Kanban board is persistent.\n11 Daily meetings need to be conducted. Daily meetings are optional.\n12 Burn-down charts are",
+    "level": 2,
+    "parent_id": "f5160fb178b9_L0_0002_L1_0001",
+    "metadata": {
+      "author": "Unknown",
+      "source": "Unknown",
+      "subject": "Uncategorized",
+      "context": "General",
+      "source_document": "kqg_part2_Kanban_in_Agile_and_Scrum.txt",
+      "document_id": "f5160fb178b9",
+      "created_at": "2025-10-26T02:54:48.657814",
+      "level": 2,
+      "parent_chunk_id": "f5160fb178b9_L0_0002_L1_0001"
+    }
+  },
+  {
+    "chunk_id": "f5160fb178b9_L0_0002_L1_0001_L2_0001",
+    "text": " be done if WIP limit\nis not crossed.\n10 New Scrum board is set at the beginning of\nevery sprint.Kanban board is persistent.\n11 Daily meetings need to be conducted. Daily meetings are optional.\n12 Burn-down charts are prescribed. No particular chart is prescribed.\nKanban vs. Scrum\nThe following advantages can help you choose between Kanban and Scrum −\nYou need to choose Kanban if you already have working processes and you want to improve without\ndisturbing the whole system whereas you need to choose Scrum if you want to introduce a new\nprocess in the organization.\nYou can use Kanban in the product development with Feature Driven Development to track the\nworkflows in the value stream whereas you can use Scrum for the development in each iteration.\nYou need to define the WIP Limits in Kanban explicitly whereas you need to define the sprint length\nin scrum that imposes WIP limits implicitly.\nBoth Kanban and Scrum are adaptive but Scrum is more prescriptive than Kanban.\nKanban imposes only two Rules: Visualize workflow and limit WIP whereas Scrum imposes more\nconstraints such as time-boxed Sprints.\nKanban leads to organizational process improvements, both in management and",
+    "level": 2,
+    "parent_id": "f5160fb178b9_L0_0002_L1_0001",
+    "metadata": {
+      "author": "Unknown",
+      "source": "Unknown",
+      "subject": "Uncategorized",
+      "context": "General",
+      "source_document": "kqg_part2_Kanban_in_Agile_and_Scrum.txt",
+      "document_id": "f5160fb178b9",
+      "created_at": "2025-10-26T02:54:48.657814",
+      "level": 2,
+      "parent_chunk_id": "f5160fb178b9_L0_0002_L1_0001"
+    }
+  },
+  {
+    "chunk_id": "f5160fb178b9_L0_0002_L1_0001_L2_0002",
+    "text": " more prescriptive than Kanban.\nKanban imposes only two Rules: Visualize workflow and limit WIP whereas Scrum imposes more\nconstraints such as time-boxed Sprints.\nKanban leads to organizational process improvements, both in management and development.\nKanban also supports maintenance activities. Scrum leads to high throughput in small development\nteams. It does not contribute to product development and maintenance workflows that are longer in\nduration with unpredictability on the size of work units and changes.",
+    "level": 2,
+    "parent_id": "f5160fb178b9_L0_0002_L1_0001",
+    "metadata": {
+      "author": "Unknown",
+      "source": "Unknown",
+      "subject": "Uncategorized",
+      "context": "General",
+      "source_document": "kqg_part2_Kanban_in_Agile_and_Scrum.txt",
+      "document_id": "f5160fb178b9",
+      "created_at": "2025-10-26T02:54:48.657814",
+      "level": 2,
+      "parent_chunk_id": "f5160fb178b9_L0_0002_L1_0001"
+    }
+  },
+  {
+    "chunk_id": "f5160fb178b9_L0_0002_L1_0002",
+    "text": " development.\nKanban also supports maintenance activities. Scrum leads to high throughput in small development\nteams. It does not contribute to product development and maintenance workflows that are longer in\nduration with unpredictability on the size of work units and changes. Scrum does not emphasize on\noptimizing management activities.\nIn Kanban, you can choose when to do planning, process improvement, and release. You can choose\nto do these activities on a regular basis or on-demand. Scrum iteration is",
+    "level": 1,
+    "parent_id": "f5160fb178b9_L0_0002",
+    "metadata": {
+      "author": "Unknown",
+      "source": "Unknown",
+      "subject": "Uncategorized",
+      "context": "General",
+      "source_document": "kqg_part2_Kanban_in_Agile_and_Scrum.txt",
+      "document_id": "f5160fb178b9",
+      "created_at": "2025-10-26T02:54:48.657814",
+      "level": 1,
+      "parent_chunk_id": "f5160fb178b9_L0_0002"
+    }
+  },
+  {
+    "chunk_id": "f5160fb178b9_L0_0002_L1_0002_L2_0000",
+    "text": " development.\nKanban also supports maintenance activities. Scrum leads to high throughput in small development\nteams. It does not contribute to product development and maintenance workflows that are longer in\nduration with unpredictability on the size of work units and changes. Scrum does not emphasize on\noptimizing management activities.\nIn Kanban, you can choose when to do planning, process improvement, and release. You can choose\nto do these activities on a regular basis or on-demand. Scrum iteration is",
+    "level": 2,
+    "parent_id": "f5160fb178b9_L0_0002_L1_0002",
+    "metadata": {
+      "author": "Unknown",
+      "source": "Unknown",
+      "subject": "Uncategorized",
+      "context": "General",
+      "source_document": "kqg_part2_Kanban_in_Agile_and_Scrum.txt",
+      "document_id": "f5160fb178b9",
+      "created_at": "2025-10-26T02:54:48.657814",
+      "level": 2,
+      "parent_chunk_id": "f5160fb178b9_L0_0002_L1_0002"
+    }
+  },
+  {
+    "chunk_id": "f5160fb178b9_L0_0003",
+    "text": " Scrum does not emphasize on\noptimizing management activities.\nIn Kanban, you can choose when to do planning, process improvement, and release. You can choose\nto do these activities on a regular basis or on-demand. Scrum iteration is one single time-boxed\nSprint combining three different activities: planning, process improvement, and release \n.\nThus, Kanban and Scrum are effective tools in their specific contexts. You can combine Kanban and Scrum\nto derive maximum benefits from both.\nAdapting Kanban and Scrum Together\nYou can use Kanban and Scrum together by implementing those characteristics that will suit your needs.\nThe constraints of both need to be considered before adapting them. For instance, Scrum requires Time-\nboxed Sprints and if you do away with those, you cannot say that you have implemented Scrum. Both give\nyou a basic set of constraints to drive your own process improvement.\nKANBAN - TOOLS 1KANBAN - TOOLS 1\nSeveral project management tools that follow Kanban approach are available. In this chapter, you can have\nan overview of the following Kanban Tools −\nKanban Tool\nKanbanery\nLeanKit\nJIRA Software\nEarlizifrequired",
+    "level": 0,
+    "parent_id": null,
+    "metadata": {
+      "author": "Unknown",
+      "source": "Unknown",
+      "subject": "Uncategorized",
+      "context": "General",
+      "source_document": "kqg_part2_Kanban_in_Agile_and_Scrum.txt",
+      "document_id": "f5160fb178b9",
+      "created_at": "2025-10-26T02:54:48.657814",
+      "level": 0
+    }
+  },
+  {
+    "chunk_id": "f5160fb178b9_L0_0003_L1_0000",
+    "text": " Scrum does not emphasize on\noptimizing management activities.\nIn Kanban, you can choose when to do planning, process improvement, and release. You can choose\nto do these activities on a regular basis or on-demand. Scrum iteration is one single time-boxed\nSprint combining three different activities: planning, process improvement, and release \n.\nThus, Kanban and Scrum are effective tools in their specific contexts. You can combine Kanban and Scrum\nto derive maximum benefits from both.\nAdapting Kanban and Scrum Together\nYou can use Kanban and Scrum together by implementing those characteristics that will suit your needs.\nThe constraints of both need to be considered before adapting them. For instance, Scrum requires Time-\nboxed Sprints and if you do away with those, you cannot say that you have implemented Scrum. Both give\nyou a basic set of constraints to drive your own process improvement.\nKANBAN - TOOLS 1KANBAN - TOOLS 1\nSeveral project management tools that follow Kanban approach are available. In this chapter, you can have\nan overview of the following Kanban Tools −\nKanban Tool\nKanbanery\nLeanKit\nJIRA Software\nEarlizifrequired",
+    "level": 1,
+    "parent_id": "f5160fb178b9_L0_0003",
+    "metadata": {
+      "author": "Unknown",
+      "source": "Unknown",
+      "subject": "Uncategorized",
+      "context": "General",
+      "source_document": "kqg_part2_Kanban_in_Agile_and_Scrum.txt",
+      "document_id": "f5160fb178b9",
+      "created_at": "2025-10-26T02:54:48.657814",
+      "level": 1,
+      "parent_chunk_id": "f5160fb178b9_L0_0003"
+    }
+  },
+  {
+    "chunk_id": "f5160fb178b9_L0_0003_L1_0000_L2_0000",
+    "text": " Scrum does not emphasize on\noptimizing management activities.\nIn Kanban, you can choose when to do planning, process improvement, and release. You can choose\nto do these activities on a regular basis or on-demand. Scrum iteration is one single time-boxed\nSprint combining three different activities: planning, process improvement, and release \n.\nThus, Kanban and Scrum are effective tools in their specific contexts. You can combine Kanban and Scrum\nto derive maximum benefits from both.\nAdapting Kanban and Scrum Together\nYou can use Kanban and Scrum together by implementing those characteristics that will suit your needs.\nThe constraints of both need to be considered before adapting them. For instance, Scrum requires Time-\nboxed Sprints and if you do away with those, you cannot say that you have implemented Scrum. Both give\nyou a basic set of constraints to drive your own process improvement.\nKANBAN - TOOLS 1KANBAN - TOOLS 1\nSeveral project management tools that follow Kanban approach are available. In this chapter, you can have\nan overview of the following Kanban Tools −\nKanban Tool\nKanbanery\nLeanKit\nJIRA Software\nEar",
+    "level": 2,
+    "parent_id": "f5160fb178b9_L0_0003_L1_0000",
+    "metadata": {
+      "author": "Unknown",
+      "source": "Unknown",
+      "subject": "Uncategorized",
+      "context": "General",
+      "source_document": "kqg_part2_Kanban_in_Agile_and_Scrum.txt",
+      "document_id": "f5160fb178b9",
+      "created_at": "2025-10-26T02:54:48.657814",
+      "level": 2,
+      "parent_chunk_id": "f5160fb178b9_L0_0003_L1_0000"
+    }
+  },
+  {
+    "chunk_id": "f5160fb178b9_L0_0003_L1_0000_L2_0001",
+    "text": "1\nSeveral project management tools that follow Kanban approach are available. In this chapter, you can have\nan overview of the following Kanban Tools −\nKanban Tool\nKanbanery\nLeanKit\nJIRA Software\nEarlizifrequired",
+    "level": 2,
+    "parent_id": "f5160fb178b9_L0_0003_L1_0000",
+    "metadata": {
+      "author": "Unknown",
+      "source": "Unknown",
+      "subject": "Uncategorized",
+      "context": "General",
+      "source_document": "kqg_part2_Kanban_in_Agile_and_Scrum.txt",
+      "document_id": "f5160fb178b9",
+      "created_at": "2025-10-26T02:54:48.657814",
+      "level": 2,
+      "parent_chunk_id": "f5160fb178b9_L0_0003_L1_0000"
+    }
+  }
+]

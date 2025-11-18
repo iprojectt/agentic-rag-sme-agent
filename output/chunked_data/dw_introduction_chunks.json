@@ -1,0 +1,1236 @@
+[
+  {
+    "chunk_id": "d053d900601b_L0_0000",
+    "text": "Introduction\nIn the Swiss canton of St. Gallen, near \nthe northern banks of Lake Zurich, is a \nvillage named Bollingen. In 1922, the \npsychiatrist Carl Jung chose this spot to \nbegin building a retreat. He began with a \nbasic two-story stone house he called \nthe Tower. After returning from a trip to \nIndia, where he observed the practice of \nadding meditation rooms to homes, he \nexpanded the complex to include a\n\nprivate office. “In my retiring room I am \nby myself,” Jung said of the space. “I \nkeep the key with me all the time; no one \nelse is allowed in there except with my \npermission.”\nIn his book Daily Rituals , journalist \nMason Currey sorted through various \nsources on Jung to re-create the \npsychiatrist’s work habits at the Tower. \nJung would rise at seven a.m., Currey \nreports, and after a big breakfast he \nwould spend two hours of undistracted \nwriting time in his private office. His \nafternoons would often consist of \nmeditation or long walks in the \nsurrounding countryside. There was no \nelectricity at the Tower, so as day gave\n\nway to night, light came from oil lamps \nand heat from the fireplace. Jung would \nretire to bed by ten p.m “The feeling of \nrepose and renewal that I had in this \ntower was intense from the start,” he \nsaid.\nThough it’s tempting to think of \nBollingen Tower as a vacation home, if \nwe put it into the context of Jung’s career \nat this point it’s clear that the lakeside \nretreat was not built as an escape from \nwork. In 1922, when Jung bought the \nproperty, he could not afford to take a \nvacation. Only one year earlier, in 1921, \nhe had published Psychological Types,  a \nseminal book that solidified many \ndifferences that had been long\n\ndeveloping between Jung’s thinking and \nthe ideas of his onetime friend and \nmentor, Sigmund Freud. To disagree \nwith Freud in the 1920s was a bold \nmove. To back up his book, Jung needed \nto stay sharp and produce a stream of \nsmart articles and books further \nsupporting and establishing analytical  \npsychology , the eventual name for his \nnew school of thought.\nJung’s lectures and counseling \npractice kept him busy in Zurich—this is \nclear. But he wasn’t satisfied with \nbusyness alone. He wanted to change the \nway we understood the unconscious, and \nthis goal required deeper, more careful \nthought than he could manage amid his\n\nhectic city lifestyle. Jung retreated to \nBollingen, not to escape his professional \nlife, but instead to advance it.\nCarl Jung went on to become one of the \nmost influential thinkers of the twentieth \ncentury. There are, of course, many \nreasons for his eventual success. In this \nbook, however, I’m interested in his \ncommitment to the following skill, which \nalmost certainly played a key role in his \naccomplishments:\nDeep Work: Professional activities\nperformed in a state of distraction-free \nconcentration that push your cognitive\n\ncapabilities to their limit. These efforts \ncreate new value, improve your skill, and \nare hard to replicate.\nDeep work is necessary to wring \nevery last drop of value out of your \ncurrent intellectual capacity. We now \nknow from decades of research in both \npsychology and neuroscience that the \nstate of mental strain that accompanies \ndeep work is also necessary to improve \nyour abilities. Deep work, in other \nwords, was exactly the type of effort \nneeded to stand out in a cognitively \ndemanding field like academic \npsychiatry in the early twentieth century.\nThe term “deep work” is my own and\n\nis not something Carl Jung would have \nused, but his actions during this period \nwere those of someone who understood \nthe underlying concept. Jung built a \ntower out of stone in the woods to \npromote deep work in his professional \nlife— a task that required time, energy, \nand money. It also took him away from \nmore immediate pursuits. As Mason \nCurrey writes, Jung’s regular journeys to \nBollingen reduced the time he spent on \nhis clinical work, noting, “Although he \nhad many patients who relied on him, \nJung was not shy about taking time off.” \nDeep work, though a burden to \nprioritize, was crucial for his goal of \nchanging the world.\n\nIndeed, if you study the lives of other \ninfluential figures from both distant and \nrecent history, you’ll find that a \ncommitment to deep work is a common \ntheme. The sixteenth-century essayist \nMichel de Montaigne, for",
+    "level": 0,
+    "parent_id": null,
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Introduction",
+      "subject": "Core Concepts",
+      "context": "Defining Deep Work versus Shallow Work and presenting the Deep Work Hypothesis.",
+      "source_document": "dw_introduction.txt",
+      "document_id": "d053d900601b",
+      "created_at": "2025-10-26T02:54:47.308813",
+      "level": 0
+    }
+  },
+  {
+    "chunk_id": "d053d900601b_L0_0000_L1_0000",
+    "text": "Introduction\nIn the Swiss canton of St. Gallen, near \nthe northern banks of Lake Zurich, is a \nvillage named Bollingen. In 1922, the \npsychiatrist Carl Jung chose this spot to \nbegin building a retreat. He began with a \nbasic two-story stone house he called \nthe Tower. After returning from a trip to \nIndia, where he observed the practice of \nadding meditation rooms to homes, he \nexpanded the complex to include a\n\nprivate office. “In my retiring room I am \nby myself,” Jung said of the space. “I \nkeep the key with me all the time; no one \nelse is allowed in there except with my \npermission.”\nIn his book Daily Rituals , journalist \nMason Currey sorted through various \nsources on Jung to re-create the \npsychiatrist’s work habits at the Tower. \nJung would rise at seven a.m., Currey \nreports, and after a big breakfast he \nwould spend two hours of undistracted \nwriting time in his private office. His \nafternoons would often consist of \nmeditation or long walks in the \nsurrounding countryside. There was no \nelectricity at the Tower, so as day gave\n\nway to night, light came from oil lamps \nand heat from the fireplace. Jung would \nretire to bed by ten p.m “The feeling of \nrepose and renewal that I had in this \ntower was intense from the start,” he \nsaid.\nThough it’s tempting to think of \nBollingen Tower as a vacation home, if \nwe put it into the context of Jung’s career \nat this point it’s clear that the lakeside \nretreat was not built as an escape from \nwork. In 1922, when Jung bought the \nproperty, he could not afford to take a \nvacation. Only one year earlier, in 1921, \nhe had published Psychological Types,  a \nseminal book that solidified many \ndifferences that had been long\n\ndeveloping between Jung’s thinking and \nthe ideas of his onetime friend and \nmentor, Sigmund Freud. To disagree \nwith Freud in the 1920s was a bold \nmove. To back up his book, Jung needed \nto stay sharp and produce a stream of \nsmart articles and books further \nsupporting and establishing analytical  \npsychology , the eventual name for his \nnew school of thought.\nJung’s",
+    "level": 1,
+    "parent_id": "d053d900601b_L0_0000",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Introduction",
+      "subject": "Core Concepts",
+      "context": "Defining Deep Work versus Shallow Work and presenting the Deep Work Hypothesis.",
+      "source_document": "dw_introduction.txt",
+      "document_id": "d053d900601b",
+      "created_at": "2025-10-26T02:54:47.308813",
+      "level": 1,
+      "parent_chunk_id": "d053d900601b_L0_0000"
+    }
+  },
+  {
+    "chunk_id": "d053d900601b_L0_0000_L1_0000_L2_0000",
+    "text": "Introduction\nIn the Swiss canton of St. Gallen, near \nthe northern banks of Lake Zurich, is a \nvillage named Bollingen. In 1922, the \npsychiatrist Carl Jung chose this spot to \nbegin building a retreat. He began with a \nbasic two-story stone house he called \nthe Tower. After returning from a trip to \nIndia, where he observed the practice of \nadding meditation rooms to homes, he \nexpanded the complex to include a\n\nprivate office. “In my retiring room I am \nby myself,” Jung said of the space. “I \nkeep the key with me all the time; no one \nelse is allowed in there except with my \npermission.”\nIn his book Daily Rituals , journalist \nMason Currey sorted through various \nsources on Jung to re-create the \npsychiatrist’s work habits at the Tower. \nJung would rise at seven a.m., Currey \nreports, and after a big breakfast he \nwould spend two hours of undistracted \nwriting time in his private office. His \nafternoons would often consist of \nmeditation or long walks in the \nsurrounding countryside. There was no \nelectricity at the Tower, so",
+    "level": 2,
+    "parent_id": "d053d900601b_L0_0000_L1_0000",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Introduction",
+      "subject": "Core Concepts",
+      "context": "Defining Deep Work versus Shallow Work and presenting the Deep Work Hypothesis.",
+      "source_document": "dw_introduction.txt",
+      "document_id": "d053d900601b",
+      "created_at": "2025-10-26T02:54:47.308813",
+      "level": 2,
+      "parent_chunk_id": "d053d900601b_L0_0000_L1_0000"
+    }
+  },
+  {
+    "chunk_id": "d053d900601b_L0_0000_L1_0000_L2_0001",
+    "text": "would spend two hours of undistracted \nwriting time in his private office. His \nafternoons would often consist of \nmeditation or long walks in the \nsurrounding countryside. There was no \nelectricity at the Tower, so as day gave\n\nway to night, light came from oil lamps \nand heat from the fireplace. Jung would \nretire to bed by ten p.m “The feeling of \nrepose and renewal that I had in this \ntower was intense from the start,” he \nsaid.\nThough it’s tempting to think of \nBollingen Tower as a vacation home, if \nwe put it into the context of Jung’s career \nat this point it’s clear that the lakeside \nretreat was not built as an escape from \nwork. In 1922, when Jung bought the \nproperty, he could not afford to take a \nvacation. Only one year earlier, in 1921, \nhe had published Psychological Types,  a \nseminal book that solidified many \ndifferences that had been long\n\ndeveloping between Jung’s thinking and \nthe ideas of his onetime friend and \nmentor, Sigmund Freud. To disagree \nwith Freud in the 1920s was a bold",
+    "level": 2,
+    "parent_id": "d053d900601b_L0_0000_L1_0000",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Introduction",
+      "subject": "Core Concepts",
+      "context": "Defining Deep Work versus Shallow Work and presenting the Deep Work Hypothesis.",
+      "source_document": "dw_introduction.txt",
+      "document_id": "d053d900601b",
+      "created_at": "2025-10-26T02:54:47.308813",
+      "level": 2,
+      "parent_chunk_id": "d053d900601b_L0_0000_L1_0000"
+    }
+  },
+  {
+    "chunk_id": "d053d900601b_L0_0000_L1_0000_L2_0002",
+    "text": " that solidified many \ndifferences that had been long\n\ndeveloping between Jung’s thinking and \nthe ideas of his onetime friend and \nmentor, Sigmund Freud. To disagree \nwith Freud in the 1920s was a bold \nmove. To back up his book, Jung needed \nto stay sharp and produce a stream of \nsmart articles and books further \nsupporting and establishing analytical  \npsychology , the eventual name for his \nnew school of thought.\nJung’s",
+    "level": 2,
+    "parent_id": "d053d900601b_L0_0000_L1_0000",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Introduction",
+      "subject": "Core Concepts",
+      "context": "Defining Deep Work versus Shallow Work and presenting the Deep Work Hypothesis.",
+      "source_document": "dw_introduction.txt",
+      "document_id": "d053d900601b",
+      "created_at": "2025-10-26T02:54:47.308813",
+      "level": 2,
+      "parent_chunk_id": "d053d900601b_L0_0000_L1_0000"
+    }
+  },
+  {
+    "chunk_id": "d053d900601b_L0_0000_L1_0001",
+    "text": " \nmove. To back up his book, Jung needed \nto stay sharp and produce a stream of \nsmart articles and books further \nsupporting and establishing analytical  \npsychology , the eventual name for his \nnew school of thought.\nJung’s lectures and counseling \npractice kept him busy in Zurich—this is \nclear. But he wasn’t satisfied with \nbusyness alone. He wanted to change the \nway we understood the unconscious, and \nthis goal required deeper, more careful \nthought than he could manage amid his\n\nhectic city lifestyle. Jung retreated to \nBollingen, not to escape his professional \nlife, but instead to advance it.\nCarl Jung went on to become one of the \nmost influential thinkers of the twentieth \ncentury. There are, of course, many \nreasons for his eventual success. In this \nbook, however, I’m interested in his \ncommitment to the following skill, which \nalmost certainly played a key role in his \naccomplishments:\nDeep Work: Professional activities\nperformed in a state of distraction-free \nconcentration that push your cognitive\n\ncapabilities to their limit. These efforts \ncreate new value, improve your skill, and \nare hard to replicate.\nDeep work is necessary to wring \nevery last drop of value out of your \ncurrent intellectual capacity. We now \nknow from decades of research in both \npsychology and neuroscience that the \nstate of mental strain that accompanies \ndeep work is also necessary to improve \nyour abilities. Deep work, in other \nwords, was exactly the type of effort \nneeded to stand out in a cognitively \ndemanding field like academic \npsychiatry in the early twentieth century.\nThe term “deep work” is my own and\n\nis not something Carl Jung would have \nused, but his actions during this period \nwere those of someone who understood \nthe underlying concept. Jung built a \ntower out of stone in the woods to \npromote deep work in his professional \nlife— a task that required time, energy, \nand money. It also took him away from \nmore immediate pursuits. As Mason \nCurrey writes, Jung’s regular journeys to \nBollingen reduced the time he spent on \nhis clinical work, noting, “Although he \nhad many patients who relied on him, \nJung was not shy about taking time off.” \nDeep work, though a burden to \nprioritize, was crucial for his goal of \nchanging the world.\n\nIndeed, if you",
+    "level": 1,
+    "parent_id": "d053d900601b_L0_0000",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Introduction",
+      "subject": "Core Concepts",
+      "context": "Defining Deep Work versus Shallow Work and presenting the Deep Work Hypothesis.",
+      "source_document": "dw_introduction.txt",
+      "document_id": "d053d900601b",
+      "created_at": "2025-10-26T02:54:47.308813",
+      "level": 1,
+      "parent_chunk_id": "d053d900601b_L0_0000"
+    }
+  },
+  {
+    "chunk_id": "d053d900601b_L0_0000_L1_0001_L2_0000",
+    "text": " \nmove. To back up his book, Jung needed \nto stay sharp and produce a stream of \nsmart articles and books further \nsupporting and establishing analytical  \npsychology , the eventual name for his \nnew school of thought.\nJung’s lectures and counseling \npractice kept him busy in Zurich—this is \nclear. But he wasn’t satisfied with \nbusyness alone. He wanted to change the \nway we understood the unconscious, and \nthis goal required deeper, more careful \nthought than he could manage amid his\n\nhectic city lifestyle. Jung retreated to \nBollingen, not to escape his professional \nlife, but instead to advance it.\nCarl Jung went on to become one of the \nmost influential thinkers of the twentieth \ncentury. There are, of course, many \nreasons for his eventual success. In this \nbook, however, I’m interested in his \ncommitment to the following skill, which \nalmost certainly played a key role in his \naccomplishments:\nDeep Work: Professional activities\nperformed in a state of distraction-free \nconcentration that push your cognitive\n\ncapabilities to their limit. These efforts \ncreate new value, improve your skill, and \nare hard to replicate.\nDeep work is necessary to wr",
+    "level": 2,
+    "parent_id": "d053d900601b_L0_0000_L1_0001",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Introduction",
+      "subject": "Core Concepts",
+      "context": "Defining Deep Work versus Shallow Work and presenting the Deep Work Hypothesis.",
+      "source_document": "dw_introduction.txt",
+      "document_id": "d053d900601b",
+      "created_at": "2025-10-26T02:54:47.308813",
+      "level": 2,
+      "parent_chunk_id": "d053d900601b_L0_0000_L1_0001"
+    }
+  },
+  {
+    "chunk_id": "d053d900601b_L0_0000_L1_0001_L2_0001",
+    "text": " Work: Professional activities\nperformed in a state of distraction-free \nconcentration that push your cognitive\n\ncapabilities to their limit. These efforts \ncreate new value, improve your skill, and \nare hard to replicate.\nDeep work is necessary to wring \nevery last drop of value out of your \ncurrent intellectual capacity. We now \nknow from decades of research in both \npsychology and neuroscience that the \nstate of mental strain that accompanies \ndeep work is also necessary to improve \nyour abilities. Deep work, in other \nwords, was exactly the type of effort \nneeded to stand out in a cognitively \ndemanding field like academic \npsychiatry in the early twentieth century.\nThe term “deep work” is my own and\n\nis not something Carl Jung would have \nused, but his actions during this period \nwere those of someone who understood \nthe underlying concept. Jung built a \ntower out of stone in the woods to \npromote deep work in his professional \nlife— a task that required time, energy, \nand money. It also took him away from \nmore immediate pursuits. As Mason \nCurrey writes, Jung’s regular journeys to \nBollingen reduced the time he spent on \nhis clinical work, noting,",
+    "level": 2,
+    "parent_id": "d053d900601b_L0_0000_L1_0001",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Introduction",
+      "subject": "Core Concepts",
+      "context": "Defining Deep Work versus Shallow Work and presenting the Deep Work Hypothesis.",
+      "source_document": "dw_introduction.txt",
+      "document_id": "d053d900601b",
+      "created_at": "2025-10-26T02:54:47.308813",
+      "level": 2,
+      "parent_chunk_id": "d053d900601b_L0_0000_L1_0001"
+    }
+  },
+  {
+    "chunk_id": "d053d900601b_L0_0000_L1_0001_L2_0002",
+    "text": " required time, energy, \nand money. It also took him away from \nmore immediate pursuits. As Mason \nCurrey writes, Jung’s regular journeys to \nBollingen reduced the time he spent on \nhis clinical work, noting, “Although he \nhad many patients who relied on him, \nJung was not shy about taking time off.” \nDeep work, though a burden to \nprioritize, was crucial for his goal of \nchanging the world.\n\nIndeed, if you",
+    "level": 2,
+    "parent_id": "d053d900601b_L0_0000_L1_0001",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Introduction",
+      "subject": "Core Concepts",
+      "context": "Defining Deep Work versus Shallow Work and presenting the Deep Work Hypothesis.",
+      "source_document": "dw_introduction.txt",
+      "document_id": "d053d900601b",
+      "created_at": "2025-10-26T02:54:47.308813",
+      "level": 2,
+      "parent_chunk_id": "d053d900601b_L0_0000_L1_0001"
+    }
+  },
+  {
+    "chunk_id": "d053d900601b_L0_0000_L1_0002",
+    "text": " “Although he \nhad many patients who relied on him, \nJung was not shy about taking time off.” \nDeep work, though a burden to \nprioritize, was crucial for his goal of \nchanging the world.\n\nIndeed, if you study the lives of other \ninfluential figures from both distant and \nrecent history, you’ll find that a \ncommitment to deep work is a common \ntheme. The sixteenth-century essayist \nMichel de Montaigne, for",
+    "level": 1,
+    "parent_id": "d053d900601b_L0_0000",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Introduction",
+      "subject": "Core Concepts",
+      "context": "Defining Deep Work versus Shallow Work and presenting the Deep Work Hypothesis.",
+      "source_document": "dw_introduction.txt",
+      "document_id": "d053d900601b",
+      "created_at": "2025-10-26T02:54:47.308813",
+      "level": 1,
+      "parent_chunk_id": "d053d900601b_L0_0000"
+    }
+  },
+  {
+    "chunk_id": "d053d900601b_L0_0000_L1_0002_L2_0000",
+    "text": " “Although he \nhad many patients who relied on him, \nJung was not shy about taking time off.” \nDeep work, though a burden to \nprioritize, was crucial for his goal of \nchanging the world.\n\nIndeed, if you study the lives of other \ninfluential figures from both distant and \nrecent history, you’ll find that a \ncommitment to deep work is a common \ntheme. The sixteenth-century essayist \nMichel de Montaigne, for",
+    "level": 2,
+    "parent_id": "d053d900601b_L0_0000_L1_0002",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Introduction",
+      "subject": "Core Concepts",
+      "context": "Defining Deep Work versus Shallow Work and presenting the Deep Work Hypothesis.",
+      "source_document": "dw_introduction.txt",
+      "document_id": "d053d900601b",
+      "created_at": "2025-10-26T02:54:47.308813",
+      "level": 2,
+      "parent_chunk_id": "d053d900601b_L0_0000_L1_0002"
+    }
+  },
+  {
+    "chunk_id": "d053d900601b_L0_0001",
+    "text": " study the lives of other \ninfluential figures from both distant and \nrecent history, you’ll find that a \ncommitment to deep work is a common \ntheme. The sixteenth-century essayist \nMichel de Montaigne, for example, \nprefigured Jung by working in a private \nlibrary he built in the southern tower \nguarding the stone walls of his French \nchateau, while Mark Twain wrote much \nof The Adventures o f Tom Sawyer  in a \nshed on the property of the Quarry Farm \nin New York, where he was spending the \nsummer. Twain’s study was so isolated \nfrom the main house that his family took \nto blowing a horn to attract his attention \nfor meals.\n\nMoving forward in history, consider \nthe screenwriter and director Woody \nAllen. In the forty-four-year period \nbetween 1969 and 2013, Woody Allen \nwrote and directed forty-four films that \nreceived twenty-three Academy Award \nnominations—an absurd rate of artistic \nproductivity. Throughout this period, \nAllen never owned a computer, instead \ncompleting all his writing, free from \nelectronic distraction, on a German \nOlympia SM3 manual typewriter. Allen \nis joined in his rejection of computers by \nPeter Higgs, a theoretical physicist who \nperforms his work in such disconnected \nisolation that journalists couldn’t find \nhim after it was announced he had won\n\nthe Nobel Prize. J.K. Rowling, on the \nother hand, does  use a computer, but was \nfamously absent from social media \nduring the writing of her Harry Potter \nnovels— even though this period\ncoincided with the rise of the technology \nand its popularity among media figures. \nRowling’s staff finally started a Twitter \naccount in her name in the fall of 2009, \nas she was working on The Casual  \nVacancy,  and for the first year and a half \nher only tweet read: “This is the real me, \nbut you won’t be hearing from me often I \nam afraid, as pen and paper is my \npriority at the moment.”\nDeep work, of course, is not limited \nto the historical or technophobic.\n\nMicrosoft CEO Bill Gates famously \nconducted “Think Weeks” twice a year, \nduring which he would isolate himself \n(ofen in a lakeside cottage) to do \nnothing but read and think big thoughts. It \nwas during a 1995 Think Week that \nGates wrote his famous “Internet Tidal \nWave” memo that turned Microsoft’s \nattention to an upstart company called \nNetscape Communications. And in an \nironic twist, Neal Stephenson, the \nacclaimed cyberpunk author who helped \nform our popular conception of the \nInternet age, is near impossible to reach \nelectronically—his website offers no e­\nmail address and features an essay about \nwhy he is purposefully bad at using\n\nsocial media. Here’s how he once \nexplained the omission: “If I organize \nmy life in such a way that I get lots of \nlong, consecutive, uninterrupted time- \nchunks, I can write novels. [If I instead \nget interrupted a lot] what replaces it? \nInstead of a novel that will be around for \na long time... there is a bunch of e-mail \nmessages that I have sent out to \nindividual persons.”\nThe ubiquity of deep work among \ninfluential individuals is important to \nemphasize because it stands in sharp \ncontrast to the behavior of most modern \nknowledge workers—a group that’s \nrapidly forgetting the value of going\n\ndeep.\nThe reason knowledge workers are \nlosing their familiarity with deep work \nis well established: network tools. This \nis a broad category that captures \ncommunication services like e-mail and \nSMS, social media networks like \nTwitter and Facebook, and the shiny \ntangle of infotainment sites like \nBuzzFeed and Reddit. In aggregate, the \nrise of these tools, combined with \nubiquitous access to them through \nsmartphones and networked office \ncomputers, has fragmented most \nknowledge workers’  attention into \nslivers. A 2012 McKinsey study found \nthat the average knowledge worker now\n\nspends more than 60 percent of the \nworkweek engaged in electronic \ncommunication and Internet searching, \nwith close to 30 percent of a worker’s \ntime dedicated to reading and answering \ne-mail alone.\nThis state of fragmented attention \ncannot accommodate deep work, which \nrequires long periods of uninterrupted \nthinking. At the same time, however, \nmodern knowledge workers are not \nloafing. In fact, they report that they are \nas busy as ever. What explains the \ndiscrepancy? A lot can be explained by \nanother type of effort, which provides a \ncounterpart to the idea of deep work:\n\nShallow Work: Noncognitively\n",
+    "level": 0,
+    "parent_id": null,
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Introduction",
+      "subject": "Core Concepts",
+      "context": "Defining Deep Work versus Shallow Work and presenting the Deep Work Hypothesis.",
+      "source_document": "dw_introduction.txt",
+      "document_id": "d053d900601b",
+      "created_at": "2025-10-26T02:54:47.308813",
+      "level": 0
+    }
+  },
+  {
+    "chunk_id": "d053d900601b_L0_0001_L1_0000",
+    "text": " study the lives of other \ninfluential figures from both distant and \nrecent history, you’ll find that a \ncommitment to deep work is a common \ntheme. The sixteenth-century essayist \nMichel de Montaigne, for example, \nprefigured Jung by working in a private \nlibrary he built in the southern tower \nguarding the stone walls of his French \nchateau, while Mark Twain wrote much \nof The Adventures o f Tom Sawyer  in a \nshed on the property of the Quarry Farm \nin New York, where he was spending the \nsummer. Twain’s study was so isolated \nfrom the main house that his family took \nto blowing a horn to attract his attention \nfor meals.\n\nMoving forward in history, consider \nthe screenwriter and director Woody \nAllen. In the forty-four-year period \nbetween 1969 and 2013, Woody Allen \nwrote and directed forty-four films that \nreceived twenty-three Academy Award \nnominations—an absurd rate of artistic \nproductivity. Throughout this period, \nAllen never owned a computer, instead \ncompleting all his writing, free from \nelectronic distraction, on a German \nOlympia SM3 manual typewriter. Allen \nis joined in his rejection of computers by \nPeter Higgs, a theoretical physicist who \nperforms his work in such disconnected \nisolation that journalists couldn’t find \nhim after it was announced he had won\n\nthe Nobel Prize. J.K. Rowling, on the \nother hand, does  use a computer, but was \nfamously absent from social media \nduring the writing of her Harry Potter \nnovels— even though this period\ncoincided with the rise of the technology \nand its popularity among media figures. \nRowling’s staff finally started a Twitter \naccount in her name in the fall of 2009, \nas she was working on The Casual  \nVacancy,  and for the first year and a half \nher only tweet read: “This is the real me, \nbut you won’t be hearing from me often I \nam afraid, as pen and paper is my \npriority at the moment.”\nDeep work, of course, is not limited \nto the historical or technophobic.\n\nMicrosoft CEO Bill Gates famously \nconducted “Think Weeks” twice a year, \nduring which he would isolate himself \n(ofen in a lakeside cottage) to do \nnothing but read and think big thoughts. It \nwas during a ",
+    "level": 1,
+    "parent_id": "d053d900601b_L0_0001",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Introduction",
+      "subject": "Core Concepts",
+      "context": "Defining Deep Work versus Shallow Work and presenting the Deep Work Hypothesis.",
+      "source_document": "dw_introduction.txt",
+      "document_id": "d053d900601b",
+      "created_at": "2025-10-26T02:54:47.308813",
+      "level": 1,
+      "parent_chunk_id": "d053d900601b_L0_0001"
+    }
+  },
+  {
+    "chunk_id": "d053d900601b_L0_0001_L1_0000_L2_0000",
+    "text": " study the lives of other \ninfluential figures from both distant and \nrecent history, you’ll find that a \ncommitment to deep work is a common \ntheme. The sixteenth-century essayist \nMichel de Montaigne, for example, \nprefigured Jung by working in a private \nlibrary he built in the southern tower \nguarding the stone walls of his French \nchateau, while Mark Twain wrote much \nof The Adventures o f Tom Sawyer  in a \nshed on the property of the Quarry Farm \nin New York, where he was spending the \nsummer. Twain’s study was so isolated \nfrom the main house that his family took \nto blowing a horn to attract his attention \nfor meals.\n\nMoving forward in history, consider \nthe screenwriter and director Woody \nAllen. In the forty-four-year period \nbetween 1969 and 2013, Woody Allen \nwrote and directed forty-four films that \nreceived twenty-three Academy Award \nnominations—an absurd rate of artistic \nproductivity. Throughout this period, \nAllen never owned a computer, instead \ncompleting all his writing, free from \nelectronic distraction, on a German \nOlympia SM3 manual typewriter. Allen \nis",
+    "level": 2,
+    "parent_id": "d053d900601b_L0_0001_L1_0000",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Introduction",
+      "subject": "Core Concepts",
+      "context": "Defining Deep Work versus Shallow Work and presenting the Deep Work Hypothesis.",
+      "source_document": "dw_introduction.txt",
+      "document_id": "d053d900601b",
+      "created_at": "2025-10-26T02:54:47.308813",
+      "level": 2,
+      "parent_chunk_id": "d053d900601b_L0_0001_L1_0000"
+    }
+  },
+  {
+    "chunk_id": "d053d900601b_L0_0001_L1_0000_L2_0001",
+    "text": " rate of artistic \nproductivity. Throughout this period, \nAllen never owned a computer, instead \ncompleting all his writing, free from \nelectronic distraction, on a German \nOlympia SM3 manual typewriter. Allen \nis joined in his rejection of computers by \nPeter Higgs, a theoretical physicist who \nperforms his work in such disconnected \nisolation that journalists couldn’t find \nhim after it was announced he had won\n\nthe Nobel Prize. J.K. Rowling, on the \nother hand, does  use a computer, but was \nfamously absent from social media \nduring the writing of her Harry Potter \nnovels— even though this period\ncoincided with the rise of the technology \nand its popularity among media figures. \nRowling’s staff finally started a Twitter \naccount in her name in the fall of 2009, \nas she was working on The Casual  \nVacancy,  and for the first year and a half \nher only tweet read: “This is the real me, \nbut you won’t be hearing from me often I \nam afraid, as pen and paper is my \npriority at the moment.”\nDeep work, of course, is not limited \nto the historical or technophobic",
+    "level": 2,
+    "parent_id": "d053d900601b_L0_0001_L1_0000",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Introduction",
+      "subject": "Core Concepts",
+      "context": "Defining Deep Work versus Shallow Work and presenting the Deep Work Hypothesis.",
+      "source_document": "dw_introduction.txt",
+      "document_id": "d053d900601b",
+      "created_at": "2025-10-26T02:54:47.308813",
+      "level": 2,
+      "parent_chunk_id": "d053d900601b_L0_0001_L1_0000"
+    }
+  },
+  {
+    "chunk_id": "d053d900601b_L0_0001_L1_0000_L2_0002",
+    "text": " “This is the real me, \nbut you won’t be hearing from me often I \nam afraid, as pen and paper is my \npriority at the moment.”\nDeep work, of course, is not limited \nto the historical or technophobic.\n\nMicrosoft CEO Bill Gates famously \nconducted “Think Weeks” twice a year, \nduring which he would isolate himself \n(ofen in a lakeside cottage) to do \nnothing but read and think big thoughts. It \nwas during a ",
+    "level": 2,
+    "parent_id": "d053d900601b_L0_0001_L1_0000",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Introduction",
+      "subject": "Core Concepts",
+      "context": "Defining Deep Work versus Shallow Work and presenting the Deep Work Hypothesis.",
+      "source_document": "dw_introduction.txt",
+      "document_id": "d053d900601b",
+      "created_at": "2025-10-26T02:54:47.308813",
+      "level": 2,
+      "parent_chunk_id": "d053d900601b_L0_0001_L1_0000"
+    }
+  },
+  {
+    "chunk_id": "d053d900601b_L0_0001_L1_0001",
+    "text": ".\n\nMicrosoft CEO Bill Gates famously \nconducted “Think Weeks” twice a year, \nduring which he would isolate himself \n(ofen in a lakeside cottage) to do \nnothing but read and think big thoughts. It \nwas during a 1995 Think Week that \nGates wrote his famous “Internet Tidal \nWave” memo that turned Microsoft’s \nattention to an upstart company called \nNetscape Communications. And in an \nironic twist, Neal Stephenson, the \nacclaimed cyberpunk author who helped \nform our popular conception of the \nInternet age, is near impossible to reach \nelectronically—his website offers no e­\nmail address and features an essay about \nwhy he is purposefully bad at using\n\nsocial media. Here’s how he once \nexplained the omission: “If I organize \nmy life in such a way that I get lots of \nlong, consecutive, uninterrupted time- \nchunks, I can write novels. [If I instead \nget interrupted a lot] what replaces it? \nInstead of a novel that will be around for \na long time... there is a bunch of e-mail \nmessages that I have sent out to \nindividual persons.”\nThe ubiquity of deep work among \ninfluential individuals is important to \nemphasize because it stands in sharp \ncontrast to the behavior of most modern \nknowledge workers—a group that’s \nrapidly forgetting the value of going\n\ndeep.\nThe reason knowledge workers are \nlosing their familiarity with deep work \nis well established: network tools. This \nis a broad category that captures \ncommunication services like e-mail and \nSMS, social media networks like \nTwitter and Facebook, and the shiny \ntangle of infotainment sites like \nBuzzFeed and Reddit. In aggregate, the \nrise of these tools, combined with \nubiquitous access to them through \nsmartphones and networked office \ncomputers, has fragmented most \nknowledge workers’  attention into \nslivers. A 2012 McKinsey study found \nthat the average knowledge worker now\n\nspends more than 60 percent of the \nworkweek engaged in electronic \ncommunication and Internet searching, \nwith close to 30 percent of a worker’s \ntime dedicated to reading and answering \ne-mail alone.\nThis state of fragmented attention \ncannot accommodate deep work, which \nrequires long periods of uninterrupted \nthinking. At the same time, however, \nmodern knowledge workers are not \nloafing. In fact, they report that they are",
+    "level": 1,
+    "parent_id": "d053d900601b_L0_0001",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Introduction",
+      "subject": "Core Concepts",
+      "context": "Defining Deep Work versus Shallow Work and presenting the Deep Work Hypothesis.",
+      "source_document": "dw_introduction.txt",
+      "document_id": "d053d900601b",
+      "created_at": "2025-10-26T02:54:47.308813",
+      "level": 1,
+      "parent_chunk_id": "d053d900601b_L0_0001"
+    }
+  },
+  {
+    "chunk_id": "d053d900601b_L0_0001_L1_0001_L2_0000",
+    "text": ".\n\nMicrosoft CEO Bill Gates famously \nconducted “Think Weeks” twice a year, \nduring which he would isolate himself \n(ofen in a lakeside cottage) to do \nnothing but read and think big thoughts. It \nwas during a 1995 Think Week that \nGates wrote his famous “Internet Tidal \nWave” memo that turned Microsoft’s \nattention to an upstart company called \nNetscape Communications. And in an \nironic twist, Neal Stephenson, the \nacclaimed cyberpunk author who helped \nform our popular conception of the \nInternet age, is near impossible to reach \nelectronically—his website offers no e­\nmail address and features an essay about \nwhy he is purposefully bad at using\n\nsocial media. Here’s how he once \nexplained the omission: “If I organize \nmy life in such a way that I get lots of \nlong, consecutive, uninterrupted time- \nchunks, I can write novels. [If I instead \nget interrupted a lot] what replaces it? \nInstead of a novel that will be around for \na long time... there is a bunch of e-mail \nmessages that I have sent out to \nindividual persons.”\nThe ubiquity of deep work among \ninfluential",
+    "level": 2,
+    "parent_id": "d053d900601b_L0_0001_L1_0001",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Introduction",
+      "subject": "Core Concepts",
+      "context": "Defining Deep Work versus Shallow Work and presenting the Deep Work Hypothesis.",
+      "source_document": "dw_introduction.txt",
+      "document_id": "d053d900601b",
+      "created_at": "2025-10-26T02:54:47.308813",
+      "level": 2,
+      "parent_chunk_id": "d053d900601b_L0_0001_L1_0001"
+    }
+  },
+  {
+    "chunk_id": "d053d900601b_L0_0001_L1_0001_L2_0001",
+    "text": "] what replaces it? \nInstead of a novel that will be around for \na long time... there is a bunch of e-mail \nmessages that I have sent out to \nindividual persons.”\nThe ubiquity of deep work among \ninfluential individuals is important to \nemphasize because it stands in sharp \ncontrast to the behavior of most modern \nknowledge workers—a group that’s \nrapidly forgetting the value of going\n\ndeep.\nThe reason knowledge workers are \nlosing their familiarity with deep work \nis well established: network tools. This \nis a broad category that captures \ncommunication services like e-mail and \nSMS, social media networks like \nTwitter and Facebook, and the shiny \ntangle of infotainment sites like \nBuzzFeed and Reddit. In aggregate, the \nrise of these tools, combined with \nubiquitous access to them through \nsmartphones and networked office \ncomputers, has fragmented most \nknowledge workers’  attention into \nslivers. A 2012 McKinsey study found \nthat the average knowledge worker now\n\nspends more than 60 percent of the \nworkweek engaged in electronic \ncommunication and Internet searching, \nwith close to 30 percent of a worker’s \ntime dedicated to reading and answering \ne",
+    "level": 2,
+    "parent_id": "d053d900601b_L0_0001_L1_0001",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Introduction",
+      "subject": "Core Concepts",
+      "context": "Defining Deep Work versus Shallow Work and presenting the Deep Work Hypothesis.",
+      "source_document": "dw_introduction.txt",
+      "document_id": "d053d900601b",
+      "created_at": "2025-10-26T02:54:47.308813",
+      "level": 2,
+      "parent_chunk_id": "d053d900601b_L0_0001_L1_0001"
+    }
+  },
+  {
+    "chunk_id": "d053d900601b_L0_0001_L1_0001_L2_0002",
+    "text": " found \nthat the average knowledge worker now\n\nspends more than 60 percent of the \nworkweek engaged in electronic \ncommunication and Internet searching, \nwith close to 30 percent of a worker’s \ntime dedicated to reading and answering \ne-mail alone.\nThis state of fragmented attention \ncannot accommodate deep work, which \nrequires long periods of uninterrupted \nthinking. At the same time, however, \nmodern knowledge workers are not \nloafing. In fact, they report that they are",
+    "level": 2,
+    "parent_id": "d053d900601b_L0_0001_L1_0001",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Introduction",
+      "subject": "Core Concepts",
+      "context": "Defining Deep Work versus Shallow Work and presenting the Deep Work Hypothesis.",
+      "source_document": "dw_introduction.txt",
+      "document_id": "d053d900601b",
+      "created_at": "2025-10-26T02:54:47.308813",
+      "level": 2,
+      "parent_chunk_id": "d053d900601b_L0_0001_L1_0001"
+    }
+  },
+  {
+    "chunk_id": "d053d900601b_L0_0001_L1_0002",
+    "text": "-mail alone.\nThis state of fragmented attention \ncannot accommodate deep work, which \nrequires long periods of uninterrupted \nthinking. At the same time, however, \nmodern knowledge workers are not \nloafing. In fact, they report that they are \nas busy as ever. What explains the \ndiscrepancy? A lot can be explained by \nanother type of effort, which provides a \ncounterpart to the idea of deep work:\n\nShallow Work: Noncognitively\n",
+    "level": 1,
+    "parent_id": "d053d900601b_L0_0001",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Introduction",
+      "subject": "Core Concepts",
+      "context": "Defining Deep Work versus Shallow Work and presenting the Deep Work Hypothesis.",
+      "source_document": "dw_introduction.txt",
+      "document_id": "d053d900601b",
+      "created_at": "2025-10-26T02:54:47.308813",
+      "level": 1,
+      "parent_chunk_id": "d053d900601b_L0_0001"
+    }
+  },
+  {
+    "chunk_id": "d053d900601b_L0_0001_L1_0002_L2_0000",
+    "text": "-mail alone.\nThis state of fragmented attention \ncannot accommodate deep work, which \nrequires long periods of uninterrupted \nthinking. At the same time, however, \nmodern knowledge workers are not \nloafing. In fact, they report that they are \nas busy as ever. What explains the \ndiscrepancy? A lot can be explained by \nanother type of effort, which provides a \ncounterpart to the idea of deep work:\n\nShallow Work: Noncognitively\n",
+    "level": 2,
+    "parent_id": "d053d900601b_L0_0001_L1_0002",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Introduction",
+      "subject": "Core Concepts",
+      "context": "Defining Deep Work versus Shallow Work and presenting the Deep Work Hypothesis.",
+      "source_document": "dw_introduction.txt",
+      "document_id": "d053d900601b",
+      "created_at": "2025-10-26T02:54:47.308813",
+      "level": 2,
+      "parent_chunk_id": "d053d900601b_L0_0001_L1_0002"
+    }
+  },
+  {
+    "chunk_id": "d053d900601b_L0_0002",
+    "text": " \nas busy as ever. What explains the \ndiscrepancy? A lot can be explained by \nanother type of effort, which provides a \ncounterpart to the idea of deep work:\n\nShallow Work: Noncognitively\ndemanding, logistical-style tasks, often \nperformed while distracted. These efforts \ntend to not create much new value in the \nworld and are easy to replicate.\nIn an age of network tools, in other \nwords, knowledge workers increasingly \nreplace deep work with the shallow \nalternative— constantly sending and \nreceiving e-mail messages like human \nnetwork routers, with frequent breaks for \nquick hits of distraction. Larger efforts \nthat would be well served by deep \nthinking, such as forming a new business \nstrategy or writing an important grant \napplication, get fragmented into\n\ndistracted dashes that produce muted \nquality. To make matters worse for \ndepth, there’s increasing evidence that \nthis shift toward the shallow is not a \nchoice that can be easily reversed. \nSpend enough time in a state of frenetic \nshallowness and you permanently  \nreduce your capacity to perform deep \nwork. “What the Net seems to be doing \nis chipping away my capacity for \nconcentration and contemplation,” \nadmitted journalist Nicholas Carr, in an \noft-cited 2008 Atlantic  article. “[And] \nI’m not the only one.” Carr expanded \nthis argument into a book, The Shallows,  \nwhich became a finalist for the Pulitzer \nPrize. To write The Shallows ,\n\nappropriately enough, Carr had to move \nto a cabin and forcibly disconnect.\nThe idea that network tools are \npushing our work from the deep toward \nthe shallow is not new. The Shallows  \nwas just the first in a series of recent \nbooks to examine the Internet’s effect on \nour brains and work habits. These \nsubsequent titles include William \nPowers’s Hamlet’ s BlackBerry,  John \nFreeman’s The Tyranny o f E-mail , and \nAlex Soojung-Kin Pang’s The \nDistraction Addiction —all of which \nagree, more or less, that network tools \nare distracting us from work that \nrequires unbroken concentration, while \nsimultaneously degrading our capacity to\n\nremain focused.\nGiven this existing body of evidence, \nI will not spend more time in this book \ntrying to establish this point. We can, I \nhope, stipulate that network tools \nnegatively impact deep work. I’ll also \nsidestep any grand arguments about the \nlong-term societal consequence of this \nshift, as such arguments tend to open \nimpassible rifts. On one side of the \ndebate are techno-skeptics like Jaron \nLanier and John Freeman, who suspect \nthat many of these tools, at least in their \ncurrent state, damage society, while on \nthe other side techno-optimists like \nClive Thompson argue that they’re \nchanging society, for sure, but in ways\n\nthat’ll make us better off. Google, for \nexample, might reduce our memory, but \nwe no longer need  good memories, as in \nthe moment we can now search for \nanything we need to know.\nI have no stance in this philosophical \ndebate. My interest in this matter instead \nveers toward a thesis of much more \npragmatic and individualized interest: \nOur work culture’s shift toward the \nshallow (whether you think it’s \nphilosophically good or bad) is \nexposing a massive economic and \npersonal opportunity for the few who \nrecognize the potential of resisting this \ntrend and prioritizing depth—an \nopportunity that, not too long ago, was\n\nleveraged by a bored young consultant \nfrom Virginia named Jason Benn.\nThere are many ways to discover that \nyou’re not valuable in our economy. For \nJason Benn the lesson was made clear \nwhen he realized, not long after taking a \njob as a financial consultant, that the vast \nmajority of his work responsibilities \ncould be automated by a “kludged \ntogether” Excel script.\nThe firm that hired Benn produced \nreports for banks involved in complex \ndeals. (“It was about as interesting as it \nsounds,” Benn joked in one of our \ninterviews.) The report creation process \nrequired hours of manual manipulation\n\nof data in a series of Excel spreadsheets. \nWhen he first arrived, it took Benn up to \nsix hours per report to finish this stage \n(the most efficient veterans at the firm \ncould complete this task in around half \nthe time). This didn’t sit well with Benn.\n“The way it was taught to me, the \nprocess seemed clunky and manually \nintensive,” Benn recalls. He knew that \nExcel has a feature called macros that \nallows users to automate common tasks. \nBenn read articles on the topic and soon \nput together a new worksheet",
+    "level": 0,
+    "parent_id": null,
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Introduction",
+      "subject": "Core Concepts",
+      "context": "Defining Deep Work versus Shallow Work and presenting the Deep Work Hypothesis.",
+      "source_document": "dw_introduction.txt",
+      "document_id": "d053d900601b",
+      "created_at": "2025-10-26T02:54:47.308813",
+      "level": 0
+    }
+  },
+  {
+    "chunk_id": "d053d900601b_L0_0002_L1_0000",
+    "text": " \nas busy as ever. What explains the \ndiscrepancy? A lot can be explained by \nanother type of effort, which provides a \ncounterpart to the idea of deep work:\n\nShallow Work: Noncognitively\ndemanding, logistical-style tasks, often \nperformed while distracted. These efforts \ntend to not create much new value in the \nworld and are easy to replicate.\nIn an age of network tools, in other \nwords, knowledge workers increasingly \nreplace deep work with the shallow \nalternative— constantly sending and \nreceiving e-mail messages like human \nnetwork routers, with frequent breaks for \nquick hits of distraction. Larger efforts \nthat would be well served by deep \nthinking, such as forming a new business \nstrategy or writing an important grant \napplication, get fragmented into\n\ndistracted dashes that produce muted \nquality. To make matters worse for \ndepth, there’s increasing evidence that \nthis shift toward the shallow is not a \nchoice that can be easily reversed. \nSpend enough time in a state of frenetic \nshallowness and you permanently  \nreduce your capacity to perform deep \nwork. “What the Net seems to be doing \nis chipping away my capacity for \nconcentration and contemplation,” \nadmitted journalist Nicholas Carr, in an \noft-cited 2008 Atlantic  article. “[And] \nI’m not the only one.” Carr expanded \nthis argument into a book, The Shallows,  \nwhich became a finalist for the Pulitzer \nPrize. To write The Shallows ,\n\nappropriately enough, Carr had to move \nto a cabin and forcibly disconnect.\nThe idea that network tools are \npushing our work from the deep toward \nthe shallow is not new. The Shallows  \nwas just the first in a series of recent \nbooks to examine the Internet’s effect on \nour brains and work habits. These \nsubsequent titles include William \nPowers’s Hamlet’ s BlackBerry,  John \nFreeman’s The Tyranny o f E-mail , and \nAlex Soojung-Kin Pang’s The \nDistraction Addiction —all of which \nagree, more or less, that network tools \nare distracting us from work that \nrequires unbroken concentration, while \nsimultaneously degrading our capacity to\n\nremain focused.\nGiven this existing body of evidence, \nI will not spend more time in this book \ntrying to establish this point. We can, I \nhope, stipulate that network tools \n",
+    "level": 1,
+    "parent_id": "d053d900601b_L0_0002",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Introduction",
+      "subject": "Core Concepts",
+      "context": "Defining Deep Work versus Shallow Work and presenting the Deep Work Hypothesis.",
+      "source_document": "dw_introduction.txt",
+      "document_id": "d053d900601b",
+      "created_at": "2025-10-26T02:54:47.308813",
+      "level": 1,
+      "parent_chunk_id": "d053d900601b_L0_0002"
+    }
+  },
+  {
+    "chunk_id": "d053d900601b_L0_0002_L1_0000_L2_0000",
+    "text": " \nas busy as ever. What explains the \ndiscrepancy? A lot can be explained by \nanother type of effort, which provides a \ncounterpart to the idea of deep work:\n\nShallow Work: Noncognitively\ndemanding, logistical-style tasks, often \nperformed while distracted. These efforts \ntend to not create much new value in the \nworld and are easy to replicate.\nIn an age of network tools, in other \nwords, knowledge workers increasingly \nreplace deep work with the shallow \nalternative— constantly sending and \nreceiving e-mail messages like human \nnetwork routers, with frequent breaks for \nquick hits of distraction. Larger efforts \nthat would be well served by deep \nthinking, such as forming a new business \nstrategy or writing an important grant \napplication, get fragmented into\n\ndistracted dashes that produce muted \nquality. To make matters worse for \ndepth, there’s increasing evidence that \nthis shift toward the shallow is not a \nchoice that can be easily reversed. \nSpend enough time in a state of frenetic \nshallowness and you permanently  \nreduce your capacity to perform deep \nwork. “What the Net seems to be doing \nis chipping away my capacity for \nconcentration and",
+    "level": 2,
+    "parent_id": "d053d900601b_L0_0002_L1_0000",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Introduction",
+      "subject": "Core Concepts",
+      "context": "Defining Deep Work versus Shallow Work and presenting the Deep Work Hypothesis.",
+      "source_document": "dw_introduction.txt",
+      "document_id": "d053d900601b",
+      "created_at": "2025-10-26T02:54:47.308813",
+      "level": 2,
+      "parent_chunk_id": "d053d900601b_L0_0002_L1_0000"
+    }
+  },
+  {
+    "chunk_id": "d053d900601b_L0_0002_L1_0000_L2_0001",
+    "text": " reversed. \nSpend enough time in a state of frenetic \nshallowness and you permanently  \nreduce your capacity to perform deep \nwork. “What the Net seems to be doing \nis chipping away my capacity for \nconcentration and contemplation,” \nadmitted journalist Nicholas Carr, in an \noft-cited 2008 Atlantic  article. “[And] \nI’m not the only one.” Carr expanded \nthis argument into a book, The Shallows,  \nwhich became a finalist for the Pulitzer \nPrize. To write The Shallows ,\n\nappropriately enough, Carr had to move \nto a cabin and forcibly disconnect.\nThe idea that network tools are \npushing our work from the deep toward \nthe shallow is not new. The Shallows  \nwas just the first in a series of recent \nbooks to examine the Internet’s effect on \nour brains and work habits. These \nsubsequent titles include William \nPowers’s Hamlet’ s BlackBerry,  John \nFreeman’s The Tyranny o f E-mail , and \nAlex Soojung-Kin Pang’s The \nDistraction Addiction —all of which \nagree, more or less, that network tools \nare distracting us from work that \nrequires unbroken concentration, while",
+    "level": 2,
+    "parent_id": "d053d900601b_L0_0002_L1_0000",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Introduction",
+      "subject": "Core Concepts",
+      "context": "Defining Deep Work versus Shallow Work and presenting the Deep Work Hypothesis.",
+      "source_document": "dw_introduction.txt",
+      "document_id": "d053d900601b",
+      "created_at": "2025-10-26T02:54:47.308813",
+      "level": 2,
+      "parent_chunk_id": "d053d900601b_L0_0002_L1_0000"
+    }
+  },
+  {
+    "chunk_id": "d053d900601b_L0_0002_L1_0000_L2_0002",
+    "text": " Tyranny o f E-mail , and \nAlex Soojung-Kin Pang’s The \nDistraction Addiction —all of which \nagree, more or less, that network tools \nare distracting us from work that \nrequires unbroken concentration, while \nsimultaneously degrading our capacity to\n\nremain focused.\nGiven this existing body of evidence, \nI will not spend more time in this book \ntrying to establish this point. We can, I \nhope, stipulate that network tools \n",
+    "level": 2,
+    "parent_id": "d053d900601b_L0_0002_L1_0000",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Introduction",
+      "subject": "Core Concepts",
+      "context": "Defining Deep Work versus Shallow Work and presenting the Deep Work Hypothesis.",
+      "source_document": "dw_introduction.txt",
+      "document_id": "d053d900601b",
+      "created_at": "2025-10-26T02:54:47.308813",
+      "level": 2,
+      "parent_chunk_id": "d053d900601b_L0_0002_L1_0000"
+    }
+  },
+  {
+    "chunk_id": "d053d900601b_L0_0002_L1_0001",
+    "text": " \nsimultaneously degrading our capacity to\n\nremain focused.\nGiven this existing body of evidence, \nI will not spend more time in this book \ntrying to establish this point. We can, I \nhope, stipulate that network tools \nnegatively impact deep work. I’ll also \nsidestep any grand arguments about the \nlong-term societal consequence of this \nshift, as such arguments tend to open \nimpassible rifts. On one side of the \ndebate are techno-skeptics like Jaron \nLanier and John Freeman, who suspect \nthat many of these tools, at least in their \ncurrent state, damage society, while on \nthe other side techno-optimists like \nClive Thompson argue that they’re \nchanging society, for sure, but in ways\n\nthat’ll make us better off. Google, for \nexample, might reduce our memory, but \nwe no longer need  good memories, as in \nthe moment we can now search for \nanything we need to know.\nI have no stance in this philosophical \ndebate. My interest in this matter instead \nveers toward a thesis of much more \npragmatic and individualized interest: \nOur work culture’s shift toward the \nshallow (whether you think it’s \nphilosophically good or bad) is \nexposing a massive economic and \npersonal opportunity for the few who \nrecognize the potential of resisting this \ntrend and prioritizing depth—an \nopportunity that, not too long ago, was\n\nleveraged by a bored young consultant \nfrom Virginia named Jason Benn.\nThere are many ways to discover that \nyou’re not valuable in our economy. For \nJason Benn the lesson was made clear \nwhen he realized, not long after taking a \njob as a financial consultant, that the vast \nmajority of his work responsibilities \ncould be automated by a “kludged \ntogether” Excel script.\nThe firm that hired Benn produced \nreports for banks involved in complex \ndeals. (“It was about as interesting as it \nsounds,” Benn joked in one of our \ninterviews.) The report creation process \nrequired hours of manual manipulation\n\nof data in a series of Excel spreadsheets. \nWhen he first arrived, it took Benn up to \nsix hours per report to finish this stage \n(the most efficient veterans at the firm \ncould complete this task in around half \nthe time). This didn’t sit well with Benn.\n“The way it was taught to me,",
+    "level": 1,
+    "parent_id": "d053d900601b_L0_0002",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Introduction",
+      "subject": "Core Concepts",
+      "context": "Defining Deep Work versus Shallow Work and presenting the Deep Work Hypothesis.",
+      "source_document": "dw_introduction.txt",
+      "document_id": "d053d900601b",
+      "created_at": "2025-10-26T02:54:47.308813",
+      "level": 1,
+      "parent_chunk_id": "d053d900601b_L0_0002"
+    }
+  },
+  {
+    "chunk_id": "d053d900601b_L0_0002_L1_0001_L2_0000",
+    "text": " \nsimultaneously degrading our capacity to\n\nremain focused.\nGiven this existing body of evidence, \nI will not spend more time in this book \ntrying to establish this point. We can, I \nhope, stipulate that network tools \nnegatively impact deep work. I’ll also \nsidestep any grand arguments about the \nlong-term societal consequence of this \nshift, as such arguments tend to open \nimpassible rifts. On one side of the \ndebate are techno-skeptics like Jaron \nLanier and John Freeman, who suspect \nthat many of these tools, at least in their \ncurrent state, damage society, while on \nthe other side techno-optimists like \nClive Thompson argue that they’re \nchanging society, for sure, but in ways\n\nthat’ll make us better off. Google, for \nexample, might reduce our memory, but \nwe no longer need  good memories, as in \nthe moment we can now search for \nanything we need to know.\nI have no stance in this philosophical \ndebate. My interest in this matter instead \nveers toward a thesis of much more \npragmatic and individualized interest: \nOur work culture’s shift toward the \nshallow",
+    "level": 2,
+    "parent_id": "d053d900601b_L0_0002_L1_0001",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Introduction",
+      "subject": "Core Concepts",
+      "context": "Defining Deep Work versus Shallow Work and presenting the Deep Work Hypothesis.",
+      "source_document": "dw_introduction.txt",
+      "document_id": "d053d900601b",
+      "created_at": "2025-10-26T02:54:47.308813",
+      "level": 2,
+      "parent_chunk_id": "d053d900601b_L0_0002_L1_0001"
+    }
+  },
+  {
+    "chunk_id": "d053d900601b_L0_0002_L1_0001_L2_0001",
+    "text": " need to know.\nI have no stance in this philosophical \ndebate. My interest in this matter instead \nveers toward a thesis of much more \npragmatic and individualized interest: \nOur work culture’s shift toward the \nshallow (whether you think it’s \nphilosophically good or bad) is \nexposing a massive economic and \npersonal opportunity for the few who \nrecognize the potential of resisting this \ntrend and prioritizing depth—an \nopportunity that, not too long ago, was\n\nleveraged by a bored young consultant \nfrom Virginia named Jason Benn.\nThere are many ways to discover that \nyou’re not valuable in our economy. For \nJason Benn the lesson was made clear \nwhen he realized, not long after taking a \njob as a financial consultant, that the vast \nmajority of his work responsibilities \ncould be automated by a “kludged \ntogether” Excel script.\nThe firm that hired Benn produced \nreports for banks involved in complex \ndeals. (“It was about as interesting as it \nsounds,” Benn joked in one of our \ninterviews.) The report creation process \nrequired hours of manual manipulation\n\nof data in a series of Excel spreadsheets. \nWhen he first arrived,",
+    "level": 2,
+    "parent_id": "d053d900601b_L0_0002_L1_0001",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Introduction",
+      "subject": "Core Concepts",
+      "context": "Defining Deep Work versus Shallow Work and presenting the Deep Work Hypothesis.",
+      "source_document": "dw_introduction.txt",
+      "document_id": "d053d900601b",
+      "created_at": "2025-10-26T02:54:47.308813",
+      "level": 2,
+      "parent_chunk_id": "d053d900601b_L0_0002_L1_0001"
+    }
+  },
+  {
+    "chunk_id": "d053d900601b_L0_0002_L1_0001_L2_0002",
+    "text": ". (“It was about as interesting as it \nsounds,” Benn joked in one of our \ninterviews.) The report creation process \nrequired hours of manual manipulation\n\nof data in a series of Excel spreadsheets. \nWhen he first arrived, it took Benn up to \nsix hours per report to finish this stage \n(the most efficient veterans at the firm \ncould complete this task in around half \nthe time). This didn’t sit well with Benn.\n“The way it was taught to me,",
+    "level": 2,
+    "parent_id": "d053d900601b_L0_0002_L1_0001",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Introduction",
+      "subject": "Core Concepts",
+      "context": "Defining Deep Work versus Shallow Work and presenting the Deep Work Hypothesis.",
+      "source_document": "dw_introduction.txt",
+      "document_id": "d053d900601b",
+      "created_at": "2025-10-26T02:54:47.308813",
+      "level": 2,
+      "parent_chunk_id": "d053d900601b_L0_0002_L1_0001"
+    }
+  },
+  {
+    "chunk_id": "d053d900601b_L0_0002_L1_0002",
+    "text": " it took Benn up to \nsix hours per report to finish this stage \n(the most efficient veterans at the firm \ncould complete this task in around half \nthe time). This didn’t sit well with Benn.\n“The way it was taught to me, the \nprocess seemed clunky and manually \nintensive,” Benn recalls. He knew that \nExcel has a feature called macros that \nallows users to automate common tasks. \nBenn read articles on the topic and soon \nput together a new worksheet",
+    "level": 1,
+    "parent_id": "d053d900601b_L0_0002",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Introduction",
+      "subject": "Core Concepts",
+      "context": "Defining Deep Work versus Shallow Work and presenting the Deep Work Hypothesis.",
+      "source_document": "dw_introduction.txt",
+      "document_id": "d053d900601b",
+      "created_at": "2025-10-26T02:54:47.308813",
+      "level": 1,
+      "parent_chunk_id": "d053d900601b_L0_0002"
+    }
+  },
+  {
+    "chunk_id": "d053d900601b_L0_0002_L1_0002_L2_0000",
+    "text": " it took Benn up to \nsix hours per report to finish this stage \n(the most efficient veterans at the firm \ncould complete this task in around half \nthe time). This didn’t sit well with Benn.\n“The way it was taught to me, the \nprocess seemed clunky and manually \nintensive,” Benn recalls. He knew that \nExcel has a feature called macros that \nallows users to automate common tasks. \nBenn read articles on the topic and soon \nput together a new worksheet",
+    "level": 2,
+    "parent_id": "d053d900601b_L0_0002_L1_0002",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Introduction",
+      "subject": "Core Concepts",
+      "context": "Defining Deep Work versus Shallow Work and presenting the Deep Work Hypothesis.",
+      "source_document": "dw_introduction.txt",
+      "document_id": "d053d900601b",
+      "created_at": "2025-10-26T02:54:47.308813",
+      "level": 2,
+      "parent_chunk_id": "d053d900601b_L0_0002_L1_0002"
+    }
+  },
+  {
+    "chunk_id": "d053d900601b_L0_0003",
+    "text": " the \nprocess seemed clunky and manually \nintensive,” Benn recalls. He knew that \nExcel has a feature called macros that \nallows users to automate common tasks. \nBenn read articles on the topic and soon \nput together a new worksheet, wired up \nwith a series of these macros that could \ntake the six-hour process of manual data \nmanipulation and replace it, essentially, \nwith a button click. A report-writing\n\nprocess that originally took him a full \nworkday could now be reduced to less \nthan an hour.\nBenn is a smart guy. He graduated \nfrom an elite college (the University of \nVirginia) with a degree in economics, \nand like many in his situation he had \nambitions for his career. It didn’t take \nhim long to realize that these ambitions \nwould be thwarted so long as his main \nprofessional skills could be captured in \nan Excel macro. He decided, therefore, \nhe needed to increase his value to the \nworld. After a period of research, Benn \nreached a conclusion: He would, he \ndeclared to his family, quit his job as a \nhuman spreadsheet and become a\n\ncomputer programmer. As is often the \ncase with such grand plans, however, \nthere was a hitch: Jason Benn had no \nidea how to write code.\nAs a computer scientist I can confirm \nan obvious point: Programming\ncomputers is hard. Most new developers \ndedicate a four-year college education to \nlearning the ropes before their first job \n—and even then, competition for the best \nspots is fierce. Jason Benn didn’t have \nthis time. After his Excel epiphany, he \nquit his job at the financial firm and \nmoved home to prepare for his next step. \nHis parents were happy he had a plan, \nbut they weren’t happy about the idea \nthat this return home might be long-term.\n\nBenn needed to learn a hard skill, and \nneeded to do so fast.\nIt’s here that Benn ran into the same \nproblem that holds back many \nknowledge workers from navigating into \nmore explosive career trajectories. \nLearning something complex like \ncomputer programming requires intense \nuninterrupted concentration on \ncognitively demanding concepts—the \ntype of concentration that drove Carl \nJung to the woods surrounding Lake \nZurich. This task, in other words, is an \nact of deep work. Most knowledge \nworkers, however, as I argued earlier in \nthis introduction, have lost their ability \nto perform deep work. Benn was no\n\nexception to this trend.\n“I was always getting on the Internet \nand checking my e-mail; I couldn’t stop \nmyself; it was a compulsion,” Benn said, \ndescribing himself during the period \nleading up to his quitting his finance job. \nTo emphasize his difficulty with depth, \nBenn told me about a project that a \nsupervisor at the finance firm once \nbrought to him. “They wanted me to \nwrite a business plan,” he explained. \nBenn didn’t know how to write a \nbusiness plan, so he decided he would \nfind and read five different existing \nplans— comparing and contrasting them \nto understand what was needed. This \nwas a good idea, but Benn had a\n\nproblem: “I couldn’t stay focused.” \nThere were days during this period, he \nnow admits, when he spent almost every \nminute (“98 percent of my time”) surfing \nthe Web. The business plan project—a \nchance to distinguish himself early in his \ncareer— fell to the wayside.\nBy the time he quit, Benn was well \naware of his difficulties with deep work, \nso when he dedicated himself to learning \nhow to code, he knew he had to \nsimultaneously teach his mind how to go \ndeep. His method was drastic but \neffective. “I locked myself in a room \nwith no computer: just textbooks,\nnotecards, and a highlighter.” He would \nhighlight the computer programming\n\ntextbooks, transfer the ideas to \nnotecards, and then practice them out \nloud. These periods free from electronic \ndistraction were hard at first, but Benn \ngave himself no other option: He had to \nlearn this material, and he made sure \nthere was nothing in that room to distract \nhim Over time, however, he got better at \nconcentrating, eventually getting to a \npoint where he was regularly clocking \nfive or more disconnected hours per day \nin the room, focused without distraction \non learning this hard new skill. “I \nprobably read something like eighteen \nbooks on the topic by the time I was \ndone,” he recalls.\nAfter two months locked away\n\nstudying, Benn attended the notoriously \ndifficult Dev Bootcamp: a hundred-hour- \na-week crash course in Web application \nprogramming. (While researching the \nprogram, Benn found a student with a \nPhD from Princeton who",
+    "level": 0,
+    "parent_id": null,
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Introduction",
+      "subject": "Core Concepts",
+      "context": "Defining Deep Work versus Shallow Work and presenting the Deep Work Hypothesis.",
+      "source_document": "dw_introduction.txt",
+      "document_id": "d053d900601b",
+      "created_at": "2025-10-26T02:54:47.308813",
+      "level": 0
+    }
+  },
+  {
+    "chunk_id": "d053d900601b_L0_0003_L1_0000",
+    "text": " the \nprocess seemed clunky and manually \nintensive,” Benn recalls. He knew that \nExcel has a feature called macros that \nallows users to automate common tasks. \nBenn read articles on the topic and soon \nput together a new worksheet, wired up \nwith a series of these macros that could \ntake the six-hour process of manual data \nmanipulation and replace it, essentially, \nwith a button click. A report-writing\n\nprocess that originally took him a full \nworkday could now be reduced to less \nthan an hour.\nBenn is a smart guy. He graduated \nfrom an elite college (the University of \nVirginia) with a degree in economics, \nand like many in his situation he had \nambitions for his career. It didn’t take \nhim long to realize that these ambitions \nwould be thwarted so long as his main \nprofessional skills could be captured in \nan Excel macro. He decided, therefore, \nhe needed to increase his value to the \nworld. After a period of research, Benn \nreached a conclusion: He would, he \ndeclared to his family, quit his job as a \nhuman spreadsheet and become a\n\ncomputer programmer. As is often the \ncase with such grand plans, however, \nthere was a hitch: Jason Benn had no \nidea how to write code.\nAs a computer scientist I can confirm \nan obvious point: Programming\ncomputers is hard. Most new developers \ndedicate a four-year college education to \nlearning the ropes before their first job \n—and even then, competition for the best \nspots is fierce. Jason Benn didn’t have \nthis time. After his Excel epiphany, he \nquit his job at the financial firm and \nmoved home to prepare for his next step. \nHis parents were happy he had a plan, \nbut they weren’t happy about the idea \nthat this return home might be long-term.\n\nBenn needed to learn a hard skill, and \nneeded to do so fast.\nIt’s here that Benn ran into the same \nproblem that holds back many \nknowledge workers from navigating into \nmore explosive career trajectories. \nLearning something complex like \ncomputer programming requires intense \nuninterrupted concentration on \ncognitively demanding concepts—the \ntype of concentration that drove Carl \nJung to the woods surrounding Lake \nZurich. This task, in other words, is an \nact of deep work. Most knowledge \nworkers, however, as I argued earlier in \nthis introduction,",
+    "level": 1,
+    "parent_id": "d053d900601b_L0_0003",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Introduction",
+      "subject": "Core Concepts",
+      "context": "Defining Deep Work versus Shallow Work and presenting the Deep Work Hypothesis.",
+      "source_document": "dw_introduction.txt",
+      "document_id": "d053d900601b",
+      "created_at": "2025-10-26T02:54:47.308813",
+      "level": 1,
+      "parent_chunk_id": "d053d900601b_L0_0003"
+    }
+  },
+  {
+    "chunk_id": "d053d900601b_L0_0003_L1_0000_L2_0000",
+    "text": " the \nprocess seemed clunky and manually \nintensive,” Benn recalls. He knew that \nExcel has a feature called macros that \nallows users to automate common tasks. \nBenn read articles on the topic and soon \nput together a new worksheet, wired up \nwith a series of these macros that could \ntake the six-hour process of manual data \nmanipulation and replace it, essentially, \nwith a button click. A report-writing\n\nprocess that originally took him a full \nworkday could now be reduced to less \nthan an hour.\nBenn is a smart guy. He graduated \nfrom an elite college (the University of \nVirginia) with a degree in economics, \nand like many in his situation he had \nambitions for his career. It didn’t take \nhim long to realize that these ambitions \nwould be thwarted so long as his main \nprofessional skills could be captured in \nan Excel macro. He decided, therefore, \nhe needed to increase his value to the \nworld. After a period of research, Benn \nreached a conclusion: He would, he \ndeclared to his family, quit his job as a \nhuman spreadsheet and become a\n\ncomputer programmer. As is often the \ncase with such grand plans,",
+    "level": 2,
+    "parent_id": "d053d900601b_L0_0003_L1_0000",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Introduction",
+      "subject": "Core Concepts",
+      "context": "Defining Deep Work versus Shallow Work and presenting the Deep Work Hypothesis.",
+      "source_document": "dw_introduction.txt",
+      "document_id": "d053d900601b",
+      "created_at": "2025-10-26T02:54:47.308813",
+      "level": 2,
+      "parent_chunk_id": "d053d900601b_L0_0003_L1_0000"
+    }
+  },
+  {
+    "chunk_id": "d053d900601b_L0_0003_L1_0000_L2_0001",
+    "text": " After a period of research, Benn \nreached a conclusion: He would, he \ndeclared to his family, quit his job as a \nhuman spreadsheet and become a\n\ncomputer programmer. As is often the \ncase with such grand plans, however, \nthere was a hitch: Jason Benn had no \nidea how to write code.\nAs a computer scientist I can confirm \nan obvious point: Programming\ncomputers is hard. Most new developers \ndedicate a four-year college education to \nlearning the ropes before their first job \n—and even then, competition for the best \nspots is fierce. Jason Benn didn’t have \nthis time. After his Excel epiphany, he \nquit his job at the financial firm and \nmoved home to prepare for his next step. \nHis parents were happy he had a plan, \nbut they weren’t happy about the idea \nthat this return home might be long-term.\n\nBenn needed to learn a hard skill, and \nneeded to do so fast.\nIt’s here that Benn ran into the same \nproblem that holds back many \nknowledge workers from navigating into \nmore explosive career trajectories. \nLearning something complex like \ncomputer programming requires intense \nuninterrupted concentration on \ncognitively demanding concepts—the \n",
+    "level": 2,
+    "parent_id": "d053d900601b_L0_0003_L1_0000",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Introduction",
+      "subject": "Core Concepts",
+      "context": "Defining Deep Work versus Shallow Work and presenting the Deep Work Hypothesis.",
+      "source_document": "dw_introduction.txt",
+      "document_id": "d053d900601b",
+      "created_at": "2025-10-26T02:54:47.308813",
+      "level": 2,
+      "parent_chunk_id": "d053d900601b_L0_0003_L1_0000"
+    }
+  },
+  {
+    "chunk_id": "d053d900601b_L0_0003_L1_0000_L2_0002",
+    "text": " here that Benn ran into the same \nproblem that holds back many \nknowledge workers from navigating into \nmore explosive career trajectories. \nLearning something complex like \ncomputer programming requires intense \nuninterrupted concentration on \ncognitively demanding concepts—the \ntype of concentration that drove Carl \nJung to the woods surrounding Lake \nZurich. This task, in other words, is an \nact of deep work. Most knowledge \nworkers, however, as I argued earlier in \nthis introduction,",
+    "level": 2,
+    "parent_id": "d053d900601b_L0_0003_L1_0000",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Introduction",
+      "subject": "Core Concepts",
+      "context": "Defining Deep Work versus Shallow Work and presenting the Deep Work Hypothesis.",
+      "source_document": "dw_introduction.txt",
+      "document_id": "d053d900601b",
+      "created_at": "2025-10-26T02:54:47.308813",
+      "level": 2,
+      "parent_chunk_id": "d053d900601b_L0_0003_L1_0000"
+    }
+  },
+  {
+    "chunk_id": "d053d900601b_L0_0003_L1_0001",
+    "text": "type of concentration that drove Carl \nJung to the woods surrounding Lake \nZurich. This task, in other words, is an \nact of deep work. Most knowledge \nworkers, however, as I argued earlier in \nthis introduction, have lost their ability \nto perform deep work. Benn was no\n\nexception to this trend.\n“I was always getting on the Internet \nand checking my e-mail; I couldn’t stop \nmyself; it was a compulsion,” Benn said, \ndescribing himself during the period \nleading up to his quitting his finance job. \nTo emphasize his difficulty with depth, \nBenn told me about a project that a \nsupervisor at the finance firm once \nbrought to him. “They wanted me to \nwrite a business plan,” he explained. \nBenn didn’t know how to write a \nbusiness plan, so he decided he would \nfind and read five different existing \nplans— comparing and contrasting them \nto understand what was needed. This \nwas a good idea, but Benn had a\n\nproblem: “I couldn’t stay focused.” \nThere were days during this period, he \nnow admits, when he spent almost every \nminute (“98 percent of my time”) surfing \nthe Web. The business plan project—a \nchance to distinguish himself early in his \ncareer— fell to the wayside.\nBy the time he quit, Benn was well \naware of his difficulties with deep work, \nso when he dedicated himself to learning \nhow to code, he knew he had to \nsimultaneously teach his mind how to go \ndeep. His method was drastic but \neffective. “I locked myself in a room \nwith no computer: just textbooks,\nnotecards, and a highlighter.” He would \nhighlight the computer programming\n\ntextbooks, transfer the ideas to \nnotecards, and then practice them out \nloud. These periods free from electronic \ndistraction were hard at first, but Benn \ngave himself no other option: He had to \nlearn this material, and he made sure \nthere was nothing in that room to distract \nhim Over time, however, he got better at \nconcentrating, eventually getting to a \npoint where he was regularly clocking \nfive or more disconnected hours per day \nin the room, focused without distraction \non learning this hard new skill. “I \nprobably read something like eighteen \nbooks on the topic by the time I was \ndone,” he recalls.\nAfter two months locked",
+    "level": 1,
+    "parent_id": "d053d900601b_L0_0003",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Introduction",
+      "subject": "Core Concepts",
+      "context": "Defining Deep Work versus Shallow Work and presenting the Deep Work Hypothesis.",
+      "source_document": "dw_introduction.txt",
+      "document_id": "d053d900601b",
+      "created_at": "2025-10-26T02:54:47.308813",
+      "level": 1,
+      "parent_chunk_id": "d053d900601b_L0_0003"
+    }
+  },
+  {
+    "chunk_id": "d053d900601b_L0_0003_L1_0001_L2_0000",
+    "text": "type of concentration that drove Carl \nJung to the woods surrounding Lake \nZurich. This task, in other words, is an \nact of deep work. Most knowledge \nworkers, however, as I argued earlier in \nthis introduction, have lost their ability \nto perform deep work. Benn was no\n\nexception to this trend.\n“I was always getting on the Internet \nand checking my e-mail; I couldn’t stop \nmyself; it was a compulsion,” Benn said, \ndescribing himself during the period \nleading up to his quitting his finance job. \nTo emphasize his difficulty with depth, \nBenn told me about a project that a \nsupervisor at the finance firm once \nbrought to him. “They wanted me to \nwrite a business plan,” he explained. \nBenn didn’t know how to write a \nbusiness plan, so he decided he would \nfind and read five different existing \nplans— comparing and contrasting them \nto understand what was needed. This \nwas a good idea, but Benn had a\n\nproblem: “I couldn’t stay focused.” \nThere were days during this period, he \nnow admits, when he spent almost every \nminute (“98 percent of my time”) surfing \nthe Web.",
+    "level": 2,
+    "parent_id": "d053d900601b_L0_0003_L1_0001",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Introduction",
+      "subject": "Core Concepts",
+      "context": "Defining Deep Work versus Shallow Work and presenting the Deep Work Hypothesis.",
+      "source_document": "dw_introduction.txt",
+      "document_id": "d053d900601b",
+      "created_at": "2025-10-26T02:54:47.308813",
+      "level": 2,
+      "parent_chunk_id": "d053d900601b_L0_0003_L1_0001"
+    }
+  },
+  {
+    "chunk_id": "d053d900601b_L0_0003_L1_0001_L2_0001",
+    "text": " a good idea, but Benn had a\n\nproblem: “I couldn’t stay focused.” \nThere were days during this period, he \nnow admits, when he spent almost every \nminute (“98 percent of my time”) surfing \nthe Web. The business plan project—a \nchance to distinguish himself early in his \ncareer— fell to the wayside.\nBy the time he quit, Benn was well \naware of his difficulties with deep work, \nso when he dedicated himself to learning \nhow to code, he knew he had to \nsimultaneously teach his mind how to go \ndeep. His method was drastic but \neffective. “I locked myself in a room \nwith no computer: just textbooks,\nnotecards, and a highlighter.” He would \nhighlight the computer programming\n\ntextbooks, transfer the ideas to \nnotecards, and then practice them out \nloud. These periods free from electronic \ndistraction were hard at first, but Benn \ngave himself no other option: He had to \nlearn this material, and he made sure \nthere was nothing in that room to distract \nhim Over time, however, he got better at \nconcentrating, eventually getting to a \npoint where he was regularly clocking \nfive",
+    "level": 2,
+    "parent_id": "d053d900601b_L0_0003_L1_0001",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Introduction",
+      "subject": "Core Concepts",
+      "context": "Defining Deep Work versus Shallow Work and presenting the Deep Work Hypothesis.",
+      "source_document": "dw_introduction.txt",
+      "document_id": "d053d900601b",
+      "created_at": "2025-10-26T02:54:47.308813",
+      "level": 2,
+      "parent_chunk_id": "d053d900601b_L0_0003_L1_0001"
+    }
+  },
+  {
+    "chunk_id": "d053d900601b_L0_0003_L1_0001_L2_0002",
+    "text": " had to \nlearn this material, and he made sure \nthere was nothing in that room to distract \nhim Over time, however, he got better at \nconcentrating, eventually getting to a \npoint where he was regularly clocking \nfive or more disconnected hours per day \nin the room, focused without distraction \non learning this hard new skill. “I \nprobably read something like eighteen \nbooks on the topic by the time I was \ndone,” he recalls.\nAfter two months locked",
+    "level": 2,
+    "parent_id": "d053d900601b_L0_0003_L1_0001",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Introduction",
+      "subject": "Core Concepts",
+      "context": "Defining Deep Work versus Shallow Work and presenting the Deep Work Hypothesis.",
+      "source_document": "dw_introduction.txt",
+      "document_id": "d053d900601b",
+      "created_at": "2025-10-26T02:54:47.308813",
+      "level": 2,
+      "parent_chunk_id": "d053d900601b_L0_0003_L1_0001"
+    }
+  },
+  {
+    "chunk_id": "d053d900601b_L0_0003_L1_0002",
+    "text": " or more disconnected hours per day \nin the room, focused without distraction \non learning this hard new skill. “I \nprobably read something like eighteen \nbooks on the topic by the time I was \ndone,” he recalls.\nAfter two months locked away\n\nstudying, Benn attended the notoriously \ndifficult Dev Bootcamp: a hundred-hour- \na-week crash course in Web application \nprogramming. (While researching the \nprogram, Benn found a student with a \nPhD from Princeton who",
+    "level": 1,
+    "parent_id": "d053d900601b_L0_0003",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Introduction",
+      "subject": "Core Concepts",
+      "context": "Defining Deep Work versus Shallow Work and presenting the Deep Work Hypothesis.",
+      "source_document": "dw_introduction.txt",
+      "document_id": "d053d900601b",
+      "created_at": "2025-10-26T02:54:47.308813",
+      "level": 1,
+      "parent_chunk_id": "d053d900601b_L0_0003"
+    }
+  },
+  {
+    "chunk_id": "d053d900601b_L0_0003_L1_0002_L2_0000",
+    "text": " or more disconnected hours per day \nin the room, focused without distraction \non learning this hard new skill. “I \nprobably read something like eighteen \nbooks on the topic by the time I was \ndone,” he recalls.\nAfter two months locked away\n\nstudying, Benn attended the notoriously \ndifficult Dev Bootcamp: a hundred-hour- \na-week crash course in Web application \nprogramming. (While researching the \nprogram, Benn found a student with a \nPhD from Princeton who",
+    "level": 2,
+    "parent_id": "d053d900601b_L0_0003_L1_0002",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Introduction",
+      "subject": "Core Concepts",
+      "context": "Defining Deep Work versus Shallow Work and presenting the Deep Work Hypothesis.",
+      "source_document": "dw_introduction.txt",
+      "document_id": "d053d900601b",
+      "created_at": "2025-10-26T02:54:47.308813",
+      "level": 2,
+      "parent_chunk_id": "d053d900601b_L0_0003_L1_0002"
+    }
+  },
+  {
+    "chunk_id": "d053d900601b_L0_0004",
+    "text": " away\n\nstudying, Benn attended the notoriously \ndifficult Dev Bootcamp: a hundred-hour- \na-week crash course in Web application \nprogramming. (While researching the \nprogram, Benn found a student with a \nPhD from Princeton who had described \nDev as “the hardest thing I’ve ever done \nin my life.”) Given both his preparation \nand his newly honed ability for deep \nwork, Benn excelled. “Some people \nshow up not prepared,” he said. “They \ncan’t focus. They can’t learn quickly.” \nOnly half the students who started the \nprogram with Benn ended up graduating \non time. Benn not only graduated, but \nwas also the top student in his class.\nThe deep work paid off. Benn\n\nquickly landed a job as a developer at a \nSan Francisco tech start-up with $25 \nmillion in venture funding and its pick of \nemployees. When Benn quit his job as a \nfinancial consultant, only half a year \nearlier, he was making $40,000 a year. \nHis new job as a computer developer \npaid $100,000— an amount that can \ncontinue to grow, essentially without \nlimit in the Silicon Valley market, along \nwith his skill level.\nWhen I last spoke with Benn, he was \nthriving in his new position. A newfound \ndevotee o f deep work, he rented an \napartment across the street from his \noffice, allowing him to show up early in \nthe morning before anyone else arrived\n\nand work without distraction. “On good \ndays, I can get in four hours of focus \nbefore the first meeting,” he told me. \n“Then maybe another three to four hours \nin the afternoon. And I do mean ‘focus’:  \nno e-mail, no Hacker News [a website \npopular among tech types], just \nprogramming.” For someone who \nadmitted to sometimes spending up to 98 \npercent of his day in his old job surfing \nthe Web, Jason Benn’s transformation is \nnothing short of astonishing.\nJason Benn’s story highlights a crucial \nlesson: Deep work is not some nostalgic \naffectation of writers and early- \ntwentieth-century philosophers. It’s\n\ninstead a skill that has great value today.\nThere are two reasons for this value. \nThe first has to do with learning. We \nhave an information economy that’s \ndependent on complex systems that \nchange rapidly. Some of the computer \nlanguages Benn learned, for example, \ndidn’t exist ten years ago and will likely \nbe outdated ten years from now. \nSimilarly, someone coming up in the \nfield of marketing in the 1990s probably \nhad no idea that today they’d need to \nmaster digital analytics. To remain \nvaluable in our economy, therefore, you \nmust master the art of quickly learning \ncomplicated things. This task requires \ndeep work. If you don’t cultivate this\n\nability, you’re likely to fall behind as \ntechnology advances.\nThe second reason that deep work is \nvaluable is because the impacts of the \ndigital network revolution cut both \nways. If you can create something useful, \nits reachable audience (e.g., employers \nor customers) is essentially limitless— \nwhich greatly magnifies your reward. On \nthe other hand, if what you’re producing \nis mediocre, then you’re in trouble, as \nit’s too easy for your audience to find a \nbetter alternative online. Whether you’re \na computer programmer, writer, \nmarketer, consultant, or entrepreneur, \nyour situation has become similar to \nJung trying to outwit Freud, or Jason\n\nBenn trying to hold his own in a hot \nstart-up: To succeed you have to produce \nthe absolute best stuff you’re capable of \nproducing—a task that requires depth.\nThe growing necessity of deep work \nis new. In an industrial economy, there \nwas a small skilled labor and \nprofessional class for which deep work \nwas crucial, but most workers could do \njust fine without ever cultivating an \nability to concentrate without \ndistraction. They were paid to crank \nwidgets—and not much about their job \nwould change in the decades they kept it. \nBut as we shift to an information \neconomy, more and more of our \npopulation are knowledge workers, and\n\ndeep work is becoming a key currency— \neven if most haven’t yet recognized this \nreality.\nDeep work is not, in other words, an \nold-fashioned skill falling into \nirrelevance. It’s instead a crucial ability \nfor anyone looking to move ahead in a \nglobally competitive information \neconomy that tends to chew up and spit \nout those who aren’t earning their keep. \nThe real rewards are reserved not for \nthose who are comfortable using \nFacebook (a shallow task, easily \nreplicated), but instead for those who \nare comfortable building the innovative \ndistributed systems that run the service \n(a decidedly deep task,",
+    "level": 0,
+    "parent_id": null,
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Introduction",
+      "subject": "Core Concepts",
+      "context": "Defining Deep Work versus Shallow Work and presenting the Deep Work Hypothesis.",
+      "source_document": "dw_introduction.txt",
+      "document_id": "d053d900601b",
+      "created_at": "2025-10-26T02:54:47.308813",
+      "level": 0
+    }
+  },
+  {
+    "chunk_id": "d053d900601b_L0_0004_L1_0000",
+    "text": " away\n\nstudying, Benn attended the notoriously \ndifficult Dev Bootcamp: a hundred-hour- \na-week crash course in Web application \nprogramming. (While researching the \nprogram, Benn found a student with a \nPhD from Princeton who had described \nDev as “the hardest thing I’ve ever done \nin my life.”) Given both his preparation \nand his newly honed ability for deep \nwork, Benn excelled. “Some people \nshow up not prepared,” he said. “They \ncan’t focus. They can’t learn quickly.” \nOnly half the students who started the \nprogram with Benn ended up graduating \non time. Benn not only graduated, but \nwas also the top student in his class.\nThe deep work paid off. Benn\n\nquickly landed a job as a developer at a \nSan Francisco tech start-up with $25 \nmillion in venture funding and its pick of \nemployees. When Benn quit his job as a \nfinancial consultant, only half a year \nearlier, he was making $40,000 a year. \nHis new job as a computer developer \npaid $100,000— an amount that can \ncontinue to grow, essentially without \nlimit in the Silicon Valley market, along \nwith his skill level.\nWhen I last spoke with Benn, he was \nthriving in his new position. A newfound \ndevotee o f deep work, he rented an \napartment across the street from his \noffice, allowing him to show up early in \nthe morning before anyone else arrived\n\nand work without distraction. “On good \ndays, I can get in four hours of focus \nbefore the first meeting,” he told me. \n“Then maybe another three to four hours \nin the afternoon. And I do mean ‘focus’:  \nno e-mail, no Hacker News [a website \npopular among tech types], just \nprogramming.” For someone who \nadmitted to sometimes spending up to 98 \npercent of his day in his old job surfing \nthe Web, Jason Benn’s transformation is \nnothing short of astonishing.\nJason Benn’s story highlights a crucial \nlesson: Deep work is not some nostalgic \naffectation of writers and early- \ntwentieth-century philosophers. It’s\n\ninstead a skill that has great value today.\nThere are two reasons for this value. \nThe first has to do with learning. We \nhave an information economy that’s \ndependent on complex systems that \nchange rapidly. Some of the computer \nlanguages Benn learned, for",
+    "level": 1,
+    "parent_id": "d053d900601b_L0_0004",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Introduction",
+      "subject": "Core Concepts",
+      "context": "Defining Deep Work versus Shallow Work and presenting the Deep Work Hypothesis.",
+      "source_document": "dw_introduction.txt",
+      "document_id": "d053d900601b",
+      "created_at": "2025-10-26T02:54:47.308813",
+      "level": 1,
+      "parent_chunk_id": "d053d900601b_L0_0004"
+    }
+  },
+  {
+    "chunk_id": "d053d900601b_L0_0004_L1_0000_L2_0000",
+    "text": " away\n\nstudying, Benn attended the notoriously \ndifficult Dev Bootcamp: a hundred-hour- \na-week crash course in Web application \nprogramming. (While researching the \nprogram, Benn found a student with a \nPhD from Princeton who had described \nDev as “the hardest thing I’ve ever done \nin my life.”) Given both his preparation \nand his newly honed ability for deep \nwork, Benn excelled. “Some people \nshow up not prepared,” he said. “They \ncan’t focus. They can’t learn quickly.” \nOnly half the students who started the \nprogram with Benn ended up graduating \non time. Benn not only graduated, but \nwas also the top student in his class.\nThe deep work paid off. Benn\n\nquickly landed a job as a developer at a \nSan Francisco tech start-up with $25 \nmillion in venture funding and its pick of \nemployees. When Benn quit his job as a \nfinancial consultant, only half a year \nearlier, he was making $40,000 a year. \nHis new job as a computer developer \npaid $100,000— an amount that can \ncontinue to grow, essentially without \nlimit in the Silicon Valley market, along \nwith his skill",
+    "level": 2,
+    "parent_id": "d053d900601b_L0_0004_L1_0000",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Introduction",
+      "subject": "Core Concepts",
+      "context": "Defining Deep Work versus Shallow Work and presenting the Deep Work Hypothesis.",
+      "source_document": "dw_introduction.txt",
+      "document_id": "d053d900601b",
+      "created_at": "2025-10-26T02:54:47.308813",
+      "level": 2,
+      "parent_chunk_id": "d053d900601b_L0_0004_L1_0000"
+    }
+  },
+  {
+    "chunk_id": "d053d900601b_L0_0004_L1_0000_L2_0001",
+    "text": ", he was making $40,000 a year. \nHis new job as a computer developer \npaid $100,000— an amount that can \ncontinue to grow, essentially without \nlimit in the Silicon Valley market, along \nwith his skill level.\nWhen I last spoke with Benn, he was \nthriving in his new position. A newfound \ndevotee o f deep work, he rented an \napartment across the street from his \noffice, allowing him to show up early in \nthe morning before anyone else arrived\n\nand work without distraction. “On good \ndays, I can get in four hours of focus \nbefore the first meeting,” he told me. \n“Then maybe another three to four hours \nin the afternoon. And I do mean ‘focus’:  \nno e-mail, no Hacker News [a website \npopular among tech types], just \nprogramming.” For someone who \nadmitted to sometimes spending up to 98 \npercent of his day in his old job surfing \nthe Web, Jason Benn’s transformation is \nnothing short of astonishing.\nJason Benn’s story highlights a crucial \nlesson: Deep work is not some nostalgic \naffectation of writers and early- \ntwentieth-century philosophers. It’s\n\ninstead a skill that",
+    "level": 2,
+    "parent_id": "d053d900601b_L0_0004_L1_0000",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Introduction",
+      "subject": "Core Concepts",
+      "context": "Defining Deep Work versus Shallow Work and presenting the Deep Work Hypothesis.",
+      "source_document": "dw_introduction.txt",
+      "document_id": "d053d900601b",
+      "created_at": "2025-10-26T02:54:47.308813",
+      "level": 2,
+      "parent_chunk_id": "d053d900601b_L0_0004_L1_0000"
+    }
+  },
+  {
+    "chunk_id": "d053d900601b_L0_0004_L1_0000_L2_0002",
+    "text": ", Jason Benn’s transformation is \nnothing short of astonishing.\nJason Benn’s story highlights a crucial \nlesson: Deep work is not some nostalgic \naffectation of writers and early- \ntwentieth-century philosophers. It’s\n\ninstead a skill that has great value today.\nThere are two reasons for this value. \nThe first has to do with learning. We \nhave an information economy that’s \ndependent on complex systems that \nchange rapidly. Some of the computer \nlanguages Benn learned, for",
+    "level": 2,
+    "parent_id": "d053d900601b_L0_0004_L1_0000",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Introduction",
+      "subject": "Core Concepts",
+      "context": "Defining Deep Work versus Shallow Work and presenting the Deep Work Hypothesis.",
+      "source_document": "dw_introduction.txt",
+      "document_id": "d053d900601b",
+      "created_at": "2025-10-26T02:54:47.308813",
+      "level": 2,
+      "parent_chunk_id": "d053d900601b_L0_0004_L1_0000"
+    }
+  },
+  {
+    "chunk_id": "d053d900601b_L0_0004_L1_0001",
+    "text": " has great value today.\nThere are two reasons for this value. \nThe first has to do with learning. We \nhave an information economy that’s \ndependent on complex systems that \nchange rapidly. Some of the computer \nlanguages Benn learned, for example, \ndidn’t exist ten years ago and will likely \nbe outdated ten years from now. \nSimilarly, someone coming up in the \nfield of marketing in the 1990s probably \nhad no idea that today they’d need to \nmaster digital analytics. To remain \nvaluable in our economy, therefore, you \nmust master the art of quickly learning \ncomplicated things. This task requires \ndeep work. If you don’t cultivate this\n\nability, you’re likely to fall behind as \ntechnology advances.\nThe second reason that deep work is \nvaluable is because the impacts of the \ndigital network revolution cut both \nways. If you can create something useful, \nits reachable audience (e.g., employers \nor customers) is essentially limitless— \nwhich greatly magnifies your reward. On \nthe other hand, if what you’re producing \nis mediocre, then you’re in trouble, as \nit’s too easy for your audience to find a \nbetter alternative online. Whether you’re \na computer programmer, writer, \nmarketer, consultant, or entrepreneur, \nyour situation has become similar to \nJung trying to outwit Freud, or Jason\n\nBenn trying to hold his own in a hot \nstart-up: To succeed you have to produce \nthe absolute best stuff you’re capable of \nproducing—a task that requires depth.\nThe growing necessity of deep work \nis new. In an industrial economy, there \nwas a small skilled labor and \nprofessional class for which deep work \nwas crucial, but most workers could do \njust fine without ever cultivating an \nability to concentrate without \ndistraction. They were paid to crank \nwidgets—and not much about their job \nwould change in the decades they kept it. \nBut as we shift to an information \neconomy, more and more of our \npopulation are knowledge workers, and\n\ndeep work is becoming a key currency— \neven if most haven’t yet recognized this \nreality.\nDeep work is not, in other words, an \nold-fashioned skill falling into \nirrelevance. It’s instead a crucial ability \nfor anyone looking to move ahead in a \nglobally competitive information \neconomy that tends to chew up and spit \nout those who aren’t earning their keep.",
+    "level": 1,
+    "parent_id": "d053d900601b_L0_0004",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Introduction",
+      "subject": "Core Concepts",
+      "context": "Defining Deep Work versus Shallow Work and presenting the Deep Work Hypothesis.",
+      "source_document": "dw_introduction.txt",
+      "document_id": "d053d900601b",
+      "created_at": "2025-10-26T02:54:47.308813",
+      "level": 1,
+      "parent_chunk_id": "d053d900601b_L0_0004"
+    }
+  },
+  {
+    "chunk_id": "d053d900601b_L0_0004_L1_0001_L2_0000",
+    "text": " has great value today.\nThere are two reasons for this value. \nThe first has to do with learning. We \nhave an information economy that’s \ndependent on complex systems that \nchange rapidly. Some of the computer \nlanguages Benn learned, for example, \ndidn’t exist ten years ago and will likely \nbe outdated ten years from now. \nSimilarly, someone coming up in the \nfield of marketing in the 1990s probably \nhad no idea that today they’d need to \nmaster digital analytics. To remain \nvaluable in our economy, therefore, you \nmust master the art of quickly learning \ncomplicated things. This task requires \ndeep work. If you don’t cultivate this\n\nability, you’re likely to fall behind as \ntechnology advances.\nThe second reason that deep work is \nvaluable is because the impacts of the \ndigital network revolution cut both \nways. If you can create something useful, \nits reachable audience (e.g., employers \nor customers) is essentially limitless— \nwhich greatly magnifies your reward. On \nthe other hand, if what you’re producing \nis mediocre, then you’re in trouble, as \nit’s too easy for your audience to find a \nbetter alternative online. Whether you’re \na",
+    "level": 2,
+    "parent_id": "d053d900601b_L0_0004_L1_0001",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Introduction",
+      "subject": "Core Concepts",
+      "context": "Defining Deep Work versus Shallow Work and presenting the Deep Work Hypothesis.",
+      "source_document": "dw_introduction.txt",
+      "document_id": "d053d900601b",
+      "created_at": "2025-10-26T02:54:47.308813",
+      "level": 2,
+      "parent_chunk_id": "d053d900601b_L0_0004_L1_0001"
+    }
+  },
+  {
+    "chunk_id": "d053d900601b_L0_0004_L1_0001_L2_0001",
+    "text": "which greatly magnifies your reward. On \nthe other hand, if what you’re producing \nis mediocre, then you’re in trouble, as \nit’s too easy for your audience to find a \nbetter alternative online. Whether you’re \na computer programmer, writer, \nmarketer, consultant, or entrepreneur, \nyour situation has become similar to \nJung trying to outwit Freud, or Jason\n\nBenn trying to hold his own in a hot \nstart-up: To succeed you have to produce \nthe absolute best stuff you’re capable of \nproducing—a task that requires depth.\nThe growing necessity of deep work \nis new. In an industrial economy, there \nwas a small skilled labor and \nprofessional class for which deep work \nwas crucial, but most workers could do \njust fine without ever cultivating an \nability to concentrate without \ndistraction. They were paid to crank \nwidgets—and not much about their job \nwould change in the decades they kept it. \nBut as we shift to an information \neconomy, more and more of our \npopulation are knowledge workers, and\n\ndeep work is becoming a key currency— \neven if most haven’t yet recognized this \nreality.\nDeep work is not, in other words, an \n",
+    "level": 2,
+    "parent_id": "d053d900601b_L0_0004_L1_0001",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Introduction",
+      "subject": "Core Concepts",
+      "context": "Defining Deep Work versus Shallow Work and presenting the Deep Work Hypothesis.",
+      "source_document": "dw_introduction.txt",
+      "document_id": "d053d900601b",
+      "created_at": "2025-10-26T02:54:47.308813",
+      "level": 2,
+      "parent_chunk_id": "d053d900601b_L0_0004_L1_0001"
+    }
+  },
+  {
+    "chunk_id": "d053d900601b_L0_0004_L1_0001_L2_0002",
+    "text": " information \neconomy, more and more of our \npopulation are knowledge workers, and\n\ndeep work is becoming a key currency— \neven if most haven’t yet recognized this \nreality.\nDeep work is not, in other words, an \nold-fashioned skill falling into \nirrelevance. It’s instead a crucial ability \nfor anyone looking to move ahead in a \nglobally competitive information \neconomy that tends to chew up and spit \nout those who aren’t earning their keep.",
+    "level": 2,
+    "parent_id": "d053d900601b_L0_0004_L1_0001",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Introduction",
+      "subject": "Core Concepts",
+      "context": "Defining Deep Work versus Shallow Work and presenting the Deep Work Hypothesis.",
+      "source_document": "dw_introduction.txt",
+      "document_id": "d053d900601b",
+      "created_at": "2025-10-26T02:54:47.308813",
+      "level": 2,
+      "parent_chunk_id": "d053d900601b_L0_0004_L1_0001"
+    }
+  },
+  {
+    "chunk_id": "d053d900601b_L0_0004_L1_0002",
+    "text": "old-fashioned skill falling into \nirrelevance. It’s instead a crucial ability \nfor anyone looking to move ahead in a \nglobally competitive information \neconomy that tends to chew up and spit \nout those who aren’t earning their keep. \nThe real rewards are reserved not for \nthose who are comfortable using \nFacebook (a shallow task, easily \nreplicated), but instead for those who \nare comfortable building the innovative \ndistributed systems that run the service \n(a decidedly deep task,",
+    "level": 1,
+    "parent_id": "d053d900601b_L0_0004",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Introduction",
+      "subject": "Core Concepts",
+      "context": "Defining Deep Work versus Shallow Work and presenting the Deep Work Hypothesis.",
+      "source_document": "dw_introduction.txt",
+      "document_id": "d053d900601b",
+      "created_at": "2025-10-26T02:54:47.308813",
+      "level": 1,
+      "parent_chunk_id": "d053d900601b_L0_0004"
+    }
+  },
+  {
+    "chunk_id": "d053d900601b_L0_0004_L1_0002_L2_0000",
+    "text": "old-fashioned skill falling into \nirrelevance. It’s instead a crucial ability \nfor anyone looking to move ahead in a \nglobally competitive information \neconomy that tends to chew up and spit \nout those who aren’t earning their keep. \nThe real rewards are reserved not for \nthose who are comfortable using \nFacebook (a shallow task, easily \nreplicated), but instead for those who \nare comfortable building the innovative \ndistributed systems that run the service \n(a decidedly deep task,",
+    "level": 2,
+    "parent_id": "d053d900601b_L0_0004_L1_0002",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Introduction",
+      "subject": "Core Concepts",
+      "context": "Defining Deep Work versus Shallow Work and presenting the Deep Work Hypothesis.",
+      "source_document": "dw_introduction.txt",
+      "document_id": "d053d900601b",
+      "created_at": "2025-10-26T02:54:47.308813",
+      "level": 2,
+      "parent_chunk_id": "d053d900601b_L0_0004_L1_0002"
+    }
+  },
+  {
+    "chunk_id": "d053d900601b_L0_0005",
+    "text": " \nThe real rewards are reserved not for \nthose who are comfortable using \nFacebook (a shallow task, easily \nreplicated), but instead for those who \nare comfortable building the innovative \ndistributed systems that run the service \n(a decidedly deep task, hard to\n\nreplicate). Deep work is so important \nthat we might consider it, to use the \nphrasing of business writer Eric Barker, \n“the superpower of the 21st century.”\nWe have now seen two strands of \nthought—one about the increasing \nscarcity of deep work and the other \nabout its increasing value—which we \ncan combine into the idea that provides \nthe foundation for everything that \nfollows in this book:\nThe Deep Work Hypothesis: The ability \nto perform deep work is becoming \nincreasingly rare at exactly the same time\n\nit is becoming increasingly valuable in our \neconomy. As a consequence, the few who \ncultivate this skill, and then make it the \ncore of their working life, will thrive.\nThis book has two goals, pursued in \ntwo parts. The first, tackled in Part 1, is \nto convince you that the deep work \nhypothesis is true. The second, tackled \nin Part 2, is to teach you how to take \nadvantage of this reality by training your \nbrain and transforming your work habits \nto place deep work at the core of your \nprofessional life. Before diving into \nthese details, however, I’ll take a \nmoment to explain how I became such a \ndevotee of depth.\n\nI’ve spent the past decade cultivating my \nown ability to concentrate on hard \nthings. To understand the origins of this \ninterest, it helps to know that I’m a \ntheoretical computer scientist who \nperformed my doctoral training in MIT’s \nfamed Theory of Computation group— a \nprofessional setting where the ability to \nfocus is considered a crucial \noccupational skill.\nDuring these years, I shared a \ngraduate student office down the hall \nfrom a MacArthur “genius grant” winner \n—a professor who was hired at MIT \nbefore he was old enough to legally \ndrink. It wasn’t uncommon to find this \ntheoretician sitting in the common space,\n\nstaring at markings on a whiteboard, \nwith a group of visiting scholars arrayed \naround him, also sitting quietly and \nstaring. This could go on for hours. I’d \ngo to lunch; I’d come back—still staring. \nThis particular professor is hard to \nreach. He’s not on Twitter and if he \ndoesn’t know you, he’s unlikely to \nrespond to your e-mail. Last year he \npublished sixteen papers.\nThis type of fierce concentration \npermeated the atmosphere during my \nstudent years. Not surprisingly, I soon \ndeveloped a similar commitment to \ndepth. To the chagrin of both my friends \nand the various publicists I’ve worked \nwith on my books, I’ve never had a\n\nFacebook or Twitter account, or any \nother social media presence outside of a \nblog. I don’t Web surf and get most of \nmy news from my home-delivered \nWashington Post  and NPR. I’m also \ngenerally hard to reach: My author \nwebsite doesn’t provide a personal e­\nmail address, and I didn’t own my first \nsmartphone until 2012 (when my \npregnant wife gave me an ultimatum \n—“you have to have a phone that works  \nbefore our son is born”).\nOn the other hand, my commitment to \ndepth has rewarded me. In the ten-year \nperiod following my college graduation, \nI published four books, earned a PhD, \nwrote peer-reviewed academic papers\n\nat a high rate, and was hired as a tenure- \ntrack professor at Georgetown \nUniversity. I maintained this voluminous \nproduction while rarely working past \nfive or six p.m. during the workweek.\nThis compressed schedule is \npossible because I’ve invested \nsignificant effort to minimize the shallow \nin my life while making sure I get the \nmost out of the time this frees up. I build \nmy days around a core of carefully \nchosen deep work, with the shallow \nactivities I absolutely cannot avoid \nbatched into smaller bursts at the \nperipheries of my schedule. Three to \nfour hours a day, five days a week, of \nuninterrupted and carefully directed\n\nconcentration, it turns out, can produce a \nlot of valuable output.\nMy commitment to depth has also \nreturned nonprofessional benefits. For \nthe most part, I don’t touch a computer \nbetween the time when I get home from \nwork and the next morning when the new \nworkday begins (the main exception \nbeing blog posts, which I like to write \nafter my kids go to bed). This ability to \nfully disconnect, as opposed to the more \nstandard practice o f sneaking in a few \nquick",
+    "level": 0,
+    "parent_id": null,
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Introduction",
+      "subject": "Core Concepts",
+      "context": "Defining Deep Work versus Shallow Work and presenting the Deep Work Hypothesis.",
+      "source_document": "dw_introduction.txt",
+      "document_id": "d053d900601b",
+      "created_at": "2025-10-26T02:54:47.308813",
+      "level": 0
+    }
+  },
+  {
+    "chunk_id": "d053d900601b_L0_0005_L1_0000",
+    "text": " \nThe real rewards are reserved not for \nthose who are comfortable using \nFacebook (a shallow task, easily \nreplicated), but instead for those who \nare comfortable building the innovative \ndistributed systems that run the service \n(a decidedly deep task, hard to\n\nreplicate). Deep work is so important \nthat we might consider it, to use the \nphrasing of business writer Eric Barker, \n“the superpower of the 21st century.”\nWe have now seen two strands of \nthought—one about the increasing \nscarcity of deep work and the other \nabout its increasing value—which we \ncan combine into the idea that provides \nthe foundation for everything that \nfollows in this book:\nThe Deep Work Hypothesis: The ability \nto perform deep work is becoming \nincreasingly rare at exactly the same time\n\nit is becoming increasingly valuable in our \neconomy. As a consequence, the few who \ncultivate this skill, and then make it the \ncore of their working life, will thrive.\nThis book has two goals, pursued in \ntwo parts. The first, tackled in Part 1, is \nto convince you that the deep work \nhypothesis is true. The second, tackled \nin Part 2, is to teach you how to take \nadvantage of this reality by training your \nbrain and transforming your work habits \nto place deep work at the core of your \nprofessional life. Before diving into \nthese details, however, I’ll take a \nmoment to explain how I became such a \ndevotee of depth.\n\nI’ve spent the past decade cultivating my \nown ability to concentrate on hard \nthings. To understand the origins of this \ninterest, it helps to know that I’m a \ntheoretical computer scientist who \nperformed my doctoral training in MIT’s \nfamed Theory of Computation group— a \nprofessional setting where the ability to \nfocus is considered a crucial \noccupational skill.\nDuring these years, I shared a \ngraduate student office down the hall \nfrom a MacArthur “genius grant” winner \n—a professor who was hired at MIT \nbefore he was old enough to legally \ndrink. It wasn’t uncommon to find this \ntheoretician sitting in the common space,\n\nstaring at markings on a whiteboard, \nwith a group of visiting scholars arrayed \naround him, also sitting quietly and \nstaring. This could go on for hours. I’d \ngo to lunch; I’d come back—still staring",
+    "level": 1,
+    "parent_id": "d053d900601b_L0_0005",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Introduction",
+      "subject": "Core Concepts",
+      "context": "Defining Deep Work versus Shallow Work and presenting the Deep Work Hypothesis.",
+      "source_document": "dw_introduction.txt",
+      "document_id": "d053d900601b",
+      "created_at": "2025-10-26T02:54:47.308813",
+      "level": 1,
+      "parent_chunk_id": "d053d900601b_L0_0005"
+    }
+  },
+  {
+    "chunk_id": "d053d900601b_L0_0005_L1_0000_L2_0000",
+    "text": " \nThe real rewards are reserved not for \nthose who are comfortable using \nFacebook (a shallow task, easily \nreplicated), but instead for those who \nare comfortable building the innovative \ndistributed systems that run the service \n(a decidedly deep task, hard to\n\nreplicate). Deep work is so important \nthat we might consider it, to use the \nphrasing of business writer Eric Barker, \n“the superpower of the 21st century.”\nWe have now seen two strands of \nthought—one about the increasing \nscarcity of deep work and the other \nabout its increasing value—which we \ncan combine into the idea that provides \nthe foundation for everything that \nfollows in this book:\nThe Deep Work Hypothesis: The ability \nto perform deep work is becoming \nincreasingly rare at exactly the same time\n\nit is becoming increasingly valuable in our \neconomy. As a consequence, the few who \ncultivate this skill, and then make it the \ncore of their working life, will thrive.\nThis book has two goals, pursued in \ntwo parts. The first, tackled in Part 1, is \nto convince you that the deep work \nhypothesis is true. The second, tackled \nin Part 2,",
+    "level": 2,
+    "parent_id": "d053d900601b_L0_0005_L1_0000",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Introduction",
+      "subject": "Core Concepts",
+      "context": "Defining Deep Work versus Shallow Work and presenting the Deep Work Hypothesis.",
+      "source_document": "dw_introduction.txt",
+      "document_id": "d053d900601b",
+      "created_at": "2025-10-26T02:54:47.308813",
+      "level": 2,
+      "parent_chunk_id": "d053d900601b_L0_0005_L1_0000"
+    }
+  },
+  {
+    "chunk_id": "d053d900601b_L0_0005_L1_0000_L2_0001",
+    "text": " will thrive.\nThis book has two goals, pursued in \ntwo parts. The first, tackled in Part 1, is \nto convince you that the deep work \nhypothesis is true. The second, tackled \nin Part 2, is to teach you how to take \nadvantage of this reality by training your \nbrain and transforming your work habits \nto place deep work at the core of your \nprofessional life. Before diving into \nthese details, however, I’ll take a \nmoment to explain how I became such a \ndevotee of depth.\n\nI’ve spent the past decade cultivating my \nown ability to concentrate on hard \nthings. To understand the origins of this \ninterest, it helps to know that I’m a \ntheoretical computer scientist who \nperformed my doctoral training in MIT’s \nfamed Theory of Computation group— a \nprofessional setting where the ability to \nfocus is considered a crucial \noccupational skill.\nDuring these years, I shared a \ngraduate student office down the hall \nfrom a MacArthur “genius grant” winner \n—a professor who was hired at MIT \nbefore he was old enough to legally \ndrink. It wasn’t uncommon to find this \ntheoretician sitting in the common space,\n\nst",
+    "level": 2,
+    "parent_id": "d053d900601b_L0_0005_L1_0000",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Introduction",
+      "subject": "Core Concepts",
+      "context": "Defining Deep Work versus Shallow Work and presenting the Deep Work Hypothesis.",
+      "source_document": "dw_introduction.txt",
+      "document_id": "d053d900601b",
+      "created_at": "2025-10-26T02:54:47.308813",
+      "level": 2,
+      "parent_chunk_id": "d053d900601b_L0_0005_L1_0000"
+    }
+  },
+  {
+    "chunk_id": "d053d900601b_L0_0005_L1_0000_L2_0002",
+    "text": " the hall \nfrom a MacArthur “genius grant” winner \n—a professor who was hired at MIT \nbefore he was old enough to legally \ndrink. It wasn’t uncommon to find this \ntheoretician sitting in the common space,\n\nstaring at markings on a whiteboard, \nwith a group of visiting scholars arrayed \naround him, also sitting quietly and \nstaring. This could go on for hours. I’d \ngo to lunch; I’d come back—still staring",
+    "level": 2,
+    "parent_id": "d053d900601b_L0_0005_L1_0000",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Introduction",
+      "subject": "Core Concepts",
+      "context": "Defining Deep Work versus Shallow Work and presenting the Deep Work Hypothesis.",
+      "source_document": "dw_introduction.txt",
+      "document_id": "d053d900601b",
+      "created_at": "2025-10-26T02:54:47.308813",
+      "level": 2,
+      "parent_chunk_id": "d053d900601b_L0_0005_L1_0000"
+    }
+  },
+  {
+    "chunk_id": "d053d900601b_L0_0005_L1_0001",
+    "text": "aring at markings on a whiteboard, \nwith a group of visiting scholars arrayed \naround him, also sitting quietly and \nstaring. This could go on for hours. I’d \ngo to lunch; I’d come back—still staring. \nThis particular professor is hard to \nreach. He’s not on Twitter and if he \ndoesn’t know you, he’s unlikely to \nrespond to your e-mail. Last year he \npublished sixteen papers.\nThis type of fierce concentration \npermeated the atmosphere during my \nstudent years. Not surprisingly, I soon \ndeveloped a similar commitment to \ndepth. To the chagrin of both my friends \nand the various publicists I’ve worked \nwith on my books, I’ve never had a\n\nFacebook or Twitter account, or any \nother social media presence outside of a \nblog. I don’t Web surf and get most of \nmy news from my home-delivered \nWashington Post  and NPR. I’m also \ngenerally hard to reach: My author \nwebsite doesn’t provide a personal e­\nmail address, and I didn’t own my first \nsmartphone until 2012 (when my \npregnant wife gave me an ultimatum \n—“you have to have a phone that works  \nbefore our son is born”).\nOn the other hand, my commitment to \ndepth has rewarded me. In the ten-year \nperiod following my college graduation, \nI published four books, earned a PhD, \nwrote peer-reviewed academic papers\n\nat a high rate, and was hired as a tenure- \ntrack professor at Georgetown \nUniversity. I maintained this voluminous \nproduction while rarely working past \nfive or six p.m. during the workweek.\nThis compressed schedule is \npossible because I’ve invested \nsignificant effort to minimize the shallow \nin my life while making sure I get the \nmost out of the time this frees up. I build \nmy days around a core of carefully \nchosen deep work, with the shallow \nactivities I absolutely cannot avoid \nbatched into smaller bursts at the \nperipheries of my schedule. Three to \nfour hours a day, five days a week, of \nuninterrupted and carefully directed\n\nconcentration, it turns out, can produce a \nlot of valuable output.\nMy commitment to depth has also \nreturned nonprofessional benefits. For \nthe most part, I don’t touch a computer \nbetween the time when I get home from \nwork and the next morning when the new",
+    "level": 1,
+    "parent_id": "d053d900601b_L0_0005",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Introduction",
+      "subject": "Core Concepts",
+      "context": "Defining Deep Work versus Shallow Work and presenting the Deep Work Hypothesis.",
+      "source_document": "dw_introduction.txt",
+      "document_id": "d053d900601b",
+      "created_at": "2025-10-26T02:54:47.308813",
+      "level": 1,
+      "parent_chunk_id": "d053d900601b_L0_0005"
+    }
+  },
+  {
+    "chunk_id": "d053d900601b_L0_0005_L1_0001_L2_0000",
+    "text": "aring at markings on a whiteboard, \nwith a group of visiting scholars arrayed \naround him, also sitting quietly and \nstaring. This could go on for hours. I’d \ngo to lunch; I’d come back—still staring. \nThis particular professor is hard to \nreach. He’s not on Twitter and if he \ndoesn’t know you, he’s unlikely to \nrespond to your e-mail. Last year he \npublished sixteen papers.\nThis type of fierce concentration \npermeated the atmosphere during my \nstudent years. Not surprisingly, I soon \ndeveloped a similar commitment to \ndepth. To the chagrin of both my friends \nand the various publicists I’ve worked \nwith on my books, I’ve never had a\n\nFacebook or Twitter account, or any \nother social media presence outside of a \nblog. I don’t Web surf and get most of \nmy news from my home-delivered \nWashington Post  and NPR. I’m also \ngenerally hard to reach: My author \nwebsite doesn’t provide a personal e­\nmail address, and I didn’t own my first \nsmartphone until 2012 (when my \npregnant wife gave me an ultimatum \n—“you have to",
+    "level": 2,
+    "parent_id": "d053d900601b_L0_0005_L1_0001",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Introduction",
+      "subject": "Core Concepts",
+      "context": "Defining Deep Work versus Shallow Work and presenting the Deep Work Hypothesis.",
+      "source_document": "dw_introduction.txt",
+      "document_id": "d053d900601b",
+      "created_at": "2025-10-26T02:54:47.308813",
+      "level": 2,
+      "parent_chunk_id": "d053d900601b_L0_0005_L1_0001"
+    }
+  },
+  {
+    "chunk_id": "d053d900601b_L0_0005_L1_0001_L2_0001",
+    "text": " reach: My author \nwebsite doesn’t provide a personal e­\nmail address, and I didn’t own my first \nsmartphone until 2012 (when my \npregnant wife gave me an ultimatum \n—“you have to have a phone that works  \nbefore our son is born”).\nOn the other hand, my commitment to \ndepth has rewarded me. In the ten-year \nperiod following my college graduation, \nI published four books, earned a PhD, \nwrote peer-reviewed academic papers\n\nat a high rate, and was hired as a tenure- \ntrack professor at Georgetown \nUniversity. I maintained this voluminous \nproduction while rarely working past \nfive or six p.m. during the workweek.\nThis compressed schedule is \npossible because I’ve invested \nsignificant effort to minimize the shallow \nin my life while making sure I get the \nmost out of the time this frees up. I build \nmy days around a core of carefully \nchosen deep work, with the shallow \nactivities I absolutely cannot avoid \nbatched into smaller bursts at the \nperipheries of my schedule. Three to \nfour hours a day, five days a week, of \nuninterrupted and carefully directed\n\nconcentration, it turns out, can",
+    "level": 2,
+    "parent_id": "d053d900601b_L0_0005_L1_0001",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Introduction",
+      "subject": "Core Concepts",
+      "context": "Defining Deep Work versus Shallow Work and presenting the Deep Work Hypothesis.",
+      "source_document": "dw_introduction.txt",
+      "document_id": "d053d900601b",
+      "created_at": "2025-10-26T02:54:47.308813",
+      "level": 2,
+      "parent_chunk_id": "d053d900601b_L0_0005_L1_0001"
+    }
+  },
+  {
+    "chunk_id": "d053d900601b_L0_0005_L1_0001_L2_0002",
+    "text": " I absolutely cannot avoid \nbatched into smaller bursts at the \nperipheries of my schedule. Three to \nfour hours a day, five days a week, of \nuninterrupted and carefully directed\n\nconcentration, it turns out, can produce a \nlot of valuable output.\nMy commitment to depth has also \nreturned nonprofessional benefits. For \nthe most part, I don’t touch a computer \nbetween the time when I get home from \nwork and the next morning when the new",
+    "level": 2,
+    "parent_id": "d053d900601b_L0_0005_L1_0001",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Introduction",
+      "subject": "Core Concepts",
+      "context": "Defining Deep Work versus Shallow Work and presenting the Deep Work Hypothesis.",
+      "source_document": "dw_introduction.txt",
+      "document_id": "d053d900601b",
+      "created_at": "2025-10-26T02:54:47.308813",
+      "level": 2,
+      "parent_chunk_id": "d053d900601b_L0_0005_L1_0001"
+    }
+  },
+  {
+    "chunk_id": "d053d900601b_L0_0005_L1_0002",
+    "text": " produce a \nlot of valuable output.\nMy commitment to depth has also \nreturned nonprofessional benefits. For \nthe most part, I don’t touch a computer \nbetween the time when I get home from \nwork and the next morning when the new \nworkday begins (the main exception \nbeing blog posts, which I like to write \nafter my kids go to bed). This ability to \nfully disconnect, as opposed to the more \nstandard practice o f sneaking in a few \nquick",
+    "level": 1,
+    "parent_id": "d053d900601b_L0_0005",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Introduction",
+      "subject": "Core Concepts",
+      "context": "Defining Deep Work versus Shallow Work and presenting the Deep Work Hypothesis.",
+      "source_document": "dw_introduction.txt",
+      "document_id": "d053d900601b",
+      "created_at": "2025-10-26T02:54:47.308813",
+      "level": 1,
+      "parent_chunk_id": "d053d900601b_L0_0005"
+    }
+  },
+  {
+    "chunk_id": "d053d900601b_L0_0005_L1_0002_L2_0000",
+    "text": " produce a \nlot of valuable output.\nMy commitment to depth has also \nreturned nonprofessional benefits. For \nthe most part, I don’t touch a computer \nbetween the time when I get home from \nwork and the next morning when the new \nworkday begins (the main exception \nbeing blog posts, which I like to write \nafter my kids go to bed). This ability to \nfully disconnect, as opposed to the more \nstandard practice o f sneaking in a few \nquick",
+    "level": 2,
+    "parent_id": "d053d900601b_L0_0005_L1_0002",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Introduction",
+      "subject": "Core Concepts",
+      "context": "Defining Deep Work versus Shallow Work and presenting the Deep Work Hypothesis.",
+      "source_document": "dw_introduction.txt",
+      "document_id": "d053d900601b",
+      "created_at": "2025-10-26T02:54:47.308813",
+      "level": 2,
+      "parent_chunk_id": "d053d900601b_L0_0005_L1_0002"
+    }
+  },
+  {
+    "chunk_id": "d053d900601b_L0_0006",
+    "text": " \nworkday begins (the main exception \nbeing blog posts, which I like to write \nafter my kids go to bed). This ability to \nfully disconnect, as opposed to the more \nstandard practice o f sneaking in a few \nquick work e-mail checks, or giving in \nto frequent surveys o f social media sites, \nallows me to be present with my wife \nand two sons in the evenings, and read a \nsurprising number o f books for a busy\n\nfather of two. More generally, the lack of \ndistraction in my life tones down that \nbackground hum of nervous mental \nenergy that seems to increasingly \npervade people’s daily lives. I’m \ncomfortable being bored, and this can be \na surprisingly rewarding skill— \nespecially on a lazy D.C. summer night \nlistening to a Nationals game slowly \nunfold on the radio.\nThis book is best described as an \nattempt to formalize and explain my \nattraction to depth over shallowness, and \nto detail the types of strategies that have \nhelped me act on this attraction. I’ve \ncommitted this thinking to words, in part,\n\nto help you follow my lead in rebuilding \nyour life around deep work—but this \nisn’t the whole story. My other interest \nin distilling and clarifying these thoughts \nis to further develop my own practice. \nMy recognition of the deep work \nhypothesis has helped me thrive, but I’m \nconvinced that I haven’t yet reached my \nfull value-producing potential. As you \nstruggle and ultimately triumph with the \nideas and rules in the chapters ahead, \nyou can be assured that I’m following \nsuit—ruthlessly culling the shallow and \npainstakingly cultivating the intensity of \nmy depth. (You’ll learn how I fare in this \nbook’s conclusion.)\nWhen Carl Jung wanted to\n\nrevolutionize the field of psychiatry, he \nbuilt a retreat in the woods. Jung’s \nBollingen Tower became a place where \nhe could maintain his ability to think \ndeeply and then apply the skill to \nproduce work of such stunning \noriginality that it changed the world. In \nthe pages ahead, I’ll try to convince you \nto join me in the effort to build our own \npersonal Bollingen Towers; to cultivate \nan ability to produce real value in an \nincreasingly distracted world; and to \nrecognize a truth embraced by the most \nproductive and important personalities \nof generations past: A deep life is a \ngood life.",
+    "level": 0,
+    "parent_id": null,
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Introduction",
+      "subject": "Core Concepts",
+      "context": "Defining Deep Work versus Shallow Work and presenting the Deep Work Hypothesis.",
+      "source_document": "dw_introduction.txt",
+      "document_id": "d053d900601b",
+      "created_at": "2025-10-26T02:54:47.308813",
+      "level": 0
+    }
+  },
+  {
+    "chunk_id": "d053d900601b_L0_0006_L1_0000",
+    "text": " \nworkday begins (the main exception \nbeing blog posts, which I like to write \nafter my kids go to bed). This ability to \nfully disconnect, as opposed to the more \nstandard practice o f sneaking in a few \nquick work e-mail checks, or giving in \nto frequent surveys o f social media sites, \nallows me to be present with my wife \nand two sons in the evenings, and read a \nsurprising number o f books for a busy\n\nfather of two. More generally, the lack of \ndistraction in my life tones down that \nbackground hum of nervous mental \nenergy that seems to increasingly \npervade people’s daily lives. I’m \ncomfortable being bored, and this can be \na surprisingly rewarding skill— \nespecially on a lazy D.C. summer night \nlistening to a Nationals game slowly \nunfold on the radio.\nThis book is best described as an \nattempt to formalize and explain my \nattraction to depth over shallowness, and \nto detail the types of strategies that have \nhelped me act on this attraction. I’ve \ncommitted this thinking to words, in part,\n\nto help you follow my lead in rebuilding \nyour life around deep work—but this \nisn’t the whole story. My other interest \nin distilling and clarifying these thoughts \nis to further develop my own practice. \nMy recognition of the deep work \nhypothesis has helped me thrive, but I’m \nconvinced that I haven’t yet reached my \nfull value-producing potential. As you \nstruggle and ultimately triumph with the \nideas and rules in the chapters ahead, \nyou can be assured that I’m following \nsuit—ruthlessly culling the shallow and \npainstakingly cultivating the intensity of \nmy depth. (You’ll learn how I fare in this \nbook’s conclusion.)\nWhen Carl Jung wanted to\n\nrevolutionize the field of psychiatry, he \nbuilt a retreat in the woods. Jung’s \nBollingen Tower became a place where \nhe could maintain his ability to think \ndeeply and then apply the skill to \nproduce work of such stunning \noriginality that it changed the world. In \nthe pages ahead, I’ll try to convince you \nto join me in the effort to build our own \npersonal Bollingen Towers; to cultivate \nan ability to produce real value in an \nincreasingly distracted world; and to \nrecognize a truth embraced by the most \nproductive and important personalities",
+    "level": 1,
+    "parent_id": "d053d900601b_L0_0006",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Introduction",
+      "subject": "Core Concepts",
+      "context": "Defining Deep Work versus Shallow Work and presenting the Deep Work Hypothesis.",
+      "source_document": "dw_introduction.txt",
+      "document_id": "d053d900601b",
+      "created_at": "2025-10-26T02:54:47.308813",
+      "level": 1,
+      "parent_chunk_id": "d053d900601b_L0_0006"
+    }
+  },
+  {
+    "chunk_id": "d053d900601b_L0_0006_L1_0000_L2_0000",
+    "text": " \nworkday begins (the main exception \nbeing blog posts, which I like to write \nafter my kids go to bed). This ability to \nfully disconnect, as opposed to the more \nstandard practice o f sneaking in a few \nquick work e-mail checks, or giving in \nto frequent surveys o f social media sites, \nallows me to be present with my wife \nand two sons in the evenings, and read a \nsurprising number o f books for a busy\n\nfather of two. More generally, the lack of \ndistraction in my life tones down that \nbackground hum of nervous mental \nenergy that seems to increasingly \npervade people’s daily lives. I’m \ncomfortable being bored, and this can be \na surprisingly rewarding skill— \nespecially on a lazy D.C. summer night \nlistening to a Nationals game slowly \nunfold on the radio.\nThis book is best described as an \nattempt to formalize and explain my \nattraction to depth over shallowness, and \nto detail the types of strategies that have \nhelped me act on this attraction. I’ve \ncommitted this thinking to words, in part,\n\nto help you follow my lead in rebuilding \nyour life around deep work—but this \nisn’t",
+    "level": 2,
+    "parent_id": "d053d900601b_L0_0006_L1_0000",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Introduction",
+      "subject": "Core Concepts",
+      "context": "Defining Deep Work versus Shallow Work and presenting the Deep Work Hypothesis.",
+      "source_document": "dw_introduction.txt",
+      "document_id": "d053d900601b",
+      "created_at": "2025-10-26T02:54:47.308813",
+      "level": 2,
+      "parent_chunk_id": "d053d900601b_L0_0006_L1_0000"
+    }
+  },
+  {
+    "chunk_id": "d053d900601b_L0_0006_L1_0000_L2_0001",
+    "text": " \nto detail the types of strategies that have \nhelped me act on this attraction. I’ve \ncommitted this thinking to words, in part,\n\nto help you follow my lead in rebuilding \nyour life around deep work—but this \nisn’t the whole story. My other interest \nin distilling and clarifying these thoughts \nis to further develop my own practice. \nMy recognition of the deep work \nhypothesis has helped me thrive, but I’m \nconvinced that I haven’t yet reached my \nfull value-producing potential. As you \nstruggle and ultimately triumph with the \nideas and rules in the chapters ahead, \nyou can be assured that I’m following \nsuit—ruthlessly culling the shallow and \npainstakingly cultivating the intensity of \nmy depth. (You’ll learn how I fare in this \nbook’s conclusion.)\nWhen Carl Jung wanted to\n\nrevolutionize the field of psychiatry, he \nbuilt a retreat in the woods. Jung’s \nBollingen Tower became a place where \nhe could maintain his ability to think \ndeeply and then apply the skill to \nproduce work of such stunning \noriginality that it changed the world. In \nthe pages ahead, I’ll try to convince you \nto",
+    "level": 2,
+    "parent_id": "d053d900601b_L0_0006_L1_0000",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Introduction",
+      "subject": "Core Concepts",
+      "context": "Defining Deep Work versus Shallow Work and presenting the Deep Work Hypothesis.",
+      "source_document": "dw_introduction.txt",
+      "document_id": "d053d900601b",
+      "created_at": "2025-10-26T02:54:47.308813",
+      "level": 2,
+      "parent_chunk_id": "d053d900601b_L0_0006_L1_0000"
+    }
+  },
+  {
+    "chunk_id": "d053d900601b_L0_0006_L1_0000_L2_0002",
+    "text": " became a place where \nhe could maintain his ability to think \ndeeply and then apply the skill to \nproduce work of such stunning \noriginality that it changed the world. In \nthe pages ahead, I’ll try to convince you \nto join me in the effort to build our own \npersonal Bollingen Towers; to cultivate \nan ability to produce real value in an \nincreasingly distracted world; and to \nrecognize a truth embraced by the most \nproductive and important personalities",
+    "level": 2,
+    "parent_id": "d053d900601b_L0_0006_L1_0000",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Introduction",
+      "subject": "Core Concepts",
+      "context": "Defining Deep Work versus Shallow Work and presenting the Deep Work Hypothesis.",
+      "source_document": "dw_introduction.txt",
+      "document_id": "d053d900601b",
+      "created_at": "2025-10-26T02:54:47.308813",
+      "level": 2,
+      "parent_chunk_id": "d053d900601b_L0_0006_L1_0000"
+    }
+  },
+  {
+    "chunk_id": "d053d900601b_L0_0006_L1_0001",
+    "text": " join me in the effort to build our own \npersonal Bollingen Towers; to cultivate \nan ability to produce real value in an \nincreasingly distracted world; and to \nrecognize a truth embraced by the most \nproductive and important personalities \nof generations past: A deep life is a \ngood life.",
+    "level": 1,
+    "parent_id": "d053d900601b_L0_0006",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Introduction",
+      "subject": "Core Concepts",
+      "context": "Defining Deep Work versus Shallow Work and presenting the Deep Work Hypothesis.",
+      "source_document": "dw_introduction.txt",
+      "document_id": "d053d900601b",
+      "created_at": "2025-10-26T02:54:47.308813",
+      "level": 1,
+      "parent_chunk_id": "d053d900601b_L0_0006"
+    }
+  },
+  {
+    "chunk_id": "d053d900601b_L0_0006_L1_0001_L2_0000",
+    "text": " join me in the effort to build our own \npersonal Bollingen Towers; to cultivate \nan ability to produce real value in an \nincreasingly distracted world; and to \nrecognize a truth embraced by the most \nproductive and important personalities \nof generations past: A deep life is a \ngood life.",
+    "level": 2,
+    "parent_id": "d053d900601b_L0_0006_L1_0001",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Introduction",
+      "subject": "Core Concepts",
+      "context": "Defining Deep Work versus Shallow Work and presenting the Deep Work Hypothesis.",
+      "source_document": "dw_introduction.txt",
+      "document_id": "d053d900601b",
+      "created_at": "2025-10-26T02:54:47.308813",
+      "level": 2,
+      "parent_chunk_id": "d053d900601b_L0_0006_L1_0001"
+    }
+  }
+]

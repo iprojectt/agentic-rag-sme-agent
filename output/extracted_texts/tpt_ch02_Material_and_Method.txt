@@ -1,0 +1,1024 @@
+The Pomodoro Technique 5 
+ 
+ 
+© Francesco Cirillo 19/10/2006 2 Material and Method 
+The process underlying the Pomodoro Technique consists of five stages: 
+ 
+What When Why 
+Planning at the start of the day to decide on the day’s activities 
+Tracking throughout the day to gather raw data on the effort expended and other 
+metrics of interest 
+Recording at the end of the day to compile an archive of daily observations 
+Processing at the end of the day to transform raw data into information 
+Visualizing at the end of the day to present the information in a format that facilitates 
+understanding and clarifies paths to improvement 
+Table 2.1   The Stages of the Pomodoro Technique 
+ 
+Note   The basic iteration of the Pomodoro Technique lasts one day, but it could also be less. In 
+this case, the five stages would take place more frequently. 
+ 
+ 
+Figure 2.1   The Pomodoro 
+ 
+To implement the Pomodoro Technique, all you need is the following: 
+! A Pomodoro: a kitchen timer (fig. 2.1) 
+! A To Do Today Sheet (Appendix 2), filled in at the start of each day with the following:  
+! A heading with place, date, and author 
+! A list of the things to do during the day, in order of priority  
+! A section labelled Unplanned & Urgent Activities where any unexpected tasks 
+that have to be dealt with should be listed as they come up. These activities 
+could potentially modify the day’s plan. 
+! An Activity Inventory Sheet (Appendix 3), consisting of: 
+! A heading with the name of the author 
+! A number of lines where various activities are noted down as they come up. At 
+the end of the day, the ones that ha ve been completed are checked off.  
+! A Records Sheet: This is the set of raw data needed to produce pertinent reports and 
+graphics. Depending on the objectives in questio n, this contains different sets of boxes. 
+Normally, this sheet would include the date, description, and the number of Pomodoros 
+worth of effort needed to accomplish a task. This sheet is updated at least once a day, 
+usually at the end of the day. 
+In the simple examples shown in this paper,  the Recording, Processing and Visualizing 
+stages are done directly on the Records Sheet. 
+The Pomodoro Technique 6 
+ 
+ 
+© Francesco Cirillo 19/10/2006  
+ 
+Note   Due to typographical constraints, the sheets used in this paper only show the entries 
+relating to the topic in question. Simple models of the sheets described here are provided in the 
+Appendices, and can be used to practice the Technique. 
+ 
+An evolutionary approach to the use of the Pomodoro Technique is provided below, 
+oriented toward a progressive experimentation of  the Technique itself. Clearly, the incremental 
+nature of the Technique means the objectives sh ould be achieved in the order they are given 
+here. 
+2.1 Objective I: Find Out How Much Effort an Activity 
+Requires 
+The traditional Pomodoro is 30 minutes long: 25 mi nutes of work plus a 5-minute break.  At the 
+beginning of each day, choose the tasks you wa nt to tackle from the Activity Inventory Sheet, 
+prioritize them, and write them down in the To Do Today Sheet (Fig. 2.2). 
+ 
+ TO DO TODAY Rome, 12 July 2006 
+Mark Ross 
+ W r i t e  a r t i c l e  o n  How to Learn Music  (max 10 pps)  
+ Finetune How to Learn Music  by reading it out loud  
+ Condense How to Learn Music  to 3 pps  
+Figure 2.2    To Do Today Sheet  
+2.1.1  Start the First Pomodoro 
+Set the Pomodoro for 25 minutes and start the first activity on the To Do Today Sheet. Whoever 
+is using the Pomodoro, whether one person or more than one, should always be able to clearly 
+see how much time is left (fig. 2.3). 
+ 
+Figure 2.3    The Pomodoro: The time remaining should always be visible.  
+ 
+A Pomodoro can’t be interrupted; it marks 25 minutes of pure work. A Pomodoro can’t 
+be split up; there is no such thing as half of a Pomodoro or a quarter of a Pomodoro. The atomic 
+unit of time is a Pomodoro. (Rule: A Pomodoro Is Indivisible.) If a Pomodoro is definitively 
+interrupted by someone or something, that Pom odoro should be considered void, as if it had 
+never been set; then you should make a fresh start with a new Pomodoro. When the Pomodoro 
+rings, mark an X next to the activity you’ve been working on and take a break for 3-5 minutes. 
+ 
+ TO DO TODAY Rome, 12 July 2006 
+Mark Ross 
+ Write the article on How to Learn Music  (max 10 pps) ! 
+ Finetune How to Learn Music  by reading it out loud  
+ Condense How to Learn Music  down to 3 pps  
+Figure 2.4    To Do Today Sheet: the first Pomodoro.  
+ 
+When the Pomodoro rings, this signals that the current activity is peremptorily (though 
+temporarily) finished. You’re not allowed to keep on working “just for a few more minutes”, 
+even if you’re convinced that in those few minutes you could complete the task at hand. 
+The 3-5 minute break gives you the time you need to “disconnect” from your work. 
+This allows the mind to assimilate what’s been learned in the last 25 minutes, and also provides 
+The Pomodoro Technique 7 
+ 
+ 
+© Francesco Cirillo 19/10/2006 you with the chance to do something good for your health, which will help you to do your best 
+during the next Pomodoro. During this break you can stand up and walk around the room, have 
+a drink of water, or fantasize about where you’ll go on your next vacation. You can do some 
+deep breathing or stretching exercises. If you work with other people, you can swap a joke or 
+two, and so on.    
+During this quick break, it’s not a good idea to engage in activities that call for any 
+significant mental effort. For example, don’t start talking about work-related issues with a 
+colleague; don’t write important emails or make imperative phone calls, etc. Doing these kinds 
+of things would block the constructive mental inte gration that you need in order to feel alert and 
+ready for the start of the next Pomodoro. You should include these activities in your Activity 
+Inventory, and earmark specific Pomodoros to do  them. Clearly, during this break you shouldn’t 
+continue thinking about what you’ve done durin g the last Pomodoros.  Once the break is over, 
+set the Pomodoro to 25 minutes and continue the activity at hand until the next time it rings. 
+Then mark another X on the To Do Today Sheet (fig. 2.5). 
+ 
+ TO DO TODAY Rome, 12 July 2006 
+Mark Ross 
+ Write the article on How to Learn Music  (max 10 pps) !! 
+ Finetune How to Learn Music  by reading it out loud  
+ Condense How to Learn Music down to 3 pps  
+Figure 2.5    To Do Today Sheet: The second Pomodoro.  
+ 
+Next comes the 3-5 minute break, and then a new Pomodoro. 
+2.1.2  Every Four Pomodoros 
+Every four Pomodoros, stop the activity you’re wo rking on and take a longer break, from 15 to 
+30 minutes. 
+  
+ TO DO TODAY Rome, 12 July 2006 
+Mark Ross 
+ Write the article on How to Learn Music  (max 10 pps) !!!!   
+ Finetune How to Learn Music  by reading it out loud  
+ Condense How to Learn Music  down to 3 pps   
+Figure 2.6    To Do Today Sheet: The end of the first set of Pomodoros.  
+ 
+The 15-30 minute break is the ideal opportunity to tidy up your desk, take a trip to the 
+coffee machine, listen to voice mail, check incoming emails, or simply rest and do breathing 
+exercises or take a quick walk. The important thing is not to do anything complex, otherwise 
+your mind won’t be able to reorganize and integr ate what you’ve learned, and as a result you 
+won’t be able to give the next  Pomodoro your best effort. Obvi ously, during this break too you 
+need to stop thinking about what you did during the last Pomodoros. 
+2.1.3  Completing an Activity 
+Keep on working, Pomodoro after Pomodoro, until the task at hand is finished, and then cross it 
+out on the To Do Today Sheet (fig. 2.7). 
+ 
+ TO DO TODAY Rome, 12 July 2006 
+Mark Ross 
+ W r i t e  a r t i c l e  o n  How to Learn Music (max 10 pps)  !!!!!  
+ Finetune How to Learn Music  by reading it out loud  
+ Condense How to Learn Music  down to 3 pps  
+Figure 2.7    To Do Today Sheet: Completing an activity.  
+ 
+Specific cases should be handled with common sense: 
+! If you finish a task while the Pomodoro is still ticking, the following rule applies: If a 
+Pomodoro Begins, It Has to Ring. It’s a good idea to take advantage of the opportunity for 
+overlearning  (17), using the remaining portion of the Pomodoro to review or repeat what 
+The Pomodoro Technique 8 
+ 
+ 
+© Francesco Cirillo 19/10/2006 you’ve done, make small improvements, and note down what you’ve learned until the 
+Pomodoro rings. 
+! If you finish an activity in the first five minutes of the Pomodoro and you feel like the task 
+was actually already finished during the previous Pomodoro and revision wouldn’t be 
+worthwhile, as an exception to the rule the current Pomodoro doesn’t have to be included in 
+the Pomodoro count.  
+Once the current activity has been successfully completed, move on to the next one on your list, 
+then the next, taking breaks between every Pomodoro and every four Pomodoros (fig. 2.8) 
+ 
+ TO DO TODAY Rome, 12 July 2006 
+Mark Ross 
+ W r i t e  a r t i c l e  o n  How to Learn Music  (max 10 pps)  !!!!!  
+ Finetune How to Learn Music  by reading it out loud  !! 
+ C ondense How to Learn Music  down to 3 pps !!! 
+Figure 2.8    To Do Today: Completing several activities.  
+2.1.4  Recording 
+At the end of every day, the completed Pomodoros can be transferred in a hard-copy archive. 
+As an alternative, it may be more convenient to use an electronic spreadsheet or a database, and 
+delete the completed activities from the Activity Inventory Sheet.  
+What you track and record depends on what you want to observe and the kind of 
+reports that you want to generate. The initial aim of tracking and later recording could simply be 
+to present a report with the number of Pomodoros completed per task. In other words, you may 
+want to show the effort expended to accomplish each activity. To do so, the following boxes 
+can be used: the date, start time, type of activity, description of the activity, the actual number 
+of Pomodoros, a short note on the results achieved, and possible room for improvement, or 
+problems that may have come up (fig. 2.9). This initial recording model actually represents the 
+report you want.  It’s easy to draw up, even on paper.  
+ 
+RECORDS Marco Rossi 
+Date Time Type Activity Actual Pomodoros  Notes 
+12 July 
+2006 08:30 Writing How to Learn Music 5 7 pps 
+12 July 
+2006 11:30 Finetuning How to Learn Music 2  
+12 July 
+2006 14:00 Condensing How to Learn Music 3 from 7 to 3 
+pps 
+Figure 2.9    Records Sheet  
+ 
+How did Marco fill in the time he began an activity if he didn’t track it? With the 
+Pomodoro Technique, it’s not essential to track the start time for an activity (or for every 
+Pomodoro). What’s important is to track the numb er of Pomodoros actually completed: the real 
+effort. This point is the key to fully understanding the Pomodoro Technique. Since tracking is 
+done at least once a day, remembering and reconstructing the start times for activities isn’t 
+difficult; in fact, this kind of recall is a beneficial mental exercise. 
+ 
+Note    A useful technique for remembering start times is to do a rundown of the day beginning 
+with the most recent activity and moving backwards to the first one. 
+  
+2.1.5  Improvement 
+Recording provides an effective tool for people who apply the Pomodoro Technique in terms of 
+self-observation and decision-making aimed at process improvement. For example, you can ask 
+yourself how many Pomodoros a week you spend on work activities and on explorative 
+activities, or how many Pomodoros you do on an average day of the week, etc. You can also 
+The Pomodoro Technique 9 
+ 
+ 
+© Francesco Cirillo 19/10/2006 ascertain if the stages in the pr ocess are all effective, or if one could be eliminated while still 
+achieving the same results. 
+For instance, we can see in Figure 2.9 that it took Mark ten Pomodoros to write, 
+finetune, and condense the article How to Learn Music. That seems like too many. Mark would 
+really like to get the same result with nine Pomodoros or less. Then he would have one or more 
+Pomodoros for free time for other activities. “I’d like to try to write the next article with the 
+same quality and less effort. How? What should I cut out? What activities are really useful? 
+How can I reorganize them to be more effective?” This is the type of question that enables 
+people to improve, or at least to try to improve, their work or study processes. At the end of the 
+day, the activity of recording and later looking for ways to improve should not take more than 
+one Pomodoro. 
+2.1.6  The Nature of the Pomodoro 
+The Pomodoro marks the passage of time, and so it is itself a measure of the dimension of time. 
+It becomes a measure of the dimension of effort wh en it is combined with the number of people 
+involved in an activity. Depending on this number, we can say that a given task was 
+accomplished with a certain number of Person Pomodoros or Pair Pomodoros or Team 
+Pomodoros, where these units measure effort. The quantities of effort relative to different 
+numbers of people are not homogeneous; they can’t  be added together or compared with one 
+another. The work of an individual, a pair or a group represents a different way of combining 
+production factors and also diverse means of  c o m m u n i c a t i o n .  T h e r e  a r e  n o  f o r m u l a s  f o r  
+converting Person Pomodoros to Pa ir Pomodoros or Team Pomodoros. 
+ 
+Note   Let’s say we want to measure the cost of an activity performed by more than one person, 
+either individually, in pairs, or in teams. By  applying a monetary measurement it’s clear we can 
+compare and add up the different amounts of effort. For example, let’s take an activity that’s 
+achieved by the effort of 2 Person Pomodoros and 3 Pair Pomodoros. In terms of effort, these 
+amounts can not be directly compared or summed in any way. However, by assigning a 
+monetary value for the effort of one Pomodoro, for example €10.00, we can actually say that the 
+activity costs 2 x € 10.00+ 3 x 2 x € 10.00 = € 80.00. 
+  
+ 
+Nota   The paper Applying the Pomodoro Technique in Teams  explains how to track and record 
+pair or group work. 
+ 
+2.2 Objective II: Cut Down on Interruptions 
+The length of a Pomodoro, 25 minutes, seems short enough to make it possible to resist being 
+distracted by various kinds of interruptions. But experience shows that once you’ve started 
+using the Pomodoro Technique, interruptions can become a real problem. That’s why an 
+effective strategy is needed for minimizing unhandled interruptions and progressively 
+increasing the number of Pomodoros that can be accomplished consistently without 
+interruptions. There are two kinds of interruptions: internal and external. 
+2.2.1  Internal Interrupti ons – We Interrupt Ourselves 
+Even though a Pomodoro only lasts 25 minutes, it won’t be easy for everyone to finish the first 
+few Pomodoros without giving in to some immediate need to interrupt the activity at hand: the 
+need to stand up and get something to eat or drink, or to make a call that suddenly seems 
+terribly urgent, or to look up something on the Internet this minute (it may be related or 
+unrelated to the task at hand) or to check email this instant. Lastly, we might even need to 
+rethink how we’ve prioritized this particular activity; we’re constantly second-guessing our 
+daily planning or our decisions. 
+These kinds of distractions, or ways to procrastinate on the activity at hand, are called 
+internal interruptions. They generally disguise our fear of not being able to finish what we’re 
+working on the way we want and when we want. Internal interruptions are often associated with 
+having little ability to concentrate. 
+How can we free ourselves from these internal interruptions? 
+We have to work on two fronts simultaneously: 
+The Pomodoro Technique 10 
+ 
+ 
+© Francesco Cirillo 19/10/2006 ! Make these interruptions clearly visible. Every time you feel a potential interruption 
+coming on, put an apostrophe (‘) on the sheet where you record your Pomodoros. Then do 
+one of the following:  
+! Write down the new activity on the To Do Today Sheet under Unplanned & Urgent 
+if you think it’s imminent and can’t be put off. 
+! Write it down in the Activity Inventory, marking it with a “U” (unplanned); add a 
+deadline if need be.  
+! Intensify your determination to finish the current Pomodoro. Once you’ve marked down the 
+apostrophe, continue working on the given task till the Pomodoro rings. (Rule: Once a 
+Pomodoro Begins, It Has to Ring.) 
+The aim is to accept the fact that needs do emerge, and they shouldn’t be neglected. 
+Look at them objectively and if possible reschedule them for another time. 
+2.2.2  Scenario 
+An example will help clarify the dynamic of ha ndling internal interrupt ions. During the second 
+Pomodoro for writing the article on How to Learn Music, Mark suddenly feels he has to call his 
+friend Carol to find out when his favorite rock group is having its next concert. Mark asks 
+himself: “Is this really urgent? Do I have to do it today? No, I can put it off. Maybe an hour or 
+two. Maybe even until tomorrow!” Mark puts an apostrophe on the To Do Today Sheet next to 
+the current activity (fig. 2.10), adds an item to the Activity Inventory for unplanned activities 
+(marked with a “U” – fig. 2.11) and continues with the Pomodoro.  
+ 
+ TO DO TODAY Rome, 12 July 2006 
+Mark Ross 
+ 
+Write article on How to Learn Music  (max 10 pps) ’  
+! 
+ Finetune How to Learn Music by reading it out loud   
+  Condense How to Learn Music  to 3 pps  
+Figure 2.10    To Do Today Sheet: An internal interruption.  
+ 
+ ACTIVITY INVENTORY Mark Ross 
+ …   
+N Call Carol: When’s the next rock concert?  
+ …   
+Figure 2.11    Activity Inventory Sheet: An unplanned activity.  
+ 
+Then Mark asks himself: “Does this activity have to be done by tomorrow? No, it just 
+has to be done by the end of the week.” Mark adds this deadline in brackets next to the “U” (fig. 
+2.12). 
+ 
+ ACTIVITY INVENTORY Mark Ross 
+ …   
+N  
+[14July] Call Carol: When’s the next rock concert?  
+ …   
+Figure 2.12    Activity Inventory Sheet: An unplanned activity with a deadline.  
+ 
+If Mark gets a sudden craving for a pizza 10 minutes later, he’ll mark down another 
+apostrophe but this time he’ll note this activity on the To Do Today Sheet under Unplanned & 
+Urgent  (fig. 2.13). Then Mark continues with his Pomodoro.  
+ 
+The Pomodoro Technique 11 
+ 
+ 
+© Francesco Cirillo 19/10/2006  TO DO TODAY Rome, 12 July 2006 
+Mark Ross 
+ 
+Write article on How to Learn Music  (max 10 pps) ’ ’  
+! 
+ Finetune How to Learn Music by reading it out loud  
+  Condense How to Learn Music to 3 pps  
+   
+ UNPLANNED & URGENT   
+ Order a pizza  
+Figure 2.13    To Do Today Sheet: An urgent internal interruption.  
+ 
+Up to this point, the Pomodoro hasn’t been interrupted. It’s kept on ticking and Mark 
+has continued working, dealing with interruptions. Clearly, as little time as possible should be 
+spent dealing with interruptions, a few seconds at most. Otherwise the Pomodoro has to be 
+considered interrupted, or void. Finally the Pomodoro rings. Mark records it with an “X” and 
+takes a quick break (fig. 2.14) 
+ 
+ TO DO TODAY Rome, 12 July 2006 
+Mark Ross 
+ 
+Write article on How to Learn Music  (max 10 pps) ’ ’  
+!!  
+ Finetune How to Learn Music  by reading it out loud  
+  Condense How to Learn Music  to 3 pps  
+   
+ UNPLANNED & URGENT   
+ Order a pizza  
+Figure 2.14    To Do Today Sheet: Urgent internal interruption, second Pomodoro.  
+ 
+When does Mark order the pizza? Depending on the level of urgency he perceives, 
+Mark can opt to call his favorite pizza place righ t away and order the pizza, or wait until the end 
+of a four-Pomodoro session. In any case, the urge ncy is clearly visible. Mark decides to move 
+on to the next Pomodoro. Eight potential interruptions await Mark during the third Pomodoro, 
+but fortunately he deals with them all: he classifies one activity as not urgent and records it in 
+the Activity Inventory; Mark has no other choice but to categorize the other interruptions as 
+urgent (fig.2.15).  
+ 
+ TO DO TODAY Rome, 12 July 2006 
+Mark Ross 
+ 
+Write article on How to Learn Music  (max 10 pps) ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ 
+!! 
+ Finetune How to Learn Music  by reading it out loud  
+  Condense How to Learn Music  to 3 pps  
+   
+ UNPLANNED & URGENT  
+ Order a pizza  
+ Choose a bike to buy  
+ Read article on learning music in Asia   
+ Look for July jazz happenings in Rome on Internet  
+ C h e c k  e m a i l   
+ O r d e r  C h i n e s e  t a k e o u t   
+ Tidy up desk drawers  
+ Sharpen pencils  
+Figure 2.15    To Do Today Sheet: Several urgent internal interruptions.  
+ 
+The urgency of the activities listed above might make some people smile. But that’s 
+how Mark perceives them. The point to emphasize here is that with the Pomodoro Technique, 
+lots of useful or fun things to do come up, but we make a conscious decision not to do them 
+right away during the current Pomodoro. Reading through the various activities and the urgency 
+we assign to each, we can see how much our mind is moving, and how hard it is to keep it still 
+and focus on the activity at hand. Often the number and variety of attempted internal 
+interruptions are symptoms of our fear of failure in completing the task at hand.  
+The Pomodoro Technique 12 
+ 
+ 
+© Francesco Cirillo 19/10/2006 It should come as no surprise that many of these distractions later prove to be anything 
+but urgent, even to the person who wrote them down. Most likely at the end of the Pomodoro or 
+the activity or the day, several items marked urgent or absolute priority will be handled in 
+different ways.  
+! They’ll be moved to the Activity Inventory. Maybe we can pick out a bike tomorrow. 
+! They’ll be done during longer breaks. That’s the time to look up jazz concerts in Rome in 
+July, for example. 
+! They’ll be deleted. Does Mark really want to order a pizza along with spring rolls and 
+Peking duck? He might even realize he doesn’t want to order anything and he’ll eat at the 
+end of the day. 
+It’s a different mind that reads over those items at the end of a Pomodoro, or a set of 
+four, or at the end of the day, and it’s some times surprising. Truly urgent tasks are always 
+highlighted on the To Do Today Sheet. The aim of the Pomodoro Technique is to ensure that 
+the current Pomodoro isn’t interrupted by these activities. Instead, the following options are 
+available:  
+! They can be done during the next Pomodoro (but still measured by a Pomodoro), in place 
+of other activities. 
+! They can be re-scheduled sometime during the day, in place of other activities. 
+! They can be moved from Pomodoro to Pomodoro if possible till the end of the day. This 
+helps us gradually learn to recognize what’s really urgent. 
+If and when unplanned urgent activities are done during the day, the relative 
+Pomodoros are marked down in the proper space (fig. 2.16). In all the cases discussed so far, the 
+interruptions can be considered handled. Note that the mechanism for handling interruptions 
+consists of inverting the dependency on internal interruptions, and consequently making these 
+interruptions depend on the Pomodoros we decide to slot them into.  
+ 
+ TO DO TODAY Rome, 12 July 2006 
+Mark Ross 
+ 
+Write article on How to Learn Music  (max 10 pps) ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ 
+!! 
+ Finetune How to Learn Music  by reading it out loud  
+  Condense How to Learn Music to 3 pps  
+   
+ UNPLANNED & URGENT   
+ Order a pizza  
+ Choose a bike to buy  
+ Read article on learning music in Asia  ! 
+ Look for jazz happenings in July in Rome on Internet  
+ C h e c k  e m a i l   
+ O r d e r  C h i n e s e  t a k e o u t   
+ Tidy up desk drawers  
+ Sharpen pencils  
+Figure 2.16   To Do Today Sheet: Unplanned activity done during the day.  
+ 
+  
+If you have to interrupt a Pomodoro, either because you give in to temptation or 
+something really urgent comes up, there’s only one thing to do: void the current Pomodoro, 
+even if it’s about to ring. (Rule: A Pomodoro Is Indivisible.) Then mark down an apostrophe 
+where Pomodoros are recorded to keep track of  the interrupted Pomodoro. Obviously, you can’t 
+mark the unfinished Pomodoro - which didn’t actually ring - with an X.  So, take a 5-minute 
+break and start with a new Pomodoro. 
+The Next Pomodoro Will Go Better. 
+ 
+The first objective to achieve in cutting down on interruptions is to be aware of the number and 
+type of internal interruptions. Observe them, accept them, and schedule them or delete them, as 
+the case may be.  
+The Pomodoro Technique 13 
+ 
+ 
+© Francesco Cirillo 19/10/2006 2.2.3  External Interruptions – We’re Interrupted by Others 
+People who work in social environments can be interrupted: your study partner asks you to 
+explain a paragraph or suggests going to a movie after dinner; a phone call doesn’t get 
+effectively filtered by the secretary; a colleag ue asks you how to compile a report; an email 
+program constantly beeps every time a new message comes in. What should you do? 
+External interruptions call for the ability to “protect” the ticking Pomodoro. Up till now 
+a major effort has been made to eliminate internal interruptions. Now the risk is that someone 
+on the outside prevents you from having the pleasure of marking an X on your To Do Today 
+Sheet. 
+The main difference between internal and external interruptions is that with the latter 
+we need to interact with other people: we need to communicate. The mechanism for dealing 
+with external interruptions is the same as that for internal ones: invert the dependency on 
+interruptions, and make the interruptions depend on us. 
+A few examples are helpful to clarify what  w e  a c t u a l l y  n e e d  t o d o .  I n c o m i n g  p h o n e  
+calls can always be taken by the answering machine and messages listened to later. Emails can 
+keep coming in without distracting our attention simply by deactivating acoustic signals for 
+incoming messages. If a colleague or study partner comes over, you can politely say you’re 
+busy and can’t be interrupted. (Some people use the humorous expression “I’m in the middle of 
+a Pomodoro.”) Then tell the person that you’d rather call them back in 25 minutes, or in a few 
+hours, or tomorrow, depending on how urgent and important the matter is.  
+Speaking from experience, true emergencies that need to be dealt with instantly are rare 
+in real life. A 25-minute or 2-hour delay (four  Pomodoros) is almost  always possible for 
+activities that are commonly cons idered urgent. This delay isn’t usually detrimental to the 
+person who wants to communicate with you, but gives you an enormous advantage in terms of 
+making your mind work effectively, finishing activities the way you want to and rescheduling 
+urgent tasks. With practice, you’ll come to real ize how often apparently urgent activities can 
+even be postponed till the following day while still satisfying the person making the request.  
+So, Protect the Pomodoro means: inform effectively, negotiate quickly to reschedule 
+the interruption, and call back the person who interrupted you as agreed. The Inform, Negotiate, 
+Call Back Strategy enables you to control external interruptions by simply rescheduling them in 
+a later Pomodoro the same day or another day according to the degree of urgency. The 
+dependency inversion for interruptions lies in this mechanism: We’re no longer dependent on 
+interruptions, interruptions depend on us (i.e. the Pomodoros we allocate for calling back). 
+The feedback from people who start applying the Pomodoro Technique is often the 
+same: they discover they can have up to 10 or even 15 external interruptions during a single 
+Pomodoro (25 minutes). If the people doing the interrupting learn that you’ll really call them 
+back, and you’re not just putting them off, it won’t take long to see our habitual interrupters 
+actually protecting the Pomodoro too. Many people who work with Pomodoro users say they 
+have the feeling they’re working or studying with people who know how to appreciate the value 
+of their own time. In operational terms, handling this type of interruption is like dealing with 
+internal interruptions. In this case, too, we work on two fronts simultaneously: 
+! Make these interruptions clearly visible. Every time someone or something tries to interrupt 
+a Pomodoro, put a dash (-) on the sheet where you record your Pomodoros, apply the 
+Inform, Negotiate, and Call Strategy. Then do one of the following: 
+! Write down the new activity on the To Do Today Sheet under Unplanned & Urgent 
+if it has to be done today, adding the promised deadline in brackets in the left-hand 
+margin. 
+! Write it down in the Activity Inventory, marking it with a “U” (unplanned); add a 
+deadline in brackets if need be.  
+! Intensify your determination to finish the current Pomodoro. Once you’ve marked down the 
+dash, continue working on the given task till the Pomodoro rings.  
+ 
+This way, you’ll achieve the objective of  remembering the commitment you made, as 
+well as measuring daily external interruptions, without interrupting the Pomodoro. The example 
+below shows two external interruptions handled in different ways during the second Pomodoro 
+of Write an Article on How to Learn Music  (fig. 2.17 and 2.18). 
+ 
+The Pomodoro Technique 14 
+ 
+ 
+© Francesco Cirillo 19/10/2006  TO DO TODAY Rome, 12 July 2006 
+Mark Ross 
+ 
+Write article on How to Learn Music  (max 10 pps) - - 
+! 
+ Finetune How to Learn Music  by reading it out loud  
+  Condense How to Learn Music  to 3 pps  
+   
+ UNPLANNED & URGENT:  
+[15.40] Email draft of article to Luke  
+Figura 2.17    Things To Do Today Sheet: An unplanned urgent activity.  
+ 
+ ACTIVITY INVENTORY Mark Ross 
+ …   
+U[13July] Make an appointment with Maestro Neri for interview  
+ …   
+Figure 2.18    Activity Inventory Sheet: An unplanned activity with a deadline.  
+ 
+If a Pomodoro absolutely has to be interrupted, either due to human weakness or for a 
+real emergency, there’s only one thing to do: void the current Pomodoro, even if it’s about to 
+ring. (Rule: A Pomodoro is Indivisible.) Then put a dash where you record Pomodoros to keep 
+track of interrupted Pomodoros, and record the description and the deadline for the activity in 
+the Unplanned & Urgent section. Then start the first Pomodoro for the urgent activity.  
+The Next Pomodoro Will Go Better. 
+ 
+The second objective to achieve in order to cut down on interruptions is to be aware of 
+the number and type of external interruptions. Negotiate them and reschedule them depending 
+on the real degree of urgency. 
+2.2.4  Systematic Interruptions 
+When applying the Pomodoro Technique, the first tangible consequence of having to 
+systematically deal with internal and external interruptions is that Pomodoros earmarked for 
+organizational activities emerge (emails, phone cal ls, meetings, etc.). The most natural and most 
+common decision is to set aside one Pomodoro a day (or more if need be) to take care of urgent 
+interruptions. The dependency inversion mechanism applied to protect the current Pomodoro 
+actually serves to turn interruptions into Pomodoros dedicated to forms of communication. We 
+should emphasize that Pomodoro users have the following objectives: 
+! To successfully delay these Pomodoros as far as possible, downgrading the degree of 
+apparent urgency and incrementing the extent to which these activities can be controlled 
+and scheduled 
+! To gradually cut down on the number of Pomodoros used for organizing the interruptions 
+that come up throughout the day 
+People who start applying the Pomodoro Technique are always amazed when they 
+measure the Pomodoros spent on work and study (without unhandled interruptions) and those 
+used for organizational activities (which in part come from dealing with interruptions). In some 
+teams, members start off with no more than 2-3 Pomodoros actually dedicated to work per day 
+per person; the remaining Pomodoros are spent on meetings, phone calls, and emails. 
+2.2.5  Recording: Qualitative Estimation Errors in Planning 
+Look at the activities recorded daily and marked  with a “U” in the Activity Inventory, and the 
+ones marked Unplanned & Urgent on the To Do Today Sheet. By doing so, during the planning 
+phase you can assess your ability to identify the number and type of activity that’s most 
+effective in reaching a given obje ctive. The greater the number of unplanned activities involved, 
+the greater the qualitative error in your initia l estimate. So, you can measure the unplanned 
+activities done to attain a certain objective. Clearly, you can also include the total number of 
+internal and external interruptions on the Records Sheet to observe them and try to minimize 
+them over time. 
+The Pomodoro Technique 15 
+ 
+ 
+© Francesco Cirillo 19/10/2006 2.3 Objective III: Estimate the Effort for Activities 
+Once you’ve begun to master the technique and y ou’ve reached the first two objectives, you can 
+start working on quantitative estimates. The long-term objective here is to successfully predict 
+the effort that an activity requires.  
+The Activity Inventory lists all the activities that need to be done. These tasks come 
+from planning, which is needed to identify ways to reach your objectives  (for example, at the 
+beginning of a project) and to deal with interruptions. Some activities lose their purpose over 
+time, so they can be deleted from the Inventory. 
+ A t  t h e  s t a r t  o f  e a c h  d a y ,  e s t i m a t e  h o w  m a n y  P o m o d o r o s  e a c h  a c t i v i t y  i n  t h e  I n v e n t o r y  
+will take. Revise previous estimates, if need be. Record the estimated number of Pomodoros on 
+the relative line (fig. 2.19). The Pomodoro estimate actually represents the number of 
+Pomodoros needed for a certain number of people to accomplish an activity. So, this is a 
+measure of effort. However, in the simple ex amples that follow, the number of Pomodoros 
+always refers to one person. 
+ 
+ ACTIVITY INVENTORY Lucy Banks 
+ …   
+ Answer questions on thermodynamics in Ch 4 2 
+ Repeat laws of thermodynamics out loud to Mark  3 
+ S u m m a r i z e  l a w s  o f  t h e r m o d y n a m i c s  i n  w r i t i n g   3  
+ Call Laura: invite her to the seminar on thermodynamics  
+ C a l l  M a r k :  g i v e  m e  m y  l a p t o p  b a c k  s o o n !    
+ Call Andrew: buy tickets to concert?  
+ Email Nick: how do you do ex. 2, p. 24?  
+ …   
+Figure 2.19    Activity Inventory Sheet: Daily estimate.  
+ 
+Estimates must always be based on complete  Pomodoros, so figures like 5 ½ Pomodoro 
+aren’t allowed. In this case, count 6 Pomodoros . If an estimate is greater than 5-7 Pomodoros, 
+this means that the activity in question is too complex. It’s better to break it down into several 
+activities; estimate these activities separately, and write them down on several lines in the 
+Activity Inventory. The rule is: If It Takes More Than 5-7 Pomodoros, Break It Down. By 
+doing so, not only do single activities become less complex, but estimates are also more 
+accurate. This effect is magnified when the breakdown involves incr emental activities, not 
+simply smaller activities. (Incremental activities deliver a little bit of value at a time.) 
+If the estimate is less than one Pomodoro (e.g. the time it takes to call Laura to invite 
+her to the thermodynamics seminar, or to call Mark to ask him to give back the laptop), similar 
+activities should be combined till they add up to one Pomodoro of effort. The rule is: If It Takes 
+Less Than One Pomodoro, Add It Up.  So, there are two options for activities estimated to last 
+less than one Pomodoro. 
+! Find and combine similar activities from the Activity Inventory until they add up to one 
+Pomodoro of effort (fig 2.20). 
+! Leave the activity without an estimate and indicate that you’ll combine it with another 
+activity when you fill in the To Do Today Sheet. 
+ 
+The Pomodoro Technique 16 
+ 
+ 
+© Francesco Cirillo 19/10/2006  ACTIVITY INVENTORY Lucy Banks 
+ …   
+ Answer questions on thermodynamics in Ch 4 2 
+ Repeat laws of thermodynamics out loud to Mark 3 
+ S u m m a r i z e  l a w s  o f  t h e r m o d y n a m i c s  i n  w r i t i n g  3  
+ Call Laura: invite her to the seminar on thermodynamics  
+ C a l l  M a r k :  g i v e  m e  m y  l a p t o p  b a c k  s o o n !  +   
+Call Andrew: buy tickets to concert?  1 
+ Email Nick: how do you do ex. 2, p. 24?  
+ …   
+Figure 2.20     Activity Inventory Sheet: Activities estimated at less than one Pomodoro.  
+ 
+In choosing one of the two possible strategies, remember that one of the functions of 
+the Activity Inventory is to facilitate the choice of activities To Do Today. Take the first option 
+if the activities in question are very similar or complementary; leave the other tasks without an 
+estimate and combine them later. In any case, the greater the number of useful activities you 
+have in the Activity Inventory, the simpler it will be to choose which strategy to use and how to 
+combine the various tasks. 
+ 
+Note    Any changes to the Activity Inventory can be made with a good pencil and an excellent 
+eraser. 
+ 
+2.3.1  Available Pomodoros 
+Now that you have an estimate of the number of Pomodoros for each activity, you can decide to 
+put together a set of activities that doesn’t exceed the number of Pomodoros available in a day. 
+Record these Available Pomodoros on the To Do Today Sheet; you would normally do so 
+before actually listing the things to do. Figure 2.21 shows an example of eight Pomodoros 
+available on July 12. Then, pick out the tasks to do for the day, combining activities if 
+necessary. (Rule: If It Lasts Less Than One Pomodoro, Add It Up.) Write the activities you’ve 
+chosen in order of priority on the To Do T oday Sheet. For each one, every estimated Pomodoro 
+is represented by an empty box (fig. 2.21). 
+ 
+ TO DO TODAY Rome, 12 July 2006 
+Lucy Banks  
+Available Pomodoros: 8  
+ Answer questions on thermodynamics in Ch 4 "" 
+ Repeat laws of thermodynamics out loud to Mark """  
+ S u m m a r i z e  l a w s  o f  t h e r m o d y n a m i c s  i n  w r i t i n g  """  
+Figure 2.21    To Do Today Sheet: Estimated Pomodoros.  
+ 
+There’s no point in adding activities beyond the total estimated eight Pomodoros. If the 
+number of estimated Pomodoros is higher than the number of Pomodoros actually needed to 
+complete the activities, the remaining number of Pomodoros can only be considered once 
+you’re finished. Then you can choose tasks from the Inventory to fill in that extra time.  
+2.3.2  Possible Scenarios 
+Set the timer, and as always, begin with the first activity on your list. Every time the Pomodoro 
+rings, put an X in the first empty box (fig. 2.22). 
+ 
+The Pomodoro Technique 17 
+ 
+ 
+© Francesco Cirillo 19/10/2006  TO DO TODAY Rome, 12 July 2006 
+Lucy Banks  
+Available Pomodoros: 8  
+ Answer questions on thermodynamics in Ch 4 #" 
+ Repeat laws of thermodynamics out loud to Mark """  
+ S u m m a r i z e  l a w s  o f  t h e r m o d y n a m i c s  i n  w r i t i n g  """  
+Figure 2.22    To Do Today Sheet: First Pomodoro estimated and accomplished.  
+ 
+If you finish the activity in the exact number of estimated Pomodoros, cross out the 
+description of the activity as in Figure 2.23. 
+ 
+ TO DO TODAY Roma, 12 July 2006 
+Lucy Banks  
+Available Pomodoros: 8  
+ Answer questions on thermodynamics in Ch 4  ## 
+ Repeat laws of thermodynamics out loud to Mark """  
+ S u m m a r i z e  l a w s  o f  t h e r m o d y n a m i c s  i n  w r i t i n g  """  
+Figure 2.23    To Do Today Sheet: Activities done in the exact number of estimated Pomodoros.  
+ 
+If you finish the activity in fewer Pomodoros than you estimated (overestimation error), 
+again, cross out the description of the activity (fig. 2.24). 
+ 
+ THINGS TO DO TODAY Rome, 12 July 2006 
+Lucy Banks  
+Available 
+Pomodoros: 8  
+ Answer questions on thermodynamics in Ch 4  ## 
+ Repeat laws of thermodynamics out loud to Mark  ##"  
+ S u m m a r i z e  l a w s  o f  t h e r m o d y n a m i c s  i n  w r i t i n g  """  
+Figure 2.24    To Do Today Sheet: Underestimation.  
+ 
+If you’ve used up the estimated Pomodoros and you still need more Pomodoros to 
+finish the task you’re working on (quantitative underestimation error), you can do one of two 
+things: 
+! Continue and mark down the next Pomodoros without taking into account new estimates. 
+Below is an example of a case where another Pomodoro is needed to complete an activity 
+(fig. 2.25).  
+ 
+ TO DO TODAY Rome, 12 July 2006 
+Lucy Banks  
+Available Pomodoros: 8  
+ A n s w e r  questions on thermodynamics in Ch 4  ## 
+ Repeat laws of thermodynamics out loud to Mark  ##"  
+ S u m m a r i z e  l a w s  o f  T h e r m o d y n a m i c s  i n  w r i t i n g  ###!  
+Figure 2.25    To Do Today Sheet: Overestimation.  
+ 
+! Make a new estimate, in Pomodoros, and mark these new estimated Pomorodos to the right 
+of the last estimated and completed Pomodoro using a different color or shape. This way, 
+you can highlight the need for second or third estimates and verify relative error (fig. 2.26). 
+ 
+The Pomodoro Technique 18 
+ 
+ 
+© Francesco Cirillo 19/10/2006  TO DO TODAY Rome, 12 July 2006 
+Lucy Banks  
+Available 
+Pomodoros: 8  
+ Answer questions on thermodynamics in Ch 4  ## 
+ Repeat laws of thermodynamics out loud to Mark  ##"  
+ S u m m a r i z e  l a w s  o f  t h e r m o d y n a m i c s  i n  w r i t i n g  ###$$  
+Figure 2.26    To Do Today Sheet: Second estimate.  
+ 
+As you can see from Figure 2.27, the summary took Lucy four Pomodoros, three of 
+which were originally estimated (underestimation) and only one of the two estimated later 
+(overestimation). 
+ 
+ TO DO TODAY Rome, 12 July 2006 
+Lucy Banks  
+Available 
+Pomodoros: 8  
+ Answer questions on thermodynamics in Ch 4  ## 
+ Repeat laws of thermodynamics out loud to Mark  ##"  
+ S u m m a r i z e  l a w s  o f  T h e r m o d y n a m i c s  i n  w r i t i n g  ###%$  
+Figure 2.27    To Do Today Sheet: Finishing the activity with the second estimate.  
+ 
+Since tasks don’t usually tend to last more than seven estimated Pomodoros (Rule: If It 
+Lasts More Than 5-7 Pomodoros, Break It Down.), usually there are no more than three 
+estimates. All the activities that require a third es timate have to be carefully reconsidered to 
+understand the reasons why estimating was so complicated. 
+2.3.3  Recording Estimates 
+Clearly, now that we’ve introduced the concept of quantitative estimates, the objectives of the 
+reporting system can be more ambitious. New objectives could be: 
+! To measure the accuracy of estimates, anal yzing the gap between estimated effort and 
+actual effort (estimation error) for every activity 
+! To show where more estimates were needed (second or third estimates) 
+Now the Records Sheet has to be modified. Depending on the case in question, the 
+report could show estimates, actual effort and related error. Below two simple options for 
+visualizing this information are provided. 
+ 
+Date Time Type of Activity Description of Activity Estimate Real Diff. 
+12 July 2006 10:00 Study Answer questions on thermodynamics 
+in Ch 4 2 2 0 
+12 July 2006 11:30 Repeat Repeat laws of thermodynamics out 
+loud to Mark 3 2 -1 
+12 July 2006 14:00 Summarize Summarize laws of thermodynamics 
+in writing 3 4 1 
+Figure 2.28    Records Sheet: Only first estimate.  
+ 
+Date Time Type of Activity Description of Activity Estimate Real Diff I Diff II 
+12 July 2006 10:00 Study Answer questions on 
+thermodynamics in Ch 4  
+2  
+2  
+0  
+12 July 2006 11:30 Repeat Repeat laws of 
+thermodynamics out loud 
+to Mark  
+3  
+2  
+1  
+12 July 2006 14:00 Summarize Summarize laws of 
+thermodynamics in 
+writing  
+3+2  
+4  
+-1  
+1 
+Figure 2.29     Records Sheet: First and second estimates.  
+ 
+There are many possible ways to present the results that you’re tracking. The 
+complexity of the reporting objectives is not yet too high, and reports can be had directly from 
+the records sheet with just a few calculations done by hand. The more complex the calculations, 
+The Pomodoro Technique 19 
+ 
+ 
+© Francesco Cirillo 19/10/2006 the more you’ll want to make use of databases, spreadsheets and ad hoc  software applications. 
+Remember: always keep recording activity as simple as possible.  
+ 
+The first objective of improving quantitative estimates lies in eliminating the third 
+estimate, and keeping the o verall margin of error small. The next objective is to eliminate the 
+second estimate, again keeping the overall margin of error small. The final objective is to 
+reduce the margin of erro r in the first estimate. 
+2.3.4  Managing Exploration 
+Not every activity can be estimated. At the outs et of a new project or a study activity, it’s 
+especially beneficial to spend time on exploration: look for new sources, get an idea of the 
+structure of the texts you have to study or consult, define your objectives more clearly. To guide 
+exploration, it’s worthwhile to apply the concept of time-boxing. Decide on a number of 
+Pomodoros for completing your exploration. When these Pomodoros are finished, set up your 
+real work plan or start in on a specific activity  or decide if you want to keep on exploring and 
+what direction you want to take. 
+2.4 Objective IV: Make the Pomodoro More Effective 
+When you can systematically use the Pomodoro without interruptions, and you start to master 
+estimating, you can evolve the Pomodoro Technique even further. 
+2.4.1  The Structure of the Pomodoro 
+The first evolution has to do with the structure of the Pomodoro. The first three to five minutes 
+of each Pomodoro can be used to briefly repeat what you’ve learned since the beginning of the 
+activity (not just the last Pomodoro), and then to print this in your memory. The last three to 
+five minutes of a Pomodoro can be used to quickly review what you’ve done (if possible, with 
+an effect-cause procedure, starting from the last activities and going back to your initial 
+motivations).  
+ 
+Note    These last few minutes of the Pomodoro serve to review what you’ve done. If you want 
+to check the quality and methods of your work to pinpoint potential improvement, you should 
+plan one or two Pomodoros to do so. (Quicker observations are made daily during the recording 
+Pomodoro.) 
+ 
+These changes don’t require variations in the length of the 25-minute Pomodoro.  The 
+enhanced awareness of time you can achieve by using the Pomodoro will enable you to 
+physiologically sense the 3-5 minute intervals mentioned above. If you have a hard time doing 
+so, this may be a sign that you haven’t yet mastered the basic technique. 
+2.4.2  The Structure of the Pomodoro Set  
+There is a second evolution that has to do with the four-Pomodoro set. As above, the 
+first Pomodoro in a set of four, or part of this first Pomodoro, can be used to repeat what you’ve 
+done so far. Likewise, all or part of the last Pomodoro in the set can be used to review what 
+you’ve accomplished. Repetition and revision activities are more effective if you do them out 
+loud or by talking with a partner or member of your team. Systematic repetition and revision 
+stimulates the effects of overlearning,  facilitating the acquisition of new information.  
+2.5 Objective V: Set Up a Timetable 
+There are a number of reasons why you should never underestimate the importance of defining 
+and respecting a timetable. 
+! A timetable sets a limit. Limits (when they’re truly understood as inviolable) help us to be 
+concrete, to do things. They motivate us to do our best to complete the tasks before us 
+within a set period of time. The same thing happens when the Pomodoro rings. 
+The Pomodoro Technique 20 
+ 
+ 
+© Francesco Cirillo 19/10/2006 ! A timetable delineates the separation between work time and free time; the latter is best 
+defined as time set aside for non-goal oriented or unplanned activities  ( 1 5 ) .  T h i s  l e i s u r e  
+time is fuel for our minds. Without it, creativity, interest, and curiosity are lost, and we run 
+ourselves down until our energy is depleted. Without gas, the engine won’t run. (4)  
+! A timetable measures the results of the day. Once we’ve written up the To Do Today Sheet, 
+our goal is to carry out the activities listed on it with the highest possible quality within the 
+set timeframe. If time runs out and these activities aren’t done, we try to understand what 
+went wrong. In the meantime, we already have an invaluable piece of information: how 
+many Pomodoros we managed to work that day. 
+With the Pomodoro Technique, figuring out how much time is wasted isn’t important; 
+how many Pomodoros we’ve accomplished is. The next day, keep that number in mind when 
+deciding how many Pomodoros are available, and write down activities to fill only those 
+Pomodoros. 
+ The main risk with the timetable is in underestimating how important it is; it’s easy to 
+fall in the trap of not respecting it. For example, let’s say it’s 3 PM. You’ve lost time during the 
+day, and you know you haven’t produced as mu ch as you could have or as much as you 
+expected. So you tell yourself: “Today I’ll work late to make up for lost time.” A combination 
+of heroism and guilt makes you breach the limit set by the timetable; as a result your 
+performance is ineffective tonight, then tomorrow night, and then the night after. The more the 
+timetable is systematically prolonged, the more overall results will diminish. Guilt intensifies. 
+Why? Isn’t playing the hero enough? Don’t the h ours sacrificed in the name of work assuage 
+the guilt? 
+ Actually what emerges is a dangerous vicious circle: the timetable protracts, fatigue 
+increases, productivity drops, the timetable protra cts. First and foremost, an effective timetable 
+has to be respected. Respecting a timetable means developing immunity to the Five More 
+Minutes Syndrome. When your work time is up, just like when the Pomodoro rings, all activity 
+stops. Secondly, an effective timetable has to allow for the free time that’s needed to recoup. 
+ 
+Note  It may happen that an important deadline comes up and you find yourself having to work 
+longer hours. This overtime can  b e  f a c t o r e d  i n  t o  y o u r  t i m e t a b l e  t o  m o m e n t a r i l y  i n c r e a s e  
+productivity. Typically to achieve positive results and avoid the risk of the vicious circle 
+mentioned above, you shouldn’t work overtime for more than five days. Establish an ad hoc  
+timetable for this period, and set aside a recovery  period to deal with the drop in productivity 
+that will inevitably follow. 
+ 
+2.5.1  The Best Case Scenario 
+Let’s use the following timetable as an example: 8:30-1:00 / 2:00-5:30. It’s 8:30 AM. Albert 
+winds up the first Pomodoro of the day. He might use this Pomodoro to look over all the things 
+he did the day before, to skim over the Activity Inventory and fill in the To Do Today Sheet, 
+which will also include this planning activity. In this same organizational Pomodoro, Albert 
+checks that everything on his desk is in place and ready, and tidies up if it’s not. The Pomodoro 
+rings, X, break. 
+Another Pomodoro begins, the first operational Pomodoro. And on it goes for two more 
+Pomodoros. The four-Pomodoro set is over; a longer break. Despite the fact that he really wants 
+to keep on working, Albert decides to take a bit more downtime in anticipation of the intense 
+work day ahead. After 20 minutes or so, he winds up a new Pomodoro. He continues for a total 
+of four Pomodoros, and then checks his watch. It’s 12:53. He has just enough time to tidy up his 
+desk again, put away any papers that need fili ng and check that the To Do Today Sheet is clear 
+and properly filled out, and then he goes to lunch. 
+By 2:00 Albert is at his desk again. He winds up the Pomodoro and gets back to work. 
+He doesn’t take much of a break between one Pomodoro and the next. But after four rings he 
+starts feeling tired. He still has a few more Pomodoros to go. He wants to get a good rest, and he 
+tries to detach as best he can by taking a little walk. Thirty minutes later, Albert winds up a new 
+Pomodoro. It rings, X, break. Albert sets aside the last Pomodoro to look over what he got done 
+during the day, fill in the Records Sheet, jot down some comments on potential room for 
+improvement, makes notes on the To Do Today Sheet for the next day, and tidies up his desk. 
+The Pomodoro rings. Quick break. Albert looks at his watch. It’s 5:27. He straightens any 
+papers that are out of place, and puts the activ ity sheets in order. At 5:30 free time begins.  
+The Pomodoro Technique 21 
+ 
+ 
+© Francesco Cirillo 19/10/2006 Two comments on this scenario: 
+! The operational Pomodoros never coincide with  t h e  n u m b e r  o f  w o r k / s t u d y  h o u r s .  W i t h  
+eight hours of work/study, two Pomodoros are earmarked for organizational activities (one 
+hour) and twelve (six hours) for operational activities. 
+! The time that goes by is always a secondary factor with the Pomodoro Technique. If there 
+are no unhandled interruptions, the end of the morning or afternoon will be determined 
+simply by the succession of Pomodoros. The timetable is reinforced by sets of Pomodoros. 
+It doesn’t matter what time it is, because our guide is the sequence of Pomodoros with 
+respective breaks. In terms of the timetable in our example, we have [1 +3],[4]:[4],[1+1 ]. 
+2.5.2  A Scenario With Interruptions 
+Let’s say it’s the second Pomodoro in the second set of the scenario above.  
+ A l b e r t  g e t s  i n t e r r u p t e d  a n d  c a n ’ t  d e a l  w i t h  t h e  i n t e r r u p t i o n .  T h a t  c a n  h a p p e n .  T h e  
+Pomodoro is void. Finally Albert is free to get back to work again. He checks the time. It’s 
+12:20. In a few seconds he reorganizes the last session; at this point there’s only one Pomodoro 
+left to do. He still takes a quick break before setting the next Pomodoro. In fact, he decides to 
+take a bit more time to try to find his focus. When he feels ready, Albert winds up the 
+Pomodoro and starts with the second Pomodoro in the set. (The first one was interrupted.) 
+ I n  t h e  a f t e r n o o n ,  a t  t h e  e n d  o f  t h e  t h i r d  set of four Pomodoros, Albert feels like he 
+needs more than a 3-5 minute break. He decides to take a half-hour walk. Before going out, he 
+quickly modifies the last set, which was originally two Pomodoros long, to just one 
+organizational Pomodoro. If there’s extra time, he’ll tidy up his desk and check his incoming 
+emails. Albert gets back from his walk at 4:47. He winds up the Pomodoro…it rings, X, break. 
+Free time.  
+2.5.3  Optimizing Your Timetable  
+A work day contains several Pomodoros. How should you organize them to make the day more 
+effective? Optimizing your work schedule is the result of a continual process of observation and 
+feedback. The objective is to reinforce the concept of a regular succession of  activity as much as 
+possible. 
+For people who have an entire day to study, an initial timetable might be: 8:30-12:30, 
+1:30-5:30. Two sets made up of four and three Pomodoros respectively in the morning, and two 
+sets consisting of four and three Pomodoros resp ectively in the afternoon: [4],[3]:[4],[3]. The 
+sets determine when to take breaks. 
+The Pomodoros within each set can be organized even further. For example, you could 
+earmark the first Pomodoro in the first session for planning your day, and the following three 
+for studying new topics, along with the next two Pomodoros from the second set. The last 
+Pomodoro in the second group is set aside for checking and answering emails, listening to voice 
+mail, and calling classmates, if need be. This is a way to respond effectively to possible 
+interruptions intercepted during the morning. The first Pomodoro of the third set is for looking 
+over what you did in the morning. The next three Pomodoros are to spend on studying. The first 
+two Pomodoros of the fourth set are used to revise what you’ve learned today and in the past 
+few days. The last Pomodoro of the day is destined for tracking and analyzing data. So, your 
+timetable looks something like this: [1 +3],[2+1]:[1+3],[2+1 ]. 
+The basic assumptions with this study schedule are that usually people are more 
+productive in the morning, and more importantly the afternoon hours just after lunch are not 
+very effective. Clearly, these assumptions ar e subjective. Why do we refer to an initial 
+timetable? Because by gathering information on how you work/how you’re working, in other 
+words by tracking metrics of Pomodoros completed and other indicators every day, students can 
+learn to pinpoint which set of Pomodoros is most productive for studying,  revising, or being 
+creative. Knowing this, they can consciously modify their study  schedule, starting earlier or 
+later, extending certain sets and reducing others, learning to know themselves better. 
+Here’s the key to organizing a timetable: make conscious decisions on how to set it up. 
+Up to this point, sets of four Pomodoros ha ve been used because this amount is usually 
+considered most effective. But you can also use longer or shorter sets lasting, say, three or five 
+Pomodoros. At the end of the set comes a 15-30 minute break. In order to be effective, a 
+timetable should also have the following features: it should be destined to change over time, and 
+The Pomodoro Technique 22 
+ 
+ 
+© Francesco Cirillo 19/10/2006 it can be made of sets of differing numbers of Pomodoros, giving preference to those lasting 
+four Pomodoros. 
+ 
+Note    Experience teaches that when the seasons change, your timetable needs to change too.  
+ 
+2.6 Other Possible Objectives 
+Up to this point, this paper has described the basic Pomodoro Technique. Until now, by simple 
+tracking and recording activities, and with very little processing, we’ve come up with useful 
+reports on effort per activity, and on errors in qu alitative or quantitative es timates. Clearly, if we 
+want to improve, the reporting objectives will chan ge over time. It wouldn’t be useful to track 
+and record every possible metric, obviously, but on ly the ones that enable us to observe what 
+we want to consolidate or improve. The Pomodoro Technique was conceived to be flexible in 
+the face of these kinds of changes. To make tracking and recording new metrics possible, we 
+have to modify the different sheets, as shown in the previous paragraphs. While making these 
+alterations, it’s essential to keep some key criteria in mind that serve to preserve the adaptive 
+capability of the Technique. In order of importance: 
+1. Always remember that using technology mean s an increase in complexity due to the 
+relative learning curve, and less flexibility as compared to paper, pencil, and eraser. 
+2. Keep Tracking at the lowest possible level of complexity (even delegating small tasks to 
+Recording). Choose simple tools for this activity: using paper, pencil and eraser serves as a 
+useful mental exercise. 
+3. Keep recording simple by using the tools best suited to the complexity you have to manage. 
+Before turning to a spreadsheet or a database , see if there’s a more effective way to do 
+Recording with paper, pencil, and eraser. Befo re using ad hoc software, see if there’s a 
+more effective way to do Recording with a spreadsheet or a database. 
+4. If Processing and Visualizing become difficult, complex, and repetitive, you first have to 
+ask yourself if all the metrics you’re obser ving are really necessary. If so, you should 
+consider using spreadsheets, a database, or an ad hoc software program. A simple excel 
+sheet can readily handle operations such as: reclassifying activities by type, filtering 
+activities by word, grouping and applying calculations to selected activities. 
+5. Imagination is the most powerful tool for preventing complexity from growing. 
+For example, in the previous paragraphs, we looked at a case with a single objective: 
+writing an article on How to Learn Music. This objective is achieved by means of a series of 
+tasks. But you might find yourself having to consider a number of objectives to achieve 
+simultaneously. How to you distinguish between them? 
+Depending on the circumstances, you can change how you write the description, so as 
+to highlight the objective (Fig. 2.30). Another option is to include a new box labeled Objectives 
+in the Activity Inventory, on the To Do Today Sheet, and on the Records Sheet, where you can 
+write down a description of the objective, or an abbreviation or code that stands for it. To 
+calculate the total effort expended to achieve a given objective, add up the effort it took to do 
+the related activities. 
+ 
+ TO DO TODAY Rome, 12 July 2006 
+Mark Ross 
+ How to Learn Music : write article (max 10 pps)  
+ How to Learn Music : finetune by reading out loud   
+ How to Learn Music : condense to 3 pps   
+Figure 2.30    To Do Today Sheet  
+  
+You might want to calculate how long it takes to reach certain objectives or perform 
+given activities (2). To do so, you simply measure the time from the date of completion back to 
+the date when you wrote in or assigned the activity. Since you already have the completion date 
+for the activity (on the To Do Today Sheet), in the first case you’ll need to track the date you 
+slotted that activity into the Activity Inventory; in the second case, track the date you wrote it 
+on the To Do Today Sheet. On the Records Sheet you can track Pomodoros of effort over 
+several days for the same activity.   
+The Pomodoro Technique 23 
+ 
+ 
+© Francesco Cirillo 19/10/2006  
+In any case, choosing which metrics to tra ck and record has to be  subordinate to the 
+choice of improvement objectives. In this case, the metrics system will grow incrementally on 
+the basis of real need, keeping tracking complexity to a minimum.

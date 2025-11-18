@@ -1,0 +1,238 @@
+[
+  {
+    "chunk_id": "71d62fdbb023_L0_0000",
+    "text": "The Pomodoro Technique V \n \n \n© Francesco Cirillo 19/10/2006 Preface \nThe basic idea for the Pomodoro Technique came to me in the late ‘80s, during my first years at \nuniversity. \nOnce the elation from completing my first-y ear exams had subsided , I found myself in \na slump, a time of low productivity and high confusion. Every day I went to school, attended \nclasses, studied and went back home with the disheartened feeling that I didn’t really know \nwhat I’d been doing, that I’d been wasting my time. The exam dates came up so fast, and it \nseemed like I had no way to defend myself against time.  \nOne day in the classroom on campus where I used to study, I watched my classmates \nwith a critical eye, and then looked even more critically at myself: how I got myself organized, \nhow I interacted with others, how I studied. It was clear to me that the high number of \ndistractions and interruptions and the low level of concentration and motivation were at the root \nof the confusion I was feeling. \nSo I made a bet with myself, as helpful as it was humiliating: “Can you study – really \nstudy - for 10 minutes?” I needed objective validation, a Time Tutor, and I found one in a \nkitchen timer shaped like a pomodoro (the Italian for tomato) – in other words, I found my \n“Pomodoro”. \nI didn’t win the bet straight off. In fact, it took time and a great deal of effort, but in the \nend I succeeded. \nIn that first small step, I found something intriguing in the Pomodoro mechanism. With \nthis new tool, I devoted myself to improving my study process and later my work process. I \ntried to understand and solve more and more complex problems, to the point of considering the \ndynamics of team work. Gradually I put together the Pomodoro Technique, which I describe in \nthis document.   \nAfter years of teaching the Pomodoro Technique in classes open to the public and in \nteam mentoring, general interest has grown. More and more people are asking what it is and \nhow to apply it, so there’s a need for me to explain the Technique as I conceived it. My hope is \nthat it can help others reach th eir goals for personal improvement , and that I can further develop \nmy original idea.  \n \n \nAcknowledgements \nFirst and foremost, I want to thank my friend and mentor, Giovanni Caputo, for having \naccompanied  me yet again in this adventure. \nThanks also go to everyone who applied the Pomodoro Technique, either individually \nor as a group, helping disseminate the concept and encouraging me to write this paper: \nPiergiuliano Bossi, Claudia Sandu, Meihua Su, Federico De Felici, Alessandra del Vecchio and \nJill Connelly, to name a few. \nThanks to all those who learned the Pomodoro Technique through my workshops; their \nfeedback enabled me to observe it and improve it.  In particular: Andrea Narduzzi, Bruno \nBossola, Giannandrea Castaldi, Roberto Crivelli, Ernesto Di Blasio, Alberto Quario, Loris \nUgolini, Silvano Trea, Alberico Gualfetti, Marco Dani, Luigi Mengoni, Leonardo Marinangeli, \nNicola Canalini. \nLastly, thanks to the second generation of Pomodoro users, those who learned it \nindirectly through my notes or by working in teams where the Technique has been consolidated. \nI’ve written this paper especially for them:  Ma tteo Vaccari (and the people at ESSAP), Simone \nGenini, Carlo Bottiglieri, Gabriele Lana (and the people at Milano XPUG), Alejandro \nBarrionuevo, and Stefano Castelvetri (among others). \nThe Pomodoro Technique VI \n \n \n© Francesco Cirillo 19/10/2006  \n \nThe Pomodoro Technique 1 \n \n \n© Francesco Cirillo 19/10/2006 Introduction \nFor many people, time is an enemy. The anxiety triggered by “the ticking clock”, in particular \nwhen a deadline is involved, leads to ineffective work and study behaviour which in turn elicits \nthe tendency to procrastinate. The Pomodoro Technique was created with the aim of using time \nas a valuable ally to accomplish what we want to do the way we want to do it, and to empower \nus to continually improve our work or study processes. This paper presents the Pomodoro \nTechnique as defined in 1992 by the author, and as taught to individuals since 1998 and to \nteams since 1999. \nThe Context section delineates the problem linked to time, the goals of",
+    "level": 0,
+    "parent_id": null,
+    "metadata": {
+      "author": "Francesco Cirillo",
+      "source": "Book: The Pomodoro Technique, Preface & Introduction",
+      "subject": "Core Principles",
+      "context": "The origin story of the technique and the fundamental problem of time-related anxiety.",
+      "source_document": "tpt_preface_and_introduction.txt",
+      "document_id": "71d62fdbb023",
+      "created_at": "2025-10-26T02:54:49.693390",
+      "level": 0
+    }
+  },
+  {
+    "chunk_id": "71d62fdbb023_L0_0000_L1_0000",
+    "text": "The Pomodoro Technique V \n \n \n© Francesco Cirillo 19/10/2006 Preface \nThe basic idea for the Pomodoro Technique came to me in the late ‘80s, during my first years at \nuniversity. \nOnce the elation from completing my first-y ear exams had subsided , I found myself in \na slump, a time of low productivity and high confusion. Every day I went to school, attended \nclasses, studied and went back home with the disheartened feeling that I didn’t really know \nwhat I’d been doing, that I’d been wasting my time. The exam dates came up so fast, and it \nseemed like I had no way to defend myself against time.  \nOne day in the classroom on campus where I used to study, I watched my classmates \nwith a critical eye, and then looked even more critically at myself: how I got myself organized, \nhow I interacted with others, how I studied. It was clear to me that the high number of \ndistractions and interruptions and the low level of concentration and motivation were at the root \nof the confusion I was feeling. \nSo I made a bet with myself, as helpful as it was humiliating: “Can you study – really \nstudy - for 10 minutes?” I needed objective validation, a Time Tutor, and I found one in a \nkitchen timer shaped like a pomodoro (the Italian for tomato) – in other words, I found my \n“Pomodoro”. \nI didn’t win the bet straight off. In fact, it took time and a great deal of effort, but in the \nend I succeeded. \nIn that first small step, I found something intriguing in the Pomodoro mechanism. With \nthis new tool, I devoted myself to improving my study process and later my work process. I \ntried to understand and solve more and more complex problems, to the point of considering the \ndynamics of team work. Gradually I put together the Pomodoro Technique, which I describe in \nthis document.   \nAfter years of teaching the Pomodoro Technique in classes open to the public and in \nteam mentoring, general interest has grown. More and more people are asking what it is and \nhow to apply it, so there’s a need for me to explain the Technique as I conceived it. My hope is \nthat it can help others reach th eir goals for personal improvement , and that I can further develop \n",
+    "level": 1,
+    "parent_id": "71d62fdbb023_L0_0000",
+    "metadata": {
+      "author": "Francesco Cirillo",
+      "source": "Book: The Pomodoro Technique, Preface & Introduction",
+      "subject": "Core Principles",
+      "context": "The origin story of the technique and the fundamental problem of time-related anxiety.",
+      "source_document": "tpt_preface_and_introduction.txt",
+      "document_id": "71d62fdbb023",
+      "created_at": "2025-10-26T02:54:49.693390",
+      "level": 1,
+      "parent_chunk_id": "71d62fdbb023_L0_0000"
+    }
+  },
+  {
+    "chunk_id": "71d62fdbb023_L0_0000_L1_0000_L2_0000",
+    "text": "The Pomodoro Technique V \n \n \n© Francesco Cirillo 19/10/2006 Preface \nThe basic idea for the Pomodoro Technique came to me in the late ‘80s, during my first years at \nuniversity. \nOnce the elation from completing my first-y ear exams had subsided , I found myself in \na slump, a time of low productivity and high confusion. Every day I went to school, attended \nclasses, studied and went back home with the disheartened feeling that I didn’t really know \nwhat I’d been doing, that I’d been wasting my time. The exam dates came up so fast, and it \nseemed like I had no way to defend myself against time.  \nOne day in the classroom on campus where I used to study, I watched my classmates \nwith a critical eye, and then looked even more critically at myself: how I got myself organized, \nhow I interacted with others, how I studied. It was clear to me that the high number of \ndistractions and interruptions and the low level of concentration and motivation were at the root \nof the confusion I was feeling. \nSo I made a bet with myself, as helpful as it was humiliating: “Can you",
+    "level": 2,
+    "parent_id": "71d62fdbb023_L0_0000_L1_0000",
+    "metadata": {
+      "author": "Francesco Cirillo",
+      "source": "Book: The Pomodoro Technique, Preface & Introduction",
+      "subject": "Core Principles",
+      "context": "The origin story of the technique and the fundamental problem of time-related anxiety.",
+      "source_document": "tpt_preface_and_introduction.txt",
+      "document_id": "71d62fdbb023",
+      "created_at": "2025-10-26T02:54:49.693390",
+      "level": 2,
+      "parent_chunk_id": "71d62fdbb023_L0_0000_L1_0000"
+    }
+  },
+  {
+    "chunk_id": "71d62fdbb023_L0_0000_L1_0000_L2_0001",
+    "text": " that the high number of \ndistractions and interruptions and the low level of concentration and motivation were at the root \nof the confusion I was feeling. \nSo I made a bet with myself, as helpful as it was humiliating: “Can you study – really \nstudy - for 10 minutes?” I needed objective validation, a Time Tutor, and I found one in a \nkitchen timer shaped like a pomodoro (the Italian for tomato) – in other words, I found my \n“Pomodoro”. \nI didn’t win the bet straight off. In fact, it took time and a great deal of effort, but in the \nend I succeeded. \nIn that first small step, I found something intriguing in the Pomodoro mechanism. With \nthis new tool, I devoted myself to improving my study process and later my work process. I \ntried to understand and solve more and more complex problems, to the point of considering the \ndynamics of team work. Gradually I put together the Pomodoro Technique, which I describe in \nthis document.   \nAfter years of teaching the Pomodoro Technique in classes open to the public and in \nteam mentoring, general interest has grown. More and more people are asking what",
+    "level": 2,
+    "parent_id": "71d62fdbb023_L0_0000_L1_0000",
+    "metadata": {
+      "author": "Francesco Cirillo",
+      "source": "Book: The Pomodoro Technique, Preface & Introduction",
+      "subject": "Core Principles",
+      "context": "The origin story of the technique and the fundamental problem of time-related anxiety.",
+      "source_document": "tpt_preface_and_introduction.txt",
+      "document_id": "71d62fdbb023",
+      "created_at": "2025-10-26T02:54:49.693390",
+      "level": 2,
+      "parent_chunk_id": "71d62fdbb023_L0_0000_L1_0000"
+    }
+  },
+  {
+    "chunk_id": "71d62fdbb023_L0_0000_L1_0000_L2_0002",
+    "text": " put together the Pomodoro Technique, which I describe in \nthis document.   \nAfter years of teaching the Pomodoro Technique in classes open to the public and in \nteam mentoring, general interest has grown. More and more people are asking what it is and \nhow to apply it, so there’s a need for me to explain the Technique as I conceived it. My hope is \nthat it can help others reach th eir goals for personal improvement , and that I can further develop \n",
+    "level": 2,
+    "parent_id": "71d62fdbb023_L0_0000_L1_0000",
+    "metadata": {
+      "author": "Francesco Cirillo",
+      "source": "Book: The Pomodoro Technique, Preface & Introduction",
+      "subject": "Core Principles",
+      "context": "The origin story of the technique and the fundamental problem of time-related anxiety.",
+      "source_document": "tpt_preface_and_introduction.txt",
+      "document_id": "71d62fdbb023",
+      "created_at": "2025-10-26T02:54:49.693390",
+      "level": 2,
+      "parent_chunk_id": "71d62fdbb023_L0_0000_L1_0000"
+    }
+  },
+  {
+    "chunk_id": "71d62fdbb023_L0_0000_L1_0001",
+    "text": " it is and \nhow to apply it, so there’s a need for me to explain the Technique as I conceived it. My hope is \nthat it can help others reach th eir goals for personal improvement , and that I can further develop \nmy original idea.  \n \n \nAcknowledgements \nFirst and foremost, I want to thank my friend and mentor, Giovanni Caputo, for having \naccompanied  me yet again in this adventure. \nThanks also go to everyone who applied the Pomodoro Technique, either individually \nor as a group, helping disseminate the concept and encouraging me to write this paper: \nPiergiuliano Bossi, Claudia Sandu, Meihua Su, Federico De Felici, Alessandra del Vecchio and \nJill Connelly, to name a few. \nThanks to all those who learned the Pomodoro Technique through my workshops; their \nfeedback enabled me to observe it and improve it.  In particular: Andrea Narduzzi, Bruno \nBossola, Giannandrea Castaldi, Roberto Crivelli, Ernesto Di Blasio, Alberto Quario, Loris \nUgolini, Silvano Trea, Alberico Gualfetti, Marco Dani, Luigi Mengoni, Leonardo Marinangeli, \nNicola Canalini. \nLastly, thanks to the second generation of Pomodoro users, those who learned it \nindirectly through my notes or by working in teams where the Technique has been consolidated. \nI’ve written this paper especially for them:  Ma tteo Vaccari (and the people at ESSAP), Simone \nGenini, Carlo Bottiglieri, Gabriele Lana (and the people at Milano XPUG), Alejandro \nBarrionuevo, and Stefano Castelvetri (among others). \nThe Pomodoro Technique VI \n \n \n© Francesco Cirillo 19/10/2006  \n \nThe Pomodoro Technique 1 \n \n \n© Francesco Cirillo 19/10/2006 Introduction \nFor many people, time is an enemy. The anxiety triggered by “the ticking clock”, in particular \nwhen a deadline is involved, leads to ineffective work and study behaviour which in turn elicits \nthe tendency to procrastinate. The Pomodoro Technique was created with the aim of using time \nas a valuable ally to accomplish what we want to do the way we want to do it, and to empower \nus to continually improve our work or study processes. This paper presents",
+    "level": 1,
+    "parent_id": "71d62fdbb023_L0_0000",
+    "metadata": {
+      "author": "Francesco Cirillo",
+      "source": "Book: The Pomodoro Technique, Preface & Introduction",
+      "subject": "Core Principles",
+      "context": "The origin story of the technique and the fundamental problem of time-related anxiety.",
+      "source_document": "tpt_preface_and_introduction.txt",
+      "document_id": "71d62fdbb023",
+      "created_at": "2025-10-26T02:54:49.693390",
+      "level": 1,
+      "parent_chunk_id": "71d62fdbb023_L0_0000"
+    }
+  },
+  {
+    "chunk_id": "71d62fdbb023_L0_0000_L1_0001_L2_0000",
+    "text": " it is and \nhow to apply it, so there’s a need for me to explain the Technique as I conceived it. My hope is \nthat it can help others reach th eir goals for personal improvement , and that I can further develop \nmy original idea.  \n \n \nAcknowledgements \nFirst and foremost, I want to thank my friend and mentor, Giovanni Caputo, for having \naccompanied  me yet again in this adventure. \nThanks also go to everyone who applied the Pomodoro Technique, either individually \nor as a group, helping disseminate the concept and encouraging me to write this paper: \nPiergiuliano Bossi, Claudia Sandu, Meihua Su, Federico De Felici, Alessandra del Vecchio and \nJill Connelly, to name a few. \nThanks to all those who learned the Pomodoro Technique through my workshops; their \nfeedback enabled me to observe it and improve it.  In particular: Andrea Narduzzi, Bruno \nBossola, Giannandrea Castaldi, Roberto Crivelli, Ernesto Di Blasio, Alberto Quario, Loris \nUgolini, Silvano Trea, Alberico Gualfetti, Marco Dani, Luigi Mengoni,",
+    "level": 2,
+    "parent_id": "71d62fdbb023_L0_0000_L1_0001",
+    "metadata": {
+      "author": "Francesco Cirillo",
+      "source": "Book: The Pomodoro Technique, Preface & Introduction",
+      "subject": "Core Principles",
+      "context": "The origin story of the technique and the fundamental problem of time-related anxiety.",
+      "source_document": "tpt_preface_and_introduction.txt",
+      "document_id": "71d62fdbb023",
+      "created_at": "2025-10-26T02:54:49.693390",
+      "level": 2,
+      "parent_chunk_id": "71d62fdbb023_L0_0000_L1_0001"
+    }
+  },
+  {
+    "chunk_id": "71d62fdbb023_L0_0000_L1_0001_L2_0001",
+    "text": ", Giannandrea Castaldi, Roberto Crivelli, Ernesto Di Blasio, Alberto Quario, Loris \nUgolini, Silvano Trea, Alberico Gualfetti, Marco Dani, Luigi Mengoni, Leonardo Marinangeli, \nNicola Canalini. \nLastly, thanks to the second generation of Pomodoro users, those who learned it \nindirectly through my notes or by working in teams where the Technique has been consolidated. \nI’ve written this paper especially for them:  Ma tteo Vaccari (and the people at ESSAP), Simone \nGenini, Carlo Bottiglieri, Gabriele Lana (and the people at Milano XPUG), Alejandro \nBarrionuevo, and Stefano Castelvetri (among others). \nThe Pomodoro Technique VI \n \n \n© Francesco Cirillo 19/10/2006  \n \nThe Pomodoro Technique 1 \n \n \n© Francesco Cirillo 19/10/2006 Introduction \nFor many people, time is an enemy. The anxiety triggered by “the ticking clock”, in particular \nwhen a deadline is involved, leads to ineffective work and study behaviour which in turn elicits \nthe tendency to procrastinate.",
+    "level": 2,
+    "parent_id": "71d62fdbb023_L0_0000_L1_0001",
+    "metadata": {
+      "author": "Francesco Cirillo",
+      "source": "Book: The Pomodoro Technique, Preface & Introduction",
+      "subject": "Core Principles",
+      "context": "The origin story of the technique and the fundamental problem of time-related anxiety.",
+      "source_document": "tpt_preface_and_introduction.txt",
+      "document_id": "71d62fdbb023",
+      "created_at": "2025-10-26T02:54:49.693390",
+      "level": 2,
+      "parent_chunk_id": "71d62fdbb023_L0_0000_L1_0001"
+    }
+  },
+  {
+    "chunk_id": "71d62fdbb023_L0_0000_L1_0001_L2_0002",
+    "text": "2006 Introduction \nFor many people, time is an enemy. The anxiety triggered by “the ticking clock”, in particular \nwhen a deadline is involved, leads to ineffective work and study behaviour which in turn elicits \nthe tendency to procrastinate. The Pomodoro Technique was created with the aim of using time \nas a valuable ally to accomplish what we want to do the way we want to do it, and to empower \nus to continually improve our work or study processes. This paper presents",
+    "level": 2,
+    "parent_id": "71d62fdbb023_L0_0000_L1_0001",
+    "metadata": {
+      "author": "Francesco Cirillo",
+      "source": "Book: The Pomodoro Technique, Preface & Introduction",
+      "subject": "Core Principles",
+      "context": "The origin story of the technique and the fundamental problem of time-related anxiety.",
+      "source_document": "tpt_preface_and_introduction.txt",
+      "document_id": "71d62fdbb023",
+      "created_at": "2025-10-26T02:54:49.693390",
+      "level": 2,
+      "parent_chunk_id": "71d62fdbb023_L0_0000_L1_0001"
+    }
+  },
+  {
+    "chunk_id": "71d62fdbb023_L0_0000_L1_0002",
+    "text": " The Pomodoro Technique was created with the aim of using time \nas a valuable ally to accomplish what we want to do the way we want to do it, and to empower \nus to continually improve our work or study processes. This paper presents the Pomodoro \nTechnique as defined in 1992 by the author, and as taught to individuals since 1998 and to \nteams since 1999. \nThe Context section delineates the problem linked to time, the goals of",
+    "level": 1,
+    "parent_id": "71d62fdbb023_L0_0000",
+    "metadata": {
+      "author": "Francesco Cirillo",
+      "source": "Book: The Pomodoro Technique, Preface & Introduction",
+      "subject": "Core Principles",
+      "context": "The origin story of the technique and the fundamental problem of time-related anxiety.",
+      "source_document": "tpt_preface_and_introduction.txt",
+      "document_id": "71d62fdbb023",
+      "created_at": "2025-10-26T02:54:49.693390",
+      "level": 1,
+      "parent_chunk_id": "71d62fdbb023_L0_0000"
+    }
+  },
+  {
+    "chunk_id": "71d62fdbb023_L0_0000_L1_0002_L2_0000",
+    "text": " The Pomodoro Technique was created with the aim of using time \nas a valuable ally to accomplish what we want to do the way we want to do it, and to empower \nus to continually improve our work or study processes. This paper presents the Pomodoro \nTechnique as defined in 1992 by the author, and as taught to individuals since 1998 and to \nteams since 1999. \nThe Context section delineates the problem linked to time, the goals of",
+    "level": 2,
+    "parent_id": "71d62fdbb023_L0_0000_L1_0002",
+    "metadata": {
+      "author": "Francesco Cirillo",
+      "source": "Book: The Pomodoro Technique, Preface & Introduction",
+      "subject": "Core Principles",
+      "context": "The origin story of the technique and the fundamental problem of time-related anxiety.",
+      "source_document": "tpt_preface_and_introduction.txt",
+      "document_id": "71d62fdbb023",
+      "created_at": "2025-10-26T02:54:49.693390",
+      "level": 2,
+      "parent_chunk_id": "71d62fdbb023_L0_0000_L1_0002"
+    }
+  },
+  {
+    "chunk_id": "71d62fdbb023_L0_0001",
+    "text": " the Pomodoro \nTechnique as defined in 1992 by the author, and as taught to individuals since 1998 and to \nteams since 1999. \nThe Context section delineates the problem linked to time, the goals of the Pomodoro \nTechnique and its basic assumptions. Material and Method describes the Pomodoro Technique, \nand shows how to apply it by r eaching incremental objectives. Th e Results section provides a \nseries of observations based on the experience of people who have tried the Technique. The \nConclusions section identifies a number of fact ors that explain how the Technique achieves its \ngoals. This document presents a general versio n of the Pomodoro Technique. The text entitled \nApplying the Pomodoro Technique in Teams  details how the Technique can be used in work \ngroups. \nThe Pomodoro Technique 2 \n \n \n© Francesco Cirillo 19/10/2006",
+    "level": 0,
+    "parent_id": null,
+    "metadata": {
+      "author": "Francesco Cirillo",
+      "source": "Book: The Pomodoro Technique, Preface & Introduction",
+      "subject": "Core Principles",
+      "context": "The origin story of the technique and the fundamental problem of time-related anxiety.",
+      "source_document": "tpt_preface_and_introduction.txt",
+      "document_id": "71d62fdbb023",
+      "created_at": "2025-10-26T02:54:49.693390",
+      "level": 0
+    }
+  },
+  {
+    "chunk_id": "71d62fdbb023_L0_0001_L1_0000",
+    "text": " the Pomodoro \nTechnique as defined in 1992 by the author, and as taught to individuals since 1998 and to \nteams since 1999. \nThe Context section delineates the problem linked to time, the goals of the Pomodoro \nTechnique and its basic assumptions. Material and Method describes the Pomodoro Technique, \nand shows how to apply it by r eaching incremental objectives. Th e Results section provides a \nseries of observations based on the experience of people who have tried the Technique. The \nConclusions section identifies a number of fact ors that explain how the Technique achieves its \ngoals. This document presents a general versio n of the Pomodoro Technique. The text entitled \nApplying the Pomodoro Technique in Teams  details how the Technique can be used in work \ngroups. \nThe Pomodoro Technique 2 \n \n \n© Francesco Cirillo 19/10/2006",
+    "level": 1,
+    "parent_id": "71d62fdbb023_L0_0001",
+    "metadata": {
+      "author": "Francesco Cirillo",
+      "source": "Book: The Pomodoro Technique, Preface & Introduction",
+      "subject": "Core Principles",
+      "context": "The origin story of the technique and the fundamental problem of time-related anxiety.",
+      "source_document": "tpt_preface_and_introduction.txt",
+      "document_id": "71d62fdbb023",
+      "created_at": "2025-10-26T02:54:49.693390",
+      "level": 1,
+      "parent_chunk_id": "71d62fdbb023_L0_0001"
+    }
+  },
+  {
+    "chunk_id": "71d62fdbb023_L0_0001_L1_0000_L2_0000",
+    "text": " the Pomodoro \nTechnique as defined in 1992 by the author, and as taught to individuals since 1998 and to \nteams since 1999. \nThe Context section delineates the problem linked to time, the goals of the Pomodoro \nTechnique and its basic assumptions. Material and Method describes the Pomodoro Technique, \nand shows how to apply it by r eaching incremental objectives. Th e Results section provides a \nseries of observations based on the experience of people who have tried the Technique. The \nConclusions section identifies a number of fact ors that explain how the Technique achieves its \ngoals. This document presents a general versio n of the Pomodoro Technique. The text entitled \nApplying the Pomodoro Technique in Teams  details how the Technique can be used in work \ngroups. \nThe Pomodoro Technique 2 \n \n \n© Francesco Cirillo 19/10/2006",
+    "level": 2,
+    "parent_id": "71d62fdbb023_L0_0001_L1_0000",
+    "metadata": {
+      "author": "Francesco Cirillo",
+      "source": "Book: The Pomodoro Technique, Preface & Introduction",
+      "subject": "Core Principles",
+      "context": "The origin story of the technique and the fundamental problem of time-related anxiety.",
+      "source_document": "tpt_preface_and_introduction.txt",
+      "document_id": "71d62fdbb023",
+      "created_at": "2025-10-26T02:54:49.693390",
+      "level": 2,
+      "parent_chunk_id": "71d62fdbb023_L0_0001_L1_0000"
+    }
+  }
+]

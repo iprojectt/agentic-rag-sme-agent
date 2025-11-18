@@ -1,0 +1,509 @@
+[
+  {
+    "chunk_id": "0c8c3f6b5bd7_L0_0000",
+    "text": "4/23/2019 Kanban Quick Guide\nhttps://www .tutorialspoint.com/cgi-bin/printpage.cgi 11/17Targetprocess\nYou can get more information on these tools at the respective sites. A comparison of these tools and some\nmore can be found at https://www.getapp.com/project-management-planning-software/ .\nKanban Tool\nKanban tool is a visual project management tool. Use Kanban cards, colors, swim-lanes, tags and due dates\nto compose work on Kanban board. Analyze and constantly improve your process to increase business\nefficiency.\nFollowing are the important features of the Kanban tool −\nOnline Kanban Boards\nInsightful analytics\nVisual Project Management\nOnline Documents\nDrag & Drop Tasks\nTo-Do Lists\nFor more information, visit the site http://kanbantool.com/\nKanbanery\nKanbanery is a visual project management tool that helps you work more effectively, alone and together, by\nvisualizing work.\nFeatures of Kanbanery include −\nGitHub integration\nCreate or copy task boards easily with templates\niPhone and iPad apps\nAPI and several third party apps\nAdvanced reporting\nContent-rich tasks\nWork with existing systems\nReal-time updates\nFor more information, visit the site, https://kanbanery.com/\nLeanKit\nLeanKit supports Kanban-based visual management. It can be used in distributed environment with access\nto the CEO of a company, to all employees, customers, and partners.\nFeatures of LeanKit include −\nVisualize workflow using virtual Kanban boards.\nPlan and track work using the workflow and calendar views.\nEffective virtual and visual team collaboration.\nStay connected on-the-go with a browser or mobile device.\nAlign strategic initiatives with team-level execution using visual tiered board approach.\nMeasure effectiveness using powerful reporting and analytics.\n4/23/2019 Kanban Quick Guide\nhttps://www .tutorialspoint.com/cgi-bin/printpage.cgi 12/17Real-time updates and automated reports and notifications.\nCloud-hosted and supports calendar and workflow views.\nImprove flow of work with Kanban capabilities such as policies, class of service, and WIP limits.\nRole-based security controls.\nIntegrate with other systems such as Microsoft Project server, TFS, and VS online, GitHub, JIRA,\nBuildmaster, Oracle Primavera, and so on. Zapier offers hundreds of pre-built integrations between\nLeanKit and web apps, such as Google, Salesforce and Zendesk.\nFor more information, visit the site http://leankit.com/\nJIRA Software\nJIRA Software is an Agile project management tool designed for teams of every shape and size.\nFeatures of JIRA software include −\nPlan  − Flexible planning using Scrum or Kanban or a mixed methodology.\nAccurate Estimations  − Estimations that help the team become more accurate and efficient. JIRA\nsupports user story points, hours, t-shirt sizes, or any other estimation technique.\nValue-driven prioritization  − JIRA allows prioritization of user stories, issues, and bugs in the\nproduct backlog with a simple drag and drop. This facilitates ensuring that the user stories of high\ncustomer value to be on the top.\nTrack  − Team's work in full context is maintained with complete visibility irrespective of the\ngeographic locations.\nRelease  − Ship with confidence and sanity knowing that the information available is always\nupdated.\nReport  − Improve team performance with actions based on real-time, visual data that gives the\nteam critical insight into their agile process.\nWorkflow  − Choose a workflow that matches the way the team works or that is an out-of-the-box\nworkflow.\nAdd-ons  − Enhance JIRA with add-ons such as portfolio for JIRA, Tempo Timesheets, Zephyr, and\nover 800 other add-ons that can help to get the most out of JIRA software.\nIntegrate workflow with other tools  − Upgrade your workflow with Confluence, Bitbucket,\nBamboo, HipChat, and hundreds of other developer tools.\nFor more information, visit the site https://www.atlassian.com/software/jira\nEarliz\nEarliz is an online project management and monitoring software that supports smart project management\nand collaboration.\nFeatures of Earliz include −\nGantt / Agile  − For each new project, choose between a Gantt  or Agile  interface.\nYou can change this project method any time during your project.\nTask Management  − Structure your project by listing the different steps  of your\nproject by dividing them into tasks.\nBoard  − Manage your project daily using the board. Based on the Kanban method, the board shows\nthe status of all the tasks and their assignment to the project participants.\nSynchronization  − The content of your project is automatically synced between all connected\nmembers.stepssprints\norstories\n4/23/2019 Kanban Quick Guide\nhttps://www .tutorialspoint.com/cgi-bin/printpage.cgi 13/",
+    "level": 0,
+    "parent_id": null,
+    "metadata": {
+      "author": "Unknown",
+      "source": "Unknown",
+      "subject": "Uncategorized",
+      "context": "General",
+      "source_document": "kqg_part3_Kanban_Software_Tools_and_Solutions.txt",
+      "document_id": "0c8c3f6b5bd7",
+      "created_at": "2025-10-26T02:54:47.131321",
+      "level": 0
+    }
+  },
+  {
+    "chunk_id": "0c8c3f6b5bd7_L0_0000_L1_0000",
+    "text": "4/23/2019 Kanban Quick Guide\nhttps://www .tutorialspoint.com/cgi-bin/printpage.cgi 11/17Targetprocess\nYou can get more information on these tools at the respective sites. A comparison of these tools and some\nmore can be found at https://www.getapp.com/project-management-planning-software/ .\nKanban Tool\nKanban tool is a visual project management tool. Use Kanban cards, colors, swim-lanes, tags and due dates\nto compose work on Kanban board. Analyze and constantly improve your process to increase business\nefficiency.\nFollowing are the important features of the Kanban tool −\nOnline Kanban Boards\nInsightful analytics\nVisual Project Management\nOnline Documents\nDrag & Drop Tasks\nTo-Do Lists\nFor more information, visit the site http://kanbantool.com/\nKanbanery\nKanbanery is a visual project management tool that helps you work more effectively, alone and together, by\nvisualizing work.\nFeatures of Kanbanery include −\nGitHub integration\nCreate or copy task boards easily with templates\niPhone and iPad apps\nAPI and several third party apps\nAdvanced reporting\nContent-rich tasks\nWork with existing systems\nReal-time updates\nFor more information, visit the site, https://kanbanery.com/\nLeanKit\nLeanKit supports Kanban-based visual management. It can be used in distributed environment with access\nto the CEO of a company, to all employees, customers, and partners.\nFeatures of LeanKit include −\nVisualize workflow using virtual Kanban boards.\nPlan and track work using the workflow and calendar views.\nEffective virtual and visual team collaboration.\nStay connected on-the-go with a browser or mobile device.\nAlign strategic initiatives with team-level execution using visual tiered board approach.\nMeasure effectiveness using powerful reporting and analytics.\n4/23/2019 Kanban Quick Guide\nhttps://www .tutorialspoint.com/cgi-bin/printpage.cgi 12/17Real-time updates and automated reports and notifications.\nCloud-hosted and supports calendar and workflow views.\nImprove flow of work with Kanban capabilities such as policies, class of service, and WIP limits.\nRole-based security controls.\nIntegrate with other systems such as Microsoft Project server, TFS, and VS online, GitHub, JIRA,\nBuildmaster, Oracle Primavera, and so on. Zapier offers hundreds of pre-built integrations between\nLeanKit and web apps, such as Google, Salesforce and",
+    "level": 1,
+    "parent_id": "0c8c3f6b5bd7_L0_0000",
+    "metadata": {
+      "author": "Unknown",
+      "source": "Unknown",
+      "subject": "Uncategorized",
+      "context": "General",
+      "source_document": "kqg_part3_Kanban_Software_Tools_and_Solutions.txt",
+      "document_id": "0c8c3f6b5bd7",
+      "created_at": "2025-10-26T02:54:47.131321",
+      "level": 1,
+      "parent_chunk_id": "0c8c3f6b5bd7_L0_0000"
+    }
+  },
+  {
+    "chunk_id": "0c8c3f6b5bd7_L0_0000_L1_0000_L2_0000",
+    "text": "4/23/2019 Kanban Quick Guide\nhttps://www .tutorialspoint.com/cgi-bin/printpage.cgi 11/17Targetprocess\nYou can get more information on these tools at the respective sites. A comparison of these tools and some\nmore can be found at https://www.getapp.com/project-management-planning-software/ .\nKanban Tool\nKanban tool is a visual project management tool. Use Kanban cards, colors, swim-lanes, tags and due dates\nto compose work on Kanban board. Analyze and constantly improve your process to increase business\nefficiency.\nFollowing are the important features of the Kanban tool −\nOnline Kanban Boards\nInsightful analytics\nVisual Project Management\nOnline Documents\nDrag & Drop Tasks\nTo-Do Lists\nFor more information, visit the site http://kanbantool.com/\nKanbanery\nKanbanery is a visual project management tool that helps you work more effectively, alone and together, by\nvisualizing work.\nFeatures of Kanbanery include −\nGitHub integration\nCreate or copy task boards easily with templates\niPhone and iPad apps\nAPI and several third party apps\nAdvanced reporting\nContent-rich tasks\nWork with existing systems\nReal",
+    "level": 2,
+    "parent_id": "0c8c3f6b5bd7_L0_0000_L1_0000",
+    "metadata": {
+      "author": "Unknown",
+      "source": "Unknown",
+      "subject": "Uncategorized",
+      "context": "General",
+      "source_document": "kqg_part3_Kanban_Software_Tools_and_Solutions.txt",
+      "document_id": "0c8c3f6b5bd7",
+      "created_at": "2025-10-26T02:54:47.131321",
+      "level": 2,
+      "parent_chunk_id": "0c8c3f6b5bd7_L0_0000_L1_0000"
+    }
+  },
+  {
+    "chunk_id": "0c8c3f6b5bd7_L0_0000_L1_0000_L2_0001",
+    "text": "\nvisualizing work.\nFeatures of Kanbanery include −\nGitHub integration\nCreate or copy task boards easily with templates\niPhone and iPad apps\nAPI and several third party apps\nAdvanced reporting\nContent-rich tasks\nWork with existing systems\nReal-time updates\nFor more information, visit the site, https://kanbanery.com/\nLeanKit\nLeanKit supports Kanban-based visual management. It can be used in distributed environment with access\nto the CEO of a company, to all employees, customers, and partners.\nFeatures of LeanKit include −\nVisualize workflow using virtual Kanban boards.\nPlan and track work using the workflow and calendar views.\nEffective virtual and visual team collaboration.\nStay connected on-the-go with a browser or mobile device.\nAlign strategic initiatives with team-level execution using visual tiered board approach.\nMeasure effectiveness using powerful reporting and analytics.\n4/23/2019 Kanban Quick Guide\nhttps://www .tutorialspoint.com/cgi-bin/printpage.cgi 12/17Real-time updates and automated reports and notifications.\nCloud-hosted and supports calendar and workflow views.\nImprove flow of work with Kanban capabilities such as policies, class of service, and WIP limits.\nRole-based security controls.\nIntegrate with other systems such as Microsoft",
+    "level": 2,
+    "parent_id": "0c8c3f6b5bd7_L0_0000_L1_0000",
+    "metadata": {
+      "author": "Unknown",
+      "source": "Unknown",
+      "subject": "Uncategorized",
+      "context": "General",
+      "source_document": "kqg_part3_Kanban_Software_Tools_and_Solutions.txt",
+      "document_id": "0c8c3f6b5bd7",
+      "created_at": "2025-10-26T02:54:47.131321",
+      "level": 2,
+      "parent_chunk_id": "0c8c3f6b5bd7_L0_0000_L1_0000"
+    }
+  },
+  {
+    "chunk_id": "0c8c3f6b5bd7_L0_0000_L1_0000_L2_0002",
+    "text": " automated reports and notifications.\nCloud-hosted and supports calendar and workflow views.\nImprove flow of work with Kanban capabilities such as policies, class of service, and WIP limits.\nRole-based security controls.\nIntegrate with other systems such as Microsoft Project server, TFS, and VS online, GitHub, JIRA,\nBuildmaster, Oracle Primavera, and so on. Zapier offers hundreds of pre-built integrations between\nLeanKit and web apps, such as Google, Salesforce and",
+    "level": 2,
+    "parent_id": "0c8c3f6b5bd7_L0_0000_L1_0000",
+    "metadata": {
+      "author": "Unknown",
+      "source": "Unknown",
+      "subject": "Uncategorized",
+      "context": "General",
+      "source_document": "kqg_part3_Kanban_Software_Tools_and_Solutions.txt",
+      "document_id": "0c8c3f6b5bd7",
+      "created_at": "2025-10-26T02:54:47.131321",
+      "level": 2,
+      "parent_chunk_id": "0c8c3f6b5bd7_L0_0000_L1_0000"
+    }
+  },
+  {
+    "chunk_id": "0c8c3f6b5bd7_L0_0000_L1_0001",
+    "text": " Project server, TFS, and VS online, GitHub, JIRA,\nBuildmaster, Oracle Primavera, and so on. Zapier offers hundreds of pre-built integrations between\nLeanKit and web apps, such as Google, Salesforce and Zendesk.\nFor more information, visit the site http://leankit.com/\nJIRA Software\nJIRA Software is an Agile project management tool designed for teams of every shape and size.\nFeatures of JIRA software include −\nPlan  − Flexible planning using Scrum or Kanban or a mixed methodology.\nAccurate Estimations  − Estimations that help the team become more accurate and efficient. JIRA\nsupports user story points, hours, t-shirt sizes, or any other estimation technique.\nValue-driven prioritization  − JIRA allows prioritization of user stories, issues, and bugs in the\nproduct backlog with a simple drag and drop. This facilitates ensuring that the user stories of high\ncustomer value to be on the top.\nTrack  − Team's work in full context is maintained with complete visibility irrespective of the\ngeographic locations.\nRelease  − Ship with confidence and sanity knowing that the information available is always\nupdated.\nReport  − Improve team performance with actions based on real-time, visual data that gives the\nteam critical insight into their agile process.\nWorkflow  − Choose a workflow that matches the way the team works or that is an out-of-the-box\nworkflow.\nAdd-ons  − Enhance JIRA with add-ons such as portfolio for JIRA, Tempo Timesheets, Zephyr, and\nover 800 other add-ons that can help to get the most out of JIRA software.\nIntegrate workflow with other tools  − Upgrade your workflow with Confluence, Bitbucket,\nBamboo, HipChat, and hundreds of other developer tools.\nFor more information, visit the site https://www.atlassian.com/software/jira\nEarliz\nEarliz is an online project management and monitoring software that supports smart project management\nand collaboration.\nFeatures of Earliz include −\nGantt / Agile  − For each new project, choose between a Gantt  or Agile  interface.\nYou can change this project method any time during your project.\nTask Management  − Structure your project by listing the different steps  of your\nproject by dividing them into tasks.\nBoard  − Manage your project daily using the board. Based on the Kanban method, the board shows\nthe status of all the tasks and their assignment to the project participants.\nS",
+    "level": 1,
+    "parent_id": "0c8c3f6b5bd7_L0_0000",
+    "metadata": {
+      "author": "Unknown",
+      "source": "Unknown",
+      "subject": "Uncategorized",
+      "context": "General",
+      "source_document": "kqg_part3_Kanban_Software_Tools_and_Solutions.txt",
+      "document_id": "0c8c3f6b5bd7",
+      "created_at": "2025-10-26T02:54:47.131321",
+      "level": 1,
+      "parent_chunk_id": "0c8c3f6b5bd7_L0_0000"
+    }
+  },
+  {
+    "chunk_id": "0c8c3f6b5bd7_L0_0000_L1_0001_L2_0000",
+    "text": " Project server, TFS, and VS online, GitHub, JIRA,\nBuildmaster, Oracle Primavera, and so on. Zapier offers hundreds of pre-built integrations between\nLeanKit and web apps, such as Google, Salesforce and Zendesk.\nFor more information, visit the site http://leankit.com/\nJIRA Software\nJIRA Software is an Agile project management tool designed for teams of every shape and size.\nFeatures of JIRA software include −\nPlan  − Flexible planning using Scrum or Kanban or a mixed methodology.\nAccurate Estimations  − Estimations that help the team become more accurate and efficient. JIRA\nsupports user story points, hours, t-shirt sizes, or any other estimation technique.\nValue-driven prioritization  − JIRA allows prioritization of user stories, issues, and bugs in the\nproduct backlog with a simple drag and drop. This facilitates ensuring that the user stories of high\ncustomer value to be on the top.\nTrack  − Team's work in full context is maintained with complete visibility irrespective of the\ngeographic locations.\nRelease  − Ship with confidence and sanity knowing that the information available is always\nupdated.\nReport  − Improve team performance with actions based on real-time, visual data that",
+    "level": 2,
+    "parent_id": "0c8c3f6b5bd7_L0_0000_L1_0001",
+    "metadata": {
+      "author": "Unknown",
+      "source": "Unknown",
+      "subject": "Uncategorized",
+      "context": "General",
+      "source_document": "kqg_part3_Kanban_Software_Tools_and_Solutions.txt",
+      "document_id": "0c8c3f6b5bd7",
+      "created_at": "2025-10-26T02:54:47.131321",
+      "level": 2,
+      "parent_chunk_id": "0c8c3f6b5bd7_L0_0000_L1_0001"
+    }
+  },
+  {
+    "chunk_id": "0c8c3f6b5bd7_L0_0000_L1_0001_L2_0001",
+    "text": " in full context is maintained with complete visibility irrespective of the\ngeographic locations.\nRelease  − Ship with confidence and sanity knowing that the information available is always\nupdated.\nReport  − Improve team performance with actions based on real-time, visual data that gives the\nteam critical insight into their agile process.\nWorkflow  − Choose a workflow that matches the way the team works or that is an out-of-the-box\nworkflow.\nAdd-ons  − Enhance JIRA with add-ons such as portfolio for JIRA, Tempo Timesheets, Zephyr, and\nover 800 other add-ons that can help to get the most out of JIRA software.\nIntegrate workflow with other tools  − Upgrade your workflow with Confluence, Bitbucket,\nBamboo, HipChat, and hundreds of other developer tools.\nFor more information, visit the site https://www.atlassian.com/software/jira\nEarliz\nEarliz is an online project management and monitoring software that supports smart project management\nand collaboration.\nFeatures of Earliz include −\nGantt / Agile  − For each new project, choose between a Gantt  or Agile  interface.\nYou can change this project method any time during your project.\nTask Management  − Structure your project by listing the",
+    "level": 2,
+    "parent_id": "0c8c3f6b5bd7_L0_0000_L1_0001",
+    "metadata": {
+      "author": "Unknown",
+      "source": "Unknown",
+      "subject": "Uncategorized",
+      "context": "General",
+      "source_document": "kqg_part3_Kanban_Software_Tools_and_Solutions.txt",
+      "document_id": "0c8c3f6b5bd7",
+      "created_at": "2025-10-26T02:54:47.131321",
+      "level": 2,
+      "parent_chunk_id": "0c8c3f6b5bd7_L0_0000_L1_0001"
+    }
+  },
+  {
+    "chunk_id": "0c8c3f6b5bd7_L0_0000_L1_0001_L2_0002",
+    "text": " of Earliz include −\nGantt / Agile  − For each new project, choose between a Gantt  or Agile  interface.\nYou can change this project method any time during your project.\nTask Management  − Structure your project by listing the different steps  of your\nproject by dividing them into tasks.\nBoard  − Manage your project daily using the board. Based on the Kanban method, the board shows\nthe status of all the tasks and their assignment to the project participants.\nS",
+    "level": 2,
+    "parent_id": "0c8c3f6b5bd7_L0_0000_L1_0001",
+    "metadata": {
+      "author": "Unknown",
+      "source": "Unknown",
+      "subject": "Uncategorized",
+      "context": "General",
+      "source_document": "kqg_part3_Kanban_Software_Tools_and_Solutions.txt",
+      "document_id": "0c8c3f6b5bd7",
+      "created_at": "2025-10-26T02:54:47.131321",
+      "level": 2,
+      "parent_chunk_id": "0c8c3f6b5bd7_L0_0000_L1_0001"
+    }
+  },
+  {
+    "chunk_id": "0c8c3f6b5bd7_L0_0000_L1_0002",
+    "text": " different steps  of your\nproject by dividing them into tasks.\nBoard  − Manage your project daily using the board. Based on the Kanban method, the board shows\nthe status of all the tasks and their assignment to the project participants.\nSynchronization  − The content of your project is automatically synced between all connected\nmembers.stepssprints\norstories\n4/23/2019 Kanban Quick Guide\nhttps://www .tutorialspoint.com/cgi-bin/printpage.cgi 13/",
+    "level": 1,
+    "parent_id": "0c8c3f6b5bd7_L0_0000",
+    "metadata": {
+      "author": "Unknown",
+      "source": "Unknown",
+      "subject": "Uncategorized",
+      "context": "General",
+      "source_document": "kqg_part3_Kanban_Software_Tools_and_Solutions.txt",
+      "document_id": "0c8c3f6b5bd7",
+      "created_at": "2025-10-26T02:54:47.131321",
+      "level": 1,
+      "parent_chunk_id": "0c8c3f6b5bd7_L0_0000"
+    }
+  },
+  {
+    "chunk_id": "0c8c3f6b5bd7_L0_0000_L1_0002_L2_0000",
+    "text": " different steps  of your\nproject by dividing them into tasks.\nBoard  − Manage your project daily using the board. Based on the Kanban method, the board shows\nthe status of all the tasks and their assignment to the project participants.\nSynchronization  − The content of your project is automatically synced between all connected\nmembers.stepssprints\norstories\n4/23/2019 Kanban Quick Guide\nhttps://www .tutorialspoint.com/cgi-bin/printpage.cgi 13/",
+    "level": 2,
+    "parent_id": "0c8c3f6b5bd7_L0_0000_L1_0002",
+    "metadata": {
+      "author": "Unknown",
+      "source": "Unknown",
+      "subject": "Uncategorized",
+      "context": "General",
+      "source_document": "kqg_part3_Kanban_Software_Tools_and_Solutions.txt",
+      "document_id": "0c8c3f6b5bd7",
+      "created_at": "2025-10-26T02:54:47.131321",
+      "level": 2,
+      "parent_chunk_id": "0c8c3f6b5bd7_L0_0000_L1_0002"
+    }
+  },
+  {
+    "chunk_id": "0c8c3f6b5bd7_L0_0001",
+    "text": "ynchronization  − The content of your project is automatically synced between all connected\nmembers.stepssprints\norstories\n4/23/2019 Kanban Quick Guide\nhttps://www .tutorialspoint.com/cgi-bin/printpage.cgi 13/17Notifications  − Notifications alert you of project updates.\nProject Progression  − Monitor daily the progress of your projects, the velocity of the team, and\nknow at any time whether commitments are fulfilled.\nTeam Workload  − Visualize workloads of team members for each project and time period.\nTime Spent  − Track and analyze participant timesheets for each project.\nCustom Indicators  − Create indicators tailored to your needs and share them easily with\nstakeholders.\nAccess Right Management  − For each report, you can easily specify which members of your\nworkspace are allowed to access it.\nNewsfeed  − Follow all the news of your workspace, contacts, and projects.\nDashboard  − Get an immediate summary of what you planned for the day: meetings, tasks, and\nproject deadlines.\nChats and Discussion Forums  − Debate topics linked to your projects or workspace in\ndiscussion forums and chats.\nDocument sharing  − Store your documents in the Earliz workspace and make them available to\nteam members.\nPlanning  − Create teams, assign them to projects and manage the planning of each participant.\nTargetprocess\nTargetprocess is a software tool to visualize and manage Agile projects with full and natural support for\nScrum, Kanban or a customized Agile method. With enhanced visualization functionality, Targetprocess\ngives the visibility you need across the teams, projects, and the entire organization.\nFeatures of Targetprocess include −\niOS and Android apps\nHigh-level planning and tracking across the entire portfolio\nBurndown, CFD, custom graphical reports\nRelease planning and Sprint planning\nREST\nBacklog story map view\nKanban, Scrum, SAFe\nGraphical reports and dashboards\nCustom views, cards, reports, dashboards\nQA, bug tracking, test case management\nIdeal for Agile testing and quality centered teams\nVisibility of progress across multiple projects and teams\nVisualization of project data\nFor more information, visit the site http://agile-project-management-tool.targetprocess.com/\nKANBAN - TOOLS 2KANBAN - TOOLS 2\nSeveral project management tools that follow Kanban approach are available. In this chapter, you can have\nan overview of the following Kanban Tools −\nProjectplace\n4/23/2019 Kanban Quick Guide\nhttps://www .tutorialspoint.com/cgi-bin/printpage.cgi 14/17Wrike\nsmartQ\nAccelo Projects\nTrello\nProjectplace\nProjectplace is a no-installation project management tool that provides comprehensive solution allowing\nteams and organizations to plan, visualize, and keep track of their projects in real time.\nFeatures of Projectplace include −\nSecurely store, share, version manage, discuss, review files.\nKeep track of goals and scheduled work and set priorities.\nManage all issues on a Kanban board.\nShare screen with up to 100 people regardless of location.\nAvailable in 8 languages.\nThe Enterprise plan allows unlimited number of projects.\nCreate plans, organize work and track personal tasks.\nComplete overview of how all your projects are performing.\nAll project management tools in one place.\nCustomized or predefined templates, e.g. Prince2.\nVisibility of commitments and resource availability.\nSimple user account provisioning.\nUtilize lessons learned with project templates.\nCompare actual time spent with original estimations.\nExecute on your plan together with your team.\nProject planning tools.\nKanban boards.\nTask management.\nIssue management.\nGantt tool.\nDocument management.\nDesktop add-ons for document management.\nProject management app for Android and iOS.\nProject overview.\nCommunication tools.\nOnline meeting tool.\nMeeting management.\nProject management templates.\nProject portfolio management.\nResource management tool.\nTime management.\n4/23/2019 Kanban Quick Guide\nhttps://www .tutorialspoint.com/cgi-bin/printpage.cgi 15/17Report management.\nSingle Sign-On .\nIndustry leading security.\nCustomize your collaboration experience using our APIs.\nFor more information, visit the site https://www.projectplace.com/\nWrike\nWrike combines project management with a real-time workspace for collaboration, discussion and\ndocument sharing.\nFeatures of Wrike include −\nAdvanced task management.\nLive dashboard project overview.\nFile sharing and editing.\nCreate subtasks.\nReal-time activity stream.\nProgress reports.\nTask-related discussions.\nBranded workspace.\nEmail-to-task syncing.\nBranded e-mail notifications.\nAutomate recurring tasks and projects.\nThird party integrations with Gmail, Google Drive, Dropbox, etc.\nProject timeline view .\nWorkload view and scheduling.\nCalendar integrations with Outlook, Google and iCalendar.\nTime tracking.\nAndroid and iPhone app.\nCustom reports.\nAdd-ins for Google and Apple Mail.\nSecurity and privacy.\nEncryption.\nAccess control.\nData policy.\nFor more information, visit the site https://www.wrike.com/\nsmartQ\nsmartQ",
+    "level": 0,
+    "parent_id": null,
+    "metadata": {
+      "author": "Unknown",
+      "source": "Unknown",
+      "subject": "Uncategorized",
+      "context": "General",
+      "source_document": "kqg_part3_Kanban_Software_Tools_and_Solutions.txt",
+      "document_id": "0c8c3f6b5bd7",
+      "created_at": "2025-10-26T02:54:47.131321",
+      "level": 0
+    }
+  },
+  {
+    "chunk_id": "0c8c3f6b5bd7_L0_0001_L1_0000",
+    "text": "ynchronization  − The content of your project is automatically synced between all connected\nmembers.stepssprints\norstories\n4/23/2019 Kanban Quick Guide\nhttps://www .tutorialspoint.com/cgi-bin/printpage.cgi 13/17Notifications  − Notifications alert you of project updates.\nProject Progression  − Monitor daily the progress of your projects, the velocity of the team, and\nknow at any time whether commitments are fulfilled.\nTeam Workload  − Visualize workloads of team members for each project and time period.\nTime Spent  − Track and analyze participant timesheets for each project.\nCustom Indicators  − Create indicators tailored to your needs and share them easily with\nstakeholders.\nAccess Right Management  − For each report, you can easily specify which members of your\nworkspace are allowed to access it.\nNewsfeed  − Follow all the news of your workspace, contacts, and projects.\nDashboard  − Get an immediate summary of what you planned for the day: meetings, tasks, and\nproject deadlines.\nChats and Discussion Forums  − Debate topics linked to your projects or workspace in\ndiscussion forums and chats.\nDocument sharing  − Store your documents in the Earliz workspace and make them available to\nteam members.\nPlanning  − Create teams, assign them to projects and manage the planning of each participant.\nTargetprocess\nTargetprocess is a software tool to visualize and manage Agile projects with full and natural support for\nScrum, Kanban or a customized Agile method. With enhanced visualization functionality, Targetprocess\ngives the visibility you need across the teams, projects, and the entire organization.\nFeatures of Targetprocess include −\niOS and Android apps\nHigh-level planning and tracking across the entire portfolio\nBurndown, CFD, custom graphical reports\nRelease planning and Sprint planning\nREST\nBacklog story map view\nKanban, Scrum, SAFe\nGraphical reports and dashboards\nCustom views, cards, reports, dashboards\nQA, bug tracking, test case management\nIdeal for Agile testing and quality centered teams\nVisibility of progress across multiple projects and teams\nVisualization of project data\nFor more information, visit the site http://agile-project-management-tool.targetprocess.com/\nKANBAN - TOOLS 2KANBAN - TOOLS 2\nSeveral project management tools that follow Kanban approach are available. In this chapter, you can have\nan overview of the following Kanban Tools −\nProjectplace\n4/23/201",
+    "level": 1,
+    "parent_id": "0c8c3f6b5bd7_L0_0001",
+    "metadata": {
+      "author": "Unknown",
+      "source": "Unknown",
+      "subject": "Uncategorized",
+      "context": "General",
+      "source_document": "kqg_part3_Kanban_Software_Tools_and_Solutions.txt",
+      "document_id": "0c8c3f6b5bd7",
+      "created_at": "2025-10-26T02:54:47.131321",
+      "level": 1,
+      "parent_chunk_id": "0c8c3f6b5bd7_L0_0001"
+    }
+  },
+  {
+    "chunk_id": "0c8c3f6b5bd7_L0_0001_L1_0000_L2_0000",
+    "text": "ynchronization  − The content of your project is automatically synced between all connected\nmembers.stepssprints\norstories\n4/23/2019 Kanban Quick Guide\nhttps://www .tutorialspoint.com/cgi-bin/printpage.cgi 13/17Notifications  − Notifications alert you of project updates.\nProject Progression  − Monitor daily the progress of your projects, the velocity of the team, and\nknow at any time whether commitments are fulfilled.\nTeam Workload  − Visualize workloads of team members for each project and time period.\nTime Spent  − Track and analyze participant timesheets for each project.\nCustom Indicators  − Create indicators tailored to your needs and share them easily with\nstakeholders.\nAccess Right Management  − For each report, you can easily specify which members of your\nworkspace are allowed to access it.\nNewsfeed  − Follow all the news of your workspace, contacts, and projects.\nDashboard  − Get an immediate summary of what you planned for the day: meetings, tasks, and\nproject deadlines.\nChats and Discussion Forums  − Debate topics linked to your projects or workspace in\ndiscussion forums and chats.\nDocument sharing  − Store your documents in the Earliz workspace and make them available to\nteam members.\nPlanning",
+    "level": 2,
+    "parent_id": "0c8c3f6b5bd7_L0_0001_L1_0000",
+    "metadata": {
+      "author": "Unknown",
+      "source": "Unknown",
+      "subject": "Uncategorized",
+      "context": "General",
+      "source_document": "kqg_part3_Kanban_Software_Tools_and_Solutions.txt",
+      "document_id": "0c8c3f6b5bd7",
+      "created_at": "2025-10-26T02:54:47.131321",
+      "level": 2,
+      "parent_chunk_id": "0c8c3f6b5bd7_L0_0001_L1_0000"
+    }
+  },
+  {
+    "chunk_id": "0c8c3f6b5bd7_L0_0001_L1_0000_L2_0001",
+    "text": ", and\nproject deadlines.\nChats and Discussion Forums  − Debate topics linked to your projects or workspace in\ndiscussion forums and chats.\nDocument sharing  − Store your documents in the Earliz workspace and make them available to\nteam members.\nPlanning  − Create teams, assign them to projects and manage the planning of each participant.\nTargetprocess\nTargetprocess is a software tool to visualize and manage Agile projects with full and natural support for\nScrum, Kanban or a customized Agile method. With enhanced visualization functionality, Targetprocess\ngives the visibility you need across the teams, projects, and the entire organization.\nFeatures of Targetprocess include −\niOS and Android apps\nHigh-level planning and tracking across the entire portfolio\nBurndown, CFD, custom graphical reports\nRelease planning and Sprint planning\nREST\nBacklog story map view\nKanban, Scrum, SAFe\nGraphical reports and dashboards\nCustom views, cards, reports, dashboards\nQA, bug tracking, test case management\nIdeal for Agile testing and quality centered teams\nVisibility of progress across multiple projects and teams\nVisualization of project data\nFor more information, visit the site http://agile-project-management-tool.targetprocess.com/\nKANBAN - TOOLS",
+    "level": 2,
+    "parent_id": "0c8c3f6b5bd7_L0_0001_L1_0000",
+    "metadata": {
+      "author": "Unknown",
+      "source": "Unknown",
+      "subject": "Uncategorized",
+      "context": "General",
+      "source_document": "kqg_part3_Kanban_Software_Tools_and_Solutions.txt",
+      "document_id": "0c8c3f6b5bd7",
+      "created_at": "2025-10-26T02:54:47.131321",
+      "level": 2,
+      "parent_chunk_id": "0c8c3f6b5bd7_L0_0001_L1_0000"
+    }
+  },
+  {
+    "chunk_id": "0c8c3f6b5bd7_L0_0001_L1_0000_L2_0002",
+    "text": " management\nIdeal for Agile testing and quality centered teams\nVisibility of progress across multiple projects and teams\nVisualization of project data\nFor more information, visit the site http://agile-project-management-tool.targetprocess.com/\nKANBAN - TOOLS 2KANBAN - TOOLS 2\nSeveral project management tools that follow Kanban approach are available. In this chapter, you can have\nan overview of the following Kanban Tools −\nProjectplace\n4/23/201",
+    "level": 2,
+    "parent_id": "0c8c3f6b5bd7_L0_0001_L1_0000",
+    "metadata": {
+      "author": "Unknown",
+      "source": "Unknown",
+      "subject": "Uncategorized",
+      "context": "General",
+      "source_document": "kqg_part3_Kanban_Software_Tools_and_Solutions.txt",
+      "document_id": "0c8c3f6b5bd7",
+      "created_at": "2025-10-26T02:54:47.131321",
+      "level": 2,
+      "parent_chunk_id": "0c8c3f6b5bd7_L0_0001_L1_0000"
+    }
+  },
+  {
+    "chunk_id": "0c8c3f6b5bd7_L0_0001_L1_0001",
+    "text": " 2KANBAN - TOOLS 2\nSeveral project management tools that follow Kanban approach are available. In this chapter, you can have\nan overview of the following Kanban Tools −\nProjectplace\n4/23/2019 Kanban Quick Guide\nhttps://www .tutorialspoint.com/cgi-bin/printpage.cgi 14/17Wrike\nsmartQ\nAccelo Projects\nTrello\nProjectplace\nProjectplace is a no-installation project management tool that provides comprehensive solution allowing\nteams and organizations to plan, visualize, and keep track of their projects in real time.\nFeatures of Projectplace include −\nSecurely store, share, version manage, discuss, review files.\nKeep track of goals and scheduled work and set priorities.\nManage all issues on a Kanban board.\nShare screen with up to 100 people regardless of location.\nAvailable in 8 languages.\nThe Enterprise plan allows unlimited number of projects.\nCreate plans, organize work and track personal tasks.\nComplete overview of how all your projects are performing.\nAll project management tools in one place.\nCustomized or predefined templates, e.g. Prince2.\nVisibility of commitments and resource availability.\nSimple user account provisioning.\nUtilize lessons learned with project templates.\nCompare actual time spent with original estimations.\nExecute on your plan together with your team.\nProject planning tools.\nKanban boards.\nTask management.\nIssue management.\nGantt tool.\nDocument management.\nDesktop add-ons for document management.\nProject management app for Android and iOS.\nProject overview.\nCommunication tools.\nOnline meeting tool.\nMeeting management.\nProject management templates.\nProject portfolio management.\nResource management tool.\nTime management.\n4/23/2019 Kanban Quick Guide\nhttps://www .tutorialspoint.com/cgi-bin/printpage.cgi 15/17Report management.\nSingle Sign-On .\nIndustry leading security.\nCustomize your collaboration experience using our APIs.\nFor more information, visit the site https://www.projectplace.com/\nWrike\nWrike combines project management with a real-time workspace for collaboration, discussion and\ndocument sharing.\nFeatures of Wrike include −\nAdvanced task management.\nLive dashboard project overview.\nFile sharing and editing.\nCreate subtasks.\nReal-time activity stream.\nProgress reports.\nTask-related discussions.\nBranded workspace.\nEmail-to-task syncing.\nBranded e-mail notifications.\nAutomate recurring tasks and projects.\nThird party integrations with Gmail, Google Drive, Dropbox, etc.\nProject timeline view .\nWorkload view and scheduling.\nCalendar integrations with Outlook, Google and iCalendar.\n",
+    "level": 1,
+    "parent_id": "0c8c3f6b5bd7_L0_0001",
+    "metadata": {
+      "author": "Unknown",
+      "source": "Unknown",
+      "subject": "Uncategorized",
+      "context": "General",
+      "source_document": "kqg_part3_Kanban_Software_Tools_and_Solutions.txt",
+      "document_id": "0c8c3f6b5bd7",
+      "created_at": "2025-10-26T02:54:47.131321",
+      "level": 1,
+      "parent_chunk_id": "0c8c3f6b5bd7_L0_0001"
+    }
+  },
+  {
+    "chunk_id": "0c8c3f6b5bd7_L0_0001_L1_0001_L2_0000",
+    "text": " 2KANBAN - TOOLS 2\nSeveral project management tools that follow Kanban approach are available. In this chapter, you can have\nan overview of the following Kanban Tools −\nProjectplace\n4/23/2019 Kanban Quick Guide\nhttps://www .tutorialspoint.com/cgi-bin/printpage.cgi 14/17Wrike\nsmartQ\nAccelo Projects\nTrello\nProjectplace\nProjectplace is a no-installation project management tool that provides comprehensive solution allowing\nteams and organizations to plan, visualize, and keep track of their projects in real time.\nFeatures of Projectplace include −\nSecurely store, share, version manage, discuss, review files.\nKeep track of goals and scheduled work and set priorities.\nManage all issues on a Kanban board.\nShare screen with up to 100 people regardless of location.\nAvailable in 8 languages.\nThe Enterprise plan allows unlimited number of projects.\nCreate plans, organize work and track personal tasks.\nComplete overview of how all your projects are performing.\nAll project management tools in one place.\nCustomized or predefined templates, e.g. Prince2.\nVisibility of commitments and resource availability.\nSimple user account provisioning.\nUtilize lessons learned with project templates.\nCompare actual time spent with",
+    "level": 2,
+    "parent_id": "0c8c3f6b5bd7_L0_0001_L1_0001",
+    "metadata": {
+      "author": "Unknown",
+      "source": "Unknown",
+      "subject": "Uncategorized",
+      "context": "General",
+      "source_document": "kqg_part3_Kanban_Software_Tools_and_Solutions.txt",
+      "document_id": "0c8c3f6b5bd7",
+      "created_at": "2025-10-26T02:54:47.131321",
+      "level": 2,
+      "parent_chunk_id": "0c8c3f6b5bd7_L0_0001_L1_0001"
+    }
+  },
+  {
+    "chunk_id": "0c8c3f6b5bd7_L0_0001_L1_0001_L2_0001",
+    "text": " your projects are performing.\nAll project management tools in one place.\nCustomized or predefined templates, e.g. Prince2.\nVisibility of commitments and resource availability.\nSimple user account provisioning.\nUtilize lessons learned with project templates.\nCompare actual time spent with original estimations.\nExecute on your plan together with your team.\nProject planning tools.\nKanban boards.\nTask management.\nIssue management.\nGantt tool.\nDocument management.\nDesktop add-ons for document management.\nProject management app for Android and iOS.\nProject overview.\nCommunication tools.\nOnline meeting tool.\nMeeting management.\nProject management templates.\nProject portfolio management.\nResource management tool.\nTime management.\n4/23/2019 Kanban Quick Guide\nhttps://www .tutorialspoint.com/cgi-bin/printpage.cgi 15/17Report management.\nSingle Sign-On .\nIndustry leading security.\nCustomize your collaboration experience using our APIs.\nFor more information, visit the site https://www.projectplace.com/\nWrike\nWrike combines project management with a real-time workspace for collaboration, discussion and\ndocument sharing.\nFeatures of Wrike include −\nAdvanced task management.\nLive dashboard project overview.\nFile sharing and editing.\nCreate subtasks.\nReal-time activity stream.\nProgress reports.\nTask-related discussions.\nBranded workspace.\nEmail-to-task",
+    "level": 2,
+    "parent_id": "0c8c3f6b5bd7_L0_0001_L1_0001",
+    "metadata": {
+      "author": "Unknown",
+      "source": "Unknown",
+      "subject": "Uncategorized",
+      "context": "General",
+      "source_document": "kqg_part3_Kanban_Software_Tools_and_Solutions.txt",
+      "document_id": "0c8c3f6b5bd7",
+      "created_at": "2025-10-26T02:54:47.131321",
+      "level": 2,
+      "parent_chunk_id": "0c8c3f6b5bd7_L0_0001_L1_0001"
+    }
+  },
+  {
+    "chunk_id": "0c8c3f6b5bd7_L0_0001_L1_0001_L2_0002",
+    "text": " discussion and\ndocument sharing.\nFeatures of Wrike include −\nAdvanced task management.\nLive dashboard project overview.\nFile sharing and editing.\nCreate subtasks.\nReal-time activity stream.\nProgress reports.\nTask-related discussions.\nBranded workspace.\nEmail-to-task syncing.\nBranded e-mail notifications.\nAutomate recurring tasks and projects.\nThird party integrations with Gmail, Google Drive, Dropbox, etc.\nProject timeline view .\nWorkload view and scheduling.\nCalendar integrations with Outlook, Google and iCalendar.\n",
+    "level": 2,
+    "parent_id": "0c8c3f6b5bd7_L0_0001_L1_0001",
+    "metadata": {
+      "author": "Unknown",
+      "source": "Unknown",
+      "subject": "Uncategorized",
+      "context": "General",
+      "source_document": "kqg_part3_Kanban_Software_Tools_and_Solutions.txt",
+      "document_id": "0c8c3f6b5bd7",
+      "created_at": "2025-10-26T02:54:47.131321",
+      "level": 2,
+      "parent_chunk_id": "0c8c3f6b5bd7_L0_0001_L1_0001"
+    }
+  },
+  {
+    "chunk_id": "0c8c3f6b5bd7_L0_0001_L1_0002",
+    "text": " syncing.\nBranded e-mail notifications.\nAutomate recurring tasks and projects.\nThird party integrations with Gmail, Google Drive, Dropbox, etc.\nProject timeline view .\nWorkload view and scheduling.\nCalendar integrations with Outlook, Google and iCalendar.\nTime tracking.\nAndroid and iPhone app.\nCustom reports.\nAdd-ins for Google and Apple Mail.\nSecurity and privacy.\nEncryption.\nAccess control.\nData policy.\nFor more information, visit the site https://www.wrike.com/\nsmartQ\nsmartQ",
+    "level": 1,
+    "parent_id": "0c8c3f6b5bd7_L0_0001",
+    "metadata": {
+      "author": "Unknown",
+      "source": "Unknown",
+      "subject": "Uncategorized",
+      "context": "General",
+      "source_document": "kqg_part3_Kanban_Software_Tools_and_Solutions.txt",
+      "document_id": "0c8c3f6b5bd7",
+      "created_at": "2025-10-26T02:54:47.131321",
+      "level": 1,
+      "parent_chunk_id": "0c8c3f6b5bd7_L0_0001"
+    }
+  },
+  {
+    "chunk_id": "0c8c3f6b5bd7_L0_0001_L1_0002_L2_0000",
+    "text": " syncing.\nBranded e-mail notifications.\nAutomate recurring tasks and projects.\nThird party integrations with Gmail, Google Drive, Dropbox, etc.\nProject timeline view .\nWorkload view and scheduling.\nCalendar integrations with Outlook, Google and iCalendar.\nTime tracking.\nAndroid and iPhone app.\nCustom reports.\nAdd-ins for Google and Apple Mail.\nSecurity and privacy.\nEncryption.\nAccess control.\nData policy.\nFor more information, visit the site https://www.wrike.com/\nsmartQ\nsmartQ",
+    "level": 2,
+    "parent_id": "0c8c3f6b5bd7_L0_0001_L1_0002",
+    "metadata": {
+      "author": "Unknown",
+      "source": "Unknown",
+      "subject": "Uncategorized",
+      "context": "General",
+      "source_document": "kqg_part3_Kanban_Software_Tools_and_Solutions.txt",
+      "document_id": "0c8c3f6b5bd7",
+      "created_at": "2025-10-26T02:54:47.131321",
+      "level": 2,
+      "parent_chunk_id": "0c8c3f6b5bd7_L0_0001_L1_0002"
+    }
+  },
+  {
+    "chunk_id": "0c8c3f6b5bd7_L0_0002",
+    "text": "Time tracking.\nAndroid and iPhone app.\nCustom reports.\nAdd-ins for Google and Apple Mail.\nSecurity and privacy.\nEncryption.\nAccess control.\nData policy.\nFor more information, visit the site https://www.wrike.com/\nsmartQ\nsmartQ is an agile project management tool built around a visual task board . It allows\nyou to easily distribute work, track its progress and collaborate with the team online. smartQ can track\ntasks, issues, tickets, i.e. it is customizable to fit any workflow.\nFeatures of Wrike include −\nShare notes and files.SSO\nGanttchart\nKanbanBoard\n4/23/2019 Kanban Quick Guide\nhttps://www .tutorialspoint.com/cgi-bin/printpage.cgi 16/17Tickets by e-mail or form.\niPhone app.\nTicket form designer.\nThreaded discussions and file attachments.\nProject Performance Report.\nExternal access for non-registered users.\nTrack tasks, issues, tickets.\nEmail notifications and private notes.\nMark tickets with three-color stars.\nCustomize your ticket fields.\nCustomize your workflow.\nUnified notes and files area across all the tickets.\nBoard view, ticket view and list view.\nExport tickets to CSV and Excel.\nCustomize project roles.\nTeam roles.\nAssign people to each role.\nFor more information, visit the site http://www.getsmartq.com/\nAccelo Projects\nAccelo Projects is a Cloud Project Management Software that facilitates planning and tracking, automation\nand change management.\nFeatures of Accelo Projects include −\nProject planning with Gantt charts.\nTrack milestones, tasks and budgets.\nPowerful Gmail and Outlook/Office365 integrations.\nTemplates and reusable project plans.\nTrack time and expenses.\nForecasts, reports and dashboards.\nRecord notes, schedule meetings and calls.\nAdvanced approval for time.\nAllocate time and resources.\nCreate invoices for all work planned or done.\nInvoicing and payments.\nStripe and authorize .net integrations.\nCustom fields and categories.\nCustom project types and business processes.\nAutomatic e-mail attachment storage.\nSmart and shared client database.\nClient signoffs and approvals.\n4/23/2019 Kanban Quick Guide\nhttps://www .tutorialspoint.com/cgi-bin/printpage.cgi 17/17Client portal.\nTask boards.\nCalendar and task sync with Google Apps and Microsoft.\nFor more information, visit the site https://www.accelo.com/products/projects/\nTrello\nTrello is a project management software that utilizes the concept of boards to represent projects and within\nboards, cards to represent tasks. Trello supports Team Collaboration enabling members to discuss a project\nin real-time. It keeps everybody informed through task assignments, activity log, and e-mail notifications.\nFeatures of Trello include −\nFree or zero pricing for the basic service.\nQuick overview on front and back of cards.\nEasy organization with tags, labels and categories.\nDrag and drop functionality.\nIn-line editing.\nChecklists, with progress meter.\nEasy uploading of files and attachments.\nData filtering.\nArchiving of card records .\nDeadline reminders.\nE-mail notifications.\nActivity log.\nAssign tasks.\nVoting feature.\nInformation retrieval and back-up.\nSSL encryption of data.\nTexts and visuals fit any screen size.\nSearch function.\nMobile functionality to access boards on-the-go.\nDeveloper API.\nFor more information, visit the page https://trello.com/e.g.commentsandchanges",
+    "level": 0,
+    "parent_id": null,
+    "metadata": {
+      "author": "Unknown",
+      "source": "Unknown",
+      "subject": "Uncategorized",
+      "context": "General",
+      "source_document": "kqg_part3_Kanban_Software_Tools_and_Solutions.txt",
+      "document_id": "0c8c3f6b5bd7",
+      "created_at": "2025-10-26T02:54:47.131321",
+      "level": 0
+    }
+  },
+  {
+    "chunk_id": "0c8c3f6b5bd7_L0_0002_L1_0000",
+    "text": "Time tracking.\nAndroid and iPhone app.\nCustom reports.\nAdd-ins for Google and Apple Mail.\nSecurity and privacy.\nEncryption.\nAccess control.\nData policy.\nFor more information, visit the site https://www.wrike.com/\nsmartQ\nsmartQ is an agile project management tool built around a visual task board . It allows\nyou to easily distribute work, track its progress and collaborate with the team online. smartQ can track\ntasks, issues, tickets, i.e. it is customizable to fit any workflow.\nFeatures of Wrike include −\nShare notes and files.SSO\nGanttchart\nKanbanBoard\n4/23/2019 Kanban Quick Guide\nhttps://www .tutorialspoint.com/cgi-bin/printpage.cgi 16/17Tickets by e-mail or form.\niPhone app.\nTicket form designer.\nThreaded discussions and file attachments.\nProject Performance Report.\nExternal access for non-registered users.\nTrack tasks, issues, tickets.\nEmail notifications and private notes.\nMark tickets with three-color stars.\nCustomize your ticket fields.\nCustomize your workflow.\nUnified notes and files area across all the tickets.\nBoard view, ticket view and list view.\nExport tickets to CSV and Excel.\nCustomize project roles.\nTeam roles.\nAssign people to each role.\nFor more information, visit the site http://www.getsmartq.com/\nAccelo Projects\nAccelo Projects is a Cloud Project Management Software that facilitates planning and tracking, automation\nand change management.\nFeatures of Accelo Projects include −\nProject planning with Gantt charts.\nTrack milestones, tasks and budgets.\nPowerful Gmail and Outlook/Office365 integrations.\nTemplates and reusable project plans.\nTrack time and expenses.\nForecasts, reports and dashboards.\nRecord notes, schedule meetings and calls.\nAdvanced approval for time.\nAllocate time and resources.\nCreate invoices for all work planned or done.\nInvoicing and payments.\nStripe and authorize .net integrations.\nCustom fields and categories.\nCustom project types and business processes.\nAutomatic e-mail attachment storage.\nSmart and shared client database.\nClient signoffs and approvals.\n4/23/2019 Kanban Quick Guide\nhttps://www .tutorialspoint.com/cgi-bin/printpage.cgi 17/17Client portal.\nTask boards.\nCalendar and task sync with Google Apps and Microsoft.\nFor more information, visit the site https://www.accelo.com/products/projects/\nTrello\nTrello is a project management software that utilizes the concept of boards to represent projects and within\nboards, cards to represent tasks. T",
+    "level": 1,
+    "parent_id": "0c8c3f6b5bd7_L0_0002",
+    "metadata": {
+      "author": "Unknown",
+      "source": "Unknown",
+      "subject": "Uncategorized",
+      "context": "General",
+      "source_document": "kqg_part3_Kanban_Software_Tools_and_Solutions.txt",
+      "document_id": "0c8c3f6b5bd7",
+      "created_at": "2025-10-26T02:54:47.131321",
+      "level": 1,
+      "parent_chunk_id": "0c8c3f6b5bd7_L0_0002"
+    }
+  },
+  {
+    "chunk_id": "0c8c3f6b5bd7_L0_0002_L1_0000_L2_0000",
+    "text": "Time tracking.\nAndroid and iPhone app.\nCustom reports.\nAdd-ins for Google and Apple Mail.\nSecurity and privacy.\nEncryption.\nAccess control.\nData policy.\nFor more information, visit the site https://www.wrike.com/\nsmartQ\nsmartQ is an agile project management tool built around a visual task board . It allows\nyou to easily distribute work, track its progress and collaborate with the team online. smartQ can track\ntasks, issues, tickets, i.e. it is customizable to fit any workflow.\nFeatures of Wrike include −\nShare notes and files.SSO\nGanttchart\nKanbanBoard\n4/23/2019 Kanban Quick Guide\nhttps://www .tutorialspoint.com/cgi-bin/printpage.cgi 16/17Tickets by e-mail or form.\niPhone app.\nTicket form designer.\nThreaded discussions and file attachments.\nProject Performance Report.\nExternal access for non-registered users.\nTrack tasks, issues, tickets.\nEmail notifications and private notes.\nMark tickets with three-color stars.\nCustomize your ticket fields.\nCustomize your workflow.\nUnified notes and files area across all the tickets.\nBoard view, ticket view and list view.\nExport tickets to CSV and Excel.\nCustomize project roles.\nTeam roles.\nAssign people to",
+    "level": 2,
+    "parent_id": "0c8c3f6b5bd7_L0_0002_L1_0000",
+    "metadata": {
+      "author": "Unknown",
+      "source": "Unknown",
+      "subject": "Uncategorized",
+      "context": "General",
+      "source_document": "kqg_part3_Kanban_Software_Tools_and_Solutions.txt",
+      "document_id": "0c8c3f6b5bd7",
+      "created_at": "2025-10-26T02:54:47.131321",
+      "level": 2,
+      "parent_chunk_id": "0c8c3f6b5bd7_L0_0002_L1_0000"
+    }
+  },
+  {
+    "chunk_id": "0c8c3f6b5bd7_L0_0002_L1_0000_L2_0001",
+    "text": " stars.\nCustomize your ticket fields.\nCustomize your workflow.\nUnified notes and files area across all the tickets.\nBoard view, ticket view and list view.\nExport tickets to CSV and Excel.\nCustomize project roles.\nTeam roles.\nAssign people to each role.\nFor more information, visit the site http://www.getsmartq.com/\nAccelo Projects\nAccelo Projects is a Cloud Project Management Software that facilitates planning and tracking, automation\nand change management.\nFeatures of Accelo Projects include −\nProject planning with Gantt charts.\nTrack milestones, tasks and budgets.\nPowerful Gmail and Outlook/Office365 integrations.\nTemplates and reusable project plans.\nTrack time and expenses.\nForecasts, reports and dashboards.\nRecord notes, schedule meetings and calls.\nAdvanced approval for time.\nAllocate time and resources.\nCreate invoices for all work planned or done.\nInvoicing and payments.\nStripe and authorize .net integrations.\nCustom fields and categories.\nCustom project types and business processes.\nAutomatic e-mail attachment storage.\nSmart and shared client database.\nClient signoffs and approvals.\n4/23/2019 Kanban Quick Guide\nhttps://www .tutorialspoint.com/cgi-bin/printpage.cgi 17/17Client portal.\nTask boards.\nCalendar and task sync with Google",
+    "level": 2,
+    "parent_id": "0c8c3f6b5bd7_L0_0002_L1_0000",
+    "metadata": {
+      "author": "Unknown",
+      "source": "Unknown",
+      "subject": "Uncategorized",
+      "context": "General",
+      "source_document": "kqg_part3_Kanban_Software_Tools_and_Solutions.txt",
+      "document_id": "0c8c3f6b5bd7",
+      "created_at": "2025-10-26T02:54:47.131321",
+      "level": 2,
+      "parent_chunk_id": "0c8c3f6b5bd7_L0_0002_L1_0000"
+    }
+  },
+  {
+    "chunk_id": "0c8c3f6b5bd7_L0_0002_L1_0000_L2_0002",
+    "text": " shared client database.\nClient signoffs and approvals.\n4/23/2019 Kanban Quick Guide\nhttps://www .tutorialspoint.com/cgi-bin/printpage.cgi 17/17Client portal.\nTask boards.\nCalendar and task sync with Google Apps and Microsoft.\nFor more information, visit the site https://www.accelo.com/products/projects/\nTrello\nTrello is a project management software that utilizes the concept of boards to represent projects and within\nboards, cards to represent tasks. T",
+    "level": 2,
+    "parent_id": "0c8c3f6b5bd7_L0_0002_L1_0000",
+    "metadata": {
+      "author": "Unknown",
+      "source": "Unknown",
+      "subject": "Uncategorized",
+      "context": "General",
+      "source_document": "kqg_part3_Kanban_Software_Tools_and_Solutions.txt",
+      "document_id": "0c8c3f6b5bd7",
+      "created_at": "2025-10-26T02:54:47.131321",
+      "level": 2,
+      "parent_chunk_id": "0c8c3f6b5bd7_L0_0002_L1_0000"
+    }
+  },
+  {
+    "chunk_id": "0c8c3f6b5bd7_L0_0002_L1_0001",
+    "text": " Apps and Microsoft.\nFor more information, visit the site https://www.accelo.com/products/projects/\nTrello\nTrello is a project management software that utilizes the concept of boards to represent projects and within\nboards, cards to represent tasks. Trello supports Team Collaboration enabling members to discuss a project\nin real-time. It keeps everybody informed through task assignments, activity log, and e-mail notifications.\nFeatures of Trello include −\nFree or zero pricing for the basic service.\nQuick overview on front and back of cards.\nEasy organization with tags, labels and categories.\nDrag and drop functionality.\nIn-line editing.\nChecklists, with progress meter.\nEasy uploading of files and attachments.\nData filtering.\nArchiving of card records .\nDeadline reminders.\nE-mail notifications.\nActivity log.\nAssign tasks.\nVoting feature.\nInformation retrieval and back-up.\nSSL encryption of data.\nTexts and visuals fit any screen size.\nSearch function.\nMobile functionality to access boards on-the-go.\nDeveloper API.\nFor more information, visit the page https://trello.com/e.g.commentsandchanges",
+    "level": 1,
+    "parent_id": "0c8c3f6b5bd7_L0_0002",
+    "metadata": {
+      "author": "Unknown",
+      "source": "Unknown",
+      "subject": "Uncategorized",
+      "context": "General",
+      "source_document": "kqg_part3_Kanban_Software_Tools_and_Solutions.txt",
+      "document_id": "0c8c3f6b5bd7",
+      "created_at": "2025-10-26T02:54:47.131321",
+      "level": 1,
+      "parent_chunk_id": "0c8c3f6b5bd7_L0_0002"
+    }
+  },
+  {
+    "chunk_id": "0c8c3f6b5bd7_L0_0002_L1_0001_L2_0000",
+    "text": " Apps and Microsoft.\nFor more information, visit the site https://www.accelo.com/products/projects/\nTrello\nTrello is a project management software that utilizes the concept of boards to represent projects and within\nboards, cards to represent tasks. Trello supports Team Collaboration enabling members to discuss a project\nin real-time. It keeps everybody informed through task assignments, activity log, and e-mail notifications.\nFeatures of Trello include −\nFree or zero pricing for the basic service.\nQuick overview on front and back of cards.\nEasy organization with tags, labels and categories.\nDrag and drop functionality.\nIn-line editing.\nChecklists, with progress meter.\nEasy uploading of files and attachments.\nData filtering.\nArchiving of card records .\nDeadline reminders.\nE-mail notifications.\nActivity log.\nAssign tasks.\nVoting feature.\nInformation retrieval and back-up.\nSSL encryption of data.\nTexts and visuals fit any screen size.\nSearch function.\nMobile functionality to access boards on-the-go.\nDeveloper API.\nFor more information, visit the page https://trello.com/e.g.commentsandchanges",
+    "level": 2,
+    "parent_id": "0c8c3f6b5bd7_L0_0002_L1_0001",
+    "metadata": {
+      "author": "Unknown",
+      "source": "Unknown",
+      "subject": "Uncategorized",
+      "context": "General",
+      "source_document": "kqg_part3_Kanban_Software_Tools_and_Solutions.txt",
+      "document_id": "0c8c3f6b5bd7",
+      "created_at": "2025-10-26T02:54:47.131321",
+      "level": 2,
+      "parent_chunk_id": "0c8c3f6b5bd7_L0_0002_L1_0001"
+    }
+  },
+  {
+    "chunk_id": "0c8c3f6b5bd7_L0_0002_L1_0001_L2_0001",
+    "text": " https://trello.com/e.g.commentsandchanges",
+    "level": 2,
+    "parent_id": "0c8c3f6b5bd7_L0_0002_L1_0001",
+    "metadata": {
+      "author": "Unknown",
+      "source": "Unknown",
+      "subject": "Uncategorized",
+      "context": "General",
+      "source_document": "kqg_part3_Kanban_Software_Tools_and_Solutions.txt",
+      "document_id": "0c8c3f6b5bd7",
+      "created_at": "2025-10-26T02:54:47.131321",
+      "level": 2,
+      "parent_chunk_id": "0c8c3f6b5bd7_L0_0002_L1_0001"
+    }
+  }
+]

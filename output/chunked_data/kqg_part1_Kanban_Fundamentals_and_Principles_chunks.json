@@ -1,0 +1,323 @@
+[
+  {
+    "chunk_id": "48771a5e74c0_L0_0000",
+    "text": "4/23/2019 Kanban Quick Guide\nhttps://www .tutorialspoint.com/cgi-bin/printpage.cgi 1/17https://www.tutorialspoint.com/kanban/kanban_quick_guide.htm Copyright © tutorialspoint.comKANBAN - QUICK GUIDEKANBAN - QUICK GUIDE\n \nAdvertisements\nKANBAN - INTRODUCTIONKANBAN - INTRODUCTION\nKanban is a Japanese word that literally means “visual card”. Kanban cards were originally used in Toyota\nto limit the amount of inventory tied up in “work in progress” on a manufacturing floor. Kanban not only\nreduces excess inventory waste, but also the time spent in producing it. In addition, all of the resources and\ntime freed by the implementation of a Kanban system can be used for future expansions or new\nopportunities. The original author of Kanban was Taiichi Ohno.\nWhat is Kanban?\nKanban term came into existence using the flavors of “visual card,” “signboard,” or “billboard”, “signaling\nsystem” to indicate a workflow that limits Work In Progress . Kanban has been used in Lean\nProduction for over `half-century.\nThe core concept of Kanban includes −\nVisualize Workflow\nSplit the entire work into defined segments or states, visualized as named columns on a wall.\nWrite each item on a card and put in a column to indicate where the item is in the workflow.\nLimit WIP\nAssign explicit limits to how many items can be in progress at each workflow segment / state.\ni.e., Work in Progress  is limited in each workflow state.\nMeasure the Lead Time\nLead Time, also known as cycle time is the average time to complete one item. Measure the\nLead Time and optimize the process to make the Lead Time as small and predictable as\npossible.\nThis concept of Kanban is a direct implementation of a Lean Pull Scheduling System. An item can move to\nthe next segment / state only when it obtains a slot in there.\nKanban - Lean PracticesWIP\nWIP\n4/23/2019 Kanban Quick Guide\nhttps://www .tutorialspoint.com/cgi-bin/printpage.cgi 2/17The implementation of Kanban, as well as other Lean Manufacturing Methods, such as Kaizen, can have\nsignificant benefits for almost any type of work. Kanban is more effective because it visually indicates when\nthe production should start and stop. It is faster, more efficient, and saves significant money over most\nother production models. It is also far more directly responsive to customer demand.\nKanban - Benefits\nKanban has the following commonly observed benefits −\nBottlenecks become clearly visible in real-time. This leads people to collaborate to optimize the\nwhole value chain rather than just their part.\nUseful for situations where operations and support teams have a high rate of uncertainty and\nvariability.\nTends to spread throughout the organization naturally, including sales and management. This\nincreases visibility of everything that is going on at the company.\nReduces inventory in the range of 25%-75%, thereby reducing company costs.\nSince all segments/states in the workflow are visually organized, the required items, reducing the\nwait times and ensuring speed, continually support all the tasks in the workflow.\nOverproduction of inventory is avoided, thereby saving resources and time as well. This is termed as\neliminating waste.\nAlignment with Agile\nIn agile, if values are combined with Kanban characteristics, the outcome would be Agile Kanban. This\npractice is gaining popularity in Software Development wherein the Agile iteration approach and Kanban\nvalue stream focus are combined.\nKANBAN - CHARACTERISTICSKANBAN - CHARACTERISTICS\nIn this chapter, we will learn the characteristics of Kanban.\nFlexibility in Planning\nKanban provides improvements in the workflow. With visual representation of the workflow, speed of\nmoving from one task to another is reduced. This is accomplished through the creation of clearly marked\nflow lanes, Kanban cards and clearly marked columns to indicate where each item is in the workflow. If a\ntask needs longer duration, it is allowed to execute without hindrance, and at the same time, the tasks that\nare completed will flow to the next state.\nThis allows −\nSufficient duration for longer tasks that cannot be broken down logically.\nPreservation of value of such longer tasks.\nEffort required by each role to be expended.\nContinuous flow of the tasks that are completed without wait time.\nHence, planning is flexible and not time-boxed.\nLimits Work-In-Progress \nExplicit limits are assigned to number of items that can be in progress at each workflow state, indicated by\na column.\nThis allows −\nReducing wait time.\nAvoiding stress on resources at a workflow state.WIP\n4/23/2019 Kanban Quick Guide\nhttps://www .tutorialspoint.com/cgi-bin/printpage.cgi 3/17Identifying",
+    "level": 0,
+    "parent_id": null,
+    "metadata": {
+      "author": "Unknown",
+      "source": "Unknown",
+      "subject": "Uncategorized",
+      "context": "General",
+      "source_document": "kqg_part1_Kanban_Fundamentals_and_Principles.txt",
+      "document_id": "48771a5e74c0",
+      "created_at": "2025-10-26T02:54:48.937988",
+      "level": 0
+    }
+  },
+  {
+    "chunk_id": "48771a5e74c0_L0_0000_L1_0000",
+    "text": "4/23/2019 Kanban Quick Guide\nhttps://www .tutorialspoint.com/cgi-bin/printpage.cgi 1/17https://www.tutorialspoint.com/kanban/kanban_quick_guide.htm Copyright © tutorialspoint.comKANBAN - QUICK GUIDEKANBAN - QUICK GUIDE\n \nAdvertisements\nKANBAN - INTRODUCTIONKANBAN - INTRODUCTION\nKanban is a Japanese word that literally means “visual card”. Kanban cards were originally used in Toyota\nto limit the amount of inventory tied up in “work in progress” on a manufacturing floor. Kanban not only\nreduces excess inventory waste, but also the time spent in producing it. In addition, all of the resources and\ntime freed by the implementation of a Kanban system can be used for future expansions or new\nopportunities. The original author of Kanban was Taiichi Ohno.\nWhat is Kanban?\nKanban term came into existence using the flavors of “visual card,” “signboard,” or “billboard”, “signaling\nsystem” to indicate a workflow that limits Work In Progress . Kanban has been used in Lean\nProduction for over `half-century.\nThe core concept of Kanban includes −\nVisualize Workflow\nSplit the entire work into defined segments or states, visualized as named columns on a wall.\nWrite each item on a card and put in a column to indicate where the item is in the workflow.\nLimit WIP\nAssign explicit limits to how many items can be in progress at each workflow segment / state.\ni.e., Work in Progress  is limited in each workflow state.\nMeasure the Lead Time\nLead Time, also known as cycle time is the average time to complete one item. Measure the\nLead Time and optimize the process to make the Lead Time as small and predictable as\npossible.\nThis concept of Kanban is a direct implementation of a Lean Pull Scheduling System. An item can move to\nthe next segment / state only when it obtains a slot in there.\nKanban - Lean PracticesWIP\nWIP\n4/23/2019 Kanban Quick Guide\nhttps://www .tutorialspoint.com/cgi-bin/printpage.cgi 2/17The implementation of Kanban, as well as other Lean Manufacturing Methods, such as Kaizen, can have\nsignificant benefits for almost any type of work. Kanban is more effective because it visually indicates when\nthe production should start and stop. It is faster",
+    "level": 1,
+    "parent_id": "48771a5e74c0_L0_0000",
+    "metadata": {
+      "author": "Unknown",
+      "source": "Unknown",
+      "subject": "Uncategorized",
+      "context": "General",
+      "source_document": "kqg_part1_Kanban_Fundamentals_and_Principles.txt",
+      "document_id": "48771a5e74c0",
+      "created_at": "2025-10-26T02:54:48.937988",
+      "level": 1,
+      "parent_chunk_id": "48771a5e74c0_L0_0000"
+    }
+  },
+  {
+    "chunk_id": "48771a5e74c0_L0_0000_L1_0000_L2_0000",
+    "text": "4/23/2019 Kanban Quick Guide\nhttps://www .tutorialspoint.com/cgi-bin/printpage.cgi 1/17https://www.tutorialspoint.com/kanban/kanban_quick_guide.htm Copyright © tutorialspoint.comKANBAN - QUICK GUIDEKANBAN - QUICK GUIDE\n \nAdvertisements\nKANBAN - INTRODUCTIONKANBAN - INTRODUCTION\nKanban is a Japanese word that literally means “visual card”. Kanban cards were originally used in Toyota\nto limit the amount of inventory tied up in “work in progress” on a manufacturing floor. Kanban not only\nreduces excess inventory waste, but also the time spent in producing it. In addition, all of the resources and\ntime freed by the implementation of a Kanban system can be used for future expansions or new\nopportunities. The original author of Kanban was Taiichi Ohno.\nWhat is Kanban?\nKanban term came into existence using the flavors of “visual card,” “signboard,” or “billboard”, “signaling\nsystem” to indicate a workflow that limits Work In Progress . Kanban has been used in Lean\nProduction for over `half-century.\nThe core concept of Kanban",
+    "level": 2,
+    "parent_id": "48771a5e74c0_L0_0000_L1_0000",
+    "metadata": {
+      "author": "Unknown",
+      "source": "Unknown",
+      "subject": "Uncategorized",
+      "context": "General",
+      "source_document": "kqg_part1_Kanban_Fundamentals_and_Principles.txt",
+      "document_id": "48771a5e74c0",
+      "created_at": "2025-10-26T02:54:48.937988",
+      "level": 2,
+      "parent_chunk_id": "48771a5e74c0_L0_0000_L1_0000"
+    }
+  },
+  {
+    "chunk_id": "48771a5e74c0_L0_0000_L1_0000_L2_0001",
+    "text": " “visual card,” “signboard,” or “billboard”, “signaling\nsystem” to indicate a workflow that limits Work In Progress . Kanban has been used in Lean\nProduction for over `half-century.\nThe core concept of Kanban includes −\nVisualize Workflow\nSplit the entire work into defined segments or states, visualized as named columns on a wall.\nWrite each item on a card and put in a column to indicate where the item is in the workflow.\nLimit WIP\nAssign explicit limits to how many items can be in progress at each workflow segment / state.\ni.e., Work in Progress  is limited in each workflow state.\nMeasure the Lead Time\nLead Time, also known as cycle time is the average time to complete one item. Measure the\nLead Time and optimize the process to make the Lead Time as small and predictable as\npossible.\nThis concept of Kanban is a direct implementation of a Lean Pull Scheduling System. An item can move to\nthe next segment / state only when it obtains a slot in there.\nKanban - Lean PracticesWIP\nWIP\n4/23/2019 Kanban Quick Guide\nhttps://www .tutorialspoint.com/cgi-bin/printpage.cgi 2/17The implementation",
+    "level": 2,
+    "parent_id": "48771a5e74c0_L0_0000_L1_0000",
+    "metadata": {
+      "author": "Unknown",
+      "source": "Unknown",
+      "subject": "Uncategorized",
+      "context": "General",
+      "source_document": "kqg_part1_Kanban_Fundamentals_and_Principles.txt",
+      "document_id": "48771a5e74c0",
+      "created_at": "2025-10-26T02:54:48.937988",
+      "level": 2,
+      "parent_chunk_id": "48771a5e74c0_L0_0000_L1_0000"
+    }
+  },
+  {
+    "chunk_id": "48771a5e74c0_L0_0000_L1_0000_L2_0002",
+    "text": " when it obtains a slot in there.\nKanban - Lean PracticesWIP\nWIP\n4/23/2019 Kanban Quick Guide\nhttps://www .tutorialspoint.com/cgi-bin/printpage.cgi 2/17The implementation of Kanban, as well as other Lean Manufacturing Methods, such as Kaizen, can have\nsignificant benefits for almost any type of work. Kanban is more effective because it visually indicates when\nthe production should start and stop. It is faster",
+    "level": 2,
+    "parent_id": "48771a5e74c0_L0_0000_L1_0000",
+    "metadata": {
+      "author": "Unknown",
+      "source": "Unknown",
+      "subject": "Uncategorized",
+      "context": "General",
+      "source_document": "kqg_part1_Kanban_Fundamentals_and_Principles.txt",
+      "document_id": "48771a5e74c0",
+      "created_at": "2025-10-26T02:54:48.937988",
+      "level": 2,
+      "parent_chunk_id": "48771a5e74c0_L0_0000_L1_0000"
+    }
+  },
+  {
+    "chunk_id": "48771a5e74c0_L0_0000_L1_0001",
+    "text": " of Kanban, as well as other Lean Manufacturing Methods, such as Kaizen, can have\nsignificant benefits for almost any type of work. Kanban is more effective because it visually indicates when\nthe production should start and stop. It is faster, more efficient, and saves significant money over most\nother production models. It is also far more directly responsive to customer demand.\nKanban - Benefits\nKanban has the following commonly observed benefits −\nBottlenecks become clearly visible in real-time. This leads people to collaborate to optimize the\nwhole value chain rather than just their part.\nUseful for situations where operations and support teams have a high rate of uncertainty and\nvariability.\nTends to spread throughout the organization naturally, including sales and management. This\nincreases visibility of everything that is going on at the company.\nReduces inventory in the range of 25%-75%, thereby reducing company costs.\nSince all segments/states in the workflow are visually organized, the required items, reducing the\nwait times and ensuring speed, continually support all the tasks in the workflow.\nOverproduction of inventory is avoided, thereby saving resources and time as well. This is termed as\neliminating waste.\nAlignment with Agile\nIn agile, if values are combined with Kanban characteristics, the outcome would be Agile Kanban. This\npractice is gaining popularity in Software Development wherein the Agile iteration approach and Kanban\nvalue stream focus are combined.\nKANBAN - CHARACTERISTICSKANBAN - CHARACTERISTICS\nIn this chapter, we will learn the characteristics of Kanban.\nFlexibility in Planning\nKanban provides improvements in the workflow. With visual representation of the workflow, speed of\nmoving from one task to another is reduced. This is accomplished through the creation of clearly marked\nflow lanes, Kanban cards and clearly marked columns to indicate where each item is in the workflow. If a\ntask needs longer duration, it is allowed to execute without hindrance, and at the same time, the tasks that\nare completed will flow to the next state.\nThis allows −\nSufficient duration for longer tasks that cannot be broken down logically.\nPreservation of value of such longer tasks.\nEffort required by each role to be expended.\nContinuous flow of the tasks that are completed without wait time.\nHence, planning is flexible and not time-boxed.\nLimits Work-In-Progress \nExplicit limits are assigned to number of items that can be in progress at each workflow state, indicated by\na column.\nThis",
+    "level": 1,
+    "parent_id": "48771a5e74c0_L0_0000",
+    "metadata": {
+      "author": "Unknown",
+      "source": "Unknown",
+      "subject": "Uncategorized",
+      "context": "General",
+      "source_document": "kqg_part1_Kanban_Fundamentals_and_Principles.txt",
+      "document_id": "48771a5e74c0",
+      "created_at": "2025-10-26T02:54:48.937988",
+      "level": 1,
+      "parent_chunk_id": "48771a5e74c0_L0_0000"
+    }
+  },
+  {
+    "chunk_id": "48771a5e74c0_L0_0000_L1_0001_L2_0000",
+    "text": " of Kanban, as well as other Lean Manufacturing Methods, such as Kaizen, can have\nsignificant benefits for almost any type of work. Kanban is more effective because it visually indicates when\nthe production should start and stop. It is faster, more efficient, and saves significant money over most\nother production models. It is also far more directly responsive to customer demand.\nKanban - Benefits\nKanban has the following commonly observed benefits −\nBottlenecks become clearly visible in real-time. This leads people to collaborate to optimize the\nwhole value chain rather than just their part.\nUseful for situations where operations and support teams have a high rate of uncertainty and\nvariability.\nTends to spread throughout the organization naturally, including sales and management. This\nincreases visibility of everything that is going on at the company.\nReduces inventory in the range of 25%-75%, thereby reducing company costs.\nSince all segments/states in the workflow are visually organized, the required items, reducing the\nwait times and ensuring speed, continually support all the tasks in the workflow.\nOverproduction of inventory is avoided, thereby saving resources and time as well. This is termed as\neliminating waste.\nAlignment with Agile\nIn agile, if values are",
+    "level": 2,
+    "parent_id": "48771a5e74c0_L0_0000_L1_0001",
+    "metadata": {
+      "author": "Unknown",
+      "source": "Unknown",
+      "subject": "Uncategorized",
+      "context": "General",
+      "source_document": "kqg_part1_Kanban_Fundamentals_and_Principles.txt",
+      "document_id": "48771a5e74c0",
+      "created_at": "2025-10-26T02:54:48.937988",
+      "level": 2,
+      "parent_chunk_id": "48771a5e74c0_L0_0000_L1_0001"
+    }
+  },
+  {
+    "chunk_id": "48771a5e74c0_L0_0000_L1_0001_L2_0001",
+    "text": "\nwait times and ensuring speed, continually support all the tasks in the workflow.\nOverproduction of inventory is avoided, thereby saving resources and time as well. This is termed as\neliminating waste.\nAlignment with Agile\nIn agile, if values are combined with Kanban characteristics, the outcome would be Agile Kanban. This\npractice is gaining popularity in Software Development wherein the Agile iteration approach and Kanban\nvalue stream focus are combined.\nKANBAN - CHARACTERISTICSKANBAN - CHARACTERISTICS\nIn this chapter, we will learn the characteristics of Kanban.\nFlexibility in Planning\nKanban provides improvements in the workflow. With visual representation of the workflow, speed of\nmoving from one task to another is reduced. This is accomplished through the creation of clearly marked\nflow lanes, Kanban cards and clearly marked columns to indicate where each item is in the workflow. If a\ntask needs longer duration, it is allowed to execute without hindrance, and at the same time, the tasks that\nare completed will flow to the next state.\nThis allows −\nSufficient duration for longer tasks that cannot be broken down logically.\nPreservation of value of such longer tasks.\nEffort required by each role to be expended.\nContinuous flow of the tasks",
+    "level": 2,
+    "parent_id": "48771a5e74c0_L0_0000_L1_0001",
+    "metadata": {
+      "author": "Unknown",
+      "source": "Unknown",
+      "subject": "Uncategorized",
+      "context": "General",
+      "source_document": "kqg_part1_Kanban_Fundamentals_and_Principles.txt",
+      "document_id": "48771a5e74c0",
+      "created_at": "2025-10-26T02:54:48.937988",
+      "level": 2,
+      "parent_chunk_id": "48771a5e74c0_L0_0000_L1_0001"
+    }
+  },
+  {
+    "chunk_id": "48771a5e74c0_L0_0000_L1_0001_L2_0002",
+    "text": "are completed will flow to the next state.\nThis allows −\nSufficient duration for longer tasks that cannot be broken down logically.\nPreservation of value of such longer tasks.\nEffort required by each role to be expended.\nContinuous flow of the tasks that are completed without wait time.\nHence, planning is flexible and not time-boxed.\nLimits Work-In-Progress \nExplicit limits are assigned to number of items that can be in progress at each workflow state, indicated by\na column.\nThis",
+    "level": 2,
+    "parent_id": "48771a5e74c0_L0_0000_L1_0001",
+    "metadata": {
+      "author": "Unknown",
+      "source": "Unknown",
+      "subject": "Uncategorized",
+      "context": "General",
+      "source_document": "kqg_part1_Kanban_Fundamentals_and_Principles.txt",
+      "document_id": "48771a5e74c0",
+      "created_at": "2025-10-26T02:54:48.937988",
+      "level": 2,
+      "parent_chunk_id": "48771a5e74c0_L0_0000_L1_0001"
+    }
+  },
+  {
+    "chunk_id": "48771a5e74c0_L0_0000_L1_0002",
+    "text": " that are completed without wait time.\nHence, planning is flexible and not time-boxed.\nLimits Work-In-Progress \nExplicit limits are assigned to number of items that can be in progress at each workflow state, indicated by\na column.\nThis allows −\nReducing wait time.\nAvoiding stress on resources at a workflow state.WIP\n4/23/2019 Kanban Quick Guide\nhttps://www .tutorialspoint.com/cgi-bin/printpage.cgi 3/17Identifying",
+    "level": 1,
+    "parent_id": "48771a5e74c0_L0_0000",
+    "metadata": {
+      "author": "Unknown",
+      "source": "Unknown",
+      "subject": "Uncategorized",
+      "context": "General",
+      "source_document": "kqg_part1_Kanban_Fundamentals_and_Principles.txt",
+      "document_id": "48771a5e74c0",
+      "created_at": "2025-10-26T02:54:48.937988",
+      "level": 1,
+      "parent_chunk_id": "48771a5e74c0_L0_0000"
+    }
+  },
+  {
+    "chunk_id": "48771a5e74c0_L0_0000_L1_0002_L2_0000",
+    "text": " that are completed without wait time.\nHence, planning is flexible and not time-boxed.\nLimits Work-In-Progress \nExplicit limits are assigned to number of items that can be in progress at each workflow state, indicated by\na column.\nThis allows −\nReducing wait time.\nAvoiding stress on resources at a workflow state.WIP\n4/23/2019 Kanban Quick Guide\nhttps://www .tutorialspoint.com/cgi-bin/printpage.cgi 3/17Identifying",
+    "level": 2,
+    "parent_id": "48771a5e74c0_L0_0000_L1_0002",
+    "metadata": {
+      "author": "Unknown",
+      "source": "Unknown",
+      "subject": "Uncategorized",
+      "context": "General",
+      "source_document": "kqg_part1_Kanban_Fundamentals_and_Principles.txt",
+      "document_id": "48771a5e74c0",
+      "created_at": "2025-10-26T02:54:48.937988",
+      "level": 2,
+      "parent_chunk_id": "48771a5e74c0_L0_0000_L1_0002"
+    }
+  },
+  {
+    "chunk_id": "48771a5e74c0_L0_0001",
+    "text": " allows −\nReducing wait time.\nAvoiding stress on resources at a workflow state.WIP\n4/23/2019 Kanban Quick Guide\nhttps://www .tutorialspoint.com/cgi-bin/printpage.cgi 3/17Identifying bottlenecks causing an item to be in a workflow state than the anticipated time \n immediately.\nResolving bottlenecks with collaboration of the entire team.\nDecreasing dependencies in completing a task by splitting it into sub-tasks, so that the sub-task is\ntracked independently.\nPull Approach\nWhen you have two teams and the first one is performing better than the second one, it is likely that it\npushes more work than the other can actually handle. This often creates friction between the teams. A\nsolution to this is the Pull approach.\nIn Pull Approach, the next team pulls work only when it is ready for it. Pull Approach is implemented by\nadding a buffer with limited capacity between the two teams.\nThe benefits of Pull Approach are −\nAvoids piling-up of work.\nReduces wait time.\nFacilitates a team to maintain constant pace and focus on quality.\nProvides resource balancing.\nMinimize Cycle Time\nThe cycle time for each task is measured and the process is optimized to reduce the cycle times.\nThe bottlenecks are identified immediately and resolved collaboratively by the entire team.\nThe correction loops are considered to reduce rework.\nContinuous Delivery\nBenefits of continuous delivery are −\nShort release cycles result in continuous delivery of growing product at regular intervals.\nContinuous interactions with the customer.\nTo understand what customer wants.\nNot to produce anything that the customer does not need.\nFeedback on delivered modules.\nLimited requirements in each release cycle.\nDevelopers are not overloaded with requests. This enables them to focus on the delivery.\nThere is no partially completed work.\nFocus is on finishing work than on starting work.\nThis enables focus on sustaining pace and quality of the product.\nDeliver before the customer changes mind.\nOptimize flow of Work from beginning to end.\nHelps in incremental process improvements.\nVisual Metrics\nVisually organized workflows  facilitate −usuallyaveragecycletime\nonKanbanBoards\n4/23/2019 Kanban Quick Guide\nhttps://www .tutorialspoint.com/cgi-bin/printpage.cgi 4/17Scheduling as per WIP limits on a workflow state.\nTracking status and progress continually.\nAssigning resources dynamically based on the role requirements.\nAdvantages of Visual Metrics\nEach day, for each column, mark how many tasks are in it, you will see a mountain-like chart. This chart\nshows the past performance and allows predicting future results.\nYou can gather the following information from the chart −\nMeasure cycle time for each feature  by marking a start date when the feature is scheduled\nand an end date when the feature finishes.\nEvaluate the quality of the growing product from technical, functional and user perspectives at\nregular time-boxes.\nEvaluate the pace of development by looking at the number of development items completed and\nlooking at the average cycle time per development item.\nAdjust the pace of development by calculating the ratio of developer days per completed\ndevelopment item. You can use this ratio to estimate the completion time for the yet-to-develop\nitems and adjust the development plan as necessary.\nEvaluate and adjust the process by using a collaborative session to identify changes that can be made\nto improve the quality of the product, or to improve the pace of development.\nIdentify and resolve un-validated decisions by looking at the cycle time of validated decisions and\nfocusing on the correction loops that are usually the invisible backed-up queues.\nEfficiency Through Focus\nBy focusing on what a customer wants, the scope becomes clear. The focus is on delivering value to the\ncustomer.\nEfficiency can be achieved in the following ways −\nA customer’s expectations can be made realistic and focused with continuous interactions with the\ncustomer.orstory",
+    "level": 0,
+    "parent_id": null,
+    "metadata": {
+      "author": "Unknown",
+      "source": "Unknown",
+      "subject": "Uncategorized",
+      "context": "General",
+      "source_document": "kqg_part1_Kanban_Fundamentals_and_Principles.txt",
+      "document_id": "48771a5e74c0",
+      "created_at": "2025-10-26T02:54:48.937988",
+      "level": 0
+    }
+  },
+  {
+    "chunk_id": "48771a5e74c0_L0_0001_L1_0000",
+    "text": " allows −\nReducing wait time.\nAvoiding stress on resources at a workflow state.WIP\n4/23/2019 Kanban Quick Guide\nhttps://www .tutorialspoint.com/cgi-bin/printpage.cgi 3/17Identifying bottlenecks causing an item to be in a workflow state than the anticipated time \n immediately.\nResolving bottlenecks with collaboration of the entire team.\nDecreasing dependencies in completing a task by splitting it into sub-tasks, so that the sub-task is\ntracked independently.\nPull Approach\nWhen you have two teams and the first one is performing better than the second one, it is likely that it\npushes more work than the other can actually handle. This often creates friction between the teams. A\nsolution to this is the Pull approach.\nIn Pull Approach, the next team pulls work only when it is ready for it. Pull Approach is implemented by\nadding a buffer with limited capacity between the two teams.\nThe benefits of Pull Approach are −\nAvoids piling-up of work.\nReduces wait time.\nFacilitates a team to maintain constant pace and focus on quality.\nProvides resource balancing.\nMinimize Cycle Time\nThe cycle time for each task is measured and the process is optimized to reduce the cycle times.\nThe bottlenecks are identified immediately and resolved collaboratively by the entire team.\nThe correction loops are considered to reduce rework.\nContinuous Delivery\nBenefits of continuous delivery are −\nShort release cycles result in continuous delivery of growing product at regular intervals.\nContinuous interactions with the customer.\nTo understand what customer wants.\nNot to produce anything that the customer does not need.\nFeedback on delivered modules.\nLimited requirements in each release cycle.\nDevelopers are not overloaded with requests. This enables them to focus on the delivery.\nThere is no partially completed work.\nFocus is on finishing work than on starting work.\nThis enables focus on sustaining pace and quality of the product.\nDeliver before the customer changes mind.\nOptimize flow of Work from beginning to end.\nHelps in incremental process improvements.\nVisual Metrics\nVisually organized workflows  facilitate −usuallyaveragecycletime\nonKanbanBoards\n4/23/2019 Kanban Quick Guide\nhttps://www .tutorialspoint.com/cgi-bin/printpage.cgi 4/17Scheduling as per WIP limits on a workflow state.\nTracking status and progress continually.\nAssigning resources dynamically based on the role requirements.\nAdvantages of Visual Metrics\nEach day, for each column, mark how many tasks are",
+    "level": 1,
+    "parent_id": "48771a5e74c0_L0_0001",
+    "metadata": {
+      "author": "Unknown",
+      "source": "Unknown",
+      "subject": "Uncategorized",
+      "context": "General",
+      "source_document": "kqg_part1_Kanban_Fundamentals_and_Principles.txt",
+      "document_id": "48771a5e74c0",
+      "created_at": "2025-10-26T02:54:48.937988",
+      "level": 1,
+      "parent_chunk_id": "48771a5e74c0_L0_0001"
+    }
+  },
+  {
+    "chunk_id": "48771a5e74c0_L0_0001_L1_0000_L2_0000",
+    "text": " allows −\nReducing wait time.\nAvoiding stress on resources at a workflow state.WIP\n4/23/2019 Kanban Quick Guide\nhttps://www .tutorialspoint.com/cgi-bin/printpage.cgi 3/17Identifying bottlenecks causing an item to be in a workflow state than the anticipated time \n immediately.\nResolving bottlenecks with collaboration of the entire team.\nDecreasing dependencies in completing a task by splitting it into sub-tasks, so that the sub-task is\ntracked independently.\nPull Approach\nWhen you have two teams and the first one is performing better than the second one, it is likely that it\npushes more work than the other can actually handle. This often creates friction between the teams. A\nsolution to this is the Pull approach.\nIn Pull Approach, the next team pulls work only when it is ready for it. Pull Approach is implemented by\nadding a buffer with limited capacity between the two teams.\nThe benefits of Pull Approach are −\nAvoids piling-up of work.\nReduces wait time.\nFacilitates a team to maintain constant pace and focus on quality.\nProvides resource balancing.\nMinimize Cycle Time\nThe cycle time for each task is measured and the process is optimized to reduce the cycle",
+    "level": 2,
+    "parent_id": "48771a5e74c0_L0_0001_L1_0000",
+    "metadata": {
+      "author": "Unknown",
+      "source": "Unknown",
+      "subject": "Uncategorized",
+      "context": "General",
+      "source_document": "kqg_part1_Kanban_Fundamentals_and_Principles.txt",
+      "document_id": "48771a5e74c0",
+      "created_at": "2025-10-26T02:54:48.937988",
+      "level": 2,
+      "parent_chunk_id": "48771a5e74c0_L0_0001_L1_0000"
+    }
+  },
+  {
+    "chunk_id": "48771a5e74c0_L0_0001_L1_0000_L2_0001",
+    "text": "iling-up of work.\nReduces wait time.\nFacilitates a team to maintain constant pace and focus on quality.\nProvides resource balancing.\nMinimize Cycle Time\nThe cycle time for each task is measured and the process is optimized to reduce the cycle times.\nThe bottlenecks are identified immediately and resolved collaboratively by the entire team.\nThe correction loops are considered to reduce rework.\nContinuous Delivery\nBenefits of continuous delivery are −\nShort release cycles result in continuous delivery of growing product at regular intervals.\nContinuous interactions with the customer.\nTo understand what customer wants.\nNot to produce anything that the customer does not need.\nFeedback on delivered modules.\nLimited requirements in each release cycle.\nDevelopers are not overloaded with requests. This enables them to focus on the delivery.\nThere is no partially completed work.\nFocus is on finishing work than on starting work.\nThis enables focus on sustaining pace and quality of the product.\nDeliver before the customer changes mind.\nOptimize flow of Work from beginning to end.\nHelps in incremental process improvements.\nVisual Metrics\nVisually organized workflows  facilitate −usuallyaveragecycletime\nonKanbanBoards\n4/23/2019 Kanban Quick Guide\nhttps://www .tutorialspoint.com/cgi-bin/printpage.cgi",
+    "level": 2,
+    "parent_id": "48771a5e74c0_L0_0001_L1_0000",
+    "metadata": {
+      "author": "Unknown",
+      "source": "Unknown",
+      "subject": "Uncategorized",
+      "context": "General",
+      "source_document": "kqg_part1_Kanban_Fundamentals_and_Principles.txt",
+      "document_id": "48771a5e74c0",
+      "created_at": "2025-10-26T02:54:48.937988",
+      "level": 2,
+      "parent_chunk_id": "48771a5e74c0_L0_0001_L1_0000"
+    }
+  },
+  {
+    "chunk_id": "48771a5e74c0_L0_0001_L1_0000_L2_0002",
+    "text": " improvements.\nVisual Metrics\nVisually organized workflows  facilitate −usuallyaveragecycletime\nonKanbanBoards\n4/23/2019 Kanban Quick Guide\nhttps://www .tutorialspoint.com/cgi-bin/printpage.cgi 4/17Scheduling as per WIP limits on a workflow state.\nTracking status and progress continually.\nAssigning resources dynamically based on the role requirements.\nAdvantages of Visual Metrics\nEach day, for each column, mark how many tasks are",
+    "level": 2,
+    "parent_id": "48771a5e74c0_L0_0001_L1_0000",
+    "metadata": {
+      "author": "Unknown",
+      "source": "Unknown",
+      "subject": "Uncategorized",
+      "context": "General",
+      "source_document": "kqg_part1_Kanban_Fundamentals_and_Principles.txt",
+      "document_id": "48771a5e74c0",
+      "created_at": "2025-10-26T02:54:48.937988",
+      "level": 2,
+      "parent_chunk_id": "48771a5e74c0_L0_0001_L1_0000"
+    }
+  },
+  {
+    "chunk_id": "48771a5e74c0_L0_0001_L1_0001",
+    "text": " 4/17Scheduling as per WIP limits on a workflow state.\nTracking status and progress continually.\nAssigning resources dynamically based on the role requirements.\nAdvantages of Visual Metrics\nEach day, for each column, mark how many tasks are in it, you will see a mountain-like chart. This chart\nshows the past performance and allows predicting future results.\nYou can gather the following information from the chart −\nMeasure cycle time for each feature  by marking a start date when the feature is scheduled\nand an end date when the feature finishes.\nEvaluate the quality of the growing product from technical, functional and user perspectives at\nregular time-boxes.\nEvaluate the pace of development by looking at the number of development items completed and\nlooking at the average cycle time per development item.\nAdjust the pace of development by calculating the ratio of developer days per completed\ndevelopment item. You can use this ratio to estimate the completion time for the yet-to-develop\nitems and adjust the development plan as necessary.\nEvaluate and adjust the process by using a collaborative session to identify changes that can be made\nto improve the quality of the product, or to improve the pace of development.\nIdentify and resolve un-validated decisions by looking at the cycle time of validated decisions and\nfocusing on the correction loops that are usually the invisible backed-up queues.\nEfficiency Through Focus\nBy focusing on what a customer wants, the scope becomes clear. The focus is on delivering value to the\ncustomer.\nEfficiency can be achieved in the following ways −\nA customer’s expectations can be made realistic and focused with continuous interactions with the\ncustomer.orstory",
+    "level": 1,
+    "parent_id": "48771a5e74c0_L0_0001",
+    "metadata": {
+      "author": "Unknown",
+      "source": "Unknown",
+      "subject": "Uncategorized",
+      "context": "General",
+      "source_document": "kqg_part1_Kanban_Fundamentals_and_Principles.txt",
+      "document_id": "48771a5e74c0",
+      "created_at": "2025-10-26T02:54:48.937988",
+      "level": 1,
+      "parent_chunk_id": "48771a5e74c0_L0_0001"
+    }
+  },
+  {
+    "chunk_id": "48771a5e74c0_L0_0001_L1_0001_L2_0000",
+    "text": " 4/17Scheduling as per WIP limits on a workflow state.\nTracking status and progress continually.\nAssigning resources dynamically based on the role requirements.\nAdvantages of Visual Metrics\nEach day, for each column, mark how many tasks are in it, you will see a mountain-like chart. This chart\nshows the past performance and allows predicting future results.\nYou can gather the following information from the chart −\nMeasure cycle time for each feature  by marking a start date when the feature is scheduled\nand an end date when the feature finishes.\nEvaluate the quality of the growing product from technical, functional and user perspectives at\nregular time-boxes.\nEvaluate the pace of development by looking at the number of development items completed and\nlooking at the average cycle time per development item.\nAdjust the pace of development by calculating the ratio of developer days per completed\ndevelopment item. You can use this ratio to estimate the completion time for the yet-to-develop\nitems and adjust the development plan as necessary.\nEvaluate and adjust the process by using a collaborative session to identify changes that can be made\nto improve the quality of the product, or to improve the pace of development.\nIdentify and resolve un-validated decisions by looking at the cycle time of validated decisions and\nf",
+    "level": 2,
+    "parent_id": "48771a5e74c0_L0_0001_L1_0001",
+    "metadata": {
+      "author": "Unknown",
+      "source": "Unknown",
+      "subject": "Uncategorized",
+      "context": "General",
+      "source_document": "kqg_part1_Kanban_Fundamentals_and_Principles.txt",
+      "document_id": "48771a5e74c0",
+      "created_at": "2025-10-26T02:54:48.937988",
+      "level": 2,
+      "parent_chunk_id": "48771a5e74c0_L0_0001_L1_0001"
+    }
+  },
+  {
+    "chunk_id": "48771a5e74c0_L0_0001_L1_0001_L2_0001",
+    "text": " process by using a collaborative session to identify changes that can be made\nto improve the quality of the product, or to improve the pace of development.\nIdentify and resolve un-validated decisions by looking at the cycle time of validated decisions and\nfocusing on the correction loops that are usually the invisible backed-up queues.\nEfficiency Through Focus\nBy focusing on what a customer wants, the scope becomes clear. The focus is on delivering value to the\ncustomer.\nEfficiency can be achieved in the following ways −\nA customer’s expectations can be made realistic and focused with continuous interactions with the\ncustomer.orstory",
+    "level": 2,
+    "parent_id": "48771a5e74c0_L0_0001_L1_0001",
+    "metadata": {
+      "author": "Unknown",
+      "source": "Unknown",
+      "subject": "Uncategorized",
+      "context": "General",
+      "source_document": "kqg_part1_Kanban_Fundamentals_and_Principles.txt",
+      "document_id": "48771a5e74c0",
+      "created_at": "2025-10-26T02:54:48.937988",
+      "level": 2,
+      "parent_chunk_id": "48771a5e74c0_L0_0001_L1_0001"
+    }
+  }
+]

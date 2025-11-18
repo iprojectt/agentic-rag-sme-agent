@@ -1,0 +1,296 @@
+The Pomodoro Technique 24 
+ 
+ 
+© Francesco Cirillo 19/10/2006 3 Results 
+The Pomodoro Technique has been successfully applied in various types of activities: 
+organizing work and study habits, writing books, drafting technical reports, preparing 
+presentations, and managing projects, meetings, ev ents, conferences, and training courses. Here 
+are some observations that have emerged from the experience of people and teams who have 
+applied the Pomodoro Technique. 
+3.1 Learning Time 
+It takes no time at all to apply the Pomodo ro Technique. Mastering the Technique takes from 
+seven to twenty days of constant application. If used in pairs or teams, it’s easier to implement 
+the technique consistently. 
+ 
+Note  Experience shows that applying the Technique in teams or organizing work in pairs results 
+in less learning time and more consistent results. In these cases, each pair works with their own 
+Pomodoro. 
+ 
+3.2 The Length of the Pomodoro 
+In terms of how long a Pomodoro lasts, two forces have to be kept in balance to maximize 
+effectiveness: 
+! The Pomodoro has to represent an effective atomic measure of work. In other words, the 
+Pomodoro has to measure equal units of continuous effort; as such these units are 
+comparable with others. The pr oblem is that, as everyone knows, all time is not equal in 
+terms of the output of effort. All months aren’t equal: December is shorter in terms of 
+number of productive days and so is August in Mediterranean countries. Likewise, all the 
+weeks in a month aren’t equal: we don’t give  the same effort every single week. All the 
+days in a week aren’t equal: some days you can work 8 hours, others only 5 if you need to 
+travel or go to the dentist; in still other days you may work 10 or 12 hours (less often, 
+hopefully). Even all the hours in a day aren’t equal: not ev ery hour produces the same 
+amount of effort, mostly because of interruptio ns. As a unit of measure, much smaller time 
+intervals such as 10 minutes might not be interrupted, but they don’t allow us to achieve 
+appreciable results, and tracking becomes much too intrusive. So as far as this first force, 
+half an hour seems to be ideal. 
+! The Pomodoro has to encourage consciousness, concentration, and clear-minded thinking. 
+It’s been proven that 20- to 45-minute time intervals can maximize our attention and mental 
+activity, if followed by a short break (15).  
+In light of these two forces, we’ve come to consider the ideal Pomodoro as 20 – 35 
+minutes long, 40 minutes at the most. Experience shows that the Pomodoro Technique works 
+best with 30-minute time periods. 
+  
+Note   In various work groups which experimented with the Pomodoro Technique in mentoring 
+activities, each team was allowed to choose the length of their own Pomodoro on the condition 
+that this choice had to be based on observations regarding effectiveness. Generally, the teams 
+started off with hour-long Pomodoros (25 minutes seemed too short at first), then moved to 2 
+hours, then down to 45 minutes, then 10, till they finally settled on 30 minutes. 
+ 
+3.3 Varying the Length of Breaks 
+The length of breaks depends on the how tired you feel. Breaks at the end of a set should last 
+from 15 to 30 minutes. For example, if you’ve kept up an intense rhythm throughout the whole 
+day, at the end of the next to last set of Po modoros your break will natu rally last 25 minutes. If 
+The Pomodoro Technique 25 
+ 
+ 
+© Francesco Cirillo 19/10/2006 you have to solve a very complicated problem, you’ll need a 25-minute break between every 
+set. If you’re especially tired, it’s possible and even beneficial to lengthen breaks between sets 
+every so often. But breaks that consistently exceed 30 minutes risk interrupting  the rhythm 
+between sets of Pomodoros. More importantly, this sets off an alarm signaling the need for rest 
+and free time!  
+ I t  w o u l d  b e  a  s e r i o u s  m i s t a k e  t o  t a k e  s h o r t e r  b r e a k s  b e t w e e n  s e t s  b e c a u s e  y o u ’ r e  u n d e r  
+pressure. Your mind needs time to integrate and get ready to receive new information to solve 
+the upcoming problems in the next Pomodoro. Taking a shorter break because you’re in a rush 
+could lead to a mental block in finding solutions. 
+ 
+Note   For beginners, once the last Pomodoro in the set of four is up, it’s a good idea to set the 
+timer for 25 minutes and start the break. The aim he re isn’t to rigidly impose 25 minutes, but to 
+ensure you don’t go over 30 minutes of break time. This should be done only at the beginning. 
+In time, you’ll realize how tired you are and understand when you’re refreshed and ready to 
+start again. 
+ 
+The same can be said for breaks between Pomodoros, which should be no less than 3-5 
+minutes. When you’re especially tired, you can stop working for up to 10 minutes. Remember, 
+though, that downtime between Pomodoros that consistently lasts more than 5-10 minutes risks 
+breaking the rhythm between Pomodoros. It would be better to finish the current set and take a 
+15-30 minute break. The best way to manage your resources is to work strategically, first 
+increasing the breaks between sets, and then ex tending the breaks between Pomodoros, if need 
+be.  
+The most fitting metaphor for managing breaks is long-distance runners. At the start of 
+the marathon, they know they have the energy to run faster, but they also know their limits and 
+the difficulty of the challenge ahead. They manage  their resources to achieve the best result at 
+the finish line. 
+3.4 A Different Perception of Time 
+The first benefit that comes from applying the Pomodoro Technique, which is already apparent 
+in the first few days, is sharpe r focus and concentration that comes from a different perception 
+of time. This new perception of time that passes seems to elicit the following sensations: 
+1. The first 25-minute Pomodoros seem to pass more slowly.  
+2. After a few days of constant application of the Pomodoro, users say they can actually feel 
+the mid-way point of the 25 minutes. 
+3. By the end of the first week of constant ap plication of the Pomodoro, users say they can 
+actually feel when 5 minutes are left on the Pomodoro. In fact, many people report having 
+some sense of fatigue during these final minutes. 
+We can stimulate this ability to feel time in a different way by means of a series of 
+exercises which serve to enhance consciousness of passing time among Pomodoro users. This 
+different awareness of the passage of time seems to lead Pomodoro users to a higher level of 
+concentration in performing the activity at hand. 
+3.5 Sounds of the Pomodoro 
+The Pomodoro emits two sounds: it ticks and it rings (after 25 minutes). As regards these 
+sounds, there are several things to consider fro m two different perspectives: Pomodoros users, 
+and people sharing the same work space with Pomodoro users. 
+3.5.1   People W ho Use the Pomodoro  
+Let’s first consider Pomodoro users. When th ey start applying the Pomodoro Technique, the 
+ticking and ringing can be annoying. There are various ways to make these sounds softer, but 
+experience shows that in time (even with just a few days of constant application) two things 
+happen:  
+! The ticking becomes a calming sound. “It’s ticking and I’m working and everything’s fine.” 
+The Pomodoro Technique 26 
+ 
+ 
+© Francesco Cirillo 19/10/2006 ! After a while, users don’t even hear the ring beca use their level of concentration is so high. 
+In fact, not hearing the Pomodoro ring actually becomes a real problem in some cases. 
+Clearly the different sensations that are elicit ed by the same sounds are signs of a profound 
+change in the perception of time that passes. 
+3.5.2   People Who are Subject to the Pomodoro  
+Now consider people who have to “put up with” the Pomodoro. This situation would arise when 
+the Technique is used in a shared space, for exam ple study halls at a university or an open space 
+work environment. To respect the people who don’t use the Pomodoro, a number of solutions 
+have been tested. In order of effectiveness, th ere are: watches that count down 25 minutes and 
+then flash or beep softly; cell phones with softwa re applications that vibrate or make the display 
+flash (for example the PomodoroMobile by XPLabs); kitchen timers with muted rings; 
+Pomodoro computer software, aka soft-Pomodoro (first among these is the JTomato by Bruno 
+Bossola). The ticking and ringing of several Pomodoros in an environment where a team is 
+using the Pomodoro Technique isn’t considered bothersome.  
+3.6 Shapes of the Pomodoro 
+Obviously, the kitchen timer you use doesn’t have to be shaped like a tomato. Apples, pears, 
+oranges, toasters, cooks, spheres, and UFOs: the market for timers is a varied as it is upbeat. 
+Choosing your own Pomodoro (or we should say timer) makes the Technique more enjoyable 
+and more accessible. 
+3.7 Ring Anxiety 
+With the first few Pomodoros when learning the Technique, there may be some anxiety from 
+the feeling of being controlled by the Pomodoro. Experience shows that this feeling mainly 
+emerges in two cases: 
+! among people who are not used to self-discipline 
+! among people who are very oriented toward achieving results 
+In both cases, it will prove difficult to concentrate on the primary objective of the 
+Technique: empowering each person to improve his or her work or study process through self-
+observation.  
+For people who aren’t used to self-discipline, ring anxiety generally comes from the 
+fear that the Pomodoro Technique might be used to externally monitor their progress. It’s 
+important to stress that the aim of the Technique is not to carry out any sort of external analysis 
+or control. With the Pomodoro Technique, ther e is no inspector who monitors workers’ hours 
+and methods in a Tayloristic fashion. The Po modoro Technique mustn’t be misconstrued as a 
+form of this kind of external control. Instead, the Pomodoro Technique was created to satisfy 
+the personal need to improve, and it has to be applied spontaneously. 
+Cases of results-oriented people are more common. If every tick seems like an 
+invitation to work quickly, if every tock repeats the question, “Am I going fast enough?” these 
+are signs of full immersion in what we might call the Becoming  Syndrome . And today this is 
+quite common. The underlying fear people have here is usually the inability to demonstrate their 
+effectiveness as fully as they’d like to others and to themselves. The Pomodoro is a method for 
+comparison, if not with others then at the leas t with themselves, and every tick and tock seems 
+to reveal their lack of ability. Under pressure fro m time that passes, they look for shortcuts, but 
+this isn’t the way to go faster; shortcuts lead to defects and interruptions which feed into their 
+fear of time in a vicious circle. How can they co me to hear the ticking as a calming sound? The 
+idea, the solution might be just around the corner with the next tick, but they’ll miss it if they 
+keep thinking how fast time is passing.  
+The first thing to learn with the Pomodoro Technique is that seeming fast isn’t 
+important, reaching the point of actually being fast is. You do this by learning to measure 
+yourself, observe how you work, and develop the value of continuity. This is why the first 
+objective to achieve with the Pomodoro Technique is simply to mark down the Pomodoros 
+you’ve done. 
+The Pomodoro Technique 27 
+ 
+ 
+© Francesco Cirillo 19/10/2006 If it takes four Pomodoros to draft a simple two-page review, it’s not important that you 
+expected to finish in two Pomodoros, or that you want to show everyone that you can finish in 
+two Pomodoros. What’s important is to find out how to go from four to two. 
+The initial challenge is knowing how to an alyze how you work on the basis of test 
+measurements collected every 30 minutes and not having expectations as to the result. Simply 
+work, track, observe, and change in order to improve, if need be. Once this point is understood, 
+the ticking starts to have a different sound. You need to concentrate to be fast.  
+The next step is to estimate and – why not? – even challenge yourself to succeed in 
+completing a given activity within the estimated time. This is one of the rules of the game for 
+the Pomodoro Technique; but never take shortcut s! The Xs marking completed Pomodoros are 
+frustrating when they get closer and closer to the last estimated Pomodoro box. But you have to 
+be brave and keep on working, staying calm and concentrated, to be successful. Stimulating the 
+value of continuity leads to productivity and cr eativity. Every tick of the Pomodoro, if you hear 
+it, is an invitation to stay focused, alert, and to continue.  
+ 
+Note  At first, even getting through a single Pomodoro a day without interruptions is an excellent 
+result, because it allows you to observe your process. The next day your effort will be focused 
+on completing at least one Pomodoro with no interruptions, possibly two or more. With the 
+Pomodoro Technique, the number of Pomodoros you finish doesn’t matter so much as the 
+pathway to consistently achieving more Pomodoros. This same incremental approach should be 
+used when you take up the Pomodoro Technique again after you haven’t used it for some time 
+(for example, when you get back from a vacation). In this case, it takes patience and a bit of 
+training to consistently reach 10-12 Pomodoros a day. 
+ 
+3.8 Constant Internal Interruptions 
+When you perceive internal interruptions as things that can’t be postponed, it becomes difficult 
+to complete even a single Pomodoro in a whole day. In these cases, we suggest you set the 
+Pomodoro for 25 minutes and force yourself, Pomodoro after Pomodoro, to increase (and more 
+importantly never reduce) the time you work non-stop. The final objective is to get to the 25-
+minute mark having worked continuously, with no interruptions. “In this Pomodoro I’ve 
+managed to work for 10 minutes without interruptions, in the next one I’m going to work no 
+less than 10 minutes, maybe even just one minute more.” Results come Pomodoro after 
+Pomodoro.  
+ 
+3.9 The Next Pomodoro Will Go Better 
+The feeling of having the time to do things and not using it well is often incapacitating. Your 
+mind starts wandering from the past to the future: “If I had done that research on Internet 
+yesterday, and last week I’d sent that email...How  will I deliver the report by next week?” This 
+provokes feelings of guilt and creates anxiety-filled situations. 
+The Pomodoro Technique allows you to keep your focus on the current Pomodoro, or 
+once that’s done, on the next Pomodoro. Your attention is trained on the here and now, 
+emphasizing the search for a concrete way to s timulate the value of continuity and carry out 
+activities in the most reasonable order. 
+When you feel lost, a Pomodoro can be dedicated to explorationin order to set your 
+priorities straight and lay out a new plan. If your ideas are clear but something’s missing – 
+maybe determination, maybe a bit of courage - wind up the Pomodoro and start working on it, 
+without waiting for time. 
+People who have the habit of procrastinating say that they benefit from the fact that the 
+Pomodoro enables them to concentrate and achieve little things (activities that take 5-7 
+Pomodoros worth of effort, at the most), without having to worry about every thing. One 
+Pomodoro at a time, one activity at a time, one objective at a time. For personality types with a 
+strong tendency to procrastinate, it’s important to realize that the initial objective is to finish one 
+Pomodoro: 25 minutes of work on a given activity, without interruptions. 
+The Pomodoro Technique 28 
+ 
+ 
+© Francesco Cirillo 19/10/2006 3.10 A Mechanical Pomodoro or Pomodoro Software 
+What kind of Pomodoro is most effective: a mechanical timer or a Soft-Pomodoro for the 
+computer?  Speaking from experience, the most effective Pomodoro is always the kitchen timer. 
+In any case, to guarantee the highest possible effectiveness, the Pomodoro has to meet a number 
+of requirements: 
+! You have to be able to actually wind it up. The act of winding up the Pomodoro is a 
+declaration of your determination to start working on the activity at hand. 
+! It has to clearly show how much time is left, and it should make a ticking sound as time 
+passes. This is a way we can practice feeling time and staying focused. 
+! It should make an audible, easily id entified sound to signal that time’s up. 
+What’s more, to mark the end of a Pomodoro or to eliminate a finished activity from the To Do 
+Today Sheet, Pomodoro practitioners should use expl icit gestures. For this reason it’s better if 
+these aren’t automated. 
+3.11 Improving Estimates  
+One of the more tangible results that can be attained with the Pomodoro Technique involves 
+improving the ability to estimate. This develops along two pathways: 
+! Improvement of quantitative estimates by reducing the error between estimated Pomodoros 
+and actual Pomodoros. In other words, while planning the day’s tasks, the effort needed to 
+complete a given activity can be accurately predicted. Self-observation and 30-minute 
+measurements are the basis for more exact estim ates. Experience shows that a positive sign 
+of improvement in estimation is when the num ber of cases of underestimation is equal to 
+the number of cases of overestimation. A strategy oriented toward systematic 
+overestimation or underestimation does not lead to quantitative improvement. Learning to 
+estimate is essential in order to be effective. 
+! Improvement of qualitative estimates by reducing the number of activities that weren’t 
+included in the planning phase. In other words, while planning the day’s tasks, the number 
+and type of activity that actually has to be done can be pinpointed (weak version), or better 
+still the specific set of activities that serve to achieve the given objective with the least 
+possible effort can be identified (strong version). Overall underestimation happens when we 
+don’t correctly identify the activities that have to be done, or we don’t realize that the 
+activities we have identified aren’t the most effective. With the Pomodoro Technique, 
+unplanned activities are tracked when they emerge. Observing and understanding the nature 
+of these activities allows Pomodoro users to hone their forecasting and organizing skills. 
+Why does the Pomodoro Technique improve both aspects of estimation? One of the 
+common causes of quantitative and qualitative impr ovement is that the activities we measure 
+are continually divided up according to the rule: If It Takes More Than 5-7 Pomodoros, Break It 
+Down. Smaller  activities are more understandable and easier to estimate, so the margin of error 
+shrinks.  Smaller activities (but not too small) enable us to recognize simpler solutions. In fact, 
+the aim of breaking down activities should never be simply to divide them up as far as possible. 
+Instead, the point is to identify incremental paths which have the lowest possible complexity. 
+3.12 Motivation and the Pomodoro 
+With the Pomodoro Technique, three factors contribute to boosting personal motivation: 
+! Completing several activities a day that aren’t too simple or too complex (Rule: If it Takes 
+More than 5-7 Pomodoros, Break It Down.), which serve to reach your objective (13). 
+! Directly influencing personal improvement on a day to day basis. 
+! Being aware of how you work/how you’re working thanks to continual observation and 
+measurement. 
+The Pomodoro Technique 29 
+ 
+ 
+© Francesco Cirillo 19/10/2006 3.13 And If Everything Goes Completely Wrong? 
+What should you do if you get caught up in a rush, or if you have a case of nerves or a panic 
+attack? If you start feeling the anxiety of becoming  a n d  t he  d e a d l i n e  i s  g e t t i n g  c l o s e r  b y  t h e  
+second? What should you do in case of total paralysis? That can happen. It’s only human. The 
+Pomodoro Technique is extremely useful in these circumstances.  
+ F i r s t ,  t a k e  a  l o o k  a t  t h e  s i t u a t i o n .  T r y  t o  u n d e r s t a n d  w h a t  w e n t  w r o n g  d u r i n g  t h e  l a s t  
+Pomodoro. If necessary, reorganize activities; be open to new things to include and possible 
+innovative strategies for pinpointing essential tasks. Focus on the next Pomodoro. Keep on 
+working. Concentration and consciousness lead to speed, one Pomodoro at a time. 
+ I f  y o u ’ r e  e s p e c i a l l y  t i r e d ,  y o u  n e e d  t o  o r g a n i z e  s h o r t e r  s e t s  ( f o r  e x a m p l e  t h r e e  
+Pomodoros) and take longer breaks between sets. Th e more tired you are, or the more behind or 
+panic-stricken you feel, the more important it is to repeat and review rather than to forge ahead 
+at all costs. The key objective is never to recover lost time, but instead to be focused on taking 
+the next step on your chosen path, which you often - consciously - change.  
+ 
+3.14 The Pomodoro Has a Limit 
+The main disadvantage of the Pomodoro Technique is that to reach your goals effectively, you 
+need to accept being helped by a little mechanical object. Discontinuing the use of the 
+Pomodoro Technique actually diminishes most of the positive effects described above. Though 
+you still retain the ability to break down activities incrementally, and you might keep on taking 
+short breaks, the discipline ensured by the Pomodoro seems to be the key to maintaining a high 
+level of effectiveness. 
+3.15 When Not To Use the Pomodoro 
+The Pomodoro Technique shouldn’t be used for activities you do in your free time. In fact, 
+applying the Pomodoro would make these activities scheduled and goal-oriented.  That’s no 
+longer free time. If you decide to read a book simply for leisure, you shouldn’t use the 
+Pomodoro Technique; doing so would be taking those Pomodoros away from unscheduled free 
+time.

@@ -1,0 +1,1557 @@
+[
+  {
+    "chunk_id": "50b86fd60230_L0_0000",
+    "text": "Chapter Two\nDeep Work Is Rare\nIn 2012, Facebook unveiled the plans for \na new headquarters designed by Frank \nGehry. At the center of this new building \nis what CEO Mark Zuckerberg called \n“the largest open floor plan in the \nworld”:  More than three thousand\nemployees will work on movable \nfurniture spread over a ten-acre expanse.\n\nFacebook, of course, is not the only \nSilicon Valley heavyweight to embrace \nthe open office concept. When Jack \nDorsey, whom we met at the end of the \nlast chapter, bought the old San \nFrancisco Chronicle building to house \nSquare, he configured the space so that \nhis developers work in common spaces \non long shared desks. “We encourage \npeople to stay out in the open because \nwe believe in serendipity—and people \nwalking by each other teaching new \nthings,” Dorsey explained.\nAnother big business trend in recent \nyears is the rise of instant messaging. A \nTimes  article notes that this technology \nis no longer the “province of chatty\n\nteenagers” and is now helping \ncompanies benefit from “new \nproductivity gains and improvements in \ncustomer response time.” A senior \nproduct manager at IBM boasts: “We \nsend 2.5 million I.M.’s within I.B.M. \neach day.”\nOne of the more successful recent \nentrants into the business IM space is \nHall, a Silicon Valley start-up that helps \nemployees move beyond just chat and \nengage in “real-time collaboration.” A \nSan Francisco-based developer I know \ndescribed to me what it was like to work \nin a company that uses Hall. The most \n“efficient” employees, he explained, set \nup their text editor to flash an alert on\n\ntheir screen when a new question or \ncomment is posted to the company’s Hall \naccount. They can then, with a sequence \nof practiced keystrokes, jump over to \nHall, type in their thoughts, and then \njump back to their coding with barely a \npause. My friend seemed impressed \nwhen describing their speed.\nA third trend is the push for content \nproducers of all types to maintain a \nsocial media presence. The New York  \nTimes , a bastion of old-world media \nvalues, now encourages its employees to \ntweet—a hint taken by the more than \neight hundred writers, editors, and \nphotographers for the paper who now \nmaintain a Twitter account. This is not\n\noutlier behavior; it’s instead the new \nnormal. When the novelist Jonathan \nFranzen wrote a piece for the Guardian  \ncalling Twitter a “coercive \ndevelopment” in the literary world, he \nwas widely ridiculed as out of touch. \nThe online magazine Slate  called \nFranzen’s complaints a “lonely war on \nthe Internet” and fellow novelist Jennifer \nWeiner wrote a response in The New  \nRepublic  in which she argued, \n“Franzen’s a category of one, a lonely \nvoice issuing ex cathedra  edicts that can \nonly apply to himself.” The sarcastic \nhashtag #JonathanFranzenhates soon \nbecame a fad.\nI mention these three business trends\n\nbecause they highlight a paradox. In the \nlast chapter, I argued that deep work is \nmore valuable than ever before in our \nshifting economy. If this is true, \nhowever, you would expect to see this \nskill promoted not just by ambitious \nindividuals but also by organizations \nhoping to get the most out of their \nemployees. As the examples provided \nemphasize, this is not happening. Many \nother ideas are being prioritized as more \nimportant than deep work in the business \nworld, including, as we just \nencountered, serendipitous\ncollaboration, rapid communication, and \nan active presence on social media.\nIt’s bad enough that so many trends\n\nare prioritized ahead of deep work, but \nto add insult to injury, many of these \ntrends actively decrease  one’s ability to \ngo deep. Open offices, for example, \nmight create more opportunities for \ncollaboration, - but they do so at the cost \nof “massive distraction,” to quote the \nresults of experiments conducted for a \nBritish TV special titled The Secret Life  \no f Office Buildings.  “If you are just \ngetting into some work and a phone goes \noff in the background, it ruins what you \nare concentrating on,” said the \nneuroscientist who ran the experiments \nfor the show. “Even though you are not \naware at the time, the brain responds to \ndistractions.”\n\nSimilar issues apply to the rise of \nreal-time messaging. E-mail inboxes, in \ntheory, can distract you only when you \nchoose to open them, whereas instant \nmessenger systems are meant to be \nalways active—magnifying the impact of \n",
+    "level": 0,
+    "parent_id": null,
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Part 1, Chapter 2",
+      "subject": "Scarcity of Deep Work",
+      "context": "Analyzing business trends (open offices, instant messaging, social media) that promote shallowness and hinder deep work.",
+      "source_document": "dw_part1_ch02_Deep_Work_Is_Rare.txt",
+      "document_id": "50b86fd60230",
+      "created_at": "2025-10-26T02:54:49.934991",
+      "level": 0
+    }
+  },
+  {
+    "chunk_id": "50b86fd60230_L0_0000_L1_0000",
+    "text": "Chapter Two\nDeep Work Is Rare\nIn 2012, Facebook unveiled the plans for \na new headquarters designed by Frank \nGehry. At the center of this new building \nis what CEO Mark Zuckerberg called \n“the largest open floor plan in the \nworld”:  More than three thousand\nemployees will work on movable \nfurniture spread over a ten-acre expanse.\n\nFacebook, of course, is not the only \nSilicon Valley heavyweight to embrace \nthe open office concept. When Jack \nDorsey, whom we met at the end of the \nlast chapter, bought the old San \nFrancisco Chronicle building to house \nSquare, he configured the space so that \nhis developers work in common spaces \non long shared desks. “We encourage \npeople to stay out in the open because \nwe believe in serendipity—and people \nwalking by each other teaching new \nthings,” Dorsey explained.\nAnother big business trend in recent \nyears is the rise of instant messaging. A \nTimes  article notes that this technology \nis no longer the “province of chatty\n\nteenagers” and is now helping \ncompanies benefit from “new \nproductivity gains and improvements in \ncustomer response time.” A senior \nproduct manager at IBM boasts: “We \nsend 2.5 million I.M.’s within I.B.M. \neach day.”\nOne of the more successful recent \nentrants into the business IM space is \nHall, a Silicon Valley start-up that helps \nemployees move beyond just chat and \nengage in “real-time collaboration.” A \nSan Francisco-based developer I know \ndescribed to me what it was like to work \nin a company that uses Hall. The most \n“efficient” employees, he explained, set \nup their text editor to flash an alert on\n\ntheir screen when a new question or \ncomment is posted to the company’s Hall \naccount. They can then, with a sequence \nof practiced keystrokes, jump over to \nHall, type in their thoughts, and then \njump back to their coding with barely a \npause. My friend seemed impressed \nwhen describing their speed.\nA third trend is the push for content \nproducers of all types to maintain a \nsocial media presence. The New York  \nTimes , a bastion of old-world media \nvalues, now encourages its employees to \ntweet—a hint taken by the more than \neight hundred writers, editors, and \nphotographers for the paper who now \nmaintain a Twitter account. This",
+    "level": 1,
+    "parent_id": "50b86fd60230_L0_0000",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Part 1, Chapter 2",
+      "subject": "Scarcity of Deep Work",
+      "context": "Analyzing business trends (open offices, instant messaging, social media) that promote shallowness and hinder deep work.",
+      "source_document": "dw_part1_ch02_Deep_Work_Is_Rare.txt",
+      "document_id": "50b86fd60230",
+      "created_at": "2025-10-26T02:54:49.934991",
+      "level": 1,
+      "parent_chunk_id": "50b86fd60230_L0_0000"
+    }
+  },
+  {
+    "chunk_id": "50b86fd60230_L0_0000_L1_0000_L2_0000",
+    "text": "Chapter Two\nDeep Work Is Rare\nIn 2012, Facebook unveiled the plans for \na new headquarters designed by Frank \nGehry. At the center of this new building \nis what CEO Mark Zuckerberg called \n“the largest open floor plan in the \nworld”:  More than three thousand\nemployees will work on movable \nfurniture spread over a ten-acre expanse.\n\nFacebook, of course, is not the only \nSilicon Valley heavyweight to embrace \nthe open office concept. When Jack \nDorsey, whom we met at the end of the \nlast chapter, bought the old San \nFrancisco Chronicle building to house \nSquare, he configured the space so that \nhis developers work in common spaces \non long shared desks. “We encourage \npeople to stay out in the open because \nwe believe in serendipity—and people \nwalking by each other teaching new \nthings,” Dorsey explained.\nAnother big business trend in recent \nyears is the rise of instant messaging. A \nTimes  article notes that this technology \nis no longer the “province of chatty\n\nteenagers” and is now helping \ncompanies benefit from “new \nproductivity gains and improvements in \ncustomer response time.” A senior \nproduct manager at IBM boasts",
+    "level": 2,
+    "parent_id": "50b86fd60230_L0_0000_L1_0000",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Part 1, Chapter 2",
+      "subject": "Scarcity of Deep Work",
+      "context": "Analyzing business trends (open offices, instant messaging, social media) that promote shallowness and hinder deep work.",
+      "source_document": "dw_part1_ch02_Deep_Work_Is_Rare.txt",
+      "document_id": "50b86fd60230",
+      "created_at": "2025-10-26T02:54:49.934991",
+      "level": 2,
+      "parent_chunk_id": "50b86fd60230_L0_0000_L1_0000"
+    }
+  },
+  {
+    "chunk_id": "50b86fd60230_L0_0000_L1_0000_L2_0001",
+    "text": "  article notes that this technology \nis no longer the “province of chatty\n\nteenagers” and is now helping \ncompanies benefit from “new \nproductivity gains and improvements in \ncustomer response time.” A senior \nproduct manager at IBM boasts: “We \nsend 2.5 million I.M.’s within I.B.M. \neach day.”\nOne of the more successful recent \nentrants into the business IM space is \nHall, a Silicon Valley start-up that helps \nemployees move beyond just chat and \nengage in “real-time collaboration.” A \nSan Francisco-based developer I know \ndescribed to me what it was like to work \nin a company that uses Hall. The most \n“efficient” employees, he explained, set \nup their text editor to flash an alert on\n\ntheir screen when a new question or \ncomment is posted to the company’s Hall \naccount. They can then, with a sequence \nof practiced keystrokes, jump over to \nHall, type in their thoughts, and then \njump back to their coding with barely a \npause. My friend seemed impressed \nwhen describing their speed.\nA third trend is the push for content \nproducers of all types to maintain a \nsocial media presence. The New York  \n",
+    "level": 2,
+    "parent_id": "50b86fd60230_L0_0000_L1_0000",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Part 1, Chapter 2",
+      "subject": "Scarcity of Deep Work",
+      "context": "Analyzing business trends (open offices, instant messaging, social media) that promote shallowness and hinder deep work.",
+      "source_document": "dw_part1_ch02_Deep_Work_Is_Rare.txt",
+      "document_id": "50b86fd60230",
+      "created_at": "2025-10-26T02:54:49.934991",
+      "level": 2,
+      "parent_chunk_id": "50b86fd60230_L0_0000_L1_0000"
+    }
+  },
+  {
+    "chunk_id": "50b86fd60230_L0_0000_L1_0000_L2_0002",
+    "text": " and then \njump back to their coding with barely a \npause. My friend seemed impressed \nwhen describing their speed.\nA third trend is the push for content \nproducers of all types to maintain a \nsocial media presence. The New York  \nTimes , a bastion of old-world media \nvalues, now encourages its employees to \ntweet—a hint taken by the more than \neight hundred writers, editors, and \nphotographers for the paper who now \nmaintain a Twitter account. This",
+    "level": 2,
+    "parent_id": "50b86fd60230_L0_0000_L1_0000",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Part 1, Chapter 2",
+      "subject": "Scarcity of Deep Work",
+      "context": "Analyzing business trends (open offices, instant messaging, social media) that promote shallowness and hinder deep work.",
+      "source_document": "dw_part1_ch02_Deep_Work_Is_Rare.txt",
+      "document_id": "50b86fd60230",
+      "created_at": "2025-10-26T02:54:49.934991",
+      "level": 2,
+      "parent_chunk_id": "50b86fd60230_L0_0000_L1_0000"
+    }
+  },
+  {
+    "chunk_id": "50b86fd60230_L0_0000_L1_0001",
+    "text": "Times , a bastion of old-world media \nvalues, now encourages its employees to \ntweet—a hint taken by the more than \neight hundred writers, editors, and \nphotographers for the paper who now \nmaintain a Twitter account. This is not\n\noutlier behavior; it’s instead the new \nnormal. When the novelist Jonathan \nFranzen wrote a piece for the Guardian  \ncalling Twitter a “coercive \ndevelopment” in the literary world, he \nwas widely ridiculed as out of touch. \nThe online magazine Slate  called \nFranzen’s complaints a “lonely war on \nthe Internet” and fellow novelist Jennifer \nWeiner wrote a response in The New  \nRepublic  in which she argued, \n“Franzen’s a category of one, a lonely \nvoice issuing ex cathedra  edicts that can \nonly apply to himself.” The sarcastic \nhashtag #JonathanFranzenhates soon \nbecame a fad.\nI mention these three business trends\n\nbecause they highlight a paradox. In the \nlast chapter, I argued that deep work is \nmore valuable than ever before in our \nshifting economy. If this is true, \nhowever, you would expect to see this \nskill promoted not just by ambitious \nindividuals but also by organizations \nhoping to get the most out of their \nemployees. As the examples provided \nemphasize, this is not happening. Many \nother ideas are being prioritized as more \nimportant than deep work in the business \nworld, including, as we just \nencountered, serendipitous\ncollaboration, rapid communication, and \nan active presence on social media.\nIt’s bad enough that so many trends\n\nare prioritized ahead of deep work, but \nto add insult to injury, many of these \ntrends actively decrease  one’s ability to \ngo deep. Open offices, for example, \nmight create more opportunities for \ncollaboration, - but they do so at the cost \nof “massive distraction,” to quote the \nresults of experiments conducted for a \nBritish TV special titled The Secret Life  \no f Office Buildings.  “If you are just \ngetting into some work and a phone goes \noff in the background, it ruins what you \nare concentrating on,” said the \nneuroscientist who ran the experiments \nfor the show. “Even though you are not \naware at the time, the brain responds to \ndistractions.”\n\nSimilar issues apply to",
+    "level": 1,
+    "parent_id": "50b86fd60230_L0_0000",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Part 1, Chapter 2",
+      "subject": "Scarcity of Deep Work",
+      "context": "Analyzing business trends (open offices, instant messaging, social media) that promote shallowness and hinder deep work.",
+      "source_document": "dw_part1_ch02_Deep_Work_Is_Rare.txt",
+      "document_id": "50b86fd60230",
+      "created_at": "2025-10-26T02:54:49.934991",
+      "level": 1,
+      "parent_chunk_id": "50b86fd60230_L0_0000"
+    }
+  },
+  {
+    "chunk_id": "50b86fd60230_L0_0000_L1_0001_L2_0000",
+    "text": "Times , a bastion of old-world media \nvalues, now encourages its employees to \ntweet—a hint taken by the more than \neight hundred writers, editors, and \nphotographers for the paper who now \nmaintain a Twitter account. This is not\n\noutlier behavior; it’s instead the new \nnormal. When the novelist Jonathan \nFranzen wrote a piece for the Guardian  \ncalling Twitter a “coercive \ndevelopment” in the literary world, he \nwas widely ridiculed as out of touch. \nThe online magazine Slate  called \nFranzen’s complaints a “lonely war on \nthe Internet” and fellow novelist Jennifer \nWeiner wrote a response in The New  \nRepublic  in which she argued, \n“Franzen’s a category of one, a lonely \nvoice issuing ex cathedra  edicts that can \nonly apply to himself.” The sarcastic \nhashtag #JonathanFranzenhates soon \nbecame a fad.\nI mention these three business trends\n\nbecause they highlight a paradox. In the \nlast chapter, I argued that deep work is \nmore valuable than ever before in our \nshifting economy. If this is true, \nhowever, you would expect to see this \nskill promoted not just by",
+    "level": 2,
+    "parent_id": "50b86fd60230_L0_0000_L1_0001",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Part 1, Chapter 2",
+      "subject": "Scarcity of Deep Work",
+      "context": "Analyzing business trends (open offices, instant messaging, social media) that promote shallowness and hinder deep work.",
+      "source_document": "dw_part1_ch02_Deep_Work_Is_Rare.txt",
+      "document_id": "50b86fd60230",
+      "created_at": "2025-10-26T02:54:49.934991",
+      "level": 2,
+      "parent_chunk_id": "50b86fd60230_L0_0000_L1_0001"
+    }
+  },
+  {
+    "chunk_id": "50b86fd60230_L0_0000_L1_0001_L2_0001",
+    "text": " they highlight a paradox. In the \nlast chapter, I argued that deep work is \nmore valuable than ever before in our \nshifting economy. If this is true, \nhowever, you would expect to see this \nskill promoted not just by ambitious \nindividuals but also by organizations \nhoping to get the most out of their \nemployees. As the examples provided \nemphasize, this is not happening. Many \nother ideas are being prioritized as more \nimportant than deep work in the business \nworld, including, as we just \nencountered, serendipitous\ncollaboration, rapid communication, and \nan active presence on social media.\nIt’s bad enough that so many trends\n\nare prioritized ahead of deep work, but \nto add insult to injury, many of these \ntrends actively decrease  one’s ability to \ngo deep. Open offices, for example, \nmight create more opportunities for \ncollaboration, - but they do so at the cost \nof “massive distraction,” to quote the \nresults of experiments conducted for a \nBritish TV special titled The Secret Life  \no f Office Buildings.  “If you are just \ngetting into some work and a phone goes \noff in the background,",
+    "level": 2,
+    "parent_id": "50b86fd60230_L0_0000_L1_0001",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Part 1, Chapter 2",
+      "subject": "Scarcity of Deep Work",
+      "context": "Analyzing business trends (open offices, instant messaging, social media) that promote shallowness and hinder deep work.",
+      "source_document": "dw_part1_ch02_Deep_Work_Is_Rare.txt",
+      "document_id": "50b86fd60230",
+      "created_at": "2025-10-26T02:54:49.934991",
+      "level": 2,
+      "parent_chunk_id": "50b86fd60230_L0_0000_L1_0001"
+    }
+  },
+  {
+    "chunk_id": "50b86fd60230_L0_0000_L1_0001_L2_0002",
+    "text": " “massive distraction,” to quote the \nresults of experiments conducted for a \nBritish TV special titled The Secret Life  \no f Office Buildings.  “If you are just \ngetting into some work and a phone goes \noff in the background, it ruins what you \nare concentrating on,” said the \nneuroscientist who ran the experiments \nfor the show. “Even though you are not \naware at the time, the brain responds to \ndistractions.”\n\nSimilar issues apply to",
+    "level": 2,
+    "parent_id": "50b86fd60230_L0_0000_L1_0001",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Part 1, Chapter 2",
+      "subject": "Scarcity of Deep Work",
+      "context": "Analyzing business trends (open offices, instant messaging, social media) that promote shallowness and hinder deep work.",
+      "source_document": "dw_part1_ch02_Deep_Work_Is_Rare.txt",
+      "document_id": "50b86fd60230",
+      "created_at": "2025-10-26T02:54:49.934991",
+      "level": 2,
+      "parent_chunk_id": "50b86fd60230_L0_0000_L1_0001"
+    }
+  },
+  {
+    "chunk_id": "50b86fd60230_L0_0000_L1_0002",
+    "text": " it ruins what you \nare concentrating on,” said the \nneuroscientist who ran the experiments \nfor the show. “Even though you are not \naware at the time, the brain responds to \ndistractions.”\n\nSimilar issues apply to the rise of \nreal-time messaging. E-mail inboxes, in \ntheory, can distract you only when you \nchoose to open them, whereas instant \nmessenger systems are meant to be \nalways active—magnifying the impact of \n",
+    "level": 1,
+    "parent_id": "50b86fd60230_L0_0000",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Part 1, Chapter 2",
+      "subject": "Scarcity of Deep Work",
+      "context": "Analyzing business trends (open offices, instant messaging, social media) that promote shallowness and hinder deep work.",
+      "source_document": "dw_part1_ch02_Deep_Work_Is_Rare.txt",
+      "document_id": "50b86fd60230",
+      "created_at": "2025-10-26T02:54:49.934991",
+      "level": 1,
+      "parent_chunk_id": "50b86fd60230_L0_0000"
+    }
+  },
+  {
+    "chunk_id": "50b86fd60230_L0_0000_L1_0002_L2_0000",
+    "text": " it ruins what you \nare concentrating on,” said the \nneuroscientist who ran the experiments \nfor the show. “Even though you are not \naware at the time, the brain responds to \ndistractions.”\n\nSimilar issues apply to the rise of \nreal-time messaging. E-mail inboxes, in \ntheory, can distract you only when you \nchoose to open them, whereas instant \nmessenger systems are meant to be \nalways active—magnifying the impact of \n",
+    "level": 2,
+    "parent_id": "50b86fd60230_L0_0000_L1_0002",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Part 1, Chapter 2",
+      "subject": "Scarcity of Deep Work",
+      "context": "Analyzing business trends (open offices, instant messaging, social media) that promote shallowness and hinder deep work.",
+      "source_document": "dw_part1_ch02_Deep_Work_Is_Rare.txt",
+      "document_id": "50b86fd60230",
+      "created_at": "2025-10-26T02:54:49.934991",
+      "level": 2,
+      "parent_chunk_id": "50b86fd60230_L0_0000_L1_0002"
+    }
+  },
+  {
+    "chunk_id": "50b86fd60230_L0_0001",
+    "text": " the rise of \nreal-time messaging. E-mail inboxes, in \ntheory, can distract you only when you \nchoose to open them, whereas instant \nmessenger systems are meant to be \nalways active—magnifying the impact of \ninterruption. Gloria Mark, a professor of \ninformatics at the University of \nCalifornia, Irvine, is an expert on the \nscience of attention fragmentation. In a \nwell-cited study, Mark and her co­\nauthors observed knowledge workers in \nreal offices and found that an \ninterruption, even if short, delays the \ntotal time required to complete a task by \na significant fraction. “This was \nreported by subjects as being very\n\ndetrimental,” she summarized with \ntypical academic understatement.\nForcing content producers onto \nsocial media also has negative effects on \nthe ability to go deep. Serious \njournalists, for example, need to focus \non doing serious journalism—diving \ninto complicated sources, pulling out \nconnective threads, craf ting persuasive \nprose—so to ask them to interrupt this \ndeep thinking throughout the day to \nparticipate in the frothy back-and-forth \nof online tittering seems irrelevant (and \nsomewhat demeaning) at best, and \ndevastatingly distracting at worst. The \nrespected New Yorker  staff writer \nGeorge Packer captured this fear well in\n\nan essay about why he does not tweet: \n“Twitter is crack for media addicts. It \nscares me, not because I’m morally \nsuperior to it, but because I don’t think I \ncould handle it. I’m afraid I’d end up \nletting my son go hungry.” Tellingly, \nwhen he wrote that essay, Packer was \nbusy writing his book The Unwinding,  \nwhich came out soon after and promptly \nwon the National Book Award— despite \n(or, perhaps, aided by) his lack of social \nmedia use.\nTo summarize, big trends in business \ntoday actively decrease people’s ability \nto perform deep work, even though the \nbenefits promised by these trends (e.g., \nincreased serendipity, faster responses\n\nto requests, and more exposure) are \narguably dwarfed by the benefits that \nflow from a commitment to deep work \n(e.g., the ability to learn hard things fast \nand produce at an elite level). The goal \nof this chapter is to explain this paradox. \nThe rareness of deep work, I’ll argue, is \nnot due to some fundamental weakness \nof the habit. When we look closer at why \nwe embrace distraction in the workplace \nwe’ll find the reasons are more arbitrary \nthan we might expect—based on flawed \nthinking combined with the ambiguity \nand confusion that often define \nknowledge work. My objective is to \nconvince you that although our current \nembrace of distraction is a real\n\nphenomenon, it’s built on an unstable \nfoundation and can be easily dismissed \nonce you decide to cultivate a deep \nwork ethic.\nThe Metric Black Hole\nIn the fall of 2012, Tom Cochran, the \nchief technology officer of Atlantic \nMedia, became alarmed at how much \ntime he seemed to spend on e-mail. So \nlike any good techie, he decided to \nquantify this unease. Observing his own \nbehavior, he measured that in a single \nweek he received 511 e-mail messages \nand sent 284. This averaged to around\n\n160 e-mails per day over a five-day \nworkweek. Calculating further, Cochran \nnoted that even if he managed to spend \nonly thirty seconds per message on \naverage, this still added up to almost an \nhour and a half per day dedicated to \nmoving information around like a human \nnetwork router. This seemed like a lot of \ntime spent on something that wasn’t a \nprimary piece of his job description.\nAs Cochran recalls in a blog post he \nwrote about his experiment for the \nHarvard Business Review , these simple \nstatistics got him thinking about the rest \nof his company. Just how much time \nwere employees of Atlantic Media \nspending moving around information\n\ninstead of focusing on the specialized \ntasks they were hired to perform? \nDetermined to answer this question, \nCochran gathered company-wide \nstatistics on e-mails sent per day and the \naverage number of words per e-mail. He \nthen combined these numbers with the \nemployees’  average typing speed, \nreading speed, and salary. The result: He \ndiscovered that Atlantic Media was \nspending well over a million dollars a \nyear to pay people to process e-mails, \nwith every message sent or received \ntapping the company for around ninety- \nfive cents of labor costs. “A ‘free and \nfrictionless’  method of communication,” \nCochran summarized, “had soft costs\n\nequ",
+    "level": 0,
+    "parent_id": null,
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Part 1, Chapter 2",
+      "subject": "Scarcity of Deep Work",
+      "context": "Analyzing business trends (open offices, instant messaging, social media) that promote shallowness and hinder deep work.",
+      "source_document": "dw_part1_ch02_Deep_Work_Is_Rare.txt",
+      "document_id": "50b86fd60230",
+      "created_at": "2025-10-26T02:54:49.934991",
+      "level": 0
+    }
+  },
+  {
+    "chunk_id": "50b86fd60230_L0_0001_L1_0000",
+    "text": " the rise of \nreal-time messaging. E-mail inboxes, in \ntheory, can distract you only when you \nchoose to open them, whereas instant \nmessenger systems are meant to be \nalways active—magnifying the impact of \ninterruption. Gloria Mark, a professor of \ninformatics at the University of \nCalifornia, Irvine, is an expert on the \nscience of attention fragmentation. In a \nwell-cited study, Mark and her co­\nauthors observed knowledge workers in \nreal offices and found that an \ninterruption, even if short, delays the \ntotal time required to complete a task by \na significant fraction. “This was \nreported by subjects as being very\n\ndetrimental,” she summarized with \ntypical academic understatement.\nForcing content producers onto \nsocial media also has negative effects on \nthe ability to go deep. Serious \njournalists, for example, need to focus \non doing serious journalism—diving \ninto complicated sources, pulling out \nconnective threads, craf ting persuasive \nprose—so to ask them to interrupt this \ndeep thinking throughout the day to \nparticipate in the frothy back-and-forth \nof online tittering seems irrelevant (and \nsomewhat demeaning) at best, and \ndevastatingly distracting at worst. The \nrespected New Yorker  staff writer \nGeorge Packer captured this fear well in\n\nan essay about why he does not tweet: \n“Twitter is crack for media addicts. It \nscares me, not because I’m morally \nsuperior to it, but because I don’t think I \ncould handle it. I’m afraid I’d end up \nletting my son go hungry.” Tellingly, \nwhen he wrote that essay, Packer was \nbusy writing his book The Unwinding,  \nwhich came out soon after and promptly \nwon the National Book Award— despite \n(or, perhaps, aided by) his lack of social \nmedia use.\nTo summarize, big trends in business \ntoday actively decrease people’s ability \nto perform deep work, even though the \nbenefits promised by these trends (e.g., \nincreased serendipity, faster responses\n\nto requests, and more exposure) are \narguably dwarfed by the benefits that \nflow from a commitment to deep work \n(e.g., the ability to learn hard things fast \nand produce at an elite level). The goal \nof this chapter is to explain this",
+    "level": 1,
+    "parent_id": "50b86fd60230_L0_0001",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Part 1, Chapter 2",
+      "subject": "Scarcity of Deep Work",
+      "context": "Analyzing business trends (open offices, instant messaging, social media) that promote shallowness and hinder deep work.",
+      "source_document": "dw_part1_ch02_Deep_Work_Is_Rare.txt",
+      "document_id": "50b86fd60230",
+      "created_at": "2025-10-26T02:54:49.934991",
+      "level": 1,
+      "parent_chunk_id": "50b86fd60230_L0_0001"
+    }
+  },
+  {
+    "chunk_id": "50b86fd60230_L0_0001_L1_0000_L2_0000",
+    "text": " the rise of \nreal-time messaging. E-mail inboxes, in \ntheory, can distract you only when you \nchoose to open them, whereas instant \nmessenger systems are meant to be \nalways active—magnifying the impact of \ninterruption. Gloria Mark, a professor of \ninformatics at the University of \nCalifornia, Irvine, is an expert on the \nscience of attention fragmentation. In a \nwell-cited study, Mark and her co­\nauthors observed knowledge workers in \nreal offices and found that an \ninterruption, even if short, delays the \ntotal time required to complete a task by \na significant fraction. “This was \nreported by subjects as being very\n\ndetrimental,” she summarized with \ntypical academic understatement.\nForcing content producers onto \nsocial media also has negative effects on \nthe ability to go deep. Serious \njournalists, for example, need to focus \non doing serious journalism—diving \ninto complicated sources, pulling out \nconnective threads, craf ting persuasive \nprose—so to ask them to interrupt this \ndeep thinking throughout the day to \nparticipate in the frothy back-and-forth \nof online tittering seems irrelevant (and",
+    "level": 2,
+    "parent_id": "50b86fd60230_L0_0001_L1_0000",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Part 1, Chapter 2",
+      "subject": "Scarcity of Deep Work",
+      "context": "Analyzing business trends (open offices, instant messaging, social media) that promote shallowness and hinder deep work.",
+      "source_document": "dw_part1_ch02_Deep_Work_Is_Rare.txt",
+      "document_id": "50b86fd60230",
+      "created_at": "2025-10-26T02:54:49.934991",
+      "level": 2,
+      "parent_chunk_id": "50b86fd60230_L0_0001_L1_0000"
+    }
+  },
+  {
+    "chunk_id": "50b86fd60230_L0_0001_L1_0000_L2_0001",
+    "text": " out \nconnective threads, craf ting persuasive \nprose—so to ask them to interrupt this \ndeep thinking throughout the day to \nparticipate in the frothy back-and-forth \nof online tittering seems irrelevant (and \nsomewhat demeaning) at best, and \ndevastatingly distracting at worst. The \nrespected New Yorker  staff writer \nGeorge Packer captured this fear well in\n\nan essay about why he does not tweet: \n“Twitter is crack for media addicts. It \nscares me, not because I’m morally \nsuperior to it, but because I don’t think I \ncould handle it. I’m afraid I’d end up \nletting my son go hungry.” Tellingly, \nwhen he wrote that essay, Packer was \nbusy writing his book The Unwinding,  \nwhich came out soon after and promptly \nwon the National Book Award— despite \n(or, perhaps, aided by) his lack of social \nmedia use.\nTo summarize, big trends in business \ntoday actively decrease people’s ability \nto perform deep work, even though the \nbenefits promised by these trends (e.g., \nincreased serendipity, faster responses\n\nto requests, and",
+    "level": 2,
+    "parent_id": "50b86fd60230_L0_0001_L1_0000",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Part 1, Chapter 2",
+      "subject": "Scarcity of Deep Work",
+      "context": "Analyzing business trends (open offices, instant messaging, social media) that promote shallowness and hinder deep work.",
+      "source_document": "dw_part1_ch02_Deep_Work_Is_Rare.txt",
+      "document_id": "50b86fd60230",
+      "created_at": "2025-10-26T02:54:49.934991",
+      "level": 2,
+      "parent_chunk_id": "50b86fd60230_L0_0001_L1_0000"
+    }
+  },
+  {
+    "chunk_id": "50b86fd60230_L0_0001_L1_0000_L2_0002",
+    "text": ".\nTo summarize, big trends in business \ntoday actively decrease people’s ability \nto perform deep work, even though the \nbenefits promised by these trends (e.g., \nincreased serendipity, faster responses\n\nto requests, and more exposure) are \narguably dwarfed by the benefits that \nflow from a commitment to deep work \n(e.g., the ability to learn hard things fast \nand produce at an elite level). The goal \nof this chapter is to explain this",
+    "level": 2,
+    "parent_id": "50b86fd60230_L0_0001_L1_0000",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Part 1, Chapter 2",
+      "subject": "Scarcity of Deep Work",
+      "context": "Analyzing business trends (open offices, instant messaging, social media) that promote shallowness and hinder deep work.",
+      "source_document": "dw_part1_ch02_Deep_Work_Is_Rare.txt",
+      "document_id": "50b86fd60230",
+      "created_at": "2025-10-26T02:54:49.934991",
+      "level": 2,
+      "parent_chunk_id": "50b86fd60230_L0_0001_L1_0000"
+    }
+  },
+  {
+    "chunk_id": "50b86fd60230_L0_0001_L1_0001",
+    "text": " more exposure) are \narguably dwarfed by the benefits that \nflow from a commitment to deep work \n(e.g., the ability to learn hard things fast \nand produce at an elite level). The goal \nof this chapter is to explain this paradox. \nThe rareness of deep work, I’ll argue, is \nnot due to some fundamental weakness \nof the habit. When we look closer at why \nwe embrace distraction in the workplace \nwe’ll find the reasons are more arbitrary \nthan we might expect—based on flawed \nthinking combined with the ambiguity \nand confusion that often define \nknowledge work. My objective is to \nconvince you that although our current \nembrace of distraction is a real\n\nphenomenon, it’s built on an unstable \nfoundation and can be easily dismissed \nonce you decide to cultivate a deep \nwork ethic.\nThe Metric Black Hole\nIn the fall of 2012, Tom Cochran, the \nchief technology officer of Atlantic \nMedia, became alarmed at how much \ntime he seemed to spend on e-mail. So \nlike any good techie, he decided to \nquantify this unease. Observing his own \nbehavior, he measured that in a single \nweek he received 511 e-mail messages \nand sent 284. This averaged to around\n\n160 e-mails per day over a five-day \nworkweek. Calculating further, Cochran \nnoted that even if he managed to spend \nonly thirty seconds per message on \naverage, this still added up to almost an \nhour and a half per day dedicated to \nmoving information around like a human \nnetwork router. This seemed like a lot of \ntime spent on something that wasn’t a \nprimary piece of his job description.\nAs Cochran recalls in a blog post he \nwrote about his experiment for the \nHarvard Business Review , these simple \nstatistics got him thinking about the rest \nof his company. Just how much time \nwere employees of Atlantic Media \nspending moving around information\n\ninstead of focusing on the specialized \ntasks they were hired to perform? \nDetermined to answer this question, \nCochran gathered company-wide \nstatistics on e-mails sent per day and the \naverage number of words per e-mail. He \nthen combined these numbers with the \nemployees’  average typing speed, \nreading speed, and salary. The result: He \ndiscovered that Atlantic Media was \nspending well over a million dollars a \nyear to pay people to process e-mails,",
+    "level": 1,
+    "parent_id": "50b86fd60230_L0_0001",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Part 1, Chapter 2",
+      "subject": "Scarcity of Deep Work",
+      "context": "Analyzing business trends (open offices, instant messaging, social media) that promote shallowness and hinder deep work.",
+      "source_document": "dw_part1_ch02_Deep_Work_Is_Rare.txt",
+      "document_id": "50b86fd60230",
+      "created_at": "2025-10-26T02:54:49.934991",
+      "level": 1,
+      "parent_chunk_id": "50b86fd60230_L0_0001"
+    }
+  },
+  {
+    "chunk_id": "50b86fd60230_L0_0001_L1_0001_L2_0000",
+    "text": " more exposure) are \narguably dwarfed by the benefits that \nflow from a commitment to deep work \n(e.g., the ability to learn hard things fast \nand produce at an elite level). The goal \nof this chapter is to explain this paradox. \nThe rareness of deep work, I’ll argue, is \nnot due to some fundamental weakness \nof the habit. When we look closer at why \nwe embrace distraction in the workplace \nwe’ll find the reasons are more arbitrary \nthan we might expect—based on flawed \nthinking combined with the ambiguity \nand confusion that often define \nknowledge work. My objective is to \nconvince you that although our current \nembrace of distraction is a real\n\nphenomenon, it’s built on an unstable \nfoundation and can be easily dismissed \nonce you decide to cultivate a deep \nwork ethic.\nThe Metric Black Hole\nIn the fall of 2012, Tom Cochran, the \nchief technology officer of Atlantic \nMedia, became alarmed at how much \ntime he seemed to spend on e-mail. So \nlike any good techie, he decided to \nquantify this unease. Observing his own \nbehavior, he measured that in a single \nweek he received 511 e-mail messages",
+    "level": 2,
+    "parent_id": "50b86fd60230_L0_0001_L1_0001",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Part 1, Chapter 2",
+      "subject": "Scarcity of Deep Work",
+      "context": "Analyzing business trends (open offices, instant messaging, social media) that promote shallowness and hinder deep work.",
+      "source_document": "dw_part1_ch02_Deep_Work_Is_Rare.txt",
+      "document_id": "50b86fd60230",
+      "created_at": "2025-10-26T02:54:49.934991",
+      "level": 2,
+      "parent_chunk_id": "50b86fd60230_L0_0001_L1_0001"
+    }
+  },
+  {
+    "chunk_id": "50b86fd60230_L0_0001_L1_0001_L2_0001",
+    "text": " \ntime he seemed to spend on e-mail. So \nlike any good techie, he decided to \nquantify this unease. Observing his own \nbehavior, he measured that in a single \nweek he received 511 e-mail messages \nand sent 284. This averaged to around\n\n160 e-mails per day over a five-day \nworkweek. Calculating further, Cochran \nnoted that even if he managed to spend \nonly thirty seconds per message on \naverage, this still added up to almost an \nhour and a half per day dedicated to \nmoving information around like a human \nnetwork router. This seemed like a lot of \ntime spent on something that wasn’t a \nprimary piece of his job description.\nAs Cochran recalls in a blog post he \nwrote about his experiment for the \nHarvard Business Review , these simple \nstatistics got him thinking about the rest \nof his company. Just how much time \nwere employees of Atlantic Media \nspending moving around information\n\ninstead of focusing on the specialized \ntasks they were hired to perform? \nDetermined to answer this question, \nCochran gathered company-wide \nstatistics on e-mails sent per day and the \naverage number of words per e-mail. He \nthen",
+    "level": 2,
+    "parent_id": "50b86fd60230_L0_0001_L1_0001",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Part 1, Chapter 2",
+      "subject": "Scarcity of Deep Work",
+      "context": "Analyzing business trends (open offices, instant messaging, social media) that promote shallowness and hinder deep work.",
+      "source_document": "dw_part1_ch02_Deep_Work_Is_Rare.txt",
+      "document_id": "50b86fd60230",
+      "created_at": "2025-10-26T02:54:49.934991",
+      "level": 2,
+      "parent_chunk_id": "50b86fd60230_L0_0001_L1_0001"
+    }
+  },
+  {
+    "chunk_id": "50b86fd60230_L0_0001_L1_0001_L2_0002",
+    "text": " of focusing on the specialized \ntasks they were hired to perform? \nDetermined to answer this question, \nCochran gathered company-wide \nstatistics on e-mails sent per day and the \naverage number of words per e-mail. He \nthen combined these numbers with the \nemployees’  average typing speed, \nreading speed, and salary. The result: He \ndiscovered that Atlantic Media was \nspending well over a million dollars a \nyear to pay people to process e-mails,",
+    "level": 2,
+    "parent_id": "50b86fd60230_L0_0001_L1_0001",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Part 1, Chapter 2",
+      "subject": "Scarcity of Deep Work",
+      "context": "Analyzing business trends (open offices, instant messaging, social media) that promote shallowness and hinder deep work.",
+      "source_document": "dw_part1_ch02_Deep_Work_Is_Rare.txt",
+      "document_id": "50b86fd60230",
+      "created_at": "2025-10-26T02:54:49.934991",
+      "level": 2,
+      "parent_chunk_id": "50b86fd60230_L0_0001_L1_0001"
+    }
+  },
+  {
+    "chunk_id": "50b86fd60230_L0_0001_L1_0002",
+    "text": " combined these numbers with the \nemployees’  average typing speed, \nreading speed, and salary. The result: He \ndiscovered that Atlantic Media was \nspending well over a million dollars a \nyear to pay people to process e-mails, \nwith every message sent or received \ntapping the company for around ninety- \nfive cents of labor costs. “A ‘free and \nfrictionless’  method of communication,” \nCochran summarized, “had soft costs\n\nequ",
+    "level": 1,
+    "parent_id": "50b86fd60230_L0_0001",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Part 1, Chapter 2",
+      "subject": "Scarcity of Deep Work",
+      "context": "Analyzing business trends (open offices, instant messaging, social media) that promote shallowness and hinder deep work.",
+      "source_document": "dw_part1_ch02_Deep_Work_Is_Rare.txt",
+      "document_id": "50b86fd60230",
+      "created_at": "2025-10-26T02:54:49.934991",
+      "level": 1,
+      "parent_chunk_id": "50b86fd60230_L0_0001"
+    }
+  },
+  {
+    "chunk_id": "50b86fd60230_L0_0001_L1_0002_L2_0000",
+    "text": " combined these numbers with the \nemployees’  average typing speed, \nreading speed, and salary. The result: He \ndiscovered that Atlantic Media was \nspending well over a million dollars a \nyear to pay people to process e-mails, \nwith every message sent or received \ntapping the company for around ninety- \nfive cents of labor costs. “A ‘free and \nfrictionless’  method of communication,” \nCochran summarized, “had soft costs\n\nequ",
+    "level": 2,
+    "parent_id": "50b86fd60230_L0_0001_L1_0002",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Part 1, Chapter 2",
+      "subject": "Scarcity of Deep Work",
+      "context": "Analyzing business trends (open offices, instant messaging, social media) that promote shallowness and hinder deep work.",
+      "source_document": "dw_part1_ch02_Deep_Work_Is_Rare.txt",
+      "document_id": "50b86fd60230",
+      "created_at": "2025-10-26T02:54:49.934991",
+      "level": 2,
+      "parent_chunk_id": "50b86fd60230_L0_0001_L1_0002"
+    }
+  },
+  {
+    "chunk_id": "50b86fd60230_L0_0002",
+    "text": " \nwith every message sent or received \ntapping the company for around ninety- \nfive cents of labor costs. “A ‘free and \nfrictionless’  method of communication,” \nCochran summarized, “had soft costs\n\nequivalent to procuring a small company \nLearjet.”\nTom Cochran’s experiment yielded \nan interesting result about the literal cost \nof a seemingly harmless behavior. But \nthe real importance of this story is the \nexperiment itself, and in particular, its \ncomplexity. It turns out to be really \ndifficult to answer a simple question \nsuch as: What’s the impact of our current \ne-mail habits on the bottom line? \nCochran had to conduct a company-wide \nsurvey and gather statistics from the IT \ninfrastructure. He also had to pull \ntogether salary data and information on \ntyping and reading speed, and run the \nwhole thing through a statistical model\n\nto spit out his final result. And even then, \nthe outcome is fungible, as it’s not able \nto separate out, for example, how much \nvalue was produced  by this frequent, \nexpensive e-mail use to offset some of \nits cost.\nThis example generalizes to most \nbehaviors that potentially impede or \nimprove deep work. Even though we \nabstractly accept that distraction has \ncosts and depth has value, these impacts, \nas Tom Cochran discovered, are difficult \nto measure. This isn’t a trait unique to \nhabits related to distraction and depth: \nGenerally speaking, as knowledge work \nmakes more complex demands of the \nlabor force, it becomes harder to\n\nmeasure the value of an individual’s \nefforts. The French economist Thomas \nPiketty made this point explicit in his \nstudy of the extreme growth of executive \nsalaries. The enabling assumption \ndriving his argument is that “it is \nobjectively difficult to measure \nindividual contributions to a firm’s \noutput.” In the absence of such measures, \nirrational outcomes, such as executive \nsalaries way out of proportion to the \nexecutive’s marginal productivity, can \noccur. Even though some details of \nPiketty’s theory are controversial, the \nunderlying assumption that it’s \nincreasingly difficult to measure \nindividuals’  contributions is generally\n\nconsidered, to quote one of his critics, \n“undoubtedly true.”\nWe should not, therefore, expect the \nbottom-line impact of depth-destroying \nbehaviors to be easily detected. As Tom \nCochran discovered, such metrics fall \ninto an opaque region resistant to easy \nmeasurement—a region I call the metric  \nblack hole.  Of course, just because it’s \nhard to measure metrics related to deep \nwork doesn’t automatically lead to the \nconclusion that businesses will dismiss \nit. We have many examples of behaviors \nfor which it’s hard to measure their \nbottom-line impact but that nevertheless \nflourish in our business culture; think, \nfor example, of the three trends that\n\nopened this chapter, or the outsize \nexecutive salaries that puzzled Thomas \nPiketty. But without clear metrics to \nsupport it, any business behavior is \nvulnerable to unstable whim and shifting \nforces, and in this volatile scrum deep \nwork has fared particularly poorly.\nThe reality of this metric black hole \nis the backdrop for the arguments that \nfollow in this chapter. In these upcoming \nsections, I’ll describe various mind-sets \nand biases that have pushed business \naway from deep work and toward more \ndistracting alternatives. None of these \nbehaviors would survive long if it was \nclear that they were hurting the bottom \nline, but the metric black hole prevents\n\nthis clarity and allows the shift toward \ndistraction we increasingly encounter in \nthe professional world.\nThe Principle of Least \nResistance\nWhen it comes to distracting behaviors \nembraced in the workplace, we must \ngive a position of dominance to the now \nubiquitous culture o f connectivity , \nwhere one is expected to read and \nrespond to e-mails (and related \ncommunication) quickly. In researching \nthis topic, Harvard Business School \nprofessor Leslie Perlow found that the\n\nprofessionals she surveyed spent around \ntwenty to twenty-five hours a week \noutside the office  monitoring e-mail— \nbelieving it important to answer any e­\nmail (internal or external) within an hour \nof its arrival.\nYou might argue— as many do—that \nthis behavior is necessary in many fast­\npaced businesses. But here’s where \nthings get interesting: Perlow tested this \nclaim In more detail, she convinced \nexecutives at the Boston Consulting \nGroup, a high-pressure management \nconsulting firm with an ingrained culture \nof connectivity, to let her fiddle with the \nwork habits of one of their teams. She \nwanted to test a simple question: Does it\n\nreally help your",
+    "level": 0,
+    "parent_id": null,
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Part 1, Chapter 2",
+      "subject": "Scarcity of Deep Work",
+      "context": "Analyzing business trends (open offices, instant messaging, social media) that promote shallowness and hinder deep work.",
+      "source_document": "dw_part1_ch02_Deep_Work_Is_Rare.txt",
+      "document_id": "50b86fd60230",
+      "created_at": "2025-10-26T02:54:49.934991",
+      "level": 0
+    }
+  },
+  {
+    "chunk_id": "50b86fd60230_L0_0002_L1_0000",
+    "text": " \nwith every message sent or received \ntapping the company for around ninety- \nfive cents of labor costs. “A ‘free and \nfrictionless’  method of communication,” \nCochran summarized, “had soft costs\n\nequivalent to procuring a small company \nLearjet.”\nTom Cochran’s experiment yielded \nan interesting result about the literal cost \nof a seemingly harmless behavior. But \nthe real importance of this story is the \nexperiment itself, and in particular, its \ncomplexity. It turns out to be really \ndifficult to answer a simple question \nsuch as: What’s the impact of our current \ne-mail habits on the bottom line? \nCochran had to conduct a company-wide \nsurvey and gather statistics from the IT \ninfrastructure. He also had to pull \ntogether salary data and information on \ntyping and reading speed, and run the \nwhole thing through a statistical model\n\nto spit out his final result. And even then, \nthe outcome is fungible, as it’s not able \nto separate out, for example, how much \nvalue was produced  by this frequent, \nexpensive e-mail use to offset some of \nits cost.\nThis example generalizes to most \nbehaviors that potentially impede or \nimprove deep work. Even though we \nabstractly accept that distraction has \ncosts and depth has value, these impacts, \nas Tom Cochran discovered, are difficult \nto measure. This isn’t a trait unique to \nhabits related to distraction and depth: \nGenerally speaking, as knowledge work \nmakes more complex demands of the \nlabor force, it becomes harder to\n\nmeasure the value of an individual’s \nefforts. The French economist Thomas \nPiketty made this point explicit in his \nstudy of the extreme growth of executive \nsalaries. The enabling assumption \ndriving his argument is that “it is \nobjectively difficult to measure \nindividual contributions to a firm’s \noutput.” In the absence of such measures, \nirrational outcomes, such as executive \nsalaries way out of proportion to the \nexecutive’s marginal productivity, can \noccur. Even though some details of \nPiketty’s theory are controversial, the \nunderlying assumption that it’s \nincreasingly difficult to measure \nindividuals’  contributions is generally\n\nconsidered, to quote one of his critics, \n“undoubtedly true.”\nWe should not, therefore, expect the \nbottom-line impact of",
+    "level": 1,
+    "parent_id": "50b86fd60230_L0_0002",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Part 1, Chapter 2",
+      "subject": "Scarcity of Deep Work",
+      "context": "Analyzing business trends (open offices, instant messaging, social media) that promote shallowness and hinder deep work.",
+      "source_document": "dw_part1_ch02_Deep_Work_Is_Rare.txt",
+      "document_id": "50b86fd60230",
+      "created_at": "2025-10-26T02:54:49.934991",
+      "level": 1,
+      "parent_chunk_id": "50b86fd60230_L0_0002"
+    }
+  },
+  {
+    "chunk_id": "50b86fd60230_L0_0002_L1_0000_L2_0000",
+    "text": " \nwith every message sent or received \ntapping the company for around ninety- \nfive cents of labor costs. “A ‘free and \nfrictionless’  method of communication,” \nCochran summarized, “had soft costs\n\nequivalent to procuring a small company \nLearjet.”\nTom Cochran’s experiment yielded \nan interesting result about the literal cost \nof a seemingly harmless behavior. But \nthe real importance of this story is the \nexperiment itself, and in particular, its \ncomplexity. It turns out to be really \ndifficult to answer a simple question \nsuch as: What’s the impact of our current \ne-mail habits on the bottom line? \nCochran had to conduct a company-wide \nsurvey and gather statistics from the IT \ninfrastructure. He also had to pull \ntogether salary data and information on \ntyping and reading speed, and run the \nwhole thing through a statistical model\n\nto spit out his final result. And even then, \nthe outcome is fungible, as it’s not able \nto separate out, for example, how much \nvalue was produced  by this frequent, \nexpensive e-mail use to offset some of \nits cost.\nThis example generalizes to most \nbeh",
+    "level": 2,
+    "parent_id": "50b86fd60230_L0_0002_L1_0000",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Part 1, Chapter 2",
+      "subject": "Scarcity of Deep Work",
+      "context": "Analyzing business trends (open offices, instant messaging, social media) that promote shallowness and hinder deep work.",
+      "source_document": "dw_part1_ch02_Deep_Work_Is_Rare.txt",
+      "document_id": "50b86fd60230",
+      "created_at": "2025-10-26T02:54:49.934991",
+      "level": 2,
+      "parent_chunk_id": "50b86fd60230_L0_0002_L1_0000"
+    }
+  },
+  {
+    "chunk_id": "50b86fd60230_L0_0002_L1_0000_L2_0001",
+    "text": " is fungible, as it’s not able \nto separate out, for example, how much \nvalue was produced  by this frequent, \nexpensive e-mail use to offset some of \nits cost.\nThis example generalizes to most \nbehaviors that potentially impede or \nimprove deep work. Even though we \nabstractly accept that distraction has \ncosts and depth has value, these impacts, \nas Tom Cochran discovered, are difficult \nto measure. This isn’t a trait unique to \nhabits related to distraction and depth: \nGenerally speaking, as knowledge work \nmakes more complex demands of the \nlabor force, it becomes harder to\n\nmeasure the value of an individual’s \nefforts. The French economist Thomas \nPiketty made this point explicit in his \nstudy of the extreme growth of executive \nsalaries. The enabling assumption \ndriving his argument is that “it is \nobjectively difficult to measure \nindividual contributions to a firm’s \noutput.” In the absence of such measures, \nirrational outcomes, such as executive \nsalaries way out of proportion to the \nexecutive’s marginal productivity, can \noccur. Even though some details of \nPiketty’s theory are controversial, the \nunder",
+    "level": 2,
+    "parent_id": "50b86fd60230_L0_0002_L1_0000",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Part 1, Chapter 2",
+      "subject": "Scarcity of Deep Work",
+      "context": "Analyzing business trends (open offices, instant messaging, social media) that promote shallowness and hinder deep work.",
+      "source_document": "dw_part1_ch02_Deep_Work_Is_Rare.txt",
+      "document_id": "50b86fd60230",
+      "created_at": "2025-10-26T02:54:49.934991",
+      "level": 2,
+      "parent_chunk_id": "50b86fd60230_L0_0002_L1_0000"
+    }
+  },
+  {
+    "chunk_id": "50b86fd60230_L0_0002_L1_0000_L2_0002",
+    "text": " such measures, \nirrational outcomes, such as executive \nsalaries way out of proportion to the \nexecutive’s marginal productivity, can \noccur. Even though some details of \nPiketty’s theory are controversial, the \nunderlying assumption that it’s \nincreasingly difficult to measure \nindividuals’  contributions is generally\n\nconsidered, to quote one of his critics, \n“undoubtedly true.”\nWe should not, therefore, expect the \nbottom-line impact of",
+    "level": 2,
+    "parent_id": "50b86fd60230_L0_0002_L1_0000",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Part 1, Chapter 2",
+      "subject": "Scarcity of Deep Work",
+      "context": "Analyzing business trends (open offices, instant messaging, social media) that promote shallowness and hinder deep work.",
+      "source_document": "dw_part1_ch02_Deep_Work_Is_Rare.txt",
+      "document_id": "50b86fd60230",
+      "created_at": "2025-10-26T02:54:49.934991",
+      "level": 2,
+      "parent_chunk_id": "50b86fd60230_L0_0002_L1_0000"
+    }
+  },
+  {
+    "chunk_id": "50b86fd60230_L0_0002_L1_0001",
+    "text": "lying assumption that it’s \nincreasingly difficult to measure \nindividuals’  contributions is generally\n\nconsidered, to quote one of his critics, \n“undoubtedly true.”\nWe should not, therefore, expect the \nbottom-line impact of depth-destroying \nbehaviors to be easily detected. As Tom \nCochran discovered, such metrics fall \ninto an opaque region resistant to easy \nmeasurement—a region I call the metric  \nblack hole.  Of course, just because it’s \nhard to measure metrics related to deep \nwork doesn’t automatically lead to the \nconclusion that businesses will dismiss \nit. We have many examples of behaviors \nfor which it’s hard to measure their \nbottom-line impact but that nevertheless \nflourish in our business culture; think, \nfor example, of the three trends that\n\nopened this chapter, or the outsize \nexecutive salaries that puzzled Thomas \nPiketty. But without clear metrics to \nsupport it, any business behavior is \nvulnerable to unstable whim and shifting \nforces, and in this volatile scrum deep \nwork has fared particularly poorly.\nThe reality of this metric black hole \nis the backdrop for the arguments that \nfollow in this chapter. In these upcoming \nsections, I’ll describe various mind-sets \nand biases that have pushed business \naway from deep work and toward more \ndistracting alternatives. None of these \nbehaviors would survive long if it was \nclear that they were hurting the bottom \nline, but the metric black hole prevents\n\nthis clarity and allows the shift toward \ndistraction we increasingly encounter in \nthe professional world.\nThe Principle of Least \nResistance\nWhen it comes to distracting behaviors \nembraced in the workplace, we must \ngive a position of dominance to the now \nubiquitous culture o f connectivity , \nwhere one is expected to read and \nrespond to e-mails (and related \ncommunication) quickly. In researching \nthis topic, Harvard Business School \nprofessor Leslie Perlow found that the\n\nprofessionals she surveyed spent around \ntwenty to twenty-five hours a week \noutside the office  monitoring e-mail— \nbelieving it important to answer any e­\nmail (internal or external) within an hour \nof its arrival.\nYou might argue— as many do—that \nthis behavior is necessary in many fast­\npaced businesses. But here’s where \nthings get interesting: Perlow tested this \nclaim In more detail, she convinced \nexecutives at the Boston Consulting \n",
+    "level": 1,
+    "parent_id": "50b86fd60230_L0_0002",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Part 1, Chapter 2",
+      "subject": "Scarcity of Deep Work",
+      "context": "Analyzing business trends (open offices, instant messaging, social media) that promote shallowness and hinder deep work.",
+      "source_document": "dw_part1_ch02_Deep_Work_Is_Rare.txt",
+      "document_id": "50b86fd60230",
+      "created_at": "2025-10-26T02:54:49.934991",
+      "level": 1,
+      "parent_chunk_id": "50b86fd60230_L0_0002"
+    }
+  },
+  {
+    "chunk_id": "50b86fd60230_L0_0002_L1_0001_L2_0000",
+    "text": "lying assumption that it’s \nincreasingly difficult to measure \nindividuals’  contributions is generally\n\nconsidered, to quote one of his critics, \n“undoubtedly true.”\nWe should not, therefore, expect the \nbottom-line impact of depth-destroying \nbehaviors to be easily detected. As Tom \nCochran discovered, such metrics fall \ninto an opaque region resistant to easy \nmeasurement—a region I call the metric  \nblack hole.  Of course, just because it’s \nhard to measure metrics related to deep \nwork doesn’t automatically lead to the \nconclusion that businesses will dismiss \nit. We have many examples of behaviors \nfor which it’s hard to measure their \nbottom-line impact but that nevertheless \nflourish in our business culture; think, \nfor example, of the three trends that\n\nopened this chapter, or the outsize \nexecutive salaries that puzzled Thomas \nPiketty. But without clear metrics to \nsupport it, any business behavior is \nvulnerable to unstable whim and shifting \nforces, and in this volatile scrum deep \nwork has fared particularly poorly.\nThe reality of this metric black hole \nis the backdrop for the arguments that \nfollow in this chapter. In these upcoming \nsections,",
+    "level": 2,
+    "parent_id": "50b86fd60230_L0_0002_L1_0001",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Part 1, Chapter 2",
+      "subject": "Scarcity of Deep Work",
+      "context": "Analyzing business trends (open offices, instant messaging, social media) that promote shallowness and hinder deep work.",
+      "source_document": "dw_part1_ch02_Deep_Work_Is_Rare.txt",
+      "document_id": "50b86fd60230",
+      "created_at": "2025-10-26T02:54:49.934991",
+      "level": 2,
+      "parent_chunk_id": "50b86fd60230_L0_0002_L1_0001"
+    }
+  },
+  {
+    "chunk_id": "50b86fd60230_L0_0002_L1_0001_L2_0001",
+    "text": " to unstable whim and shifting \nforces, and in this volatile scrum deep \nwork has fared particularly poorly.\nThe reality of this metric black hole \nis the backdrop for the arguments that \nfollow in this chapter. In these upcoming \nsections, I’ll describe various mind-sets \nand biases that have pushed business \naway from deep work and toward more \ndistracting alternatives. None of these \nbehaviors would survive long if it was \nclear that they were hurting the bottom \nline, but the metric black hole prevents\n\nthis clarity and allows the shift toward \ndistraction we increasingly encounter in \nthe professional world.\nThe Principle of Least \nResistance\nWhen it comes to distracting behaviors \nembraced in the workplace, we must \ngive a position of dominance to the now \nubiquitous culture o f connectivity , \nwhere one is expected to read and \nrespond to e-mails (and related \ncommunication) quickly. In researching \nthis topic, Harvard Business School \nprofessor Leslie Perlow found that the\n\nprofessionals she surveyed spent around \ntwenty to twenty-five hours a week \noutside the office  monitoring e-mail— \nbelieving it important to answer any e­\nmail (internal or external) within an hour \nof its arrival.\nYou",
+    "level": 2,
+    "parent_id": "50b86fd60230_L0_0002_L1_0001",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Part 1, Chapter 2",
+      "subject": "Scarcity of Deep Work",
+      "context": "Analyzing business trends (open offices, instant messaging, social media) that promote shallowness and hinder deep work.",
+      "source_document": "dw_part1_ch02_Deep_Work_Is_Rare.txt",
+      "document_id": "50b86fd60230",
+      "created_at": "2025-10-26T02:54:49.934991",
+      "level": 2,
+      "parent_chunk_id": "50b86fd60230_L0_0002_L1_0001"
+    }
+  },
+  {
+    "chunk_id": "50b86fd60230_L0_0002_L1_0001_L2_0002",
+    "text": "\n\nprofessionals she surveyed spent around \ntwenty to twenty-five hours a week \noutside the office  monitoring e-mail— \nbelieving it important to answer any e­\nmail (internal or external) within an hour \nof its arrival.\nYou might argue— as many do—that \nthis behavior is necessary in many fast­\npaced businesses. But here’s where \nthings get interesting: Perlow tested this \nclaim In more detail, she convinced \nexecutives at the Boston Consulting \n",
+    "level": 2,
+    "parent_id": "50b86fd60230_L0_0002_L1_0001",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Part 1, Chapter 2",
+      "subject": "Scarcity of Deep Work",
+      "context": "Analyzing business trends (open offices, instant messaging, social media) that promote shallowness and hinder deep work.",
+      "source_document": "dw_part1_ch02_Deep_Work_Is_Rare.txt",
+      "document_id": "50b86fd60230",
+      "created_at": "2025-10-26T02:54:49.934991",
+      "level": 2,
+      "parent_chunk_id": "50b86fd60230_L0_0002_L1_0001"
+    }
+  },
+  {
+    "chunk_id": "50b86fd60230_L0_0002_L1_0002",
+    "text": " might argue— as many do—that \nthis behavior is necessary in many fast­\npaced businesses. But here’s where \nthings get interesting: Perlow tested this \nclaim In more detail, she convinced \nexecutives at the Boston Consulting \nGroup, a high-pressure management \nconsulting firm with an ingrained culture \nof connectivity, to let her fiddle with the \nwork habits of one of their teams. She \nwanted to test a simple question: Does it\n\nreally help your",
+    "level": 1,
+    "parent_id": "50b86fd60230_L0_0002",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Part 1, Chapter 2",
+      "subject": "Scarcity of Deep Work",
+      "context": "Analyzing business trends (open offices, instant messaging, social media) that promote shallowness and hinder deep work.",
+      "source_document": "dw_part1_ch02_Deep_Work_Is_Rare.txt",
+      "document_id": "50b86fd60230",
+      "created_at": "2025-10-26T02:54:49.934991",
+      "level": 1,
+      "parent_chunk_id": "50b86fd60230_L0_0002"
+    }
+  },
+  {
+    "chunk_id": "50b86fd60230_L0_0002_L1_0002_L2_0000",
+    "text": " might argue— as many do—that \nthis behavior is necessary in many fast­\npaced businesses. But here’s where \nthings get interesting: Perlow tested this \nclaim In more detail, she convinced \nexecutives at the Boston Consulting \nGroup, a high-pressure management \nconsulting firm with an ingrained culture \nof connectivity, to let her fiddle with the \nwork habits of one of their teams. She \nwanted to test a simple question: Does it\n\nreally help your",
+    "level": 2,
+    "parent_id": "50b86fd60230_L0_0002_L1_0002",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Part 1, Chapter 2",
+      "subject": "Scarcity of Deep Work",
+      "context": "Analyzing business trends (open offices, instant messaging, social media) that promote shallowness and hinder deep work.",
+      "source_document": "dw_part1_ch02_Deep_Work_Is_Rare.txt",
+      "document_id": "50b86fd60230",
+      "created_at": "2025-10-26T02:54:49.934991",
+      "level": 2,
+      "parent_chunk_id": "50b86fd60230_L0_0002_L1_0002"
+    }
+  },
+  {
+    "chunk_id": "50b86fd60230_L0_0003",
+    "text": "Group, a high-pressure management \nconsulting firm with an ingrained culture \nof connectivity, to let her fiddle with the \nwork habits of one of their teams. She \nwanted to test a simple question: Does it\n\nreally help your work to be constantly \nconnected? To do so, she did something \nextreme: She forced each member of the \nteam to take one day out of the \nworkweek completely off—no \nconnectivity to anyone inside or outside \nthe company.\n“At first, the team resisted the \nexperiment,” she recalled about one of \nthe trials. “The partner in charge, who \nhad been very supportive of the basic \nidea, was suddenly nervous about having \nto tell her client that each member of her \nteam would be off one day a week.” The \nconsultants were equally nervous and \nworried that they were “putting their \ncareers in jeopardy.” But the team didn’t\n\nlose their clients and its members did \nnot lose their jobs. Instead, the \nconsultants found more enjoyment in \ntheir work, better communication among \nthemselves, more learning (as we might \nhave predicted, given the connection \nbetween depth and skill development \nhighlighted in the last chapter), and \nperhaps most important, “a better \nproduct delivered to the client.”\nThis motivates an interesting \nquestion: Why do so many follow the \nlead of the Boston Consulting Group and \nfoster a culture of connectivity even \nthough it’s likely, as Perlow found in her \nstudy, that it hurts employees’  well-being \nand productivity, and probably doesn’t\n\nhelp the bottom line? I think the answer \ncan be found in the following reality of \nworkplace behavior.\nThe Principle of Least Resistance: In a\nbusiness setting, without clear feedback on \nthe impact of various behaviors to the \nbottom line, we will tend toward behaviors \nthat are easiest in the moment.\nTo return to our question about why \ncultures of connectivity persist, the \nanswer, according to our principle, is \nbecause i t ’ s easier.  There are at least \ntwo big reasons why this is true. The \nfirst concerns responsiveness to your \nneeds. If you work in an environment\n\nwhere you can get an answer to a \nquestion or a specific piece of \ninformation immediately when the need \narises, this makes your life easier—at \nleast, in the moment. If you couldn’t \ncount on this quick response time you’d \ninstead have to do more advance \nplanning for your work, be more \norganized, and be prepared to put things \naside for a while and turn your attention \nelsewhere while waiting for what you \nrequested. All of this would make the \nday to day of your working life harder \n(even if it produced more satisfaction \nand a better outcome in the long term). \nThe rise of professional instant \nmessaging, mentioned earlier in this\n\nchapter, can be seen as this mind-set \npushed toward an extreme. If receiving \nan e-mail reply within an hour makes \nyour day easier, then getting an answer \nvia instant message in under a minute \nwould improve this gain by an order of \nmagnitude.\nThe second reason that a culture of \nconnectivity makes life easier is that it \ncreates an environment where it \nbecomes acceptable to run your day out \nof your inbox—responding to the latest \nmissive with alacrity while others pile \nup behind it, all the while feeling \nsatisfyingly productive (more on this \nsoon). If e-mail were to move to the \nperiphery of your workday, you’d be\n\nrequired to deploy a more thoughtful \napproach to figuring out what you should \nbe working on and for how long. This \ntype of planning is hard. Consider, for \nexample, David Allen’s Getting Things  \nDone  task-management methodology, \nwhich is a well-respected system for \nintelligently managing competing \nworkplace obligations. This system \nproposes a fifteen-element  flowchart for \nmaking a decision on what to do next! \nIt’s significantly easier to simply chime \nin on the latest cc’d e-mail thread.\nI’m picking on constant connectivity \nas a case study in this discussion, but it’s \njust one of many examples of business \nbehaviors that are antithetical to depth,\n\nand likely reducing the bottom-line value \nproduced by the company, that \nnonetheless thrive because, in the \nabsence of metrics, most people fall \nback on what’s easiest.\nTo name another example, consider \nthe common practice of setting up \nregularly occurring meetings for \nprojects. These meetings tend to pile up \nand fracture schedules to the point where \nsustained focus during the day becomes \nimpossible. Why do they persist? \nThey’ re easier.  For many, these standing \nmeetings become a simple (but blunt) \nform of personal organization. Instead",
+    "level": 0,
+    "parent_id": null,
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Part 1, Chapter 2",
+      "subject": "Scarcity of Deep Work",
+      "context": "Analyzing business trends (open offices, instant messaging, social media) that promote shallowness and hinder deep work.",
+      "source_document": "dw_part1_ch02_Deep_Work_Is_Rare.txt",
+      "document_id": "50b86fd60230",
+      "created_at": "2025-10-26T02:54:49.934991",
+      "level": 0
+    }
+  },
+  {
+    "chunk_id": "50b86fd60230_L0_0003_L1_0000",
+    "text": "Group, a high-pressure management \nconsulting firm with an ingrained culture \nof connectivity, to let her fiddle with the \nwork habits of one of their teams. She \nwanted to test a simple question: Does it\n\nreally help your work to be constantly \nconnected? To do so, she did something \nextreme: She forced each member of the \nteam to take one day out of the \nworkweek completely off—no \nconnectivity to anyone inside or outside \nthe company.\n“At first, the team resisted the \nexperiment,” she recalled about one of \nthe trials. “The partner in charge, who \nhad been very supportive of the basic \nidea, was suddenly nervous about having \nto tell her client that each member of her \nteam would be off one day a week.” The \nconsultants were equally nervous and \nworried that they were “putting their \ncareers in jeopardy.” But the team didn’t\n\nlose their clients and its members did \nnot lose their jobs. Instead, the \nconsultants found more enjoyment in \ntheir work, better communication among \nthemselves, more learning (as we might \nhave predicted, given the connection \nbetween depth and skill development \nhighlighted in the last chapter), and \nperhaps most important, “a better \nproduct delivered to the client.”\nThis motivates an interesting \nquestion: Why do so many follow the \nlead of the Boston Consulting Group and \nfoster a culture of connectivity even \nthough it’s likely, as Perlow found in her \nstudy, that it hurts employees’  well-being \nand productivity, and probably doesn’t\n\nhelp the bottom line? I think the answer \ncan be found in the following reality of \nworkplace behavior.\nThe Principle of Least Resistance: In a\nbusiness setting, without clear feedback on \nthe impact of various behaviors to the \nbottom line, we will tend toward behaviors \nthat are easiest in the moment.\nTo return to our question about why \ncultures of connectivity persist, the \nanswer, according to our principle, is \nbecause i t ’ s easier.  There are at least \ntwo big reasons why this is true. The \nfirst concerns responsiveness to your \nneeds. If you work in an environment\n\nwhere you can get an answer to a \nquestion or a specific piece of \ninformation immediately when the need \narises, this makes your life easier—at \nleast, in the moment. If you couldn’t \ncount on this quick response time you’d",
+    "level": 1,
+    "parent_id": "50b86fd60230_L0_0003",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Part 1, Chapter 2",
+      "subject": "Scarcity of Deep Work",
+      "context": "Analyzing business trends (open offices, instant messaging, social media) that promote shallowness and hinder deep work.",
+      "source_document": "dw_part1_ch02_Deep_Work_Is_Rare.txt",
+      "document_id": "50b86fd60230",
+      "created_at": "2025-10-26T02:54:49.934991",
+      "level": 1,
+      "parent_chunk_id": "50b86fd60230_L0_0003"
+    }
+  },
+  {
+    "chunk_id": "50b86fd60230_L0_0003_L1_0000_L2_0000",
+    "text": "Group, a high-pressure management \nconsulting firm with an ingrained culture \nof connectivity, to let her fiddle with the \nwork habits of one of their teams. She \nwanted to test a simple question: Does it\n\nreally help your work to be constantly \nconnected? To do so, she did something \nextreme: She forced each member of the \nteam to take one day out of the \nworkweek completely off—no \nconnectivity to anyone inside or outside \nthe company.\n“At first, the team resisted the \nexperiment,” she recalled about one of \nthe trials. “The partner in charge, who \nhad been very supportive of the basic \nidea, was suddenly nervous about having \nto tell her client that each member of her \nteam would be off one day a week.” The \nconsultants were equally nervous and \nworried that they were “putting their \ncareers in jeopardy.” But the team didn’t\n\nlose their clients and its members did \nnot lose their jobs. Instead, the \nconsultants found more enjoyment in \ntheir work, better communication among \nthemselves, more learning (as we might \nhave predicted, given the connection \nbetween depth and skill development \nhighlighted in the last chapter),",
+    "level": 2,
+    "parent_id": "50b86fd60230_L0_0003_L1_0000",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Part 1, Chapter 2",
+      "subject": "Scarcity of Deep Work",
+      "context": "Analyzing business trends (open offices, instant messaging, social media) that promote shallowness and hinder deep work.",
+      "source_document": "dw_part1_ch02_Deep_Work_Is_Rare.txt",
+      "document_id": "50b86fd60230",
+      "created_at": "2025-10-26T02:54:49.934991",
+      "level": 2,
+      "parent_chunk_id": "50b86fd60230_L0_0003_L1_0000"
+    }
+  },
+  {
+    "chunk_id": "50b86fd60230_L0_0003_L1_0000_L2_0001",
+    "text": ". Instead, the \nconsultants found more enjoyment in \ntheir work, better communication among \nthemselves, more learning (as we might \nhave predicted, given the connection \nbetween depth and skill development \nhighlighted in the last chapter), and \nperhaps most important, “a better \nproduct delivered to the client.”\nThis motivates an interesting \nquestion: Why do so many follow the \nlead of the Boston Consulting Group and \nfoster a culture of connectivity even \nthough it’s likely, as Perlow found in her \nstudy, that it hurts employees’  well-being \nand productivity, and probably doesn’t\n\nhelp the bottom line? I think the answer \ncan be found in the following reality of \nworkplace behavior.\nThe Principle of Least Resistance: In a\nbusiness setting, without clear feedback on \nthe impact of various behaviors to the \nbottom line, we will tend toward behaviors \nthat are easiest in the moment.\nTo return to our question about why \ncultures of connectivity persist, the \nanswer, according to our principle, is \nbecause i t ’ s easier.  There are at least \ntwo big reasons why this is true. The \nfirst concerns responsiveness to your \nneeds. If you work in an environment\n\nwhere",
+    "level": 2,
+    "parent_id": "50b86fd60230_L0_0003_L1_0000",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Part 1, Chapter 2",
+      "subject": "Scarcity of Deep Work",
+      "context": "Analyzing business trends (open offices, instant messaging, social media) that promote shallowness and hinder deep work.",
+      "source_document": "dw_part1_ch02_Deep_Work_Is_Rare.txt",
+      "document_id": "50b86fd60230",
+      "created_at": "2025-10-26T02:54:49.934991",
+      "level": 2,
+      "parent_chunk_id": "50b86fd60230_L0_0003_L1_0000"
+    }
+  },
+  {
+    "chunk_id": "50b86fd60230_L0_0003_L1_0000_L2_0002",
+    "text": " the \nanswer, according to our principle, is \nbecause i t ’ s easier.  There are at least \ntwo big reasons why this is true. The \nfirst concerns responsiveness to your \nneeds. If you work in an environment\n\nwhere you can get an answer to a \nquestion or a specific piece of \ninformation immediately when the need \narises, this makes your life easier—at \nleast, in the moment. If you couldn’t \ncount on this quick response time you’d",
+    "level": 2,
+    "parent_id": "50b86fd60230_L0_0003_L1_0000",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Part 1, Chapter 2",
+      "subject": "Scarcity of Deep Work",
+      "context": "Analyzing business trends (open offices, instant messaging, social media) that promote shallowness and hinder deep work.",
+      "source_document": "dw_part1_ch02_Deep_Work_Is_Rare.txt",
+      "document_id": "50b86fd60230",
+      "created_at": "2025-10-26T02:54:49.934991",
+      "level": 2,
+      "parent_chunk_id": "50b86fd60230_L0_0003_L1_0000"
+    }
+  },
+  {
+    "chunk_id": "50b86fd60230_L0_0003_L1_0001",
+    "text": " you can get an answer to a \nquestion or a specific piece of \ninformation immediately when the need \narises, this makes your life easier—at \nleast, in the moment. If you couldn’t \ncount on this quick response time you’d \ninstead have to do more advance \nplanning for your work, be more \norganized, and be prepared to put things \naside for a while and turn your attention \nelsewhere while waiting for what you \nrequested. All of this would make the \nday to day of your working life harder \n(even if it produced more satisfaction \nand a better outcome in the long term). \nThe rise of professional instant \nmessaging, mentioned earlier in this\n\nchapter, can be seen as this mind-set \npushed toward an extreme. If receiving \nan e-mail reply within an hour makes \nyour day easier, then getting an answer \nvia instant message in under a minute \nwould improve this gain by an order of \nmagnitude.\nThe second reason that a culture of \nconnectivity makes life easier is that it \ncreates an environment where it \nbecomes acceptable to run your day out \nof your inbox—responding to the latest \nmissive with alacrity while others pile \nup behind it, all the while feeling \nsatisfyingly productive (more on this \nsoon). If e-mail were to move to the \nperiphery of your workday, you’d be\n\nrequired to deploy a more thoughtful \napproach to figuring out what you should \nbe working on and for how long. This \ntype of planning is hard. Consider, for \nexample, David Allen’s Getting Things  \nDone  task-management methodology, \nwhich is a well-respected system for \nintelligently managing competing \nworkplace obligations. This system \nproposes a fifteen-element  flowchart for \nmaking a decision on what to do next! \nIt’s significantly easier to simply chime \nin on the latest cc’d e-mail thread.\nI’m picking on constant connectivity \nas a case study in this discussion, but it’s \njust one of many examples of business \nbehaviors that are antithetical to depth,\n\nand likely reducing the bottom-line value \nproduced by the company, that \nnonetheless thrive because, in the \nabsence of metrics, most people fall \nback on what’s easiest.\nTo name another example, consider \nthe common practice of setting up \nregularly occurring meetings for \nprojects. These meetings tend to pile up \nand fracture schedules to",
+    "level": 1,
+    "parent_id": "50b86fd60230_L0_0003",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Part 1, Chapter 2",
+      "subject": "Scarcity of Deep Work",
+      "context": "Analyzing business trends (open offices, instant messaging, social media) that promote shallowness and hinder deep work.",
+      "source_document": "dw_part1_ch02_Deep_Work_Is_Rare.txt",
+      "document_id": "50b86fd60230",
+      "created_at": "2025-10-26T02:54:49.934991",
+      "level": 1,
+      "parent_chunk_id": "50b86fd60230_L0_0003"
+    }
+  },
+  {
+    "chunk_id": "50b86fd60230_L0_0003_L1_0001_L2_0000",
+    "text": " you can get an answer to a \nquestion or a specific piece of \ninformation immediately when the need \narises, this makes your life easier—at \nleast, in the moment. If you couldn’t \ncount on this quick response time you’d \ninstead have to do more advance \nplanning for your work, be more \norganized, and be prepared to put things \naside for a while and turn your attention \nelsewhere while waiting for what you \nrequested. All of this would make the \nday to day of your working life harder \n(even if it produced more satisfaction \nand a better outcome in the long term). \nThe rise of professional instant \nmessaging, mentioned earlier in this\n\nchapter, can be seen as this mind-set \npushed toward an extreme. If receiving \nan e-mail reply within an hour makes \nyour day easier, then getting an answer \nvia instant message in under a minute \nwould improve this gain by an order of \nmagnitude.\nThe second reason that a culture of \nconnectivity makes life easier is that it \ncreates an environment where it \nbecomes acceptable to run your day out \nof your inbox—responding to the latest \nmissive with alacrity while others pile \nup behind it, all the",
+    "level": 2,
+    "parent_id": "50b86fd60230_L0_0003_L1_0001",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Part 1, Chapter 2",
+      "subject": "Scarcity of Deep Work",
+      "context": "Analyzing business trends (open offices, instant messaging, social media) that promote shallowness and hinder deep work.",
+      "source_document": "dw_part1_ch02_Deep_Work_Is_Rare.txt",
+      "document_id": "50b86fd60230",
+      "created_at": "2025-10-26T02:54:49.934991",
+      "level": 2,
+      "parent_chunk_id": "50b86fd60230_L0_0003_L1_0001"
+    }
+  },
+  {
+    "chunk_id": "50b86fd60230_L0_0003_L1_0001_L2_0001",
+    "text": " \nconnectivity makes life easier is that it \ncreates an environment where it \nbecomes acceptable to run your day out \nof your inbox—responding to the latest \nmissive with alacrity while others pile \nup behind it, all the while feeling \nsatisfyingly productive (more on this \nsoon). If e-mail were to move to the \nperiphery of your workday, you’d be\n\nrequired to deploy a more thoughtful \napproach to figuring out what you should \nbe working on and for how long. This \ntype of planning is hard. Consider, for \nexample, David Allen’s Getting Things  \nDone  task-management methodology, \nwhich is a well-respected system for \nintelligently managing competing \nworkplace obligations. This system \nproposes a fifteen-element  flowchart for \nmaking a decision on what to do next! \nIt’s significantly easier to simply chime \nin on the latest cc’d e-mail thread.\nI’m picking on constant connectivity \nas a case study in this discussion, but it’s \njust one of many examples of business \nbehaviors that are antithetical to depth,\n\nand likely reducing the bottom-line value \nproduced by the company, that \nnonetheless thrive because, in",
+    "level": 2,
+    "parent_id": "50b86fd60230_L0_0003_L1_0001",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Part 1, Chapter 2",
+      "subject": "Scarcity of Deep Work",
+      "context": "Analyzing business trends (open offices, instant messaging, social media) that promote shallowness and hinder deep work.",
+      "source_document": "dw_part1_ch02_Deep_Work_Is_Rare.txt",
+      "document_id": "50b86fd60230",
+      "created_at": "2025-10-26T02:54:49.934991",
+      "level": 2,
+      "parent_chunk_id": "50b86fd60230_L0_0003_L1_0001"
+    }
+  },
+  {
+    "chunk_id": "50b86fd60230_L0_0003_L1_0001_L2_0002",
+    "text": " case study in this discussion, but it’s \njust one of many examples of business \nbehaviors that are antithetical to depth,\n\nand likely reducing the bottom-line value \nproduced by the company, that \nnonetheless thrive because, in the \nabsence of metrics, most people fall \nback on what’s easiest.\nTo name another example, consider \nthe common practice of setting up \nregularly occurring meetings for \nprojects. These meetings tend to pile up \nand fracture schedules to",
+    "level": 2,
+    "parent_id": "50b86fd60230_L0_0003_L1_0001",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Part 1, Chapter 2",
+      "subject": "Scarcity of Deep Work",
+      "context": "Analyzing business trends (open offices, instant messaging, social media) that promote shallowness and hinder deep work.",
+      "source_document": "dw_part1_ch02_Deep_Work_Is_Rare.txt",
+      "document_id": "50b86fd60230",
+      "created_at": "2025-10-26T02:54:49.934991",
+      "level": 2,
+      "parent_chunk_id": "50b86fd60230_L0_0003_L1_0001"
+    }
+  },
+  {
+    "chunk_id": "50b86fd60230_L0_0003_L1_0002",
+    "text": " the \nabsence of metrics, most people fall \nback on what’s easiest.\nTo name another example, consider \nthe common practice of setting up \nregularly occurring meetings for \nprojects. These meetings tend to pile up \nand fracture schedules to the point where \nsustained focus during the day becomes \nimpossible. Why do they persist? \nThey’ re easier.  For many, these standing \nmeetings become a simple (but blunt) \nform of personal organization. Instead",
+    "level": 1,
+    "parent_id": "50b86fd60230_L0_0003",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Part 1, Chapter 2",
+      "subject": "Scarcity of Deep Work",
+      "context": "Analyzing business trends (open offices, instant messaging, social media) that promote shallowness and hinder deep work.",
+      "source_document": "dw_part1_ch02_Deep_Work_Is_Rare.txt",
+      "document_id": "50b86fd60230",
+      "created_at": "2025-10-26T02:54:49.934991",
+      "level": 1,
+      "parent_chunk_id": "50b86fd60230_L0_0003"
+    }
+  },
+  {
+    "chunk_id": "50b86fd60230_L0_0003_L1_0002_L2_0000",
+    "text": " the \nabsence of metrics, most people fall \nback on what’s easiest.\nTo name another example, consider \nthe common practice of setting up \nregularly occurring meetings for \nprojects. These meetings tend to pile up \nand fracture schedules to the point where \nsustained focus during the day becomes \nimpossible. Why do they persist? \nThey’ re easier.  For many, these standing \nmeetings become a simple (but blunt) \nform of personal organization. Instead",
+    "level": 2,
+    "parent_id": "50b86fd60230_L0_0003_L1_0002",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Part 1, Chapter 2",
+      "subject": "Scarcity of Deep Work",
+      "context": "Analyzing business trends (open offices, instant messaging, social media) that promote shallowness and hinder deep work.",
+      "source_document": "dw_part1_ch02_Deep_Work_Is_Rare.txt",
+      "document_id": "50b86fd60230",
+      "created_at": "2025-10-26T02:54:49.934991",
+      "level": 2,
+      "parent_chunk_id": "50b86fd60230_L0_0003_L1_0002"
+    }
+  },
+  {
+    "chunk_id": "50b86fd60230_L0_0004",
+    "text": " the point where \nsustained focus during the day becomes \nimpossible. Why do they persist? \nThey’ re easier.  For many, these standing \nmeetings become a simple (but blunt) \nform of personal organization. Instead of \ntrying to manage their time and \nobligations themselves, they let the\n\nimpending meeting each week force \nthem to take some action on a given \nproject and more generally provide a \nhighly visible simulacrum of progress.\nAlso consider the frustratingly \ncommon practice of forwarding an e­\nmail to one or more colleagues, labeled \nwith a short open-ended interrogative, \nsuch as: “Thoughts?” These e-mails take \nthe sender only a handful of seconds to \nwrite but can command many minutes (if \nnot hours, in some cases) of time and \nattention from their recipients to work \ntoward a coherent response. A little \nmore care in crafting the message by the \nsender could reduce the overall time \nspent by all parties by a significant\n\nfraction. So why are these easily \navoidable and time-sucking e-mails so \ncommon? From the sender’s \nperspective, they’ re easier.  It’s a way to \nclear something out of their inbox—at \nleast, temporarily—with a minimum \namount of energy invested.\nThe Principle of Least Resistance, \nprotected from scrutiny by the metric \nblack hole, supports work cultures that \nsave us from the short-term discomfort \nof concentration and planning, at the \nexpense of long-term satisfaction and the \nproduction of real value. By doing so, \nthis principle drives us toward shallow \nwork in an economy that increasingly \nrewards depth. It’s not, however, the\n\nonly trend that leverages the metric \nblack hole to reduce depth. We must also \nconsider the always present and always \nvexing demand toward “productivity,” \nthe topic we’ll turn our attention to next.\nBusyness as a Proxy for \nProductivity\nThere are a lot of things difficult about \nbeing a professor at a research-oriented \nuniversity. But one benefit that this \nprofession enjoys is clarity. How well \nor how poorly you’re doing as an \nacademic researcher can be boiled \ndown to a simple question: Are you\n\npublishing important papers? The \nanswer to this question can even be \nquantified as a single number, such as \nthe h-index :  a formula, named for its \ninventor, Jorge Hirsch, that processes \nyour publication and citation counts into \na single value that approximates your \nimpact on your field. In computer \nscience, for example, an h-index score \nabove 40 is difficult to achieve and once \nreached is considered the mark of a \nstrong long-term career. On the other \nhand, if your h-index is in single digits \nwhen your case goes up for tenure \nreview, you’re probably in trouble. \nGoogle Scholar, a tool popular among \nacademics for finding research papers,\n\neven calculates your h-index \nautomatically so you can be reminded, \nmultiple times per week, precisely \nwhere you stand. (In case you’re \nwondering, as of the morning when I’m \nwriting this chapter, I’m a 21.)\nThis clarity simplifies decisions \nabout what work habits a professor \nadopts or abandons. Here, for example, \nis the late Nobel Prize-winning \nphysicist Richard Feynman explaining in \nan interview one of his less orthodox \nproductivity strategies:\nTo do real good physics work,  \nyou do need absolute solid  \nlengths o f time... it needs a lot o f\n\nconcentration... if you have a  \njob administrating anything, you  \ndon’ t have the time. So I  have  \ninvented another myth fo r  \nmyself: that I ’ m irresponsible.  \nI ’ m actively irresponsible. I  tell  \neveryone I  don’ t do anything. I f  \nanyone asks me to be on a  \ncommittee fo r admissions, “ no, ”  \nI  tell them: I ’ m irresponsible.\nFeynman was adamant in avoiding \nadministrative duties because he knew \nthey would only decrease his ability to \ndo the one thing that mattered most in his \nprofessional life: “to do real good \nphysics work.” Feynman, we can\n\nassume, was probably bad at responding \nto e-mails and would likely switch \nuniversities if you had tried to move him \ninto an open office or demand that he \ntweet. Clarity about what matters \nprovides clarity about what does not.\nI mention the example of professors \nbecause they’re somewhat exceptional \namong knowledge workers, most of \nwhom don’t share this transparency \nregarding how well they’re doing their \njob. Here’s the social critic Matthew \nCrawford’s description of this \nuncertainty: “Managers themselves\ninhabit a bewildering",
+    "level": 0,
+    "parent_id": null,
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Part 1, Chapter 2",
+      "subject": "Scarcity of Deep Work",
+      "context": "Analyzing business trends (open offices, instant messaging, social media) that promote shallowness and hinder deep work.",
+      "source_document": "dw_part1_ch02_Deep_Work_Is_Rare.txt",
+      "document_id": "50b86fd60230",
+      "created_at": "2025-10-26T02:54:49.934991",
+      "level": 0
+    }
+  },
+  {
+    "chunk_id": "50b86fd60230_L0_0004_L1_0000",
+    "text": " the point where \nsustained focus during the day becomes \nimpossible. Why do they persist? \nThey’ re easier.  For many, these standing \nmeetings become a simple (but blunt) \nform of personal organization. Instead of \ntrying to manage their time and \nobligations themselves, they let the\n\nimpending meeting each week force \nthem to take some action on a given \nproject and more generally provide a \nhighly visible simulacrum of progress.\nAlso consider the frustratingly \ncommon practice of forwarding an e­\nmail to one or more colleagues, labeled \nwith a short open-ended interrogative, \nsuch as: “Thoughts?” These e-mails take \nthe sender only a handful of seconds to \nwrite but can command many minutes (if \nnot hours, in some cases) of time and \nattention from their recipients to work \ntoward a coherent response. A little \nmore care in crafting the message by the \nsender could reduce the overall time \nspent by all parties by a significant\n\nfraction. So why are these easily \navoidable and time-sucking e-mails so \ncommon? From the sender’s \nperspective, they’ re easier.  It’s a way to \nclear something out of their inbox—at \nleast, temporarily—with a minimum \namount of energy invested.\nThe Principle of Least Resistance, \nprotected from scrutiny by the metric \nblack hole, supports work cultures that \nsave us from the short-term discomfort \nof concentration and planning, at the \nexpense of long-term satisfaction and the \nproduction of real value. By doing so, \nthis principle drives us toward shallow \nwork in an economy that increasingly \nrewards depth. It’s not, however, the\n\nonly trend that leverages the metric \nblack hole to reduce depth. We must also \nconsider the always present and always \nvexing demand toward “productivity,” \nthe topic we’ll turn our attention to next.\nBusyness as a Proxy for \nProductivity\nThere are a lot of things difficult about \nbeing a professor at a research-oriented \nuniversity. But one benefit that this \nprofession enjoys is clarity. How well \nor how poorly you’re doing as an \nacademic researcher can be boiled \ndown to a simple question: Are you\n\npublishing important papers? The \nanswer to this question can even be \nquantified as a single number, such as \nthe h-index :  a formula, named for its \ninventor, Jorge H",
+    "level": 1,
+    "parent_id": "50b86fd60230_L0_0004",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Part 1, Chapter 2",
+      "subject": "Scarcity of Deep Work",
+      "context": "Analyzing business trends (open offices, instant messaging, social media) that promote shallowness and hinder deep work.",
+      "source_document": "dw_part1_ch02_Deep_Work_Is_Rare.txt",
+      "document_id": "50b86fd60230",
+      "created_at": "2025-10-26T02:54:49.934991",
+      "level": 1,
+      "parent_chunk_id": "50b86fd60230_L0_0004"
+    }
+  },
+  {
+    "chunk_id": "50b86fd60230_L0_0004_L1_0000_L2_0000",
+    "text": " the point where \nsustained focus during the day becomes \nimpossible. Why do they persist? \nThey’ re easier.  For many, these standing \nmeetings become a simple (but blunt) \nform of personal organization. Instead of \ntrying to manage their time and \nobligations themselves, they let the\n\nimpending meeting each week force \nthem to take some action on a given \nproject and more generally provide a \nhighly visible simulacrum of progress.\nAlso consider the frustratingly \ncommon practice of forwarding an e­\nmail to one or more colleagues, labeled \nwith a short open-ended interrogative, \nsuch as: “Thoughts?” These e-mails take \nthe sender only a handful of seconds to \nwrite but can command many minutes (if \nnot hours, in some cases) of time and \nattention from their recipients to work \ntoward a coherent response. A little \nmore care in crafting the message by the \nsender could reduce the overall time \nspent by all parties by a significant\n\nfraction. So why are these easily \navoidable and time-sucking e-mails so \ncommon? From the sender’s \nperspective, they’ re easier.  It’s a way to \nclear something out",
+    "level": 2,
+    "parent_id": "50b86fd60230_L0_0004_L1_0000",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Part 1, Chapter 2",
+      "subject": "Scarcity of Deep Work",
+      "context": "Analyzing business trends (open offices, instant messaging, social media) that promote shallowness and hinder deep work.",
+      "source_document": "dw_part1_ch02_Deep_Work_Is_Rare.txt",
+      "document_id": "50b86fd60230",
+      "created_at": "2025-10-26T02:54:49.934991",
+      "level": 2,
+      "parent_chunk_id": "50b86fd60230_L0_0004_L1_0000"
+    }
+  },
+  {
+    "chunk_id": "50b86fd60230_L0_0004_L1_0000_L2_0001",
+    "text": " by all parties by a significant\n\nfraction. So why are these easily \navoidable and time-sucking e-mails so \ncommon? From the sender’s \nperspective, they’ re easier.  It’s a way to \nclear something out of their inbox—at \nleast, temporarily—with a minimum \namount of energy invested.\nThe Principle of Least Resistance, \nprotected from scrutiny by the metric \nblack hole, supports work cultures that \nsave us from the short-term discomfort \nof concentration and planning, at the \nexpense of long-term satisfaction and the \nproduction of real value. By doing so, \nthis principle drives us toward shallow \nwork in an economy that increasingly \nrewards depth. It’s not, however, the\n\nonly trend that leverages the metric \nblack hole to reduce depth. We must also \nconsider the always present and always \nvexing demand toward “productivity,” \nthe topic we’ll turn our attention to next.\nBusyness as a Proxy for \nProductivity\nThere are a lot of things difficult about \nbeing a professor at a research-oriented \nuniversity. But one benefit that this \nprofession enjoys is clarity. How well \nor how poorly you’re doing as an \nacademic researcher can be boiled \ndown to",
+    "level": 2,
+    "parent_id": "50b86fd60230_L0_0004_L1_0000",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Part 1, Chapter 2",
+      "subject": "Scarcity of Deep Work",
+      "context": "Analyzing business trends (open offices, instant messaging, social media) that promote shallowness and hinder deep work.",
+      "source_document": "dw_part1_ch02_Deep_Work_Is_Rare.txt",
+      "document_id": "50b86fd60230",
+      "created_at": "2025-10-26T02:54:49.934991",
+      "level": 2,
+      "parent_chunk_id": "50b86fd60230_L0_0004_L1_0000"
+    }
+  },
+  {
+    "chunk_id": "50b86fd60230_L0_0004_L1_0000_L2_0002",
+    "text": " are a lot of things difficult about \nbeing a professor at a research-oriented \nuniversity. But one benefit that this \nprofession enjoys is clarity. How well \nor how poorly you’re doing as an \nacademic researcher can be boiled \ndown to a simple question: Are you\n\npublishing important papers? The \nanswer to this question can even be \nquantified as a single number, such as \nthe h-index :  a formula, named for its \ninventor, Jorge H",
+    "level": 2,
+    "parent_id": "50b86fd60230_L0_0004_L1_0000",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Part 1, Chapter 2",
+      "subject": "Scarcity of Deep Work",
+      "context": "Analyzing business trends (open offices, instant messaging, social media) that promote shallowness and hinder deep work.",
+      "source_document": "dw_part1_ch02_Deep_Work_Is_Rare.txt",
+      "document_id": "50b86fd60230",
+      "created_at": "2025-10-26T02:54:49.934991",
+      "level": 2,
+      "parent_chunk_id": "50b86fd60230_L0_0004_L1_0000"
+    }
+  },
+  {
+    "chunk_id": "50b86fd60230_L0_0004_L1_0001",
+    "text": " a simple question: Are you\n\npublishing important papers? The \nanswer to this question can even be \nquantified as a single number, such as \nthe h-index :  a formula, named for its \ninventor, Jorge Hirsch, that processes \nyour publication and citation counts into \na single value that approximates your \nimpact on your field. In computer \nscience, for example, an h-index score \nabove 40 is difficult to achieve and once \nreached is considered the mark of a \nstrong long-term career. On the other \nhand, if your h-index is in single digits \nwhen your case goes up for tenure \nreview, you’re probably in trouble. \nGoogle Scholar, a tool popular among \nacademics for finding research papers,\n\neven calculates your h-index \nautomatically so you can be reminded, \nmultiple times per week, precisely \nwhere you stand. (In case you’re \nwondering, as of the morning when I’m \nwriting this chapter, I’m a 21.)\nThis clarity simplifies decisions \nabout what work habits a professor \nadopts or abandons. Here, for example, \nis the late Nobel Prize-winning \nphysicist Richard Feynman explaining in \nan interview one of his less orthodox \nproductivity strategies:\nTo do real good physics work,  \nyou do need absolute solid  \nlengths o f time... it needs a lot o f\n\nconcentration... if you have a  \njob administrating anything, you  \ndon’ t have the time. So I  have  \ninvented another myth fo r  \nmyself: that I ’ m irresponsible.  \nI ’ m actively irresponsible. I  tell  \neveryone I  don’ t do anything. I f  \nanyone asks me to be on a  \ncommittee fo r admissions, “ no, ”  \nI  tell them: I ’ m irresponsible.\nFeynman was adamant in avoiding \nadministrative duties because he knew \nthey would only decrease his ability to \ndo the one thing that mattered most in his \nprofessional life: “to do real good \nphysics work.” Feynman, we can\n\nassume, was probably bad at responding \nto e-mails and would likely switch \nuniversities if you had tried to move him \ninto an open office or demand that he \ntweet. Clarity about what matters \nprovides clarity about what does not.\nI mention the example of professors \nbecause they’re somewhat exceptional \namong knowledge workers,",
+    "level": 1,
+    "parent_id": "50b86fd60230_L0_0004",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Part 1, Chapter 2",
+      "subject": "Scarcity of Deep Work",
+      "context": "Analyzing business trends (open offices, instant messaging, social media) that promote shallowness and hinder deep work.",
+      "source_document": "dw_part1_ch02_Deep_Work_Is_Rare.txt",
+      "document_id": "50b86fd60230",
+      "created_at": "2025-10-26T02:54:49.934991",
+      "level": 1,
+      "parent_chunk_id": "50b86fd60230_L0_0004"
+    }
+  },
+  {
+    "chunk_id": "50b86fd60230_L0_0004_L1_0001_L2_0000",
+    "text": " a simple question: Are you\n\npublishing important papers? The \nanswer to this question can even be \nquantified as a single number, such as \nthe h-index :  a formula, named for its \ninventor, Jorge Hirsch, that processes \nyour publication and citation counts into \na single value that approximates your \nimpact on your field. In computer \nscience, for example, an h-index score \nabove 40 is difficult to achieve and once \nreached is considered the mark of a \nstrong long-term career. On the other \nhand, if your h-index is in single digits \nwhen your case goes up for tenure \nreview, you’re probably in trouble. \nGoogle Scholar, a tool popular among \nacademics for finding research papers,\n\neven calculates your h-index \nautomatically so you can be reminded, \nmultiple times per week, precisely \nwhere you stand. (In case you’re \nwondering, as of the morning when I’m \nwriting this chapter, I’m a 21.)\nThis clarity simplifies decisions \nabout what work habits a professor \nadopts or abandons. Here, for example, \nis the late Nobel Prize-winning \nphysicist Richard Feynman explaining in \n",
+    "level": 2,
+    "parent_id": "50b86fd60230_L0_0004_L1_0001",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Part 1, Chapter 2",
+      "subject": "Scarcity of Deep Work",
+      "context": "Analyzing business trends (open offices, instant messaging, social media) that promote shallowness and hinder deep work.",
+      "source_document": "dw_part1_ch02_Deep_Work_Is_Rare.txt",
+      "document_id": "50b86fd60230",
+      "created_at": "2025-10-26T02:54:49.934991",
+      "level": 2,
+      "parent_chunk_id": "50b86fd60230_L0_0004_L1_0001"
+    }
+  },
+  {
+    "chunk_id": "50b86fd60230_L0_0004_L1_0001_L2_0001",
+    "text": ", I’m a 21.)\nThis clarity simplifies decisions \nabout what work habits a professor \nadopts or abandons. Here, for example, \nis the late Nobel Prize-winning \nphysicist Richard Feynman explaining in \nan interview one of his less orthodox \nproductivity strategies:\nTo do real good physics work,  \nyou do need absolute solid  \nlengths o f time... it needs a lot o f\n\nconcentration... if you have a  \njob administrating anything, you  \ndon’ t have the time. So I  have  \ninvented another myth fo r  \nmyself: that I ’ m irresponsible.  \nI ’ m actively irresponsible. I  tell  \neveryone I  don’ t do anything. I f  \nanyone asks me to be on a  \ncommittee fo r admissions, “ no, ”  \nI  tell them: I ’ m irresponsible.\nFeynman was adamant in avoiding \nadministrative duties because he knew \nthey would only decrease his ability to \ndo the one thing that mattered most in his \nprofessional life: “to do real good \nphysics work.” Feynman, we can\n\nassume, was probably bad at responding \nto e-mails and would likely switch \nuniversities",
+    "level": 2,
+    "parent_id": "50b86fd60230_L0_0004_L1_0001",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Part 1, Chapter 2",
+      "subject": "Scarcity of Deep Work",
+      "context": "Analyzing business trends (open offices, instant messaging, social media) that promote shallowness and hinder deep work.",
+      "source_document": "dw_part1_ch02_Deep_Work_Is_Rare.txt",
+      "document_id": "50b86fd60230",
+      "created_at": "2025-10-26T02:54:49.934991",
+      "level": 2,
+      "parent_chunk_id": "50b86fd60230_L0_0004_L1_0001"
+    }
+  },
+  {
+    "chunk_id": "50b86fd60230_L0_0004_L1_0001_L2_0002",
+    "text": " to \ndo the one thing that mattered most in his \nprofessional life: “to do real good \nphysics work.” Feynman, we can\n\nassume, was probably bad at responding \nto e-mails and would likely switch \nuniversities if you had tried to move him \ninto an open office or demand that he \ntweet. Clarity about what matters \nprovides clarity about what does not.\nI mention the example of professors \nbecause they’re somewhat exceptional \namong knowledge workers,",
+    "level": 2,
+    "parent_id": "50b86fd60230_L0_0004_L1_0001",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Part 1, Chapter 2",
+      "subject": "Scarcity of Deep Work",
+      "context": "Analyzing business trends (open offices, instant messaging, social media) that promote shallowness and hinder deep work.",
+      "source_document": "dw_part1_ch02_Deep_Work_Is_Rare.txt",
+      "document_id": "50b86fd60230",
+      "created_at": "2025-10-26T02:54:49.934991",
+      "level": 2,
+      "parent_chunk_id": "50b86fd60230_L0_0004_L1_0001"
+    }
+  },
+  {
+    "chunk_id": "50b86fd60230_L0_0004_L1_0002",
+    "text": " if you had tried to move him \ninto an open office or demand that he \ntweet. Clarity about what matters \nprovides clarity about what does not.\nI mention the example of professors \nbecause they’re somewhat exceptional \namong knowledge workers, most of \nwhom don’t share this transparency \nregarding how well they’re doing their \njob. Here’s the social critic Matthew \nCrawford’s description of this \nuncertainty: “Managers themselves\ninhabit a bewildering",
+    "level": 1,
+    "parent_id": "50b86fd60230_L0_0004",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Part 1, Chapter 2",
+      "subject": "Scarcity of Deep Work",
+      "context": "Analyzing business trends (open offices, instant messaging, social media) that promote shallowness and hinder deep work.",
+      "source_document": "dw_part1_ch02_Deep_Work_Is_Rare.txt",
+      "document_id": "50b86fd60230",
+      "created_at": "2025-10-26T02:54:49.934991",
+      "level": 1,
+      "parent_chunk_id": "50b86fd60230_L0_0004"
+    }
+  },
+  {
+    "chunk_id": "50b86fd60230_L0_0004_L1_0002_L2_0000",
+    "text": " if you had tried to move him \ninto an open office or demand that he \ntweet. Clarity about what matters \nprovides clarity about what does not.\nI mention the example of professors \nbecause they’re somewhat exceptional \namong knowledge workers, most of \nwhom don’t share this transparency \nregarding how well they’re doing their \njob. Here’s the social critic Matthew \nCrawford’s description of this \nuncertainty: “Managers themselves\ninhabit a bewildering",
+    "level": 2,
+    "parent_id": "50b86fd60230_L0_0004_L1_0002",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Part 1, Chapter 2",
+      "subject": "Scarcity of Deep Work",
+      "context": "Analyzing business trends (open offices, instant messaging, social media) that promote shallowness and hinder deep work.",
+      "source_document": "dw_part1_ch02_Deep_Work_Is_Rare.txt",
+      "document_id": "50b86fd60230",
+      "created_at": "2025-10-26T02:54:49.934991",
+      "level": 2,
+      "parent_chunk_id": "50b86fd60230_L0_0004_L1_0002"
+    }
+  },
+  {
+    "chunk_id": "50b86fd60230_L0_0005",
+    "text": " most of \nwhom don’t share this transparency \nregarding how well they’re doing their \njob. Here’s the social critic Matthew \nCrawford’s description of this \nuncertainty: “Managers themselves\ninhabit a bewildering psychic landscape, \nand are made anxious by the vague \nimperatives they must answer to.”\n\nThough Crawford was speaking \nspecifically to the plight of the \nknowledge work middle manager, the \n“bewildering psychic landscape” he \nreferences applies to many positions in \nthis sector. As Crawford describes in his \n2009 ode to the trades, Shop Class as  \nSoulcraft , he quit his job as a \nWashington, D.C., think tank director to \nopen a motorcycle repair shop exactly to \nescape this bewilderment. The feeling of \ntaking a broken machine, struggling with \nit, then eventually enjoying a tangible \nindication that he had succeeded (the \nbike driving out of the shop under its \nown power) provides a concrete sense \nof accomplishment he struggled to\n\nreplicate when his day revolved vaguely \naround reports and communications \nstrategies.\nA similar reality creates problems \nfor many knowledge workers. They want \nto prove that they’re productive \nmembers of the team and are earning \ntheir keep, but they’re not entirely clear \nwhat this goal constitutes. They have no \nrising h-index or rack of repaired \nmotorcycles to point to as evidence of \ntheir worth. To overcome this gap, many \nseem to be turning back to the last time \nwhen productivity was more universally \nobservable: the industrial age.\nTo understand this claim, recall that \nwith the rise of assembly lines came the\n\nrise of the Efficiency Movement, \nidentified with its founder, Frederic \nTaylor, who would famously stand with \na stopwatch monitoring the efficiency of \nworker movements— looking for ways to \nincrease the speed at which they \naccomplished their tasks. In Taylor’s \nera, productivity was unambiguous: \nwidgets created per unit of time. It \nseems that in today’s business \nlandscape, many knowledge workers, \nbereft of other ideas, are turning toward \nthis old definition of productivity in \ntrying to solidify their value in the \notherwise bewildering landscape of \ntheir professional lives. (David Allen, \nfor example, even uses the specific\n\nphrase “cranking widgets” to describe a \nproductive work flow.) Knowledge \nworkers, I’m arguing, are tending toward \nincreasingly visible busyness because \nthey lack a better way to demonstrate \ntheir value. Let’s give this tendency a \nname.\nBusyness as Proxy for Productivity:\nIn the absence of clear indicators of what it \nmeans to be productive and valuable in \ntheir jobs, many knowledge workers turn \nback toward an industrial indicator of \nproductivity: doing lots of stuff in a visible \nmanner.\nThis mind-set provides another\n\nexplanation for the popularity of many \ndepth-destroying behaviors. If you send \nand answer e-mails at all hours, if you \nschedule and attend meetings constantly, \nif you weigh in on instant message \nsystems like Hall within seconds when \nsomeone poses a new question, or if you \nroam your open office bouncing ideas \noff all whom you encounter—all of these \nbehaviors make you seem busy in a \npublic manner. If you’re using busyness \nas a proxy for productivity, then these \nbehaviors can seem crucial for \nconvincing yourself and others that \nyou’re doing your job well.\nThis mind-set is not necessarily \nirrational. For some, their jobs really do\n\ndepend on such behavior. In 2013, for \nexample, Yahoo’s new CEO Marissa \nMayer banned employees from working \nat home. She made this decision after \nchecking the server logs for the virtual \nprivate network that Yahoo employees \nuse to remotely log in to company \nservers. Mayer was upset because the \nemployees working from home didn’t \nsign in enough throughout the day. She \nwas, in some sense, punishing her \nemployees for not spending more time \nchecking e-mail (one of the primary \nreasons to log in to the servers). “If \nyou’re not visibly busy,” she signaled, \n“I’ll assume you’re not productive.” \nViewed objectively, however, this\n\nconcept is anachronistic. Knowledge \nwork is not an assembly line, and \nextracting value from information is an \nactivity that’s of ten at odds with \nbusyness, not supported by it. \nRemember, for example, Adam Grant, \nthe academic from our last chapter who \nbecame the youngest full professor at \nWharton by repeatedly shutting himself \noff from the outside world to concentrate \non writing. Such behavior is the \nopposite of being publicly busy. If Grant \nworked for Yahoo, Marissa Mayer might \nhave fired him. But this deep strategy \nturned out to produce a massive amount \nof",
+    "level": 0,
+    "parent_id": null,
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Part 1, Chapter 2",
+      "subject": "Scarcity of Deep Work",
+      "context": "Analyzing business trends (open offices, instant messaging, social media) that promote shallowness and hinder deep work.",
+      "source_document": "dw_part1_ch02_Deep_Work_Is_Rare.txt",
+      "document_id": "50b86fd60230",
+      "created_at": "2025-10-26T02:54:49.934991",
+      "level": 0
+    }
+  },
+  {
+    "chunk_id": "50b86fd60230_L0_0005_L1_0000",
+    "text": " most of \nwhom don’t share this transparency \nregarding how well they’re doing their \njob. Here’s the social critic Matthew \nCrawford’s description of this \nuncertainty: “Managers themselves\ninhabit a bewildering psychic landscape, \nand are made anxious by the vague \nimperatives they must answer to.”\n\nThough Crawford was speaking \nspecifically to the plight of the \nknowledge work middle manager, the \n“bewildering psychic landscape” he \nreferences applies to many positions in \nthis sector. As Crawford describes in his \n2009 ode to the trades, Shop Class as  \nSoulcraft , he quit his job as a \nWashington, D.C., think tank director to \nopen a motorcycle repair shop exactly to \nescape this bewilderment. The feeling of \ntaking a broken machine, struggling with \nit, then eventually enjoying a tangible \nindication that he had succeeded (the \nbike driving out of the shop under its \nown power) provides a concrete sense \nof accomplishment he struggled to\n\nreplicate when his day revolved vaguely \naround reports and communications \nstrategies.\nA similar reality creates problems \nfor many knowledge workers. They want \nto prove that they’re productive \nmembers of the team and are earning \ntheir keep, but they’re not entirely clear \nwhat this goal constitutes. They have no \nrising h-index or rack of repaired \nmotorcycles to point to as evidence of \ntheir worth. To overcome this gap, many \nseem to be turning back to the last time \nwhen productivity was more universally \nobservable: the industrial age.\nTo understand this claim, recall that \nwith the rise of assembly lines came the\n\nrise of the Efficiency Movement, \nidentified with its founder, Frederic \nTaylor, who would famously stand with \na stopwatch monitoring the efficiency of \nworker movements— looking for ways to \nincrease the speed at which they \naccomplished their tasks. In Taylor’s \nera, productivity was unambiguous: \nwidgets created per unit of time. It \nseems that in today’s business \nlandscape, many knowledge workers, \nbereft of other ideas, are turning toward \nthis old definition of productivity in \ntrying to solidify their value in the \notherwise bewildering landscape of \ntheir professional lives. (David Allen, \nfor example, even uses the specific\n\nphrase “cranking widgets” to describe a \nproductive work flow.) Knowledge \nworkers, I’m arguing, are tending toward \nincreasingly visible",
+    "level": 1,
+    "parent_id": "50b86fd60230_L0_0005",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Part 1, Chapter 2",
+      "subject": "Scarcity of Deep Work",
+      "context": "Analyzing business trends (open offices, instant messaging, social media) that promote shallowness and hinder deep work.",
+      "source_document": "dw_part1_ch02_Deep_Work_Is_Rare.txt",
+      "document_id": "50b86fd60230",
+      "created_at": "2025-10-26T02:54:49.934991",
+      "level": 1,
+      "parent_chunk_id": "50b86fd60230_L0_0005"
+    }
+  },
+  {
+    "chunk_id": "50b86fd60230_L0_0005_L1_0000_L2_0000",
+    "text": " most of \nwhom don’t share this transparency \nregarding how well they’re doing their \njob. Here’s the social critic Matthew \nCrawford’s description of this \nuncertainty: “Managers themselves\ninhabit a bewildering psychic landscape, \nand are made anxious by the vague \nimperatives they must answer to.”\n\nThough Crawford was speaking \nspecifically to the plight of the \nknowledge work middle manager, the \n“bewildering psychic landscape” he \nreferences applies to many positions in \nthis sector. As Crawford describes in his \n2009 ode to the trades, Shop Class as  \nSoulcraft , he quit his job as a \nWashington, D.C., think tank director to \nopen a motorcycle repair shop exactly to \nescape this bewilderment. The feeling of \ntaking a broken machine, struggling with \nit, then eventually enjoying a tangible \nindication that he had succeeded (the \nbike driving out of the shop under its \nown power) provides a concrete sense \nof accomplishment he struggled to\n\nreplicate when his day revolved vaguely \naround reports and communications \nstrategies.\nA similar reality creates problems \nfor many knowledge workers. They want \nto prove that they’re productive \nmembers of the team and",
+    "level": 2,
+    "parent_id": "50b86fd60230_L0_0005_L1_0000",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Part 1, Chapter 2",
+      "subject": "Scarcity of Deep Work",
+      "context": "Analyzing business trends (open offices, instant messaging, social media) that promote shallowness and hinder deep work.",
+      "source_document": "dw_part1_ch02_Deep_Work_Is_Rare.txt",
+      "document_id": "50b86fd60230",
+      "created_at": "2025-10-26T02:54:49.934991",
+      "level": 2,
+      "parent_chunk_id": "50b86fd60230_L0_0005_L1_0000"
+    }
+  },
+  {
+    "chunk_id": "50b86fd60230_L0_0005_L1_0000_L2_0001",
+    "text": " \nof accomplishment he struggled to\n\nreplicate when his day revolved vaguely \naround reports and communications \nstrategies.\nA similar reality creates problems \nfor many knowledge workers. They want \nto prove that they’re productive \nmembers of the team and are earning \ntheir keep, but they’re not entirely clear \nwhat this goal constitutes. They have no \nrising h-index or rack of repaired \nmotorcycles to point to as evidence of \ntheir worth. To overcome this gap, many \nseem to be turning back to the last time \nwhen productivity was more universally \nobservable: the industrial age.\nTo understand this claim, recall that \nwith the rise of assembly lines came the\n\nrise of the Efficiency Movement, \nidentified with its founder, Frederic \nTaylor, who would famously stand with \na stopwatch monitoring the efficiency of \nworker movements— looking for ways to \nincrease the speed at which they \naccomplished their tasks. In Taylor’s \nera, productivity was unambiguous: \nwidgets created per unit of time. It \nseems that in today’s business \nlandscape, many knowledge workers, \nbereft of other ideas, are turning toward \nthis old definition of productivity in \ntrying to solidify their value in the \notherwise bewildering landscape",
+    "level": 2,
+    "parent_id": "50b86fd60230_L0_0005_L1_0000",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Part 1, Chapter 2",
+      "subject": "Scarcity of Deep Work",
+      "context": "Analyzing business trends (open offices, instant messaging, social media) that promote shallowness and hinder deep work.",
+      "source_document": "dw_part1_ch02_Deep_Work_Is_Rare.txt",
+      "document_id": "50b86fd60230",
+      "created_at": "2025-10-26T02:54:49.934991",
+      "level": 2,
+      "parent_chunk_id": "50b86fd60230_L0_0005_L1_0000"
+    }
+  },
+  {
+    "chunk_id": "50b86fd60230_L0_0005_L1_0000_L2_0002",
+    "text": " of time. It \nseems that in today’s business \nlandscape, many knowledge workers, \nbereft of other ideas, are turning toward \nthis old definition of productivity in \ntrying to solidify their value in the \notherwise bewildering landscape of \ntheir professional lives. (David Allen, \nfor example, even uses the specific\n\nphrase “cranking widgets” to describe a \nproductive work flow.) Knowledge \nworkers, I’m arguing, are tending toward \nincreasingly visible",
+    "level": 2,
+    "parent_id": "50b86fd60230_L0_0005_L1_0000",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Part 1, Chapter 2",
+      "subject": "Scarcity of Deep Work",
+      "context": "Analyzing business trends (open offices, instant messaging, social media) that promote shallowness and hinder deep work.",
+      "source_document": "dw_part1_ch02_Deep_Work_Is_Rare.txt",
+      "document_id": "50b86fd60230",
+      "created_at": "2025-10-26T02:54:49.934991",
+      "level": 2,
+      "parent_chunk_id": "50b86fd60230_L0_0005_L1_0000"
+    }
+  },
+  {
+    "chunk_id": "50b86fd60230_L0_0005_L1_0001",
+    "text": " of \ntheir professional lives. (David Allen, \nfor example, even uses the specific\n\nphrase “cranking widgets” to describe a \nproductive work flow.) Knowledge \nworkers, I’m arguing, are tending toward \nincreasingly visible busyness because \nthey lack a better way to demonstrate \ntheir value. Let’s give this tendency a \nname.\nBusyness as Proxy for Productivity:\nIn the absence of clear indicators of what it \nmeans to be productive and valuable in \ntheir jobs, many knowledge workers turn \nback toward an industrial indicator of \nproductivity: doing lots of stuff in a visible \nmanner.\nThis mind-set provides another\n\nexplanation for the popularity of many \ndepth-destroying behaviors. If you send \nand answer e-mails at all hours, if you \nschedule and attend meetings constantly, \nif you weigh in on instant message \nsystems like Hall within seconds when \nsomeone poses a new question, or if you \nroam your open office bouncing ideas \noff all whom you encounter—all of these \nbehaviors make you seem busy in a \npublic manner. If you’re using busyness \nas a proxy for productivity, then these \nbehaviors can seem crucial for \nconvincing yourself and others that \nyou’re doing your job well.\nThis mind-set is not necessarily \nirrational. For some, their jobs really do\n\ndepend on such behavior. In 2013, for \nexample, Yahoo’s new CEO Marissa \nMayer banned employees from working \nat home. She made this decision after \nchecking the server logs for the virtual \nprivate network that Yahoo employees \nuse to remotely log in to company \nservers. Mayer was upset because the \nemployees working from home didn’t \nsign in enough throughout the day. She \nwas, in some sense, punishing her \nemployees for not spending more time \nchecking e-mail (one of the primary \nreasons to log in to the servers). “If \nyou’re not visibly busy,” she signaled, \n“I’ll assume you’re not productive.” \nViewed objectively, however, this\n\nconcept is anachronistic. Knowledge \nwork is not an assembly line, and \nextracting value from information is an \nactivity that’s of ten at odds with \nbusyness, not supported by it. \nRemember, for example, Adam Grant, \nthe academic from our last chapter who \nbecame the youngest full professor at \nWharton by repeatedly shutting himself \noff from the",
+    "level": 1,
+    "parent_id": "50b86fd60230_L0_0005",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Part 1, Chapter 2",
+      "subject": "Scarcity of Deep Work",
+      "context": "Analyzing business trends (open offices, instant messaging, social media) that promote shallowness and hinder deep work.",
+      "source_document": "dw_part1_ch02_Deep_Work_Is_Rare.txt",
+      "document_id": "50b86fd60230",
+      "created_at": "2025-10-26T02:54:49.934991",
+      "level": 1,
+      "parent_chunk_id": "50b86fd60230_L0_0005"
+    }
+  },
+  {
+    "chunk_id": "50b86fd60230_L0_0005_L1_0001_L2_0000",
+    "text": " of \ntheir professional lives. (David Allen, \nfor example, even uses the specific\n\nphrase “cranking widgets” to describe a \nproductive work flow.) Knowledge \nworkers, I’m arguing, are tending toward \nincreasingly visible busyness because \nthey lack a better way to demonstrate \ntheir value. Let’s give this tendency a \nname.\nBusyness as Proxy for Productivity:\nIn the absence of clear indicators of what it \nmeans to be productive and valuable in \ntheir jobs, many knowledge workers turn \nback toward an industrial indicator of \nproductivity: doing lots of stuff in a visible \nmanner.\nThis mind-set provides another\n\nexplanation for the popularity of many \ndepth-destroying behaviors. If you send \nand answer e-mails at all hours, if you \nschedule and attend meetings constantly, \nif you weigh in on instant message \nsystems like Hall within seconds when \nsomeone poses a new question, or if you \nroam your open office bouncing ideas \noff all whom you encounter—all of these \nbehaviors make you seem busy in a \npublic manner. If you’re using busyness \nas a proxy for productivity, then these \nbehaviors can seem crucial for \nconvincing yourself and",
+    "level": 2,
+    "parent_id": "50b86fd60230_L0_0005_L1_0001",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Part 1, Chapter 2",
+      "subject": "Scarcity of Deep Work",
+      "context": "Analyzing business trends (open offices, instant messaging, social media) that promote shallowness and hinder deep work.",
+      "source_document": "dw_part1_ch02_Deep_Work_Is_Rare.txt",
+      "document_id": "50b86fd60230",
+      "created_at": "2025-10-26T02:54:49.934991",
+      "level": 2,
+      "parent_chunk_id": "50b86fd60230_L0_0005_L1_0001"
+    }
+  },
+  {
+    "chunk_id": "50b86fd60230_L0_0005_L1_0001_L2_0001",
+    "text": "off all whom you encounter—all of these \nbehaviors make you seem busy in a \npublic manner. If you’re using busyness \nas a proxy for productivity, then these \nbehaviors can seem crucial for \nconvincing yourself and others that \nyou’re doing your job well.\nThis mind-set is not necessarily \nirrational. For some, their jobs really do\n\ndepend on such behavior. In 2013, for \nexample, Yahoo’s new CEO Marissa \nMayer banned employees from working \nat home. She made this decision after \nchecking the server logs for the virtual \nprivate network that Yahoo employees \nuse to remotely log in to company \nservers. Mayer was upset because the \nemployees working from home didn’t \nsign in enough throughout the day. She \nwas, in some sense, punishing her \nemployees for not spending more time \nchecking e-mail (one of the primary \nreasons to log in to the servers). “If \nyou’re not visibly busy,” she signaled, \n“I’ll assume you’re not productive.” \nViewed objectively, however, this\n\nconcept is anachronistic. Knowledge \nwork is not an assembly line, and \nextracting value from information is an \nactivity that’s of",
+    "level": 2,
+    "parent_id": "50b86fd60230_L0_0005_L1_0001",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Part 1, Chapter 2",
+      "subject": "Scarcity of Deep Work",
+      "context": "Analyzing business trends (open offices, instant messaging, social media) that promote shallowness and hinder deep work.",
+      "source_document": "dw_part1_ch02_Deep_Work_Is_Rare.txt",
+      "document_id": "50b86fd60230",
+      "created_at": "2025-10-26T02:54:49.934991",
+      "level": 2,
+      "parent_chunk_id": "50b86fd60230_L0_0005_L1_0001"
+    }
+  },
+  {
+    "chunk_id": "50b86fd60230_L0_0005_L1_0001_L2_0002",
+    "text": " signaled, \n“I’ll assume you’re not productive.” \nViewed objectively, however, this\n\nconcept is anachronistic. Knowledge \nwork is not an assembly line, and \nextracting value from information is an \nactivity that’s of ten at odds with \nbusyness, not supported by it. \nRemember, for example, Adam Grant, \nthe academic from our last chapter who \nbecame the youngest full professor at \nWharton by repeatedly shutting himself \noff from the",
+    "level": 2,
+    "parent_id": "50b86fd60230_L0_0005_L1_0001",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Part 1, Chapter 2",
+      "subject": "Scarcity of Deep Work",
+      "context": "Analyzing business trends (open offices, instant messaging, social media) that promote shallowness and hinder deep work.",
+      "source_document": "dw_part1_ch02_Deep_Work_Is_Rare.txt",
+      "document_id": "50b86fd60230",
+      "created_at": "2025-10-26T02:54:49.934991",
+      "level": 2,
+      "parent_chunk_id": "50b86fd60230_L0_0005_L1_0001"
+    }
+  },
+  {
+    "chunk_id": "50b86fd60230_L0_0005_L1_0002",
+    "text": " ten at odds with \nbusyness, not supported by it. \nRemember, for example, Adam Grant, \nthe academic from our last chapter who \nbecame the youngest full professor at \nWharton by repeatedly shutting himself \noff from the outside world to concentrate \non writing. Such behavior is the \nopposite of being publicly busy. If Grant \nworked for Yahoo, Marissa Mayer might \nhave fired him. But this deep strategy \nturned out to produce a massive amount \nof",
+    "level": 1,
+    "parent_id": "50b86fd60230_L0_0005",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Part 1, Chapter 2",
+      "subject": "Scarcity of Deep Work",
+      "context": "Analyzing business trends (open offices, instant messaging, social media) that promote shallowness and hinder deep work.",
+      "source_document": "dw_part1_ch02_Deep_Work_Is_Rare.txt",
+      "document_id": "50b86fd60230",
+      "created_at": "2025-10-26T02:54:49.934991",
+      "level": 1,
+      "parent_chunk_id": "50b86fd60230_L0_0005"
+    }
+  },
+  {
+    "chunk_id": "50b86fd60230_L0_0005_L1_0002_L2_0000",
+    "text": " ten at odds with \nbusyness, not supported by it. \nRemember, for example, Adam Grant, \nthe academic from our last chapter who \nbecame the youngest full professor at \nWharton by repeatedly shutting himself \noff from the outside world to concentrate \non writing. Such behavior is the \nopposite of being publicly busy. If Grant \nworked for Yahoo, Marissa Mayer might \nhave fired him. But this deep strategy \nturned out to produce a massive amount \nof",
+    "level": 2,
+    "parent_id": "50b86fd60230_L0_0005_L1_0002",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Part 1, Chapter 2",
+      "subject": "Scarcity of Deep Work",
+      "context": "Analyzing business trends (open offices, instant messaging, social media) that promote shallowness and hinder deep work.",
+      "source_document": "dw_part1_ch02_Deep_Work_Is_Rare.txt",
+      "document_id": "50b86fd60230",
+      "created_at": "2025-10-26T02:54:49.934991",
+      "level": 2,
+      "parent_chunk_id": "50b86fd60230_L0_0005_L1_0002"
+    }
+  },
+  {
+    "chunk_id": "50b86fd60230_L0_0006",
+    "text": " outside world to concentrate \non writing. Such behavior is the \nopposite of being publicly busy. If Grant \nworked for Yahoo, Marissa Mayer might \nhave fired him. But this deep strategy \nturned out to produce a massive amount \nof value.\nWe could, of course, eliminate this\n\nanachronistic commitment to busyness if \nwe could easily demonstrate its negative \nimpact on the bottom line, but the metric \nblack hole enters the scene at this point \nand prevents such clarity. This potent \nmixture of job ambiguity and lack of \nmetrics to measure the effectiveness of \ndifferent strategies allows behavior that \ncan seem ridiculous when viewed \nobjectively to thrive in the increasingly \nbewildering psychic landscape of our \ndaily work.\nAs we’ll see next, however, even \nthose who have a clear understanding of \nwhat it means to succeed in their \nknowledge work job can still be lured \naway from depth. All it takes is an\n\nideology seductive enough to convince \nyou to discard common sense.\nThe Cult of the Internet\nConsider Alissa Rubin. She’s the New \nYork Times'  bureau chief in Paris. \nBefore that she was the bureau chief in \nKabul, Afghanistan, where she reported \nfrom the front lines on the postwar \nreconstruction. Around the time I was \nwriting this chapter, she was publishing \na series of hard-hitting articles that \nlooked at the French government’s \ncomplicity in the Rwandan genocide. \nRubin, in other words, is a serious\n\njournalist who is good at her craft. She \nalso, at what I can only assume is the \npersistent urging of her employer, \ntweets.\nRubin’s Twitter profile reveals a \nsteady and somewhat desultory string of \nmissives, one every two to four days, as \nif Rubin receives a regular notice from \nthe Times ’  social media desk (a real \nthing) reminding her to appease her \nfollowers. With few exceptions, the \ntweets simply mention an article she \nrecently read and liked.\nRubin is a reporter, not a media \npersonality. Her value to her paper is \nher ability to cultivate important \nsources, pull together facts, and write\n\narticles that make a splash. It’s the \nAlissa Rubins of the world who provide \nthe Times  with its reputation, and it’s \nthis reputation that provides the \nfoundation for the paper’s commercial \nsuccess in an age of ubiquitous and \naddictive click-bait. So why is Alissa \nRubin urged to regularly interrupt this \nnecessarily deep work to provide, for \nfree, shallow content to a service run by \nan unrelated media company based out \nof Silicon Valley? And perhaps even \nmore important, why does this behavior \nseem so normal to most people? If we \ncan answer these questions, we’ll better \nunderstand the final trend I want to \ndiscuss relevant to the question of why\n\ndeep work has become so paradoxically \nrare.\nA foundation for our answer can be \nfound in a warning provided by the late \ncommunication theorist and New York \nUniversity professor Neil Postman. \nWriting in the early 1990s, as the \npersonal computer revolution first \naccelerated, Postman argued that our \nsociety was sliding into a troubling \nrelationship with technology. We were, \nhe noted, no longer discussing the trade­\noffs surrounding new technologies, \nbalancing the new efficiencies against \nthe new problems introduced. If it’s \nhigh-tech, we began to instead assume, \nthen it’s good. Case closed.\n\nHe called such a culture a \ntechnopoly,  and he didn’t mince words \nin warning against it. “Technopoly \neliminates alternatives to itself in \nprecisely the way Aldous Huxley \noutlined in Brave New World”  he \nargued in his 1993 book on the topic. “It \ndoes not make them illegal. It does not \nmake them immoral. It does not even \nmake them unpopular. It makes them \ninvisible and therefore irrelevant.” \nPostman died in 2003, but if he were \nalive today he would likely express \namazement about how quickly his fears \nfrom the 1990s came to fruition—a slide \ndriven by the unforeseen and sudden rise \nof the Internet. Fortunately, Postman has\n\nan intellectual heir to continue this \nargument in the Internet Age: the\nhypercitational social critic Evgeny \nMorozov. In his 2013 book, To Save  \nEverything, Click Here , Morozov \nattempts to pull back the curtains on our \ntechnopolic obsession with “the \nInternet” (a term he purposefully places \nin scare quotes to emphasize its role as \nan ideology), saying: “It’s this\npropensity to view ‘the Internet’  as a \nsource",
+    "level": 0,
+    "parent_id": null,
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Part 1, Chapter 2",
+      "subject": "Scarcity of Deep Work",
+      "context": "Analyzing business trends (open offices, instant messaging, social media) that promote shallowness and hinder deep work.",
+      "source_document": "dw_part1_ch02_Deep_Work_Is_Rare.txt",
+      "document_id": "50b86fd60230",
+      "created_at": "2025-10-26T02:54:49.934991",
+      "level": 0
+    }
+  },
+  {
+    "chunk_id": "50b86fd60230_L0_0006_L1_0000",
+    "text": " outside world to concentrate \non writing. Such behavior is the \nopposite of being publicly busy. If Grant \nworked for Yahoo, Marissa Mayer might \nhave fired him. But this deep strategy \nturned out to produce a massive amount \nof value.\nWe could, of course, eliminate this\n\nanachronistic commitment to busyness if \nwe could easily demonstrate its negative \nimpact on the bottom line, but the metric \nblack hole enters the scene at this point \nand prevents such clarity. This potent \nmixture of job ambiguity and lack of \nmetrics to measure the effectiveness of \ndifferent strategies allows behavior that \ncan seem ridiculous when viewed \nobjectively to thrive in the increasingly \nbewildering psychic landscape of our \ndaily work.\nAs we’ll see next, however, even \nthose who have a clear understanding of \nwhat it means to succeed in their \nknowledge work job can still be lured \naway from depth. All it takes is an\n\nideology seductive enough to convince \nyou to discard common sense.\nThe Cult of the Internet\nConsider Alissa Rubin. She’s the New \nYork Times'  bureau chief in Paris. \nBefore that she was the bureau chief in \nKabul, Afghanistan, where she reported \nfrom the front lines on the postwar \nreconstruction. Around the time I was \nwriting this chapter, she was publishing \na series of hard-hitting articles that \nlooked at the French government’s \ncomplicity in the Rwandan genocide. \nRubin, in other words, is a serious\n\njournalist who is good at her craft. She \nalso, at what I can only assume is the \npersistent urging of her employer, \ntweets.\nRubin’s Twitter profile reveals a \nsteady and somewhat desultory string of \nmissives, one every two to four days, as \nif Rubin receives a regular notice from \nthe Times ’  social media desk (a real \nthing) reminding her to appease her \nfollowers. With few exceptions, the \ntweets simply mention an article she \nrecently read and liked.\nRubin is a reporter, not a media \npersonality. Her value to her paper is \nher ability to cultivate important \nsources, pull together facts, and write\n\narticles that make a splash. It’s the \nAlissa Rubins of the world who provide \nthe Times  with its reputation, and it’s \nthis reputation that provides the \nfoundation for the paper’s commercial \nsuccess in an age",
+    "level": 1,
+    "parent_id": "50b86fd60230_L0_0006",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Part 1, Chapter 2",
+      "subject": "Scarcity of Deep Work",
+      "context": "Analyzing business trends (open offices, instant messaging, social media) that promote shallowness and hinder deep work.",
+      "source_document": "dw_part1_ch02_Deep_Work_Is_Rare.txt",
+      "document_id": "50b86fd60230",
+      "created_at": "2025-10-26T02:54:49.934991",
+      "level": 1,
+      "parent_chunk_id": "50b86fd60230_L0_0006"
+    }
+  },
+  {
+    "chunk_id": "50b86fd60230_L0_0006_L1_0000_L2_0000",
+    "text": " outside world to concentrate \non writing. Such behavior is the \nopposite of being publicly busy. If Grant \nworked for Yahoo, Marissa Mayer might \nhave fired him. But this deep strategy \nturned out to produce a massive amount \nof value.\nWe could, of course, eliminate this\n\nanachronistic commitment to busyness if \nwe could easily demonstrate its negative \nimpact on the bottom line, but the metric \nblack hole enters the scene at this point \nand prevents such clarity. This potent \nmixture of job ambiguity and lack of \nmetrics to measure the effectiveness of \ndifferent strategies allows behavior that \ncan seem ridiculous when viewed \nobjectively to thrive in the increasingly \nbewildering psychic landscape of our \ndaily work.\nAs we’ll see next, however, even \nthose who have a clear understanding of \nwhat it means to succeed in their \nknowledge work job can still be lured \naway from depth. All it takes is an\n\nideology seductive enough to convince \nyou to discard common sense.\nThe Cult of the Internet\nConsider Alissa Rubin. She’s the New \nYork Times'  bureau chief in Paris. \nBefore that she was the bureau chief in \nKabul, Afghanistan, where she reported",
+    "level": 2,
+    "parent_id": "50b86fd60230_L0_0006_L1_0000",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Part 1, Chapter 2",
+      "subject": "Scarcity of Deep Work",
+      "context": "Analyzing business trends (open offices, instant messaging, social media) that promote shallowness and hinder deep work.",
+      "source_document": "dw_part1_ch02_Deep_Work_Is_Rare.txt",
+      "document_id": "50b86fd60230",
+      "created_at": "2025-10-26T02:54:49.934991",
+      "level": 2,
+      "parent_chunk_id": "50b86fd60230_L0_0006_L1_0000"
+    }
+  },
+  {
+    "chunk_id": "50b86fd60230_L0_0006_L1_0000_L2_0001",
+    "text": "you to discard common sense.\nThe Cult of the Internet\nConsider Alissa Rubin. She’s the New \nYork Times'  bureau chief in Paris. \nBefore that she was the bureau chief in \nKabul, Afghanistan, where she reported \nfrom the front lines on the postwar \nreconstruction. Around the time I was \nwriting this chapter, she was publishing \na series of hard-hitting articles that \nlooked at the French government’s \ncomplicity in the Rwandan genocide. \nRubin, in other words, is a serious\n\njournalist who is good at her craft. She \nalso, at what I can only assume is the \npersistent urging of her employer, \ntweets.\nRubin’s Twitter profile reveals a \nsteady and somewhat desultory string of \nmissives, one every two to four days, as \nif Rubin receives a regular notice from \nthe Times ’  social media desk (a real \nthing) reminding her to appease her \nfollowers. With few exceptions, the \ntweets simply mention an article she \nrecently read and liked.\nRubin is a reporter, not a media \npersonality. Her value to her paper is \nher ability to cultivate important \nsources, pull together facts, and",
+    "level": 2,
+    "parent_id": "50b86fd60230_L0_0006_L1_0000",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Part 1, Chapter 2",
+      "subject": "Scarcity of Deep Work",
+      "context": "Analyzing business trends (open offices, instant messaging, social media) that promote shallowness and hinder deep work.",
+      "source_document": "dw_part1_ch02_Deep_Work_Is_Rare.txt",
+      "document_id": "50b86fd60230",
+      "created_at": "2025-10-26T02:54:49.934991",
+      "level": 2,
+      "parent_chunk_id": "50b86fd60230_L0_0006_L1_0000"
+    }
+  },
+  {
+    "chunk_id": "50b86fd60230_L0_0006_L1_0000_L2_0002",
+    "text": " exceptions, the \ntweets simply mention an article she \nrecently read and liked.\nRubin is a reporter, not a media \npersonality. Her value to her paper is \nher ability to cultivate important \nsources, pull together facts, and write\n\narticles that make a splash. It’s the \nAlissa Rubins of the world who provide \nthe Times  with its reputation, and it’s \nthis reputation that provides the \nfoundation for the paper’s commercial \nsuccess in an age",
+    "level": 2,
+    "parent_id": "50b86fd60230_L0_0006_L1_0000",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Part 1, Chapter 2",
+      "subject": "Scarcity of Deep Work",
+      "context": "Analyzing business trends (open offices, instant messaging, social media) that promote shallowness and hinder deep work.",
+      "source_document": "dw_part1_ch02_Deep_Work_Is_Rare.txt",
+      "document_id": "50b86fd60230",
+      "created_at": "2025-10-26T02:54:49.934991",
+      "level": 2,
+      "parent_chunk_id": "50b86fd60230_L0_0006_L1_0000"
+    }
+  },
+  {
+    "chunk_id": "50b86fd60230_L0_0006_L1_0001",
+    "text": " write\n\narticles that make a splash. It’s the \nAlissa Rubins of the world who provide \nthe Times  with its reputation, and it’s \nthis reputation that provides the \nfoundation for the paper’s commercial \nsuccess in an age of ubiquitous and \naddictive click-bait. So why is Alissa \nRubin urged to regularly interrupt this \nnecessarily deep work to provide, for \nfree, shallow content to a service run by \nan unrelated media company based out \nof Silicon Valley? And perhaps even \nmore important, why does this behavior \nseem so normal to most people? If we \ncan answer these questions, we’ll better \nunderstand the final trend I want to \ndiscuss relevant to the question of why\n\ndeep work has become so paradoxically \nrare.\nA foundation for our answer can be \nfound in a warning provided by the late \ncommunication theorist and New York \nUniversity professor Neil Postman. \nWriting in the early 1990s, as the \npersonal computer revolution first \naccelerated, Postman argued that our \nsociety was sliding into a troubling \nrelationship with technology. We were, \nhe noted, no longer discussing the trade­\noffs surrounding new technologies, \nbalancing the new efficiencies against \nthe new problems introduced. If it’s \nhigh-tech, we began to instead assume, \nthen it’s good. Case closed.\n\nHe called such a culture a \ntechnopoly,  and he didn’t mince words \nin warning against it. “Technopoly \neliminates alternatives to itself in \nprecisely the way Aldous Huxley \noutlined in Brave New World”  he \nargued in his 1993 book on the topic. “It \ndoes not make them illegal. It does not \nmake them immoral. It does not even \nmake them unpopular. It makes them \ninvisible and therefore irrelevant.” \nPostman died in 2003, but if he were \nalive today he would likely express \namazement about how quickly his fears \nfrom the 1990s came to fruition—a slide \ndriven by the unforeseen and sudden rise \nof the Internet. Fortunately, Postman has\n\nan intellectual heir to continue this \nargument in the Internet Age: the\nhypercitational social critic Evgeny \nMorozov. In his 2013 book, To Save  \nEverything, Click Here , Morozov \nattempts to pull back the curtains on our \n",
+    "level": 1,
+    "parent_id": "50b86fd60230_L0_0006",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Part 1, Chapter 2",
+      "subject": "Scarcity of Deep Work",
+      "context": "Analyzing business trends (open offices, instant messaging, social media) that promote shallowness and hinder deep work.",
+      "source_document": "dw_part1_ch02_Deep_Work_Is_Rare.txt",
+      "document_id": "50b86fd60230",
+      "created_at": "2025-10-26T02:54:49.934991",
+      "level": 1,
+      "parent_chunk_id": "50b86fd60230_L0_0006"
+    }
+  },
+  {
+    "chunk_id": "50b86fd60230_L0_0006_L1_0001_L2_0000",
+    "text": " write\n\narticles that make a splash. It’s the \nAlissa Rubins of the world who provide \nthe Times  with its reputation, and it’s \nthis reputation that provides the \nfoundation for the paper’s commercial \nsuccess in an age of ubiquitous and \naddictive click-bait. So why is Alissa \nRubin urged to regularly interrupt this \nnecessarily deep work to provide, for \nfree, shallow content to a service run by \nan unrelated media company based out \nof Silicon Valley? And perhaps even \nmore important, why does this behavior \nseem so normal to most people? If we \ncan answer these questions, we’ll better \nunderstand the final trend I want to \ndiscuss relevant to the question of why\n\ndeep work has become so paradoxically \nrare.\nA foundation for our answer can be \nfound in a warning provided by the late \ncommunication theorist and New York \nUniversity professor Neil Postman. \nWriting in the early 1990s, as the \npersonal computer revolution first \naccelerated, Postman argued that our \nsociety was sliding into a troubling \nrelationship with technology. We were, \nhe noted, no longer discussing the trade­\noffs surrounding new technologies, \n",
+    "level": 2,
+    "parent_id": "50b86fd60230_L0_0006_L1_0001",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Part 1, Chapter 2",
+      "subject": "Scarcity of Deep Work",
+      "context": "Analyzing business trends (open offices, instant messaging, social media) that promote shallowness and hinder deep work.",
+      "source_document": "dw_part1_ch02_Deep_Work_Is_Rare.txt",
+      "document_id": "50b86fd60230",
+      "created_at": "2025-10-26T02:54:49.934991",
+      "level": 2,
+      "parent_chunk_id": "50b86fd60230_L0_0006_L1_0001"
+    }
+  },
+  {
+    "chunk_id": "50b86fd60230_L0_0006_L1_0001_L2_0001",
+    "text": " as the \npersonal computer revolution first \naccelerated, Postman argued that our \nsociety was sliding into a troubling \nrelationship with technology. We were, \nhe noted, no longer discussing the trade­\noffs surrounding new technologies, \nbalancing the new efficiencies against \nthe new problems introduced. If it’s \nhigh-tech, we began to instead assume, \nthen it’s good. Case closed.\n\nHe called such a culture a \ntechnopoly,  and he didn’t mince words \nin warning against it. “Technopoly \neliminates alternatives to itself in \nprecisely the way Aldous Huxley \noutlined in Brave New World”  he \nargued in his 1993 book on the topic. “It \ndoes not make them illegal. It does not \nmake them immoral. It does not even \nmake them unpopular. It makes them \ninvisible and therefore irrelevant.” \nPostman died in 2003, but if he were \nalive today he would likely express \namazement about how quickly his fears \nfrom the 1990s came to fruition—a slide \ndriven by the unforeseen and sudden rise \nof the Internet. Fortunately, Postman has\n\nan intellectual heir to continue this \n",
+    "level": 2,
+    "parent_id": "50b86fd60230_L0_0006_L1_0001",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Part 1, Chapter 2",
+      "subject": "Scarcity of Deep Work",
+      "context": "Analyzing business trends (open offices, instant messaging, social media) that promote shallowness and hinder deep work.",
+      "source_document": "dw_part1_ch02_Deep_Work_Is_Rare.txt",
+      "document_id": "50b86fd60230",
+      "created_at": "2025-10-26T02:54:49.934991",
+      "level": 2,
+      "parent_chunk_id": "50b86fd60230_L0_0006_L1_0001"
+    }
+  },
+  {
+    "chunk_id": "50b86fd60230_L0_0006_L1_0001_L2_0002",
+    "text": " express \namazement about how quickly his fears \nfrom the 1990s came to fruition—a slide \ndriven by the unforeseen and sudden rise \nof the Internet. Fortunately, Postman has\n\nan intellectual heir to continue this \nargument in the Internet Age: the\nhypercitational social critic Evgeny \nMorozov. In his 2013 book, To Save  \nEverything, Click Here , Morozov \nattempts to pull back the curtains on our \n",
+    "level": 2,
+    "parent_id": "50b86fd60230_L0_0006_L1_0001",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Part 1, Chapter 2",
+      "subject": "Scarcity of Deep Work",
+      "context": "Analyzing business trends (open offices, instant messaging, social media) that promote shallowness and hinder deep work.",
+      "source_document": "dw_part1_ch02_Deep_Work_Is_Rare.txt",
+      "document_id": "50b86fd60230",
+      "created_at": "2025-10-26T02:54:49.934991",
+      "level": 2,
+      "parent_chunk_id": "50b86fd60230_L0_0006_L1_0001"
+    }
+  },
+  {
+    "chunk_id": "50b86fd60230_L0_0006_L1_0002",
+    "text": "argument in the Internet Age: the\nhypercitational social critic Evgeny \nMorozov. In his 2013 book, To Save  \nEverything, Click Here , Morozov \nattempts to pull back the curtains on our \ntechnopolic obsession with “the \nInternet” (a term he purposefully places \nin scare quotes to emphasize its role as \nan ideology), saying: “It’s this\npropensity to view ‘the Internet’  as a \nsource",
+    "level": 1,
+    "parent_id": "50b86fd60230_L0_0006",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Part 1, Chapter 2",
+      "subject": "Scarcity of Deep Work",
+      "context": "Analyzing business trends (open offices, instant messaging, social media) that promote shallowness and hinder deep work.",
+      "source_document": "dw_part1_ch02_Deep_Work_Is_Rare.txt",
+      "document_id": "50b86fd60230",
+      "created_at": "2025-10-26T02:54:49.934991",
+      "level": 1,
+      "parent_chunk_id": "50b86fd60230_L0_0006"
+    }
+  },
+  {
+    "chunk_id": "50b86fd60230_L0_0006_L1_0002_L2_0000",
+    "text": "argument in the Internet Age: the\nhypercitational social critic Evgeny \nMorozov. In his 2013 book, To Save  \nEverything, Click Here , Morozov \nattempts to pull back the curtains on our \ntechnopolic obsession with “the \nInternet” (a term he purposefully places \nin scare quotes to emphasize its role as \nan ideology), saying: “It’s this\npropensity to view ‘the Internet’  as a \nsource",
+    "level": 2,
+    "parent_id": "50b86fd60230_L0_0006_L1_0002",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Part 1, Chapter 2",
+      "subject": "Scarcity of Deep Work",
+      "context": "Analyzing business trends (open offices, instant messaging, social media) that promote shallowness and hinder deep work.",
+      "source_document": "dw_part1_ch02_Deep_Work_Is_Rare.txt",
+      "document_id": "50b86fd60230",
+      "created_at": "2025-10-26T02:54:49.934991",
+      "level": 2,
+      "parent_chunk_id": "50b86fd60230_L0_0006_L1_0002"
+    }
+  },
+  {
+    "chunk_id": "50b86fd60230_L0_0007",
+    "text": "technopolic obsession with “the \nInternet” (a term he purposefully places \nin scare quotes to emphasize its role as \nan ideology), saying: “It’s this\npropensity to view ‘the Internet’  as a \nsource of wisdom and policy advice that \ntransforms it from a fairly uninteresting \nset of cables and network routers into a \nseductive and exciting ideology— \nperhaps today’s uber-ideology.”\nIn Morozov’s critique, we’ve made\n\n“the Internet” synonymous with the \nrevolutionary future of business and \ngovernment. To make your company \nmore like “the Internet” is to be with the \ntimes, and to ignore these trends is to be \nthe proverbial buggy-whip maker in an \nautomotive age. We no longer see \nInternet tools as products released by \nfor-profit companies, funded by \ninvestors hoping to make a return, and \nrun by twentysomethings who are often \nmaking things up as they go along. We’re \ninstead quick to idolize these digital \ndoodads as a signifier of progress and a \nharbinger of a (dare I say, brave) new \nworld.\nThis Internet-centrism (to steal\n\nanother Morozov term) is what \ntechnopoly looks like today. It’s \nimportant that we recognize this reality \nbecause it explains the question that \nopened this section. The New York Times  \nmaintains a social media desk and \npressures its writers, like Alissa Rubin, \ntoward distracting behavior, because in \nan Internet-centric technopoly such \nbehavior is not up for discussion. The \nalternative, to not embrace all things \nInternet, is, as Postman would say, \n“invisible and therefore irrelevant.”\nThis invisibility explains the uproar, \nmentioned earlier, that arose when \nJonathan Franzen dared suggest that \nnovelists shouldn’t tweet. It riled people\n\nnot because they’re well versed in book \nmarketing and disagreed with Franzen’s \nconclusion, but because it surprised \nthem that anyone serious would suggest \nthe irrelevance of social media. In an \nInternet-centric technopoly such a \nstatement is the equivalent of a flag \nburning—desecration, not debate.\nPerhaps the near universal reach of \nthis mind-set is best captured in an \nexperience I had recently on my \ncommute to the Georgetown campus \nwhere I work. Waiting for the light to \nchange so I could cross Connecticut \nAvenue, I idled behind a truck from a \nrefrigerated supply chain logistics \ncompany. Refrigerated shipping is a\n\ncomplex, competitive business that \nrequires equal skill managing trade \nunions and route scheduling. It’s the \nultimate old-school industry and in many \nways is the opposite of the lean \nconsumer-facing tech start-ups that \ncurrently receive so much attention. \nWhat struck me as I waited in traffic \nbehind this truck, however, was not the \ncomplexity or scale of this company, but \ninstead a graphic that had been \ncommissioned and then affixed,\nprobably at significant expense, on the \nback of this entire fleet of trucks— a \ngraphic that read: “like us on\nFacebook.”\nDeep work is at a severe\n\ndisadvantage in a technopoly because it \nbuilds on values like quality, \ncraftsmanship, and mastery that are \ndecidedly old-fashioned and \nnontechnological. Even worse, to \nsupport deep work often requires the \nrejection of much of what is new and \nhigh-tech. Deep work is exiled in favor \nof more distracting high-tech behaviors, \nlike the professional use of social \nmedia, not because the former is \nempirically inferior to the latter. Indeed, \nif we had hard metrics relating the \nimpact of these behaviors on the bottom \nline, our current technopoly would likely \ncrumble. But the metric black hole \nprevents such clarity and allows us\n\ninstead to elevate all things Internet into \nMorozov’s feared “uber-ideology.” In \nsuch a culture, we should not be \nsurprised that deep work struggles to \ncompete against the shiny thrum of \ntweets, likes, tagged photos, walls, \nposts, and all the other behaviors that \nwe’re now taught are necessary for no \nother reason than that they exist.\nBad for Business. Good for \nYou.\nDeep work should  be a priority in \ntoday’s business climate. But it’s not. \nI’ve just summarized various\n\nexplanations for this paradox. Among \nthem are the realities that deep work is \nhard and shallow work is easier, that in \nthe absence of clear goals for your job, \nthe visible busyness that surrounds \nshallow work becomes self-preserving, \nand that our culture has developed a \nbelief that if a behavior relates to “the \nInternet,” then it’s good—regardless of",
+    "level": 0,
+    "parent_id": null,
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Part 1, Chapter 2",
+      "subject": "Scarcity of Deep Work",
+      "context": "Analyzing business trends (open offices, instant messaging, social media) that promote shallowness and hinder deep work.",
+      "source_document": "dw_part1_ch02_Deep_Work_Is_Rare.txt",
+      "document_id": "50b86fd60230",
+      "created_at": "2025-10-26T02:54:49.934991",
+      "level": 0
+    }
+  },
+  {
+    "chunk_id": "50b86fd60230_L0_0007_L1_0000",
+    "text": "technopolic obsession with “the \nInternet” (a term he purposefully places \nin scare quotes to emphasize its role as \nan ideology), saying: “It’s this\npropensity to view ‘the Internet’  as a \nsource of wisdom and policy advice that \ntransforms it from a fairly uninteresting \nset of cables and network routers into a \nseductive and exciting ideology— \nperhaps today’s uber-ideology.”\nIn Morozov’s critique, we’ve made\n\n“the Internet” synonymous with the \nrevolutionary future of business and \ngovernment. To make your company \nmore like “the Internet” is to be with the \ntimes, and to ignore these trends is to be \nthe proverbial buggy-whip maker in an \nautomotive age. We no longer see \nInternet tools as products released by \nfor-profit companies, funded by \ninvestors hoping to make a return, and \nrun by twentysomethings who are often \nmaking things up as they go along. We’re \ninstead quick to idolize these digital \ndoodads as a signifier of progress and a \nharbinger of a (dare I say, brave) new \nworld.\nThis Internet-centrism (to steal\n\nanother Morozov term) is what \ntechnopoly looks like today. It’s \nimportant that we recognize this reality \nbecause it explains the question that \nopened this section. The New York Times  \nmaintains a social media desk and \npressures its writers, like Alissa Rubin, \ntoward distracting behavior, because in \nan Internet-centric technopoly such \nbehavior is not up for discussion. The \nalternative, to not embrace all things \nInternet, is, as Postman would say, \n“invisible and therefore irrelevant.”\nThis invisibility explains the uproar, \nmentioned earlier, that arose when \nJonathan Franzen dared suggest that \nnovelists shouldn’t tweet. It riled people\n\nnot because they’re well versed in book \nmarketing and disagreed with Franzen’s \nconclusion, but because it surprised \nthem that anyone serious would suggest \nthe irrelevance of social media. In an \nInternet-centric technopoly such a \nstatement is the equivalent of a flag \nburning—desecration, not debate.\nPerhaps the near universal reach of \nthis mind-set is best captured in an \nexperience I had recently on my \ncommute to the Georgetown campus \nwhere I work. Waiting for the light to \nchange so I",
+    "level": 1,
+    "parent_id": "50b86fd60230_L0_0007",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Part 1, Chapter 2",
+      "subject": "Scarcity of Deep Work",
+      "context": "Analyzing business trends (open offices, instant messaging, social media) that promote shallowness and hinder deep work.",
+      "source_document": "dw_part1_ch02_Deep_Work_Is_Rare.txt",
+      "document_id": "50b86fd60230",
+      "created_at": "2025-10-26T02:54:49.934991",
+      "level": 1,
+      "parent_chunk_id": "50b86fd60230_L0_0007"
+    }
+  },
+  {
+    "chunk_id": "50b86fd60230_L0_0007_L1_0000_L2_0000",
+    "text": "technopolic obsession with “the \nInternet” (a term he purposefully places \nin scare quotes to emphasize its role as \nan ideology), saying: “It’s this\npropensity to view ‘the Internet’  as a \nsource of wisdom and policy advice that \ntransforms it from a fairly uninteresting \nset of cables and network routers into a \nseductive and exciting ideology— \nperhaps today’s uber-ideology.”\nIn Morozov’s critique, we’ve made\n\n“the Internet” synonymous with the \nrevolutionary future of business and \ngovernment. To make your company \nmore like “the Internet” is to be with the \ntimes, and to ignore these trends is to be \nthe proverbial buggy-whip maker in an \nautomotive age. We no longer see \nInternet tools as products released by \nfor-profit companies, funded by \ninvestors hoping to make a return, and \nrun by twentysomethings who are often \nmaking things up as they go along. We’re \ninstead quick to idolize these digital \ndoodads as a signifier of progress and a \nharbinger of a (dare I say, brave) new \nworld.\nThis Internet-centrism (to steal",
+    "level": 2,
+    "parent_id": "50b86fd60230_L0_0007_L1_0000",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Part 1, Chapter 2",
+      "subject": "Scarcity of Deep Work",
+      "context": "Analyzing business trends (open offices, instant messaging, social media) that promote shallowness and hinder deep work.",
+      "source_document": "dw_part1_ch02_Deep_Work_Is_Rare.txt",
+      "document_id": "50b86fd60230",
+      "created_at": "2025-10-26T02:54:49.934991",
+      "level": 2,
+      "parent_chunk_id": "50b86fd60230_L0_0007_L1_0000"
+    }
+  },
+  {
+    "chunk_id": "50b86fd60230_L0_0007_L1_0000_L2_0001",
+    "text": " along. We’re \ninstead quick to idolize these digital \ndoodads as a signifier of progress and a \nharbinger of a (dare I say, brave) new \nworld.\nThis Internet-centrism (to steal\n\nanother Morozov term) is what \ntechnopoly looks like today. It’s \nimportant that we recognize this reality \nbecause it explains the question that \nopened this section. The New York Times  \nmaintains a social media desk and \npressures its writers, like Alissa Rubin, \ntoward distracting behavior, because in \nan Internet-centric technopoly such \nbehavior is not up for discussion. The \nalternative, to not embrace all things \nInternet, is, as Postman would say, \n“invisible and therefore irrelevant.”\nThis invisibility explains the uproar, \nmentioned earlier, that arose when \nJonathan Franzen dared suggest that \nnovelists shouldn’t tweet. It riled people\n\nnot because they’re well versed in book \nmarketing and disagreed with Franzen’s \nconclusion, but because it surprised \nthem that anyone serious would suggest \nthe irrelevance of social media. In an \nInternet-centric technopoly such a \nstatement is the equivalent of a flag \nburning—",
+    "level": 2,
+    "parent_id": "50b86fd60230_L0_0007_L1_0000",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Part 1, Chapter 2",
+      "subject": "Scarcity of Deep Work",
+      "context": "Analyzing business trends (open offices, instant messaging, social media) that promote shallowness and hinder deep work.",
+      "source_document": "dw_part1_ch02_Deep_Work_Is_Rare.txt",
+      "document_id": "50b86fd60230",
+      "created_at": "2025-10-26T02:54:49.934991",
+      "level": 2,
+      "parent_chunk_id": "50b86fd60230_L0_0007_L1_0000"
+    }
+  },
+  {
+    "chunk_id": "50b86fd60230_L0_0007_L1_0000_L2_0002",
+    "text": " and disagreed with Franzen’s \nconclusion, but because it surprised \nthem that anyone serious would suggest \nthe irrelevance of social media. In an \nInternet-centric technopoly such a \nstatement is the equivalent of a flag \nburning—desecration, not debate.\nPerhaps the near universal reach of \nthis mind-set is best captured in an \nexperience I had recently on my \ncommute to the Georgetown campus \nwhere I work. Waiting for the light to \nchange so I",
+    "level": 2,
+    "parent_id": "50b86fd60230_L0_0007_L1_0000",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Part 1, Chapter 2",
+      "subject": "Scarcity of Deep Work",
+      "context": "Analyzing business trends (open offices, instant messaging, social media) that promote shallowness and hinder deep work.",
+      "source_document": "dw_part1_ch02_Deep_Work_Is_Rare.txt",
+      "document_id": "50b86fd60230",
+      "created_at": "2025-10-26T02:54:49.934991",
+      "level": 2,
+      "parent_chunk_id": "50b86fd60230_L0_0007_L1_0000"
+    }
+  },
+  {
+    "chunk_id": "50b86fd60230_L0_0007_L1_0001",
+    "text": "desecration, not debate.\nPerhaps the near universal reach of \nthis mind-set is best captured in an \nexperience I had recently on my \ncommute to the Georgetown campus \nwhere I work. Waiting for the light to \nchange so I could cross Connecticut \nAvenue, I idled behind a truck from a \nrefrigerated supply chain logistics \ncompany. Refrigerated shipping is a\n\ncomplex, competitive business that \nrequires equal skill managing trade \nunions and route scheduling. It’s the \nultimate old-school industry and in many \nways is the opposite of the lean \nconsumer-facing tech start-ups that \ncurrently receive so much attention. \nWhat struck me as I waited in traffic \nbehind this truck, however, was not the \ncomplexity or scale of this company, but \ninstead a graphic that had been \ncommissioned and then affixed,\nprobably at significant expense, on the \nback of this entire fleet of trucks— a \ngraphic that read: “like us on\nFacebook.”\nDeep work is at a severe\n\ndisadvantage in a technopoly because it \nbuilds on values like quality, \ncraftsmanship, and mastery that are \ndecidedly old-fashioned and \nnontechnological. Even worse, to \nsupport deep work often requires the \nrejection of much of what is new and \nhigh-tech. Deep work is exiled in favor \nof more distracting high-tech behaviors, \nlike the professional use of social \nmedia, not because the former is \nempirically inferior to the latter. Indeed, \nif we had hard metrics relating the \nimpact of these behaviors on the bottom \nline, our current technopoly would likely \ncrumble. But the metric black hole \nprevents such clarity and allows us\n\ninstead to elevate all things Internet into \nMorozov’s feared “uber-ideology.” In \nsuch a culture, we should not be \nsurprised that deep work struggles to \ncompete against the shiny thrum of \ntweets, likes, tagged photos, walls, \nposts, and all the other behaviors that \nwe’re now taught are necessary for no \nother reason than that they exist.\nBad for Business. Good for \nYou.\nDeep work should  be a priority in \ntoday’s business climate. But it’s not. \nI’ve just summarized various\n\nexplanations for this paradox. Among \nthem are the realities that deep work is \nhard and shallow work is easier, that in \nthe absence of clear goals",
+    "level": 1,
+    "parent_id": "50b86fd60230_L0_0007",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Part 1, Chapter 2",
+      "subject": "Scarcity of Deep Work",
+      "context": "Analyzing business trends (open offices, instant messaging, social media) that promote shallowness and hinder deep work.",
+      "source_document": "dw_part1_ch02_Deep_Work_Is_Rare.txt",
+      "document_id": "50b86fd60230",
+      "created_at": "2025-10-26T02:54:49.934991",
+      "level": 1,
+      "parent_chunk_id": "50b86fd60230_L0_0007"
+    }
+  },
+  {
+    "chunk_id": "50b86fd60230_L0_0007_L1_0001_L2_0000",
+    "text": "desecration, not debate.\nPerhaps the near universal reach of \nthis mind-set is best captured in an \nexperience I had recently on my \ncommute to the Georgetown campus \nwhere I work. Waiting for the light to \nchange so I could cross Connecticut \nAvenue, I idled behind a truck from a \nrefrigerated supply chain logistics \ncompany. Refrigerated shipping is a\n\ncomplex, competitive business that \nrequires equal skill managing trade \nunions and route scheduling. It’s the \nultimate old-school industry and in many \nways is the opposite of the lean \nconsumer-facing tech start-ups that \ncurrently receive so much attention. \nWhat struck me as I waited in traffic \nbehind this truck, however, was not the \ncomplexity or scale of this company, but \ninstead a graphic that had been \ncommissioned and then affixed,\nprobably at significant expense, on the \nback of this entire fleet of trucks— a \ngraphic that read: “like us on\nFacebook.”\nDeep work is at a severe\n\ndisadvantage in a technopoly because it \nbuilds on values like quality, \ncraftsmanship, and mastery that are \ndecidedly old-fashioned and \nnontechnological. Even worse, to",
+    "level": 2,
+    "parent_id": "50b86fd60230_L0_0007_L1_0001",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Part 1, Chapter 2",
+      "subject": "Scarcity of Deep Work",
+      "context": "Analyzing business trends (open offices, instant messaging, social media) that promote shallowness and hinder deep work.",
+      "source_document": "dw_part1_ch02_Deep_Work_Is_Rare.txt",
+      "document_id": "50b86fd60230",
+      "created_at": "2025-10-26T02:54:49.934991",
+      "level": 2,
+      "parent_chunk_id": "50b86fd60230_L0_0007_L1_0001"
+    }
+  },
+  {
+    "chunk_id": "50b86fd60230_L0_0007_L1_0001_L2_0001",
+    "text": "Deep work is at a severe\n\ndisadvantage in a technopoly because it \nbuilds on values like quality, \ncraftsmanship, and mastery that are \ndecidedly old-fashioned and \nnontechnological. Even worse, to \nsupport deep work often requires the \nrejection of much of what is new and \nhigh-tech. Deep work is exiled in favor \nof more distracting high-tech behaviors, \nlike the professional use of social \nmedia, not because the former is \nempirically inferior to the latter. Indeed, \nif we had hard metrics relating the \nimpact of these behaviors on the bottom \nline, our current technopoly would likely \ncrumble. But the metric black hole \nprevents such clarity and allows us\n\ninstead to elevate all things Internet into \nMorozov’s feared “uber-ideology.” In \nsuch a culture, we should not be \nsurprised that deep work struggles to \ncompete against the shiny thrum of \ntweets, likes, tagged photos, walls, \nposts, and all the other behaviors that \nwe’re now taught are necessary for no \nother reason than that they exist.\nBad for Business. Good for \nYou.\nDeep work should  be a priority in \n",
+    "level": 2,
+    "parent_id": "50b86fd60230_L0_0007_L1_0001",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Part 1, Chapter 2",
+      "subject": "Scarcity of Deep Work",
+      "context": "Analyzing business trends (open offices, instant messaging, social media) that promote shallowness and hinder deep work.",
+      "source_document": "dw_part1_ch02_Deep_Work_Is_Rare.txt",
+      "document_id": "50b86fd60230",
+      "created_at": "2025-10-26T02:54:49.934991",
+      "level": 2,
+      "parent_chunk_id": "50b86fd60230_L0_0007_L1_0001"
+    }
+  },
+  {
+    "chunk_id": "50b86fd60230_L0_0007_L1_0001_L2_0002",
+    "text": ", tagged photos, walls, \nposts, and all the other behaviors that \nwe’re now taught are necessary for no \nother reason than that they exist.\nBad for Business. Good for \nYou.\nDeep work should  be a priority in \ntoday’s business climate. But it’s not. \nI’ve just summarized various\n\nexplanations for this paradox. Among \nthem are the realities that deep work is \nhard and shallow work is easier, that in \nthe absence of clear goals",
+    "level": 2,
+    "parent_id": "50b86fd60230_L0_0007_L1_0001",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Part 1, Chapter 2",
+      "subject": "Scarcity of Deep Work",
+      "context": "Analyzing business trends (open offices, instant messaging, social media) that promote shallowness and hinder deep work.",
+      "source_document": "dw_part1_ch02_Deep_Work_Is_Rare.txt",
+      "document_id": "50b86fd60230",
+      "created_at": "2025-10-26T02:54:49.934991",
+      "level": 2,
+      "parent_chunk_id": "50b86fd60230_L0_0007_L1_0001"
+    }
+  },
+  {
+    "chunk_id": "50b86fd60230_L0_0007_L1_0002",
+    "text": "today’s business climate. But it’s not. \nI’ve just summarized various\n\nexplanations for this paradox. Among \nthem are the realities that deep work is \nhard and shallow work is easier, that in \nthe absence of clear goals for your job, \nthe visible busyness that surrounds \nshallow work becomes self-preserving, \nand that our culture has developed a \nbelief that if a behavior relates to “the \nInternet,” then it’s good—regardless of",
+    "level": 1,
+    "parent_id": "50b86fd60230_L0_0007",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Part 1, Chapter 2",
+      "subject": "Scarcity of Deep Work",
+      "context": "Analyzing business trends (open offices, instant messaging, social media) that promote shallowness and hinder deep work.",
+      "source_document": "dw_part1_ch02_Deep_Work_Is_Rare.txt",
+      "document_id": "50b86fd60230",
+      "created_at": "2025-10-26T02:54:49.934991",
+      "level": 1,
+      "parent_chunk_id": "50b86fd60230_L0_0007"
+    }
+  },
+  {
+    "chunk_id": "50b86fd60230_L0_0007_L1_0002_L2_0000",
+    "text": "today’s business climate. But it’s not. \nI’ve just summarized various\n\nexplanations for this paradox. Among \nthem are the realities that deep work is \nhard and shallow work is easier, that in \nthe absence of clear goals for your job, \nthe visible busyness that surrounds \nshallow work becomes self-preserving, \nand that our culture has developed a \nbelief that if a behavior relates to “the \nInternet,” then it’s good—regardless of",
+    "level": 2,
+    "parent_id": "50b86fd60230_L0_0007_L1_0002",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Part 1, Chapter 2",
+      "subject": "Scarcity of Deep Work",
+      "context": "Analyzing business trends (open offices, instant messaging, social media) that promote shallowness and hinder deep work.",
+      "source_document": "dw_part1_ch02_Deep_Work_Is_Rare.txt",
+      "document_id": "50b86fd60230",
+      "created_at": "2025-10-26T02:54:49.934991",
+      "level": 2,
+      "parent_chunk_id": "50b86fd60230_L0_0007_L1_0002"
+    }
+  },
+  {
+    "chunk_id": "50b86fd60230_L0_0008",
+    "text": " for your job, \nthe visible busyness that surrounds \nshallow work becomes self-preserving, \nand that our culture has developed a \nbelief that if a behavior relates to “the \nInternet,” then it’s good—regardless of \nits impact on our ability to produce \nvaluable things. All of these trends are \nenabled by the difficulty of directly \nmeasuring the value of depth or the cost \nof ignoring it.\nIf you believe in the value of depth, \nthis reality spells bad news for \nbusinesses in general, as it’s leading\n\nthem to miss out on potentially massive \nincreases in their value production. But \nfor you, as an individual, good news \nlurks. The myopia of your peers and \nemployers uncovers a great personal \nadvantage. Assuming the trends outlined \nhere continue, depth will become \nincreasingly rare and therefore \nincreasingly valuable. Having just \nestablished that there’s nothing \nfundamentally flawed about deep work \nand nothing fundamentally necessary \nabout the distracting behaviors that \ndisplace it, you can therefore continue \nwith confidence with the ultimate goal of \nthis book: to systematically develop \nyour personal ability to go deep—and by\n\ndoing so, reap great rewards.",
+    "level": 0,
+    "parent_id": null,
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Part 1, Chapter 2",
+      "subject": "Scarcity of Deep Work",
+      "context": "Analyzing business trends (open offices, instant messaging, social media) that promote shallowness and hinder deep work.",
+      "source_document": "dw_part1_ch02_Deep_Work_Is_Rare.txt",
+      "document_id": "50b86fd60230",
+      "created_at": "2025-10-26T02:54:49.934991",
+      "level": 0
+    }
+  },
+  {
+    "chunk_id": "50b86fd60230_L0_0008_L1_0000",
+    "text": " for your job, \nthe visible busyness that surrounds \nshallow work becomes self-preserving, \nand that our culture has developed a \nbelief that if a behavior relates to “the \nInternet,” then it’s good—regardless of \nits impact on our ability to produce \nvaluable things. All of these trends are \nenabled by the difficulty of directly \nmeasuring the value of depth or the cost \nof ignoring it.\nIf you believe in the value of depth, \nthis reality spells bad news for \nbusinesses in general, as it’s leading\n\nthem to miss out on potentially massive \nincreases in their value production. But \nfor you, as an individual, good news \nlurks. The myopia of your peers and \nemployers uncovers a great personal \nadvantage. Assuming the trends outlined \nhere continue, depth will become \nincreasingly rare and therefore \nincreasingly valuable. Having just \nestablished that there’s nothing \nfundamentally flawed about deep work \nand nothing fundamentally necessary \nabout the distracting behaviors that \ndisplace it, you can therefore continue \nwith confidence with the ultimate goal of \nthis book: to systematically develop \nyour personal ability to go deep—and by\n\ndoing so, reap great rewards.",
+    "level": 1,
+    "parent_id": "50b86fd60230_L0_0008",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Part 1, Chapter 2",
+      "subject": "Scarcity of Deep Work",
+      "context": "Analyzing business trends (open offices, instant messaging, social media) that promote shallowness and hinder deep work.",
+      "source_document": "dw_part1_ch02_Deep_Work_Is_Rare.txt",
+      "document_id": "50b86fd60230",
+      "created_at": "2025-10-26T02:54:49.934991",
+      "level": 1,
+      "parent_chunk_id": "50b86fd60230_L0_0008"
+    }
+  },
+  {
+    "chunk_id": "50b86fd60230_L0_0008_L1_0000_L2_0000",
+    "text": " for your job, \nthe visible busyness that surrounds \nshallow work becomes self-preserving, \nand that our culture has developed a \nbelief that if a behavior relates to “the \nInternet,” then it’s good—regardless of \nits impact on our ability to produce \nvaluable things. All of these trends are \nenabled by the difficulty of directly \nmeasuring the value of depth or the cost \nof ignoring it.\nIf you believe in the value of depth, \nthis reality spells bad news for \nbusinesses in general, as it’s leading\n\nthem to miss out on potentially massive \nincreases in their value production. But \nfor you, as an individual, good news \nlurks. The myopia of your peers and \nemployers uncovers a great personal \nadvantage. Assuming the trends outlined \nhere continue, depth will become \nincreasingly rare and therefore \nincreasingly valuable. Having just \nestablished that there’s nothing \nfundamentally flawed about deep work \nand nothing fundamentally necessary \nabout the distracting behaviors that \ndisplace it, you can therefore continue \nwith confidence with the ultimate goal of \nthis book: to systematically develop \nyour personal ability to go deep—and by\n\ndoing so,",
+    "level": 2,
+    "parent_id": "50b86fd60230_L0_0008_L1_0000",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Part 1, Chapter 2",
+      "subject": "Scarcity of Deep Work",
+      "context": "Analyzing business trends (open offices, instant messaging, social media) that promote shallowness and hinder deep work.",
+      "source_document": "dw_part1_ch02_Deep_Work_Is_Rare.txt",
+      "document_id": "50b86fd60230",
+      "created_at": "2025-10-26T02:54:49.934991",
+      "level": 2,
+      "parent_chunk_id": "50b86fd60230_L0_0008_L1_0000"
+    }
+  },
+  {
+    "chunk_id": "50b86fd60230_L0_0008_L1_0000_L2_0001",
+    "text": " deep work \nand nothing fundamentally necessary \nabout the distracting behaviors that \ndisplace it, you can therefore continue \nwith confidence with the ultimate goal of \nthis book: to systematically develop \nyour personal ability to go deep—and by\n\ndoing so, reap great rewards.",
+    "level": 2,
+    "parent_id": "50b86fd60230_L0_0008_L1_0000",
+    "metadata": {
+      "author": "Cal Newport",
+      "source": "Book: Deep Work, Part 1, Chapter 2",
+      "subject": "Scarcity of Deep Work",
+      "context": "Analyzing business trends (open offices, instant messaging, social media) that promote shallowness and hinder deep work.",
+      "source_document": "dw_part1_ch02_Deep_Work_Is_Rare.txt",
+      "document_id": "50b86fd60230",
+      "created_at": "2025-10-26T02:54:49.934991",
+      "level": 2,
+      "parent_chunk_id": "50b86fd60230_L0_0008_L1_0000"
+    }
+  }
+]
