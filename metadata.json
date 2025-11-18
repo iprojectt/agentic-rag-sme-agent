@@ -1,0 +1,848 @@
+{
+  "sh_part1_Paradigms_and_Principles.pdf": {
+    "author": "Stephen R. Covey",
+    "source": "Book: The 7 Habits of Highly Effective People, Part 1",
+    "subject": "Core Principles",
+    "context": "The 'Inside-Out' approach, Character Ethic vs. Personality Ethic, and the concept of paradigms."
+  },
+  "sh_part2_habit1_Be_Proactive.pdf": {
+    "author": "Stephen R. Covey",
+    "source": "Book: The 7 Habits of Highly Effective People, Habit 1",
+    "subject": "Proactivity",
+    "context": "Principles of Personal Vision, taking initiative, and focusing on the Circle of Influence."
+  },
+  "sh_part2_habit2_Begin_with_the_End_in_Mind.pdf": {
+    "author": "Stephen R. Covey",
+    "source": "Book: The 7 Habits of Highly Effective People, Habit 2",
+    "subject": "Personal Leadership",
+    "context": "Principles of Personal Leadership and creating a personal mission statement."
+  },
+  "sh_part2_habit3_Put_First_Things_First.pdf": {
+    "author": "Stephen R. Covey",
+    "source": "Book: The 7 Habits of Highly Effective People, Habit 3",
+    "subject": "Personal Management",
+    "context": "Principles of Personal Management, the Time Management Matrix, and focusing on Quadrant II."
+  },
+  "sh_part3_intro_Public_Victory.pdf": {
+    "author": "Stephen R. Covey",
+    "source": "Book: The 7 Habits of Highly Effective People, Part 3 Intro",
+    "subject": "Interdependence",
+    "context": "Introduction to Public Victory and the Emotional Bank Account metaphor."
+  },
+  "sh_part3_habit4_Think_Win-Win.pdf": {
+    "author": "Stephen R. Covey",
+    "source": "Book: The 7 Habits of Highly Effective People, Habit 4",
+    "subject": "Interpersonal Leadership",
+    "context": "Principles of Interpersonal Leadership and the six paradigms of human interaction."
+  },
+  "sh_part3_habit5_Seek_First_to_Understand.pdf": {
+    "author": "Stephen R. Covey",
+    "source": "Book: The 7 Habits of Highly Effective People, Habit 5",
+    "subject": "Empathic Communication",
+    "context": "Principles of Empathic Communication, diagnosing before prescribing."
+  },
+  "sh_part3_habit6_Synergize.pdf": {
+    "author": "Stephen R. Covey",
+    "source": "Book: The 7 Habits of Highly Effective People, Habit 6",
+    "subject": "Creative Cooperation",
+    "context": "Principles of Creative Cooperation and valuing differences to create a Third Alternative."
+  },
+  "sh_part4_habit7_Sharpen_the_Saw.pdf": {
+    "author": "Stephen R. Covey",
+    "source": "Book: The 7 Habits of Highly Effective People, Habit 7",
+    "subject": "Self-Renewal",
+    "context": "Principles of Balanced Self-Renewal across the four dimensions of life: physical, spiritual, mental, and social/emotional."
+  },
+  "sh_conclusion_Inside-Out_Again.pdf": {
+    "author": "Stephen R. Covey",
+    "source": "Book: The 7 Habits of Highly Effective People, Conclusion",
+    "subject": "Final Thoughts",
+    "context": "A concluding personal story reinforcing the Inside-Out approach and intergenerational living."
+  },
+  "sh_appendix_A_and_B.pdf": {
+    "author": "Stephen R. Covey",
+    "source": "Book: The 7 Habits of Highly Effective People, Appendices",
+    "subject": "Practical Application",
+    "context": "A chart of perceptions from different life centers and a Quadrant II Day at the Office exercise."
+  },
+  "Introduction_My_Story.pdf": {
+    "author": "James Clear",
+    "source": "Book: Atomic Habits, Introduction",
+    "subject": "Author's Backstory",
+    "context": "Narrative"
+  },
+  "ch01_The_Surprising_Power_of_Atomic_Habits.pdf": {
+    "author": "James Clear",
+    "source": "Book: Atomic Habits, Chapter 1",
+    "subject": "Core Principles",
+    "context": "The Compound Effect of Habits"
+  },
+  "ch02_How_Your_Habits_Shape_Your_Identity.pdf": {
+    "author": "James Clear",
+    "source": "Book: Atomic Habits, Chapter 2",
+    "subject": "Core Principles",
+    "context": "Identity-Based Habits"
+  },
+  "ch03_How_to_Build_Better_Habits_in_4_Simple_Steps.pdf": {
+    "author": "James Clear",
+    "source": "Book: Atomic Habits, Chapter 3",
+    "subject": "Core Principles",
+    "context": "The Four-Step Habit Loop"
+  },
+  "ch04_The_Man_Who_Didnt_Look_Right.pdf": {
+    "author": "James Clear",
+    "source": "Book: Atomic Habits, Chapter 4",
+    "subject": "The 1st Law: Make It Obvious",
+    "context": "Habit Scorecard and Awareness"
+  },
+  "ch05_The_Best_Way_to_Start_a_New_Habit.pdf": {
+    "author": "James Clear",
+    "source": "Book: Atomic Habits, Chapter 5",
+    "subject": "The 1st Law: Make It Obvious",
+    "context": "Practical Technique: Implementation Intentions"
+  },
+  "ch06_Motivation_Is_Overrated_Environment_Often_Matters_More.pdf": {
+    "author": "James Clear",
+    "source": "Book: Atomic Habits, Chapter 6",
+    "subject": "The 1st Law: Make It Obvious",
+    "context": "Practical Technique: Environment Design"
+  },
+  "ch07_The_Secret_to_Self-Control.pdf": {
+    "author": "James Clear",
+    "source": "Book: Atomic Habits, Chapter 7",
+    "subject": "The 1st Law: Make It Obvious",
+    "context": "Inversion: Removing Cues"
+  },
+  "ch08_How_to_Make_a_Habit_Irresistible.pdf": {
+    "author": "James Clear",
+    "source": "Book: Atomic Habits, Chapter 8",
+    "subject": "The 2nd Law: Make It Attractive",
+    "context": "Dopamine and Cravings"
+  },
+  "ch09_The_Role_of_Family_and_Friends_in_Shaping_Your_Habits.pdf": {
+    "author": "James Clear",
+    "source": "Book: Atomic Habits, Chapter 9",
+    "subject": "The 2nd Law: Make It Attractive",
+    "context": "Influence of Social Norms"
+  },
+  "ch10_How_to_Find_and_Fix_the_Causes_of_Your_Bad_Habits.pdf": {
+    "author": "James Clear",
+    "source": "Book: Atomic Habits, Chapter 10",
+    "subject": "The 2nd Law: Make It Attractive",
+    "context": "Inversion: Reframing Cravings"
+  },
+  "ch11_Walk_Slowly_but_Never_Backward.pdf": {
+    "author": "James Clear",
+    "source": "Book: Atomic Habits, Chapter 11",
+    "subject": "The 3rd Law: Make It Easy",
+    "context": "Repetition over Perfection"
+  },
+  "ch12_The_Law_of_Least_Effort.pdf": {
+    "author": "James Clear",
+    "source": "Book: Atomic Habits, Chapter 12",
+    "subject": "The 3rd Law: Make It Easy",
+    "context": "Reducing Friction"
+  },
+  "ch13_How_to_Stop_Procrastinating_by_Using_the_Two-Minute_Rule.pdf": {
+    "author": "James Clear",
+    "source": "Book: Atomic Habits, Chapter 13",
+    "subject": "The 3rd Law: Make It Easy",
+    "context": "Practical Technique: The Two-Minute Rule"
+  },
+  "ch14_How_to_Make_Good_Habits_Inevitable_and_Bad_Habits_Impossible.pdf": {
+    "author": "James Clear",
+    "source": "Book: Atomic Habits, Chapter 14",
+    "subject": "The 3rd Law: Make It Easy",
+    "context": "Practical Technique: Commitment Devices"
+  },
+  "ch15_The_Cardinal_Rule_of_Behavior_Change.pdf": {
+    "author": "James Clear",
+    "source": "Book: Atomic Habits, Chapter 15",
+    "subject": "The 4th Law: Make It Satisfying",
+    "context": "Immediate vs. Delayed Rewards"
+  },
+  "ch16_How_to_Stick_with_Good_Habits_Every_Day.pdf": {
+    "author": "James Clear",
+    "source": "Book: Atomic Habits, Chapter 16",
+    "subject": "The 4th Law: Make It Satisfying",
+    "context": "Practical Technique: Habit Tracking"
+  },
+  "ch17_How_an_Accountability_Partner_Can_Change_Everything.pdf": {
+    "author": "James Clear",
+    "source": "Book: Atomic Habits, Chapter 17",
+    "subject": "The 4th Law: Make It Satisfying",
+    "context": "Practical Technique: Accountability"
+  },
+  "ch18_The_Truth_About_Talent.pdf": {
+    "author": "James Clear",
+    "source": "Book: Atomic Habits, Chapter 18",
+    "subject": "Advanced Tactics",
+    "context": "Aligning Habits with Personality"
+  },
+  "ch19_The_Goldilocks_Rule.pdf": {
+    "author": "James Clear",
+    "source": "Book: Atomic Habits, Chapter 19",
+    "subject": "Advanced Tactics",
+    "context": "Motivation and Optimal Difficulty"
+  },
+  "ch20_The_Downside_of_Creating_Good_Habits.pdf": {
+    "author": "James Clear",
+    "source": "Book: Atomic Habits, Chapter 20",
+    "subject": "Advanced Tactics",
+    "context": "Reflection and Review"
+  },
+  "Conclusion_The_Secret_to_Results_That_Last.pdf": {
+    "author": "James Clear",
+    "source": "Book: Atomic Habits, Conclusion",
+    "subject": "Core Principles",
+    "context": "Summary of Systems Thinking"
+  },
+  "htg_part1_The_Foundation_Ch1-5.pdf": {
+    "author": "Alan Lakein",
+    "source": "Book: How to Get Control of Your Time and Your Life, Chapters 1-5",
+    "subject": "Core Principles of Time Management",
+    "context": "Establishes the philosophy that 'Time is Life,' defines control, and introduces lifetime goal setting and the ABC Priority System."
+  },
+  "htg_part2_Getting_into_Action_Ch6-10.pdf": {
+    "author": "Alan Lakein",
+    "source": "Book: How to Get Control of Your Time and Your Life, Chapters 6-10",
+    "subject": "Practical Planning and Prioritization",
+    "context": "Covers turning goals into activities, the mechanics of scheduling, finding unused time, and using To-Do lists effectively, including applying the 80/20 rule."
+  },
+  "htg_part3_Managing_Yourself_and_Others_Ch11-13.pdf": {
+    "author": "Alan Lakein",
+    "source": "Book: How to Get Control of Your Time and Your Life, Chapters 11-13",
+    "subject": "Interpersonal Time Management",
+    "context": "Strategies for handling the demands of others, learning to say 'No,' making compromises, and creating quiet time for focused work."
+  },
+  "htg_part4_Overcoming_Procrastination_Ch14-18.pdf": {
+    "author": "Alan Lakein",
+    "source": "Book: How to Get Control of Your Time and Your Life, Chapters 14-18",
+    "subject": "Procrastination Techniques",
+    "context": "A detailed guide on tackling procrastination, including the 'Swiss Cheese Method,' finding 'instant tasks,' using stimulus changes, and overcoming fear."
+  },
+  "htg_part5_Advanced_Strategies_and_Conclusion_Ch19-Appendix.pdf": {
+    "author": "Alan Lakein",
+    "source": "Book: How to Get Control of Your Time and Your Life, Chapters 19-Appendix",
+    "subject": "Advanced Techniques and Summary",
+    "context": "Examines the price of delay, using benefits for motivation, building willpower, and concludes with the author's personal list of time-saving habits."
+  },
+  "dw_introduction.pdf": {
+    "author": "Cal Newport",
+    "source": "Book: Deep Work, Introduction",
+    "subject": "Core Concepts",
+    "context": "Defining Deep Work versus Shallow Work and presenting the Deep Work Hypothesis."
+  },
+  "dw_part1_ch01_Deep_Work_Is_Valuable.pdf": {
+    "author": "Cal Newport",
+    "source": "Book: Deep Work, Part 1, Chapter 1",
+    "subject": "Value of Deep Work",
+    "context": "Arguing that deep work is a key skill for thriving in the new economy among high-skilled workers and superstars."
+  },
+  "dw_part1_ch02_Deep_Work_Is_Rare.pdf": {
+    "author": "Cal Newport",
+    "source": "Book: Deep Work, Part 1, Chapter 2",
+    "subject": "Scarcity of Deep Work",
+    "context": "Analyzing business trends (open offices, instant messaging, social media) that promote shallowness and hinder deep work."
+  },
+  "dw_part1_ch03_Deep_Work_Is_Meaningful.pdf": {
+    "author": "Cal Newport",
+    "source": "Book: Deep Work, Part 1, Chapter 3",
+    "subject": "Meaning and Fulfillment",
+    "context": "Presenting neurological, psychological, and philosophical arguments for why a life centered on deep work is meaningful."
+  },
+  "dw_part2_rule01_Work_Deeply.pdf": {
+    "author": "Cal Newport",
+    "source": "Book: Deep Work, Part 2, Rule #1",
+    "subject": "Practical Strategies for Deep Work",
+    "context": "Presenting different philosophies for scheduling deep work (monastic, bimodal, rhythmic, journalistic) and the importance of rituals."
+  },
+  "dw_part2_rule02_Embrace_Boredom.pdf": {
+    "author": "Cal Newport",
+    "source": "Book: Deep Work, Part 2, Rule #2",
+    "subject": "Training Concentration",
+    "context": "Techniques for improving focus by weaning the mind from a dependency on distraction and embracing boredom."
+  },
+  "dw_part2_rule03_Quit_Social_Media.pdf": {
+    "author": "Cal Newport",
+    "source": "Book: Deep Work, Part 2, Rule #3",
+    "subject": "Tool Selection",
+    "context": "Advocating for the 'craftsman approach' to adopting tools over the 'any-benefit' mindset, especially regarding social media."
+  },
+  "dw_part2_rule04_Drain_the_Shallows.pdf": {
+    "author": "Cal Newport",
+    "source": "Book: Deep Work, Part 2, Rule #4",
+    "subject": "Minimizing Shallow Work",
+    "context": "Strategies for scheduling every minute, quantifying the depth of activities, and setting a shallow work budget."
+  },
+  "dw_conclusion.pdf": {
+    "author": "Cal Newport",
+    "source": "Book: Deep Work, Conclusion",
+    "subject": "Summary and Call to Action",
+    "context": "A final argument for the pragmatic power of deep work, illustrated through the author's personal journey."
+  },
+  "etf_preface.pdf": {
+    "author": "Brian Tracy",
+    "source": "Book: Eat That Frog!, Preface",
+    "subject": "Philosophy of Productivity",
+    "context": "The core problem of never having enough time and the need for selective focus."
+  },
+  "etf_introduction_Eat_That_Frog.pdf": {
+    "author": "Brian Tracy",
+    "source": "Book: Eat That Frog!, Introduction",
+    "subject": "Core Metaphor",
+    "context": "Defining your 'frog' as your most important task and the rules for tackling it."
+  },
+  "etf_ch01_Set_the_Table.pdf": {
+    "author": "Brian Tracy",
+    "source": "Book: Eat That Frog!, Chapter 1",
+    "subject": "Goal Setting",
+    "context": "The importance of clarity and the seven-step method for setting and achieving goals."
+  },
+  "etf_ch02_Plan_Every_Day_In_Advance.pdf": {
+    "author": "Brian Tracy",
+    "source": "Book: Eat That Frog!, Chapter 2",
+    "subject": "Daily Planning",
+    "context": "The value of planning each day in advance using lists and the 10/90 Rule."
+  },
+  "etf_ch03_Apply_the_80-20_Rule.pdf": {
+    "author": "Brian Tracy",
+    "source": "Book: Eat That Frog!, Chapter 3",
+    "subject": "Prioritization",
+    "context": "Applying the 80/20 Rule (Pareto Principle) to focus on the most valuable tasks."
+  },
+  "etf_ch04_Consider_the_Consequences.pdf": {
+    "author": "Brian Tracy",
+    "source": "Book: Eat That Frog!, Chapter 4",
+    "subject": "Prioritization",
+    "context": "Using long-term thinking and the potential consequences of actions to determine priorities."
+  },
+  "etf_ch05_Practice_Creative_Procrastination.pdf": {
+    "author": "Brian Tracy",
+    "source": "Book: Eat That Frog!, Chapter 5",
+    "subject": "Procrastination Techniques",
+    "context": "The concept of deliberately procrastinating on low-value tasks."
+  },
+  "etf_ch06_Use_the_ABCDE_Method.pdf": {
+    "author": "Brian Tracy",
+    "source": "Book: Eat That Frog!, Chapter 6",
+    "subject": "Prioritization",
+    "context": "A practical method for categorizing and prioritizing tasks daily."
+  },
+  "etf_ch07_Focus_on_Key_Result_Areas.pdf": {
+    "author": "Brian Tracy",
+    "source": "Book: Eat That Frog!, Chapter 7",
+    "subject": "Focus",
+    "context": "Identifying and concentrating on the key areas where results are essential for success."
+  },
+  "etf_ch08_The_Law_of_Three.pdf": {
+    "author": "Brian Tracy",
+    "source": "Book: Eat That Frog!, Chapter 8",
+    "subject": "Focus",
+    "context": "Identifying the three core tasks that contribute 90% of your value."
+  },
+  "etf_ch09_Prepare_Thoroughly.pdf": {
+    "author": "Brian Tracy",
+    "source": "Book: Eat That Frog!, Chapter 9",
+    "subject": "Preparation",
+    "context": "The importance of setting up your workspace and having all materials ready before starting a task."
+  },
+  "etf_ch10_Take_It_One_Oil_Barrel_at_a_Time.pdf": {
+    "author": "Brian Tracy",
+    "source": "Book: Eat That Frog!, Chapter 10",
+    "subject": "Task Management",
+    "context": "Breaking down large, daunting tasks into single, manageable steps."
+  },
+  "etf_ch11_Upgrade_Your_Key_Skills.pdf": {
+    "author": "Brian Tracy",
+    "source": "Book: Eat That Frog!, Chapter 11",
+    "subject": "Skill Development",
+    "context": "Overcoming procrastination by improving your skills in key areas."
+  },
+  "etf_ch12_Leverage_Your_Special_Talents.pdf": {
+    "author": "Brian Tracy",
+    "source": "Book: Eat That Frog!, Chapter 12",
+    "subject": "Personal Strengths",
+    "context": "Identifying and focusing on what you do best and enjoy most."
+  },
+  "etf_ch13_Identify_Your_Key_Constraints.pdf": {
+    "author": "Brian Tracy",
+    "source": "Book: Eat That Frog!, Chapter 13",
+    "subject": "Problem Solving",
+    "context": "Finding and addressing the primary bottleneck that is holding you back."
+  },
+  "etf_ch14_Put_the_Pressure_on_Yourself.pdf": {
+    "author": "Brian Tracy",
+    "source": "Book: Eat That Frog!, Chapter 14",
+    "subject": "Motivation",
+    "context": "Techniques for creating internal pressure and imaginary deadlines to drive action."
+  },
+  "etf_ch15_Maximize_Your_Personal_Power.pdf": {
+    "author": "Brian Tracy",
+    "source": "Book: Eat That Frog!, Chapter 15",
+    "subject": "Personal Energy",
+    "context": "Managing physical and mental energy levels by optimizing sleep, rest, and health."
+  },
+  "etf_ch16_Motivate_Yourself_into_Action.pdf": {
+    "author": "Brian Tracy",
+    "source": "Book: Eat That Frog!, Chapter 16",
+    "subject": "Motivation",
+    "context": "Using positive self-talk, optimism, and controlling your inner dialogue to stay motivated."
+  },
+  "etf_ch17_Get_Out_of_Technological_Time_Sinks.pdf": {
+    "author": "Brian Tracy",
+    "source": "Book: Eat That Frog!, Chapter 17",
+    "subject": "Distraction Management",
+    "context": "How to control technology so it serves you instead of enslaving you."
+  },
+  "etf_ch18_Slice_and_Dice_the_Task.pdf": {
+    "author": "Brian Tracy",
+    "source": "Book: Eat That Frog!, Chapter 18",
+    "subject": "Task Management",
+    "context": "Using the 'Salami slice' and 'Swiss cheese' methods to break down and start large tasks."
+  },
+  "etf_ch19_Create_Large_Chunks_of_Time.pdf": {
+    "author": "Brian Tracy",
+    "source": "Book: Eat That Frog!, Chapter 19",
+    "subject": "Focus",
+    "context": "Scheduling large, dedicated blocks of time for your most important work."
+  },
+  "etf_ch20_Develop_a_Sense_of_Urgency.pdf": {
+    "author": "Brian Tracy",
+    "source": "Book: Eat That Frog!, Chapter 20",
+    "subject": "Motivation",
+    "context": "Building a habit of moving fast on key tasks and creating a sense of momentum."
+  },
+  "etf_ch21_Single_Handle_Every_Task.pdf": {
+    "author": "Brian Tracy",
+    "source": "Book: Eat That Frog!, Chapter 21",
+    "subject": "Focus",
+    "context": "The discipline of working on a single task without distraction until it is 100% complete."
+  },
+  "etf_conclusion_Putting_It_All_Together.pdf": {
+    "author": "Brian Tracy",
+    "source": "Book: Eat That Frog!, Conclusion",
+    "subject": "Summary of Principles",
+    "context": "A concise review of the 21 methods for overcoming procrastination."
+  },
+  "Eisenhower_Box_Guide_Atina_Diffley.pdf": {
+    "author": "Atina Diffley",
+    "source": "Guide: Time Management & The Eisenhower Box",
+    "subject": "Practical Application of the Eisenhower Box for Time Management",
+    "context": "A detailed guide that explains the Eisenhower Box (Urgent/Important Matrix) as a crucial tool for farm and personal success. It defines urgent vs. important actions, provides a thorough breakdown of each of the four quadrants (Do, Decide, Delegate, Delete) with specific, practical examples, and offers strategies for using the matrix for planning and analysis. The document includes a blank template for implementation."
+  },
+  "Eisenhower_Matrix_Article.txt": {
+    "author": "Unknown",
+    "source": "Article: Avoid the urgency trap and focus on the right things first, with the Eisenhower Matrix",
+    "subject": "Productivity and Prioritization using the Eisenhower Matrix",
+    "context": "An article that explains how to use the Eisenhower Matrix to improve productivity and eliminate time-wasting activities, particularly within a digital marketing context. It defines the difference between urgent and important tasks, details the four quadrants with business-related examples, and provides tips for implementation. The text also includes a FAQ section addressing who should use the matrix, how to determine what is important, and how to communicate the framework to a team."
+  },
+  "bea_foreword.pdf": {
+    "author": "Tony Schwartz",
+    "source": "Book: Be Excellent at Anything, Foreword",
+    "subject": "Core Principles",
+    "context": "Introduction to Energy Management and the 'Pulse' Concept"
+  },
+  "bea_ch01_More_and_More_Less_and_Less.pdf": {
+    "author": "Tony Schwartz",
+    "source": "Book: Be Excellent at Anything, Chapter 1",
+    "subject": "The Problem with Modern Work",
+    "context": "Critiquing the 'More, Bigger, Faster' Ethic and Introducing the Four Needs"
+  },
+  "bea_ch02_We_Cant_Change_What_We_Dont_Notice.pdf": {
+    "author": "Tony Schwartz",
+    "source": "Book: Be Excellent at Anything, Chapter 2",
+    "subject": "Self-Awareness",
+    "context": "The Role of Awareness and Embracing Opposites"
+  },
+  "bea_ch03_Were_Creatures_of_Habit.pdf": {
+    "author": "Tony Schwartz",
+    "source": "Book: Be Excellent at Anything, Chapter 3",
+    "subject": "Habit Formation and Rituals",
+    "context": "The Science of Willpower and Building Effective Rituals"
+  },
+  "bea_ch04_Feeling_the_Pulse.pdf": {
+    "author": "Tony Schwartz",
+    "source": "Book: Be Excellent at Anything, Chapter 4",
+    "subject": "Physical Energy Management",
+    "context": "The Importance of Rhythmic Renewal (Pulsing)"
+  },
+  "bea_ch05_Sleep_or_Die.pdf": {
+    "author": "Tony Schwartz",
+    "source": "Book: Be Excellent at Anything, Chapter 5",
+    "subject": "Physical Energy: Sleep",
+    "context": "The Science and Necessity of Adequate Sleep"
+  },
+  "bea_ch06_Making_Waves.pdf": {
+    "author": "Tony Schwartz",
+    "source": "Book: Be Excellent at Anything, Chapter 6",
+    "subject": "Physical Energy: Renewal",
+    "context": "Ultradian Rhythms, Napping, and the Vacation Effect"
+  },
+  "bea_ch07_Use_It_or_Lose_It.pdf": {
+    "author": "Tony Schwartz",
+    "source": "Book: Be Excellent at Anything, Chapter 7",
+    "subject": "Physical Energy: Exercise",
+    "context": "The Benefits of Movement, Interval Training, and Strength Training"
+  },
+  "bea_ch08_Less_Is_More.pdf": {
+    "author": "Tony Schwartz",
+    "source": "Book: Be Excellent at Anything, Chapter 8",
+    "subject": "Physical Energy: Nutrition",
+    "context": "Managing Blood Sugar, Mindful Eating, and Portion Control"
+  },
+  "bea_ch09_Creating_a_Culture_That_Pulses.pdf": {
+    "author": "Tony Schwartz",
+    "source": "Book: Be Excellent at Anything, Chapter 9",
+    "subject": "Organizational Culture (Physical)",
+    "context": "Implementing Rhythmic Work and Renewal at the Organizational Level"
+  },
+  "bea_ch10_The_War_Between_the_States.pdf": {
+    "author": "Tony Schwartz",
+    "source": "Book: Be Excellent at Anything, Chapter 10",
+    "subject": "Emotional Energy Management",
+    "context": "Theoretical Framework: The Emotional Quadrants"
+  },
+  "bea_ch11_If_You_Aint_Got_Pride.pdf": {
+    "author": "Tony Schwartz",
+    "source": "Book: Be Excellent at Anything, Chapter 11",
+    "subject": "Emotional Triggers",
+    "context": "The Psychology of Feeling Devalued and the 'Negativity Bias'"
+  },
+  "bea_ch12_The_Facts_and_the_Stories_We_Tell.pdf": {
+    "author": "Tony Schwartz",
+    "source": "Book: Be Excellent at Anything, Chapter 12",
+    "subject": "Cognitive Reframing",
+    "context": "Practical Techniques for Changing Negative Narratives"
+  },
+  "bea_ch13_A_New_Value_Proposition.pdf": {
+    "author": "Tony Schwartz",
+    "source": "Book: Be Excellent at Anything, Chapter 13",
+    "subject": "Organizational Culture (Emotional)",
+    "context": "Leadership's Role in Fostering a Positive Emotional Climate"
+  },
+  "bea_ch14_A_Poverty_of_Attention.pdf": {
+    "author": "Tony Schwartz",
+    "source": "Book: Be Excellent at Anything, Chapter 14",
+    "subject": "Mental Energy: The Problem",
+    "context": "Information Overload, Distraction, and the Myth of Multitasking"
+  },
+  "bea_ch15_One_Thing_at_a_Time.pdf": {
+    "author": "Tony Schwartz",
+    "source": "Book: Be Excellent at Anything, Chapter 15",
+    "subject": "Mental Energy: Solutions",
+    "context": "Techniques for Cultivating Focused Attention"
+  },
+  "bea_ch16_Cultivating_the_Whole_Brain.pdf": {
+    "author": "Tony Schwartz",
+    "source": "Book: Be Excellent at Anything, Chapter 16",
+    "subject": "Mental Energy: Creativity",
+    "context": "Left-Brain vs. Right-Brain Thinking and the Creative Process"
+  },
+  "bea_ch17_Autonomy_for_Accountability.pdf": {
+    "author": "Tony Schwartz",
+    "source": "Book: Be Excellent at Anything, Chapter 17",
+    "subject": "Organizational Culture (Mental)",
+    "context": "Fostering Focus through Autonomy and Clear Accountability"
+  },
+  "bea_ch18_Who_Are_You_and_What_Do_You_Really_Want.pdf": {
+    "author": "Tony Schwartz",
+    "source": "Book: Be Excellent at Anything, Chapter 18",
+    "subject": "Spiritual Energy: Values",
+    "context": "Defining Personal Core Values"
+  },
+  "bea_ch19_Were_All_in_This_Together.pdf": {
+    "author": "Tony Schwartz",
+    "source": "Book: Be Excellent at Anything, Chapter 19",
+    "subject": "Spiritual Energy: Purpose",
+    "context": "Aligning Actions with Values and Serving Others"
+  },
+  "bea_ch20_Purpose_for_Passion.pdf": {
+    "author": "Tony Schwartz",
+    "source": "Book: Be Excellent at Anything, Chapter 20",
+    "subject": "Organizational Culture (Spiritual)",
+    "context": "Building a Purpose-Driven Organizational Culture"
+  },
+  "bea_appendix_The_Big_Ideas.pdf": {
+    "author": "Tony Schwartz",
+    "source": "Book: Be Excellent at Anything, Appendix",
+    "subject": "Core Principles Summary",
+    "context": "Chapter-by-Chapter Review of Key Concepts"
+  },
+"gtd_welcome.pdf": {
+    "author": "David Allen",
+    "source": "Book: Getting Things Done, Welcome",
+    "subject": "GTD Core Principles",
+    "context": "Introduction to the GTD Methodology"
+  },
+  "gtd_ch01_A_New_Practice.pdf": {
+    "author": "David Allen",
+    "source": "Book: Getting Things Done, Chapter 1",
+    "subject": "GTD Core Principles",
+    "context": "The Case for a New Methodology"
+  },
+  "gtd_ch02_Getting_Control_of_Your_Life.pdf": {
+    "author": "David Allen",
+    "source": "Book: Getting Things Done, Chapter 2",
+    "subject": "GTD Methodology",
+    "context": "The Five Stages of Mastering Workflow"
+  },
+  "gtd_ch03_Getting_Projects_Creatively_Under_Way.pdf": {
+    "author": "David Allen",
+    "source": "Book: Getting Things Done, Chapter 3",
+    "subject": "GTD Methodology",
+    "context": "The Five Phases of Project Planning"
+  },
+  "gtd_ch04_Getting_Started.pdf": {
+    "author": "David Allen",
+    "source": "Book: Getting Things Done, Chapter 4",
+    "subject": "GTD Implementation",
+    "context": "Setup Guide: Time, Space, and Tools"
+  },
+  "gtd_ch05_Collection.pdf": {
+    "author": "David Allen",
+    "source": "Book: Getting Things Done, Chapter 5",
+    "subject": "GTD Implementation",
+    "context": "Practical Technique: Collection"
+  },
+  "gtd_ch06_Processing.pdf": {
+    "author": "David Allen",
+    "source": "Book: Getting Things Done, Chapter 6",
+    "subject": "GTD Implementation",
+    "context": "Practical Technique: Processing"
+  },
+  "gtd_ch07_Organizing.pdf": {
+    "author": "David Allen",
+    "source": "Book: Getting Things Done, Chapter 7",
+    "subject": "GTD Implementation",
+    "context": "Practical Technique: Organizing"
+  },
+  "gtd_ch08_Reviewing.pdf": {
+    "author": "David Allen",
+    "source": "Book: Getting Things Done, Chapter 8",
+    "subject": "GTD Implementation",
+    "context": "Practical Technique: Reviewing"
+  },
+  "gtd_ch09_Doing.pdf": {
+    "author": "David Allen",
+    "source": "Book: Getting Things Done, Chapter 9",
+    "subject": "GTD Implementation",
+    "context": "Practical Technique: Doing"
+  },
+  "gtd_ch10_Getting_Projects_Under_Control.pdf": {
+    "author": "David Allen",
+    "source": "Book: Getting Things Done, Chapter 10",
+    "subject": "GTD Advanced Concepts",
+    "context": "Informal Project Planning"
+  },
+  "gtd_ch11_The_Power_of_the_Collection_Habit.pdf": {
+    "author": "David Allen",
+    "source": "Book: Getting Things Done, Chapter 11",
+    "subject": "GTD Key Principles",
+    "context": "The 'Why' Behind Collection"
+  },
+  "gtd_ch12_The_Power_of_the_Next-Action_Decision.pdf": {
+    "author": "David Allen",
+    "source": "Book: Getting Things Done, Chapter 12",
+    "subject": "GTD Key Principles",
+    "context": "The 'Why' Behind Next Actions"
+  },
+  "gtd_ch13_The_Power_of_Outcome_Focusing.pdf": {
+    "author": "David Allen",
+    "source": "Book: Getting Things Done, Chapter 13",
+    "subject": "GTD Key Principles",
+    "context": "The 'Why' Behind Outcome Focusing"
+  },
+  "gtd_conclusion.pdf": {
+    "author": "David Allen",
+    "source": "Book: Getting Things Done, Conclusion",
+    "subject": "GTD Core Principles",
+    "context": "Methodology Summary"
+  },
+  "hbtms_part1_Core_Concepts_and_Time_Thieves_Ch1-5": {
+    "author": "Centre for Good Governance",
+    "source": "Book: Handbook on Time Management Skills, Chapters 1-5",
+    "subject": "Fundamentals of Time Management and Common Pitfalls",
+    "context": "Introduces time management, debunks common misconceptions, and identifies symptoms of poor time management. Details the 'Eleven Time Thieves' and various 'Saboteur Time Styles' that undermine productivity."
+  },
+  "hbtms_part2_Frameworks_for_Managing_Time_Ch6-8": {
+    "author": "Centre for Good Governance",
+    "source": "Book: Handbook on Time Management Skills, Chapters 6-8",
+    "subject": "Conceptual Models for Time Management",
+    "context": "Explores different conceptual approaches to time, including Monochronic vs. Polychronic views. Introduces the 'Five Time Zone' concept (Vision, Plans, Organization, Commitment, Energy) and the Stephen Covey Time Management Matrix (Urgent/Important)."
+  },
+  "hbtms_part3_Practical_Tools_for_Implementation_Ch9-10": {
+    "author": "Centre for Good Governance",
+    "source": "Book: Handbook on Time Management Skills, Chapters 9-10",
+    "subject": "Effective Time Management Tools and Techniques",
+    "context": "Covers the core elements of effective time management, including evaluating time use with activity logs, goal-setting, defining priorities (Pareto Principle, ABC method), scheduling, and using planners effectively."
+  },
+  "hbtms_part4_Overcoming_Barriers_and_Conclusion_Ch11-Appendix": {
+    "author": "Centre for Good Governance",
+    "source": "Book: Handbook on Time Management Skills, Chapter 11 and Appendix",
+    "subject": "Addressing Barriers and Key Takeaways",
+    "context": "Provides strategies for overcoming common barriers like interruptions, meetings, and personal disorganization. Concludes with time-saving tips and an appendix of key time management facts and figures."
+  },
+  "kqg_part1_Kanban_Fundamentals_and_Principles": {
+    "author": "TutorialsPoint",
+    "source": "Web Guide: Kanban Quick Guide, Pages 1-4",
+    "subject": "Core Principles and Characteristics of Kanban",
+    "context": "Introduces the Kanban methodology, defining its core concepts: visualizing workflow, limiting Work-In-Progress (WIP), and measuring lead time. Covers the benefits of Kanban, its key characteristics like flexibility and the pull approach, and the use of visual metrics."
+  },
+  "kqg_part2_Kanban_in_Agile_and_Scrum": {
+    "author": "TutorialsPoint",
+    "source": "Web Guide: Kanban Quick Guide, Pages 5-10",
+    "subject": "Applying Kanban in Software Development with Agile and Scrum",
+    "context": "Details how Kanban is adapted for project management, focusing on value streams and waste elimination. Explains the integration of Kanban with Agile principles and provides a detailed comparison of similarities and differences between Kanban and Scrum, along with guidance on using them together."
+  },
+  "kqg_part3_Kanban_Software_Tools_and_Solutions": {
+    "author": "TutorialsPoint",
+    "source": "Web Guide: Kanban Quick Guide, Pages 11-17",
+    "subject": "Overview of Kanban Software Tools",
+    "context": "Provides a comprehensive list and feature overview of various project management tools that implement the Kanban methodology. Includes descriptions of popular software such as JIRA, Trello, LeanKit, Wrike, and others."
+  },
+  "Stop_Overloading_the_Wrong_Part_of_Your_Brain_at_Work.txt": {
+    "author": "Amy Brann",
+    "source": "Article: Harvard Business Review, October 16, 2025",
+    "subject": "Leadership, Neuroscience, and Cognitive Performance",
+    "context": "Argues that many leaders experience burnout not from workload, but from chronically overloading the prefrontal cortex (PFC). The author suggests that instead of relying on individual productivity hacks, leaders must practice 'cognitive design' by creating work environments that support 'whole-brain' thinking. This involves leveraging other neural systems like the Default Mode Network (DMN) and Salience Network. The article provides actionable strategies, including auditing the type of thinking, making recovery a visible cultural norm, designing team rhythms for different cognitive modes, and simplifying systems to reduce cognitive clutter."
+  },
+  "tpt_preface_and_introduction.pdf": {
+    "author": "Francesco Cirillo",
+    "source": "Book: The Pomodoro Technique, Preface & Introduction",
+    "subject": "Core Principles",
+    "context": "The origin story of the technique and the fundamental problem of time-related anxiety."
+  },
+  "tpt_ch01_The_Context.pdf": {
+    "author": "Francesco Cirillo",
+    "source": "Book: The Pomodoro Technique, Chapter 1",
+    "subject": "Theoretical Framework",
+    "context": "The philosophy of using time as an ally and the core goals of the technique."
+  },
+  "tpt_ch02_Material_and_Method.pdf": {
+    "author": "Francesco Cirillo",
+    "source": "Book: The Pomodoro Technique, Chapter 2",
+    "subject": "Practical Application",
+    "context": "The five-stage process and incremental objectives for implementing the Pomodoro Technique."
+  },
+  "tpt_ch03_Results.pdf": {
+    "author": "Francesco Cirillo",
+    "source": "Book: The Pomodoro Technique, Chapter 3",
+    "subject": "Refinement and Troubleshooting",
+    "context": "Observations and lessons learned from applying the technique, such as the ideal length of intervals and handling interruptions."
+  },
+  "tpt_ch04_Conclusions_and_Appendices.pdf": {
+    "author": "Francesco Cirillo",
+    "source": "Book: The Pomodoro Technique, Chapter 4 & Appendices",
+    "subject": "Summary and Resources",
+    "context": "Key takeaways on why the technique works, a glossary of terms, and practical worksheets."
+  },
+"poh_prologue_The_Habit_Cure.pdf": {
+    "author": "Charles Duhigg",
+    "source": "Book: The Power of Habit, Prologue",
+    "subject": "Core Principles",
+    "context": "Narrative Case Study on Habit Change"
+  },
+  "poh_ch01_The_Habit_Loop.pdf": {
+    "author": "Charles Duhigg",
+    "source": "Book: The Power of Habit, Chapter 1",
+    "subject": "The Habit Loop",
+    "context": "Theoretical Framework: Cue, Routine, Reward"
+  },
+  "poh_ch02_The_Craving_Brain.pdf": {
+    "author": "Charles Duhigg",
+    "source": "Book: The Power of Habit, Chapter 2",
+    "subject": "The Habit Loop",
+    "context": "The Role of Craving in Habit Formation"
+  },
+  "poh_ch03_The_Golden_Rule_of_Habit_Change.pdf": {
+    "author": "Charles Duhigg",
+    "source": "Book: The Power of Habit, Chapter 3",
+    "subject": "Habit Change",
+    "context": "Practical Technique: The Golden Rule"
+  },
+  "poh_ch04_Keystone_Habits.pdf": {
+    "author": "Charles Duhigg",
+    "source": "Book: The Power of Habit, Chapter 4",
+    "subject": "Keystone Habits",
+    "context": "Theoretical Framework and Case Study"
+  },
+  "poh_ch05_Starbucks_and_the_Habit_of_Success.pdf": {
+    "author": "Charles Duhigg",
+    "source": "Book: The Power of Habit, Chapter 5",
+    "subject": "Willpower and Self-Discipline",
+    "context": "Case Study: Starbucks"
+  },
+  "poh_ch06_The_Power_of_a_Crisis.pdf": {
+    "author": "Charles Duhigg",
+    "source": "Book: The Power of Habit, Chapter 6",
+    "subject": "Organizational Habits",
+    "context": "Crisis-Driven Change"
+  },
+  "poh_ch07_How_Target_Knows_What_You_Want.pdf": {
+    "author": "Charles Duhigg",
+    "source": "Book: The Power of Habit, Chapter 7",
+    "subject": "Organizational Habits",
+    "context": "Case Study: Target's Predictive Analytics"
+  },
+  "poh_ch08_Saddleback_Church_and_the_Montgomery_Bus_Boycott.pdf": {
+    "author": "Charles Duhigg",
+    "source": "Book: The Power of Habit, Chapter 8",
+    "subject": "Social Habits and Movements",
+    "context": "Case Study: Social Movements"
+  },
+  "poh_ch09_The_Neurology_of_Free_Will.pdf": {
+    "author": "Charles Duhigg",
+    "source": "Book: The Power of Habit, Chapter 9",
+    "subject": "Free Will and Responsibility",
+    "context": "Ethical and Neurological Discussion"
+  },
+  "poh_appendix_A_Readers_Guide.pdf": {
+    "author": "Charles Duhigg",
+    "source": "Book: The Power of Habit, Appendix",
+    "subject": "Habit Change",
+    "context": "Practical Framework Summary"
+  },
+  "sg_part1_SMART_Goals_Framework_Definition": {
+    "author": "University of California",
+    "source": "Book: SMART Goals: A How to Guide, Pages 3-6",
+    "subject": "Defining the SMART Goals Framework",
+    "context": "Explains the core concepts of SMART goals. Defines each criterion (Specific, Measurable, Achievable, Relevant, Time-Bound) in detail and provides guidance on setting the right scope for goals."
+  },
+  "sg_part2_Creating_SMART_Goals_Walkthrough_Examples": {
+    "author": "University of California",
+    "source": "Book: SMART Goals: A How to Guide, Pages 7-9",
+    "subject": "Practical Application and Detailed Examples",
+    "context": "Provides a step-by-step walkthrough for creating SMART goals for two common scenarios: completing a project and improving personal performance. It shows how to transform a vague goal into a consolidated, actionable SMART goal statement."
+  },
+  "sg_part3_Templates_and_Additional_Examples": {
+    "author": "University of California",
+    "source": "Book: SMART Goals: A How to Guide, Pages 11-13",
+    "subject": "Templates and Diverse Goal Examples",
+    "context": "Offers a practical template with guiding questions for writing S.M.A.R.T. goals. Also provides a list of further examples for different types of objectives, including ongoing responsibilities, new projects, and personal development goals."
+  },
+  "tbp_part1_Introduction_to_Time_Blocking": {
+    "author": "Cal Newport",
+    "source": "Book: The Time-Block Planner, Introduction & Using the Grid",
+    "subject": "Core Principles of Time Blocking",
+    "context": "Introduces the philosophy of time blocking versus task lists. Explains how to set up the daily pages and the time-block grid, create a schedule, and handle unexpected changes by fixing the schedule."
+  },
+  "tbp_part2_Advanced_Tips_and_Core_Rituals": {
+    "author": "Cal Newport",
+    "source": "Book: The Time-Block Planner, Advanced Tips & Rituals",
+    "subject": "Refining Time-Blocking Practice",
+    "context": "Provides advanced tips such as scheduling more time than needed, creating blocks for communication, and using conditional blocks. Explains the purpose of the collection columns, metric tracking, and the crucial 'Shutdown Ritual'."
+  },
+  "tbp_part3_Weekly_Planning_and_System_Mastery": {
+    "author": "Cal Newport",
+    "source": "Book: The Time-Block Planner, Weekly Planning",
+    "subject": "High-Level Weekly Planning",
+    "context": "Details the importance of the weekly planning pages to complement daily time blocks. Explains how to craft a flexible weekly plan to tackle larger objectives and gain control over the entire week's productivity."
+  },
+  "tbp_part4_Process_and_Proceed_Quarterly_Review": {
+    "author": "Cal Newport",
+    "source": "Book: The Time-Block Planner, Process and Proceed Section",
+    "subject": "Thirteen-Week Review and Improvement",
+    "context": "Provides a framework for reviewing the past thirteen weeks of time blocking. Focuses on analyzing metric completion, schedule repairs, and overall time allocation to improve the effectiveness of the system for the next cycle."
+  }
+}
