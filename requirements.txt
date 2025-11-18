@@ -1,0 +1,87 @@
+# requirements.txt
+
+# ----------------------------------------------------------------
+# CORE BACKEND & FRONTEND FRAMEWORKS
+# ----------------------------------------------------------------
+
+# FastAPI web server for the API
+fastapi
+
+# ASGI server to run FastAPI
+uvicorn[standard]
+
+# Streamlit for the frontend web interface
+streamlit
+
+# ----------------------------------------------------------------
+# LLM & AGENTIC FRAMEWORK (LangChain / LangGraph)
+# ----------------------------------------------------------------
+
+# Core of the agent's reasoning graph
+langgraph
+
+# General LangChain components and schemas
+langchain
+
+# OpenAI's official Python client
+openai
+
+# Google's official Python client for Gemini
+google-generativeai
+
+# ----------------------------------------------------------------
+# DATA PROCESSING & VECTOR DATABASE
+# ----------------------------------------------------------------
+
+# For creating embeddings and using rerankers (requires torch)
+sentence-transformers
+
+# Core machine learning library (dependency for sentence-transformers)
+torch
+
+# For tokenizing text, especially for chunking
+tiktoken
+
+# Elasticsearch client for vector database communication
+elasticsearch
+
+# Fallback vector store if Elasticsearch is not available
+faiss-cpu
+
+# Library for the BAAI reranker model
+FlagEmbedding
+
+# ----------------------------------------------------------------
+# DOCUMENT HANDLING & EXTRACTION
+# ----------------------------------------------------------------
+
+# For extracting text from PDF files
+pypdf
+
+# For extracting text from .docx files
+python-docx
+
+# For extracting text from .pptx files
+python-pptx
+
+# Python wrapper for Pandoc to convert Markdown to .docx
+pypandoc
+
+# ----------------------------------------------------------------
+# UTILITIES & DASHBOARDING
+# ----------------------------------------------------------------
+
+# For making HTTP requests (e.g., from frontend to backend)
+requests
+
+# For loading environment variables from a .env file
+python-dotenv
+
+# For data manipulation in the evaluation dashboard
+pandas
+
+# For creating interactive plots in the evaluation dashboard
+plotly
+
+# For displaying progress bars in scripts
+tqdm
